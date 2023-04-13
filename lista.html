@@ -70,7 +70,7 @@
     <div v-for="header in headers" :key="header">
       <h3>{{ header }}</h3>
       <div v-for="row in rows" :key="row">
-        <div>{{moment(`${row.data row.Hora}`,'DD/MM/YYYY').format('DD/MM/YYYY HH:mm')}}</div>
+        <div>{{row.data}}</div>
         <div>{{row.Localidade}}</div>
         <div>{{row.Atendimento}}</div>
       </div>
