@@ -71,35 +71,10 @@
       <h3>{{ header }}</h3>
       <div v-for="row in rows" :key="row">
         <div>{{moment(`${row.data row.Hora}`,'DD/MM/YYYY').format('DD/MM/YYYY HH:mm')}}</div>
-        <div>MUNDO NOVO - CENTRAL</div>
-        <div>
-          ADM: SALMO SILVESTRE SOUZA; DIÁC.: ADEILSON JOSÉ DA SILVA; DIÁC.:
-          FERNANDO FERREIRA DE MENEZES; DIÁC.: LEANDRO BRAGA DE ÁVILA; DIÁC.:
-          VALDIR SOUTO DE LIMA;
-        </div>
+        <div>{{row.Localidade}}</div>
+        <div>{{row.Atendimento}}</div>
       </div>
-
-      <div>02/04 TER 15:30</div>
-      <div>ITABERAÍ - OLHOS D'AGUA</div>
-      <div>CACILDO DOS REIS DE SÁ</div>
-
-      <div>02/04 TER 15:30</div>
-      <div>ITABERAÍ - OLHOS D'AGUA</div>
-      <div>CACILDO DOS REIS DE SÁ</div>
     </div>
-
-    <table>
-      <thead>
-        <tr>
-          <th v-for="header in headers" :key="header">{{ header }}</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="row in rows" :key="row">
-          <td v-for="cell in row" :key="cell">{{ cell }}</td>
-        </tr>
-      </tbody>
-    </table>
   </div>
   <script>
     const { createApp } = Vue;
