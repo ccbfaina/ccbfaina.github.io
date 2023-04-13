@@ -68,13 +68,10 @@
 <body>
   <div>Tabela</div>
   <div id="app">
-    <div v-for="header in headers" :key="header">
-      <h3>{{ header }}</h3>
-      <div v-for="row in rows" :key="row">
-        <div>{{row.data}}</div>
-        <div>{{row.Localidade}}</div>
-        <div>{{row.Atendimento}}</div>
-      </div>
+    <div v-for="row in rows" :key="row">
+      <div>{{row.data}}</div>
+      <div>{{row.Localidade}}</div>
+      <div>{{row.Atendimento}}</div>
     </div>
   </div>
   <script>
@@ -91,8 +88,9 @@
       mounted() {
         fetch(
           "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
-          { redirec
-    t: "follow" }
+          {
+            redirect: "follow"
+          }
         )
           .then((response) => response.text())
           .then((csvData) => {
@@ -107,7 +105,7 @@
               }
               this.rows.push(obj);
             }
-            console.log("Resultado >>>", this.rows);
+            console.log("Resultado >>>", JSON.stringify(this.rows));
           })
           .catch((error) => {
             console.error("Erro ao obter o arquivo CSV:", error);
