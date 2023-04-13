@@ -66,6 +66,7 @@
 </head>
 
 <body>
+  <div>Tabela</div>
   <div id="app">
     <div v-for="header in headers" :key="header">
       <h3>{{ header }}</h3>
@@ -90,7 +91,8 @@
       mounted() {
         fetch(
           "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
-          { redirect: "follow" }
+          { redirec
+    t: "follow" }
         )
           .then((response) => response.text())
           .then((csvData) => {
