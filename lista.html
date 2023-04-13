@@ -1,132 +1,143 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-  <head>
-    <title>Visualização de Dados</title>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
-      rel="stylesheet"
-    />
-    <style></style>
-    <style>
-      body,
-      h1,
-      h2,
-      h3,
-      h4,
-      h5,
-      h6,
-      p,
-      blockquote,
-      pre,
-      dl,
-      dd,
-      ol,
-      ul,
-      figure,
-      hr,
-      fieldset,
-      legend,
-      button,
-      input,
-      textarea,
-      select {
-        margin: 0;
-        padding: 0;
-      }
 
-      h3 {
-        margin-top: 30px;
-        font-weight: bolder;
-        font-size: 1.5em;
-      }
+<head>
+  <title>Visualização de Dados</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+  <script src="https://unpkg.com/vue@3.0.11/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/papaparse@5.3.0/papaparse.min.js"></script>
+  <style>
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    blockquote,
+    pre,
+    dl,
+    dd,
+    ol,
+    ul,
+    figure,
+    hr,
+    fieldset,
+    legend,
+    button,
+    input,
+    textarea,
+    select {
+      margin: 0;
+      padding: 0;
+    }
 
-      body {
-        font-family: "Roboto", sans-serif;
-        font-size: 13px;
-        text-transform: uppercase;
-      }
+    h3 {
+      margin-top: 30px;
+      font-weight: bolder;
+      font-size: 1.5em;
+    }
 
-      body > div {
-        display: grid;
-        grid-template-columns: repeat(3, auto);
-      }
+    body {
+      font-family: "Roboto", sans-serif;
+      font-size: 13px;
+      text-transform: uppercase;
+    }
 
-      body > div > div {
-        padding: 8px;
-        border-top: 0.1px solid #dbdbdb;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-      }
+    body>div {
+      display: grid;
+      grid-template-columns: repeat(3, auto);
+    }
 
-      body > div > div:nth-child(3n + 2) {
-        font-weight: bolder;
-      }
-    </style>
-  </head>
+    body>div>div {
+      padding: 8px;
+      border-top: 0.1px solid #dbdbdb;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+    }
 
-  <body>
-    <script>
-    
-//       Faz uma requisição HTTP para obter o conteúdo do arquivo CSV
-      fetch(
-        "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
-        { redirect: "follow" }
-      )
-        .then((response) => response.text())
-        .then((csvData) => {
-          // O conteúdo do arquivo CSV está disponível na variável 'csvData'
-          // Agora você pode processar os dados como desejar
-          console.log(csvData);
-          // Exemplo de como converter o CSV para um array de objetos
-          const lines = csvData.split("\n");
-          const headers = lines[0].split(",");
-          const result = [];
-          for (let i = 1; i < lines.length; i++) {
-            const obj = {};
-            const currentLine = lines[i].split(",");
-            for (let j = 0; j < headers.length; j++) {
-              obj[headers[j]] = currentLine[j];
+    body>div>div:nth-child(3n + 2) {
+      font-weight: bolder;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app">
+    <h1>Tabela</h1>
+    <table>
+      <thead>
+        <tr>
+          <th v-for="header in headers" :key="header">{{ header }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="row in rows" :key="row">
+          <td v-for="cell in row" :key="cell">{{ cell }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    new Vue({
+      el: '#app',
+      data() {
+        return {
+          headers: [],
+          rows: []
+        };
+      },
+      methods: {
+      },
+      mounted(){
+        Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv", {
+            header: true,
+            complete: (results) => {
+              this.headers = Object.keys(results.data[0]);
+              this.rows = results.data;
+              console.log("DATA > ", results.data)
             }
-            result.push(obj);
-          }
-          console.log(result);
-        })
-        .catch((error) => {
-          console.error("Erro ao obter o arquivo CSV:", error);
-        });
-    </script>
-    <h3>BATISMOS</h3>
+          });
+
+      }
+    });
+  </script>
+
+  <h3>BATISMOS</h3>
+  <div>
+    <div>01/04 SEG 14:00</div>
+    <div>MUNDO NOVO - CENTRAL</div>
     <div>
-      <div>01/04 SEG 14:00</div>
-      <div>MUNDO NOVO - CENTRAL</div>
-      <div>
-        ADM: SALMO SILVESTRE SOUZA; DIÁC.: ADEILSON JOSÉ DA SILVA; DIÁC.:
-        FERNANDO FERREIRA DE MENEZES; DIÁC.: LEANDRO BRAGA DE ÁVILA; DIÁC.:
-        VALDIR SOUTO DE LIMA;
-      </div>
-
-      <div>02/04 TER 15:30</div>
-      <div>ITABERAÍ - OLHOS D'AGUA</div>
-      <div>CACILDO DOS REIS DE SÁ</div>
-
-      <div>02/04 TER 15:30</div>
-      <div>ITABERAÍ - OLHOS D'AGUA</div>
-      <div>CACILDO DOS REIS DE SÁ</div>
+      ADM: SALMO SILVESTRE SOUZA; DIÁC.: ADEILSON JOSÉ DA SILVA; DIÁC.:
+      FERNANDO FERREIRA DE MENEZES; DIÁC.: LEANDRO BRAGA DE ÁVILA; DIÁC.:
+      VALDIR SOUTO DE LIMA;
     </div>
 
-    <h3>REUNIÕES PARA A MOCIDADE ASSUNTOS MUSICAIS</h3>
-    <div>
-      <div>02/04 TER 15:30</div>
-      <div>Faina - Central</div>
-      <div>
-        REUNIÃO ANUAL DE ENCARREGADOS REGIONAIS,LOCAIS, EXAMINADORAS E
-        INSTRUTORES.
-      </div>
+    <div>02/04 TER 15:30</div>
+    <div>ITABERAÍ - OLHOS D'AGUA</div>
+    <div>CACILDO DOS REIS DE SÁ</div>
 
-      <div>02/04 TER 15:30</div>
-      <div>ITABERAÍ</div>
-      <div>CACILDO DOS REIS DE SÁREUNIÃO ASSUNTOS MUSICAIS.</div>
+    <div>02/04 TER 15:30</div>
+    <div>ITABERAÍ - OLHOS D'AGUA</div>
+    <div>CACILDO DOS REIS DE SÁ</div>
+  </div>
+
+  <h3>REUNIÕES PARA A MOCIDADE ASSUNTOS MUSICAIS</h3>
+  <div>
+    <div>02/04 TER 15:30</div>
+    <div>Faina - Central</div>
+    <div>
+      REUNIÃO ANUAL DE ENCARREGADOS REGIONAIS,LOCAIS, EXAMINADORAS E
+      INSTRUTORES.
     </div>
-  </body>
+
+    <div>02/04 TER 15:30</div>
+    <div>ITABERAÍ</div>
+    <div>CACILDO DOS REIS DE SÁREUNIÃO ASSUNTOS MUSICAIS.</div>
+  </div>
+</body>
+
 </html>
