@@ -66,34 +66,74 @@
   </head>
 
   <body>
-        <script>
-      // Faz uma requisição HTTP para obter o conteúdo do arquivo CSV
-      fetch(
-        "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
-        { redirect: "follow" }
-      )
-        .then((response) => response.text())
-        .then((csvData) => {
-          // O conteúdo do arquivo CSV está disponível na variável 'csvData'
-          // Agora você pode processar os dados como desejar
-          console.log(csvData);
-          // Exemplo de como converter o CSV para um array de objetos
-          const lines = csvData.split("\n");
-          const headers = lines[0].split(",");
-          const result = [];
-          for (let i = 1; i < lines.length; i++) {
-            const obj = {};
-            const currentLine = lines[i].split(",");
-            for (let j = 0; j < headers.length; j++) {
-              obj[headers[j]] = currentLine[j];
+    <script>
+      const url =
+        "https://script.google.com/a/macros/ccbgo.org.br/s/AKfycbwbYvlQ2jhS8DogfQzRAuhZm6pfX0MddH5kQ2hU75Lc/dev?action=Lista"; // URL da API do Google Apps Script
+      fetch(url, { redirect: "follow" })
+        .then((response) => response.json())
+        .then(
+          (data) =>
+            function (data) {
+              const table = document.createElement("table");
+              const thead = document.createElement("thead");
+              const tbody = document.createElement("tbody");
+
+              // Cria a linha de cabeçalho da tabela
+              const headerRow = document.createElement("tr");
+              for (const key in data[0]) {
+                const th = document.createElement("th");
+                th.textContent = key;
+                headerRow.appendChild(th);
+              }
+              thead.appendChild(headerRow);
+              table.appendChild(thead);
+
+              // Cria as linhas de dados da tabela
+              data.forEach((item) => {
+                const row = document.createElement("tr");
+                for (const key in item) {
+                  const td = document.createElement("td");
+                  td.textContent = item[key];
+                  row.appendChild(td);
+                }
+                tbody.appendChild(row);
+              });
+              table.appendChild(tbody);
+
+              // Adiciona a tabela ao elemento com o ID 'table-container'
+              const tableContainer = document.getElementById("table-container");
+              tableContainer.appendChild(table);
             }
-            result.push(obj);
-          }
-          console.log(result);
-        })
-        .catch((error) => {
-          console.error("Erro ao obter o arquivo CSV:", error);
-        });
+        )
+        .catch((error) => console.error("Erro ao obter dados:", error));
+
+      // Faz uma requisição HTTP para obter o conteúdo do arquivo CSV
+      // fetch(
+      //   "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
+      //   { redirect: "follow" }
+      // )
+      //   .then((response) => response.text())
+      //   .then((csvData) => {
+      //     // O conteúdo do arquivo CSV está disponível na variável 'csvData'
+      //     // Agora você pode processar os dados como desejar
+      //     console.log(csvData);
+      //     // Exemplo de como converter o CSV para um array de objetos
+      //     const lines = csvData.split("\n");
+      //     const headers = lines[0].split(",");
+      //     const result = [];
+      //     for (let i = 1; i < lines.length; i++) {
+      //       const obj = {};
+      //       const currentLine = lines[i].split(",");
+      //       for (let j = 0; j < headers.length; j++) {
+      //         obj[headers[j]] = currentLine[j];
+      //       }
+      //       result.push(obj);
+      //     }
+      //     console.log(result);
+      //   })
+      //   .catch((error) => {
+      //     console.error("Erro ao obter o arquivo CSV:", error);
+      //   });
     </script>
     <h3>BATISMOS</h3>
     <div>
@@ -104,6 +144,10 @@
         FERNANDO FERREIRA DE MENEZES; DIÁC.: LEANDRO BRAGA DE ÁVILA; DIÁC.:
         VALDIR SOUTO DE LIMA;
       </div>
+
+      <div>02/04 TER 15:30</div>
+      <div>ITABERAÍ - OLHOS D'AGUA</div>
+      <div>CACILDO DOS REIS DE SÁ</div>
 
       <div>02/04 TER 15:30</div>
       <div>ITABERAÍ - OLHOS D'AGUA</div>
