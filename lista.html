@@ -66,6 +66,35 @@
   </head>
 
   <body>
+        <script>
+      // Faz uma requisição HTTP para obter o conteúdo do arquivo CSV
+      fetch(
+        "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
+        { redirect: "follow" }
+      )
+        .then((response) => response.text())
+        .then((csvData) => {
+          // O conteúdo do arquivo CSV está disponível na variável 'csvData'
+          // Agora você pode processar os dados como desejar
+          console.log(csvData);
+          // Exemplo de como converter o CSV para um array de objetos
+          const lines = csvData.split("\n");
+          const headers = lines[0].split(",");
+          const result = [];
+          for (let i = 1; i < lines.length; i++) {
+            const obj = {};
+            const currentLine = lines[i].split(",");
+            for (let j = 0; j < headers.length; j++) {
+              obj[headers[j]] = currentLine[j];
+            }
+            result.push(obj);
+          }
+          console.log(result);
+        })
+        .catch((error) => {
+          console.error("Erro ao obter o arquivo CSV:", error);
+        });
+    </script>
     <h3>BATISMOS</h3>
     <div>
       <div>01/04 SEG 14:00</div>
