@@ -80,7 +80,7 @@
     </table>
   </div>
 
-  tabela
+  tabela2
 
   <script>
     const { createApp } = Vue;
@@ -100,19 +100,18 @@
         )
           .then((response) => response.text())
           .then((csvData) => {
-            console.log("Dados csv >>>", csvData);
             const lines = csvData.split("\n");
-            const headers = lines[0].split(",");
+            this.headers = lines[0].split(",");
             const result = [];
             for (let i = 1; i < lines.length; i++) {
               const obj = {};
               const currentLine = lines[i].split(",");
-              for (let j = 0; j < headers.length; j++) {
-                obj[headers[j]] = currentLine[j];
+              for (let j = 0; j < this.headers.length; j++) {
+                obj[this.headers[j]] = currentLine[j];
               }
-              result.push(obj);
+              this.rows.push(obj);
             }
-            console.log("Resultado >>>", result);
+            console.log("Resultado >>>", this.rows);
           })
           .catch((error) => {
             console.error("Erro ao obter o arquivo CSV:", error);
