@@ -1,117 +1,127 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-  <head>
-    <title>Visualização de Dados</title>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
-      rel="stylesheet"
-    />
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-    <script src="https://unpkg.com/papaparse@5.3.0/papaparse.min.js"></script>
-    <style>
-      body,
-      h1,
-      h2,
-      h3,
-      h4,
-      h5,
-      h6,
-      p,
-      blockquote,
-      pre,
-      dl,
-      dd,
-      ol,
-      ul,
-      figure,
-      hr,
-      fieldset,
-      legend,
-      button,
-      input,
-      textarea,
-      select {
-        margin: 0;
-        padding: 0;
-      }
 
-      h3 {
-        margin-top: 30px;
-        font-weight: bolder;
-        font-size: 1.5em;
-      }
+<head>
+  <title>Visualização de Dados</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <style>
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    blockquote,
+    pre,
+    dl,
+    dd,
+    ol,
+    ul,
+    figure,
+    hr,
+    fieldset,
+    legend,
+    button,
+    input,
+    textarea,
+    select {
+      margin: 0;
+      padding: 0;
+    }
 
-      body {
-        font-family: "Roboto", sans-serif;
-        font-size: 13px;
-        text-transform: uppercase;
-      }
+    h3 {
+      margin-top: 30px;
+      font-weight: bolder;
+      font-size: 1.5em;
+    }
 
-      body > div {
-        display: grid;
-        grid-template-columns: repeat(3, auto);
-      }
+    body {
+      font-family: "Roboto", sans-serif;
+      font-size: 13px;
+      text-transform: uppercase;
+    }
 
-      body > div > div {
-        padding: 8px;
-        border-top: 0.1px solid #dbdbdb;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-      }
+    body>div {
+      display: grid;
+      grid-template-columns: repeat(3, auto);
+    }
 
-      body > div > div:nth-child(3n + 2) {
-        font-weight: bolder;
-      }
-    </style>
-  </head>
+    body>div>div {
+      padding: 8px;
+      border-top: 0.1px solid #dbdbdb;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+    }
 
-  <body>
-    <div id="app">
-      <h1>Tabela</h1>
-      <table>
-        <thead>
-          <tr>
-            <th v-for="header in headers" :key="header">{{ header }}</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="row in rows" :key="row">
-            <td v-for="cell in row" :key="cell">{{ cell }}</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+    body>div>div:nth-child(3n + 2) {
+      font-weight: bolder;
+    }
+  </style>
+</head>
 
-    tabela
+<body>
+  <div id="app">
+    <h1>Tabela</h1>
+    <table>
+      <thead>
+        <tr>
+          <th v-for="header in headers" :key="header">{{ header }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="row in rows" :key="row">
+          <td v-for="cell in row" :key="cell">{{ cell }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-    <script>
-      const { createApp } = Vue;
+  tabela
 
-      const app = createApp({
-        data() {
-          return {
-            headers: [],
-            rows: [],
-          };
-        },
-        methods: {},
-        mounted() {
-          Papa.parse(
-            "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
-            {
-              header: true,
-              complete: (results) => {
-                this.headers = Object.keys(results.data[0]);
-                this.rows = results.data;
-                console.log("DATA > ", results.data);
-              },
+  <script>
+    const { createApp } = Vue;
+
+    const app = createApp({
+      data() {
+        return {
+          headers: [],
+          rows: [],
+        };
+      },
+      methods: {},
+      mounted() {
+        fetch(
+          "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
+          { redirect: "follow" }
+        )
+          .then((response) => response.text())
+          .then((csvData) => {
+            console.log("Dados csv >>>", csvData);
+            const lines = csvData.split("\n");
+            const headers = lines[0].split(",");
+            const result = [];
+            for (let i = 1; i < lines.length; i++) {
+              const obj = {};
+              const currentLine = lines[i].split(",");
+              for (let j = 0; j < headers.length; j++) {
+                obj[headers[j]] = currentLine[j];
+              }
+              result.push(obj);
             }
-          );
-        },
-      });
+            console.log("Resultado >>>", result);
+          })
+          .catch((error) => {
+            console.error("Erro ao obter o arquivo CSV:", error);
+          });
+      },
+    });
 
-      app.mount("#app");
-    </script>
-  </body>
+    app.mount("#app");
+  </script>
+</body>
+
 </html>
