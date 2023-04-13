@@ -4,7 +4,7 @@
 <head>
   <title>Visualização de Dados</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
-  <script src="https://unpkg.com/vue@3.0.11/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   <script src="https://unpkg.com/papaparse@5.3.0/papaparse.min.js"></script>
   <style>
     body,
@@ -82,28 +82,30 @@
   </div>
 
   <script>
-    new Vue({
-      el: '#app',
+    const { createApp } = Vue
+
+    createApp({
       data() {
         return {
           headers: [],
           rows: []
-        };
+        }
       },
       methods: {
       },
-      mounted(){
+      mounted() {
         Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv", {
-            header: true,
-            complete: (results) => {
-              this.headers = Object.keys(results.data[0]);
-              this.rows = results.data;
-              console.log("DATA > ", results.data)
-            }
-          });
+          header: true,
+          complete: (results) => {
+            this.headers = Object.keys(results.data[0]);
+            this.rows = results.data;
+            console.log("DATA > ", results.data)
+          }
+        });
 
       }
-    });
+    }).mount('#app')
+
   </script>
 
 </body>
