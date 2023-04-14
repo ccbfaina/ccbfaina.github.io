@@ -98,14 +98,8 @@
       },
       methods: {
         formatData(row) {
-          const [dia, mes, ano] = row.Data.split("/");
-          if (dia && mes) {
-            const d = new Date(`${ano}/${mes}/${dia}`);
-            return `${dia}/${mes} ÀS ${row.Hora || "19:30"} (${semanas[d.getDay()] || ""})`;
-          } else {
-            return ''
-
-          }
+          const d = row.Date;
+          return `${d.getDate()}/${d.getMonth() + 1} ÀS ${row.Hora || "19:30"} (${semanas[d.getDay()] || ""})`;
         },
       },
       mounted() {
@@ -128,11 +122,17 @@
               }
               this.rows.push(obj);
             }
-            this.rows = this.rows.map(row => {
-              const [dia, mes, ano] = row.Data.split("/");
-              const data = new Date(`${ano}/${mes}/${dia}`);
-              return data >= today;
-            })
+            this.rows = this.rows
+              .map(row => {
+                try {
+                  const [dia, mes, ano] = row.Data.split("/");
+                  row.Data = new Date(`${ano}/${mes}/${dia}`);
+                  return row
+                } catch (e) {
+                  console.log("Erro ao formatar dado: ", e)
+                }
+              })
+              .filter(row => row.data >= today)
             this.rows.sort((a, b) => {
               const dA = new Date(a.Data.split("/").reverse().join("/"));
               const dB = new Date(b.Data.split("/").reverse().join("/"));
