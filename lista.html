@@ -1,157 +1,158 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+  <head>
+    <title>Lista de Atendimentos</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
 
-<head>
-  <title>Lista de Atendimentos</title>
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
-  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-    }
+      body {
+        font-family: "Roboto", sans-serif;
+        font-size: 13px;
+        text-transform: uppercase;
+      }
 
-    body {
-      font-family: "Roboto", sans-serif;
-      font-size: 13px;
-      text-transform: uppercase;
-    }
+      h1 {
+        font-size: 1.6em;
+      }
 
-    h1 {
-      font-size: 1.6em;
-    }
+      h2 {
+        font-size: 1.3em;
+      }
 
-    h2 {
-      font-size: 1.3em;
-    }
+      h3 {
+        margin-top: 30px;
+        font-weight: bolder;
+        font-size: 1.3em;
+      }
 
-    h3 {
-      margin-top: 30px;
-      font-weight: bolder;
-      font-size: 1.3em;
-    }
+      body > div#app > div {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+      }
 
-    body>div#app>div {
-      display: grid;
-      grid-template-columns: repeat(3, auto);
-    }
+      body > div#app > div > div {
+        padding: 8px;
+        border-top: 0.1px solid #dbdbdb;
+        display: flex;
+        /* justify-content: center; */
+        flex-direction: row;
+      }
 
-    body>div#app>div>div {
-      padding: 8px;
-      border-top: 0.1px solid #dbdbdb;
-      display: flex;
-      /* justify-content: center; */
-      flex-direction: row;
-    }
+      body > div#app > div > div:nth-child(3n + 2) {
+        font-weight: bolder;
+      }
 
-    body>div#app>div>div:nth-child(3n + 2) {
-      font-weight: bolder;
-    }
+      div.header {
+        text-align: center;
+      }
+    </style>
+  </head>
 
-    div.header {
-      text-align: center;
-    }
-  </style>
-</head>
+  <body>
+    <div class="header">
+      <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
+      <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
+      <u> REGIONAL FAINA</u>
+    </div>
+    <div id="app">
+      <template v-for="tipo in tipos" :key="tipo">
+        <h3>{{tipo}}</h3>
+        <div>
+          <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
+            <div>{{formatData(row)}}</div>
+            <div>{{row.Localidade}}</div>
+            <div>{{row.Dirigentes + ' '}} {{row["Observações"]}}</div>
+          </template>
+        </div>
+      </template>
+    </div>
+    <script>
+      const { createApp } = Vue;
 
-<body>
-  <div class="header">
-    <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
-    <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
-    <u> REGIONAL FAINA</u>
-  </div>
-  <div id="app">
-    <template v-for="tipo in tipos" :key="tipo">
-      <h3>{{tipo}}</h3>
-      <div>
-        <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
-          <div>
-            {{formatData(row)}}
-          </div>
-          <div>
-            {{row.Localidade}}
-          </div>
-          <div>
-            {{row.Dirigentes + ' '}}
-            {{row["Observações"]}}
-          </div>
-        </template>
-      </div>
-    </template>
-  </div>
-  <script>
-    const { createApp } = Vue;
+      const semanas = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+      const today = new Date();
+      today.setHours(0);
+      today.setMinutes(0);
 
-    const semanas = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
-    const today = new Date();
-    today.setHours(0)
-    today.setMinutes(0)
-
-    const app = createApp({
-      data() {
-        return {
-          headers: [],
-          rows: [],
-          tipos: "",
-        };
-      },
-      methods: {
-        formatData(row) {
-          const d = row.Date;
-          return `${d.getDate()}/${d.getMonth() + 1} ÀS ${row.Hora || "19:30"} (${semanas[d.getDay()] || ""})`;
+      const app = createApp({
+        data() {
+          return {
+            headers: [],
+            rows: [],
+            tipos: "",
+          };
         },
-      },
-      mounted() {
-        fetch(
-          "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
-          {
-            redirect: "follow"
-          }
-        )
-          .then((response) => response.text())
-          .then((csvData) => {
-            const lines = csvData.split("\n");
-            this.headers = lines[0].split(",").map(el => el.trim());
-            const result = [];
-            for (let i = 1; i < lines.length; i++) {
-              const obj = {};
-              const currentLine = lines[i].split(",");
-              for (let j = 0; j < this.headers.length; j++) {
-                obj[this.headers[j]] = currentLine[j];
-              }
-              this.rows.push(obj);
+        methods: {
+          formatData(row) {
+            const d = row.Date;
+            return `${d.getDate()}/${d.getMonth() + 1} ÀS ${
+              row.Hora || "19:30"
+            } (${semanas[d.getDay()] || ""})`;
+          },
+        },
+        mounted() {
+          fetch(
+            "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtJLYR89kPMbRAiROVU0Vet4pvLSyH_ReKbJcseWnleD1E6DHIupfjPssTc-GHxHA37CtUI04WtUGJ/pub?gid=0&single=true&output=csv",
+            {
+              redirect: "follow",
             }
-            this.rows = this.rows
-              .map(row => {
-                try {
-                  const [dia, mes, ano] = row.Data.split("/");
-                  row.Data = new Date(`${ano}/${mes}/${dia}`);
-                  return row
-                } catch (e) {
-                  console.log("Erro ao formatar dado: ", e)
+          )
+            .then((response) => response.text())
+            .then((csvData) => {
+              const lines = csvData.split("\n");
+              this.headers = lines[0].split(",").map((el) => el.trim());
+              const result = [];
+              for (let i = 1; i < lines.length; i++) {
+                const obj = {};
+                const currentLine = lines[i].split(",");
+                for (let j = 0; j < this.headers.length; j++) {
+                  obj[this.headers[j]] = currentLine[j];
                 }
-              })
-              .filter(row => row.data >= today)
-            this.rows.sort((a, b) => {
-              const dA = new Date(a.Data.split("/").reverse().join("/"));
-              const dB = new Date(b.Data.split("/").reverse().join("/"));
-              if (dA < dB) return -1;
-              if (dA > dB) return 1;
-              return 0;
+                this.rows.push(obj);
+              }
+              this.rows = this.rows
+                .map((row) => {
+                  try {
+                    row.Data = new Date(
+                      row.Data.split("/").reverse().join("/")
+                    );
+                    return row;
+                  } catch (e) {
+                    console.log("Erro ao formatar dado: ", e);
+                  }
+                })
+                .filter((row) => row.Data >= today);
+
+              this.rows.sort((a, b) => {
+                if (a < b) return -1;
+                if (a > b) return 1;
+                return 0;
+              });
+
+              this.tipos = [
+                ...new Set(this.rows.map((item) => item.Tipo)),
+              ].sort();
+              console.log(
+                "Resultado >>>",
+                JSON.parse(JSON.stringify(this.rows))
+              );
+            })
+            .catch((error) => {
+              console.error("Erro ao obter o arquivo CSV:", error);
             });
+        },
+      });
 
-            this.tipos = [...new Set(this.rows.map((item) => item.Tipo))].sort();
-            console.log("Resultado >>>", JSON.parse(JSON.stringify(this.rows)));
-          })
-          .catch((error) => {
-            console.error("Erro ao obter o arquivo CSV:", error);
-          });
-      },
-    });
-
-    app.mount("#app");
-  </script>
-</body>
-
+      app.mount("#app");
+    </script>
+  </body>
 </html>
