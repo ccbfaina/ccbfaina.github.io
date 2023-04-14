@@ -33,16 +33,24 @@
       padding: 0;
     }
 
-    h3 {
-      margin-top: 30px;
-      font-weight: bolder;
-      font-size: 1.5em;
-    }
-
     body {
       font-family: "Roboto", sans-serif;
       font-size: 13px;
       text-transform: uppercase;
+    }
+
+    h1 {
+      font-size: 1.6em;
+    }
+
+    h2 {
+      font-size: 1.3em;
+    }
+
+    h3 {
+      margin-top: 30px;
+      font-weight: bolder;
+      font-size: 1.3em;
     }
 
     body>div#app>div {
@@ -61,11 +69,19 @@
     body>div#app>div>div:nth-child(3n + 2) {
       font-weight: bolder;
     }
+
+    div.header {
+      text-align: center;
+    }
   </style>
 </head>
 
 <body>
-  <div>Tabela</div>
+  <div class="header">
+    <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
+    <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
+    <u> REGIONAL FAINA</u>
+  </div>
   <div id="app">
     <template v-for="tipo in tipos" :key="tipo">
       <h3>{{tipo}}</h3>
