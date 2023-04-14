@@ -92,11 +92,11 @@
       methods: {
         formatData(row) {
           try {
-            const d = row.Date;
+            const d = row.Data;
             return `${d.getDate()}/${d.getMonth() + 1} ÀS ${row.Hora || "19:30"
               } (${semanas[d.getDay()] || ""})`;
           } catch (e) {
-            console.log("Erro ao formatar data: ", row)
+            console.log("Erro ao formatar data: ", e, row);
           }
         },
       },
