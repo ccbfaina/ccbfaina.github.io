@@ -122,11 +122,8 @@
               this.rows.push(obj);
             }
             this.rows.sort((a, b) => {
-              // Converter as datas para o formato "yyyy/mm/dd" para comparação
               const dataA = new Date(a.Data.split("/").reverse().join("/"));
               const dataB = new Date(b.Data.split("/").reverse().join("/"));
-
-              // Comparar as datas e retornar o resultado
               if (dataA < dataB) return -1;
               if (dataA > dataB) return 1;
               return 0;
@@ -134,7 +131,7 @@
 
             this.tipos = [...new Set(this.rows.map((item) => item.Tipo))].sort();
             console.log("Tipos >>>", this.tipos);
-            console.log("Resultado >>>", JSON.stringify(this.rows));
+            console.log("Resultado >>>", JSON.parse(JSON.stringify(this.rows)));
           })
           .catch((error) => {
             console.error("Erro ao obter o arquivo CSV:", error);
