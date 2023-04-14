@@ -85,6 +85,8 @@
 
     const semanas = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
     const today = new Date();
+    today.setHours(0)
+    today.setMinutes(0)
 
     const app = createApp({
       data() {
@@ -126,6 +128,11 @@
               }
               this.rows.push(obj);
             }
+            this.rows = this.rows.map(row => {
+              const [dia, mes, ano] = row.Data.split("/");
+              const data = new Date(`${ano}/${mes}/${dia}`);
+              return data >= today;
+            })
             this.rows.sort((a, b) => {
               const dA = new Date(a.Data.split("/").reverse().join("/"));
               const dB = new Date(b.Data.split("/").reverse().join("/"));
