@@ -7,28 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
   <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   <style>
-    body,
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    p,
-    blockquote,
-    pre,
-    dl,
-    dd,
-    ol,
-    ul,
-    figure,
-    hr,
-    fieldset,
-    legend,
-    button,
-    input,
-    textarea,
-    select {
+    * {
       margin: 0;
       padding: 0;
     }
@@ -88,8 +67,7 @@
       <div>
         <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
           <div>
-            {{formatData(row.Data)}}
-            <template v-if="row.Hora">{{` ÀS ${row.Hora}`}}</template>
+            {{formatData(row)}}
           </div>
           <div>
             {{row.Localidade}}
@@ -114,9 +92,12 @@
         };
       },
       methods: {
-        formatData(data) {
-          const [dia, mes] = data.split("/");
-          return `${dia}/${mes}`;
+        formatData(row) {
+          const [dia, mes, ano] = row.Data.split("/");
+          const semana = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+          const d = new Date(`${ano}/${mes}/${dia}`);
+          return `${dia}/${mes} ÀS ${row.Hora || "19:30"} (${semana[d.getDay()] || ""
+            })`;
         },
       },
       mounted() {
