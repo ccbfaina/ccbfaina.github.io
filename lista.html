@@ -83,6 +83,9 @@
   <script>
     const { createApp } = Vue;
 
+    const semanas = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+    const today = new Date();
+
     const app = createApp({
       data() {
         return {
@@ -94,10 +97,13 @@
       methods: {
         formatData(row) {
           const [dia, mes, ano] = row.Data.split("/");
-          const semana = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
-          const d = new Date(`${ano}/${mes}/${dia}`);
-          return `${dia}/${mes} ÀS ${row.Hora || "19:30"} (${semana[d.getDay()] || ""
-            })`;
+          if (dia && mes) {
+            const d = new Date(`${ano}/${mes}/${dia}`);
+            return `${dia}/${mes} ÀS ${row.Hora || "19:30"} (${semanas[d.getDay()] || ""})`;
+          } else {
+            return ''
+
+          }
         },
       },
       mounted() {
@@ -129,7 +135,6 @@
             });
 
             this.tipos = [...new Set(this.rows.map((item) => item.Tipo))].sort();
-            console.log("Tipos >>>", this.tipos);
             console.log("Resultado >>>", JSON.parse(JSON.stringify(this.rows)));
           })
           .catch((error) => {
