@@ -91,8 +91,15 @@
             {{formatData(row.Data)}}
             <template v-if="row.Hora">{{` ÀS ${row.Hora}`}}</template>
           </div>
-          <div>{{row.Localidade}}</div>
-          <div>{{row.Atendimento}} {{row["Observações"]}}</div>
+          <div>
+            {{row.Localidade}}
+            <template>
+              {{row["Observações"]}}
+            </template>
+          </div>
+          <div>
+            <template>{{row.Atendimento}}</template>
+          </div>
         </template>
       </div>
     </template>
@@ -124,7 +131,7 @@
           .then((response) => response.text())
           .then((csvData) => {
             const lines = csvData.split("\n");
-            this.headers = lines[0].split(",").map(el=>el.trim());
+            this.headers = lines[0].split(",").map(el => el.trim());
             const result = [];
             for (let i = 1; i < lines.length; i++) {
               const obj = {};
