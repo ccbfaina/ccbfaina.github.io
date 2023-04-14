@@ -124,7 +124,7 @@
           .then((response) => response.text())
           .then((csvData) => {
             const lines = csvData.split("\n");
-            this.headers = lines[0].split(",");
+            this.headers = lines[0].split(",").map(el=>el.trim());
             const result = [];
             for (let i = 1; i < lines.length; i++) {
               const obj = {};
