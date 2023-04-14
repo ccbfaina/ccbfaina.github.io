@@ -76,7 +76,7 @@
         <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
           <div>
             {{formatData(row.Data)}}
-            <div v-show="row.Hora">{{' ÀS ' + row.Hora}}</div>
+            <template v-if="row.Hora">{{` ÀS ${row.Hora}`}}</template>
           </div>
           <div>{{row.Localidade}} {{}}</div>
           <div>{{row.Atendimento}}</div>
