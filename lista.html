@@ -76,7 +76,7 @@
         <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
           <div>
             {{formatData(row.Data)}}
-            <div v-show="row.Hora">{{' ÀS ' + row.Hora}}</div>
+            <div v-show="row.Hora">{{'  ÀS ' + row.Hora}}</div>
           </div>
           <div>{{row.Localidade}} {{}}</div>
           <div>{{row.Atendimento}}</div>
@@ -122,10 +122,10 @@
               this.rows.push(obj);
             }
             this.rows.sort((a, b) => {
-              const dataA = new Date(a.Data.split("/").reverse().join("/"));
-              const dataB = new Date(b.Data.split("/").reverse().join("/"));
-              if (dataA < dataB) return -1;
-              if (dataA > dataB) return 1;
+              const a = new Date(a.Data.split("/").reverse().join("/"));
+              const b = new Date(b.Data.split("/").reverse().join("/"));
+              if (a < b) return -1;
+              if (a > b) return 1;
               return 0;
             });
 
