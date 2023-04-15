@@ -36,7 +36,7 @@ q {
 }
 
 html {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 body {
@@ -103,17 +103,30 @@ div.header {
   position: absolute;
   top: 10px;
   right: 10px;
+  display: none;
+}
+
+@media (min-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+  .botao-impressao {
+    display: block;
+  }
 }
 
 @media (min-width: 768px) {
-  .texto {
-    font-size: 18px;
+  html {
+    font-size: 16px;
+  }
+  .botao-impressao {
+    display: block;
   }
 }
 
 @media (min-width: 1024px) {
-  .texto {
-    font-size: 20px;
+  html {
+    font-size: 18px;
   }
 }
 
