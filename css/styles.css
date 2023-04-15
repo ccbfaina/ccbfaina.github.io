@@ -108,17 +108,16 @@ div.header {
 
 /* Estilos para esconder o texto na impressão */
 @media print {
-  .texto {
-    display: none;
-  }
-}
-
-@media print {
   @page {
-    margin-top: 1cm;
-    margin-bottom: 1cm;
-    margin-left: 2cm;
-    margin-right: 2cm;
+    margin-top: 0.2cm;
+    margin-bottom: 0.2cm;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+  }
+
+  html {
+    font-size: 13px !important;
+    line-height: 0.8;
   }
 
   body {
