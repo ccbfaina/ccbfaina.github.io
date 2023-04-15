@@ -94,6 +94,17 @@ div.header {
   line-height: 20px;
 }
 
+.botao-impressao {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
 @media (min-width: 768px) {
   .texto {
     font-size: 18px;
@@ -104,6 +115,10 @@ div.header {
   .texto {
     font-size: 20px;
   }
+}
+
+.print-only {
+  display: none;
 }
 
 /* Estilos para esconder o texto na impressão */
@@ -117,7 +132,7 @@ div.header {
 
   html {
     font-size: 13px !important;
-    line-height: 0.8;
+    line-height: 0.9;
   }
 
   body {
@@ -125,7 +140,10 @@ div.header {
     padding: 0;
     font-size: 12pt;
   }
-  .nav-bar {
+  .print-only {
+    display: block;
+  }
+  .print-hide {
     display: none;
   }
 }

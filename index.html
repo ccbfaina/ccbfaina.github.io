@@ -15,6 +15,9 @@
   </head>
 
   <body>
+    <button onclick="imprimir()" class="print-hide botao-impressao">
+      Imprimir
+    </button>
     <div class="header">
       <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
       <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
@@ -32,11 +35,9 @@
         </div>
       </template>
     </div>
-    <div class="right">
-      <b>
-        <p>Lista em:</p>
-        <a href="https://ccbfaina.github.io">https://ccbfaina.github.io</a>
-      </b>
+    <div class="print-only right">
+      <p>Lista em:</p>
+      <a href="https://ccbfaina.github.io">https://ccbfaina.github.io</a>
     </div>
     <div class="footer">
       <b>
@@ -143,6 +144,9 @@
       });
 
       app.mount("#app");
+      function imprimir() {
+        window.print();
+      }
     </script>
   </body>
 </html>
