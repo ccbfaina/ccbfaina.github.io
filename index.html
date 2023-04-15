@@ -72,9 +72,9 @@
           formatData(row) {
             const d = row.Data;
             try {
-              return `${d.toFormat("dd/MM")} ÀS ${row.Hora || "19:30"} (${
-                semanas[d.weekday] || ""
-              })`;
+              return `${d.toFormat("dd/MM")} ${semanas[d.weekday] || ""} - ${
+                row.Hora || "19:30"
+              }`;
             } catch (e) {
               console.log("Erro ao formatar data: ", row.Tipo, row.Localidade);
             }
