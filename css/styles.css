@@ -42,21 +42,21 @@ html {
 body {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 h1 {
-  font-size: 1.6em;
+  font-size: 1.6rem;
 }
 
 h2 {
-  font-size: 1.3em;
+  font-size: 1.3rem;
 }
 
 h3 {
   margin-top: 30px;
   font-weight: bolder;
-  font-size: 1.3em;
+  font-size: 1.3rem;
 }
 
 a {
@@ -89,7 +89,7 @@ div.header {
 }
 
 .footer {
-  font-size: 0.95em;
+  font-size: 0.95rem;
   margin-top: 20px;
   line-height: 20px;
 }
@@ -131,14 +131,13 @@ div.header {
   }
 
   html {
-    font-size: 11px !important;
+    font-size: 13px !important;
     line-height: 1;
   }
 
   body {
     margin: 0;
     padding: 0;
-    font-size: 12pt;
   }
 
   body > div#app > div > div {
@@ -151,5 +150,8 @@ div.header {
   }
   .print-hide {
     display: none;
+  }
+  h3 {
+    margin-top: 20px;
   }
 }
