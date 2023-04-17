@@ -91,7 +91,6 @@
           )
             .then((response) => response.text())
             .then((csvData) => {
-              console.log("CSV:: ", csvData);
               const lines = csvData.split("\n");
               this.headers = lines[0].split(",").map((el) => el.trim());
               const result = [];
@@ -134,10 +133,11 @@
               this.tipos = [
                 ...new Set(this.rows.map((item) => item.Tipo)),
               ].sort();
-              console.log(
-                "Resultado >>>",
-                JSON.parse(JSON.stringify(this.rows))
-              );
+              // console.log("CSV:: ", csvData);
+              // console.log(
+              //   "Resultado >>>",
+              //   JSON.parse(JSON.stringify(this.rows))
+              // );
             })
             .catch((error) => {
               console.error("Erro ao obter o arquivo CSV:", error);
@@ -146,16 +146,16 @@
       });
 
       app.mount("#app");
-      // document.addEventListener("keydown", function (event) {
-      //   if (event.ctrlKey && /(m|e)/gi.test(event.key)) {
-      //     event.stopPropagation();
-      //     console.log("Ctrl + M foi pressionado!");
-      //     window.open(
-      //       "https://docs.google.com/spreadsheets/d/13sjbh4fRi_CiSET4ARbZA3S4pTugDTEOTYMWy8YGr4w/edit#gid=0",
-      //       "_blank"
-      //     );
-      //   }
-      // });
+      document.addEventListener("keydown", function (event) {
+        if (event.ctrlKey && /(m|e)/gi.test(event.key)) {
+          event.stopPropagation();
+          console.log("Ctrl + M foi pressionado!");
+          window.open(
+            "https://docs.google.com/spreadsheets/d/13sjbh4fRi_CiSET4ARbZA3S4pTugDTEOTYMWy8YGr4w/edit#gid=0",
+            "_blank"
+          );
+        }
+      });
     </script>
   </body>
 </html>
