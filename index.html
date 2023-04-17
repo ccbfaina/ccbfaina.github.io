@@ -15,15 +15,13 @@
   </head>
 
   <body>
-    <div>
-      <button onclick="imprimir()" class="print-hide button">Imprimir</button>
-    </div>
     <div class="header">
       <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
       <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
       <u> REGIONAL FAINA</u>
     </div>
     <div id="app">
+      <button @click="imprimir()" class="print-hide button">Imprimir</button>
       <template v-for="tipo in tipos" :key="tipo">
         <h3>{{tipo}}</h3>
         <div>
@@ -53,10 +51,6 @@
         </i>
       </b>
     </div>
-    <!-- <div class="page-number">
-      Página <span class="page-number-current"></span> de
-      <span class="page-number-total"></span>
-    </div> -->
 
     <script>
       const { createApp } = Vue;
@@ -83,6 +77,9 @@
             } catch (e) {
               console.log("Erro ao formatar data: ", row.Tipo, row.Localidade);
             }
+          },
+          imprimir() {
+            window.print();
           },
         },
         mounted() {
@@ -149,19 +146,16 @@
       });
 
       app.mount("#app");
-      function imprimir() {
-        window.print();
-      }
-      document.addEventListener("keydown", function (event) {
-        if (event.ctrlKey && /(m|e)/gi.test(event.key)) {
-          event.stopPropagation();
-          console.log("Ctrl + M foi pressionado!");
-          window.open(
-            "https://docs.google.com/spreadsheets/d/13sjbh4fRi_CiSET4ARbZA3S4pTugDTEOTYMWy8YGr4w/edit#gid=0",
-            "_blank"
-          );
-        }
-      });
+      // document.addEventListener("keydown", function (event) {
+      //   if (event.ctrlKey && /(m|e)/gi.test(event.key)) {
+      //     event.stopPropagation();
+      //     console.log("Ctrl + M foi pressionado!");
+      //     window.open(
+      //       "https://docs.google.com/spreadsheets/d/13sjbh4fRi_CiSET4ARbZA3S4pTugDTEOTYMWy8YGr4w/edit#gid=0",
+      //       "_blank"
+      //     );
+      //   }
+      // });
     </script>
   </body>
 </html>
