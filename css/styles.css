@@ -136,9 +136,6 @@ div.header {
 .print-only {
   display: none;
 }
-@page {
-  size: A4 portrait;
-}
 
 @media print {
   @page {
@@ -162,7 +159,7 @@ div.header {
     padding: 0;
   }
 
-  body > div#app > div > div {
+  div.data > div {
     padding: 4px;
     border-top: 0.1px solid #7c7c7c;
   }
