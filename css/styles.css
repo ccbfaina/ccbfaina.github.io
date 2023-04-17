@@ -66,12 +66,12 @@ a {
   text-decoration: none;
 }
 
-body > div#app > div {
+div.data {
   display: grid;
   grid-template-columns: repeat(3, auto);
 }
 
-body > div#app > div > div {
+div.data > div {
   padding: 8px;
   border-top: 0.1px solid #dbdbdb;
   display: flex;
@@ -79,7 +79,7 @@ body > div#app > div > div {
   flex-direction: row;
 }
 
-body > div#app > div > div:nth-child(3n + 2) {
+div.data > div:nth-child(3n + 2) {
   font-weight: bolder;
 }
 

@@ -15,41 +15,44 @@
   </head>
 
   <body>
-    <div class="header">
-      <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
-      <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
-      <u> REGIONAL FAINA</u>
-    </div>
     <div id="app">
-      <button @click="imprimir()" class="print-hide button">Imprimir</button>
-      <template v-for="tipo in tipos" :key="tipo">
-        <h3>{{tipo}}</h3>
-        <div>
-          <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
-            <div>{{formatData(row)}}</div>
-            <div>{{row.Localidade}}</div>
-            <div>{{row.Dirigentes + ' '}} {{row["Observações"]}}</div>
-          </template>
+      <div class="header">
+        <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
+        <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
+        <u> REGIONAL FAINA</u>
+      </div>
+      <div v-if="loaded">
+        <button @click="imprimir()" class="print-hide button">Imprimir</button>
+        <template v-for="tipo in tipos" :key="tipo">
+          <h3>{{tipo}}</h3>
+          <div class="data">
+            <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
+              <div>{{formatData(row)}}</div>
+              <div>{{row.Localidade}}</div>
+              <div>{{row.Dirigentes + ' '}} {{row["Observações"]}}</div>
+            </template>
+          </div>
+        </template>
+        <div class="print-only right">
+          <p>Lista em:</p>
+          <a href="https://ccbfaina.github.io">https://ccbfaina.github.io</a>
         </div>
-      </template>
-    </div>
-    <div class="print-only right">
-      <p>Lista em:</p>
-      <a href="https://ccbfaina.github.io">https://ccbfaina.github.io</a>
-    </div>
-    <div class="footer">
-      <b>
-        <i>
-          <p>
-            Oração Santa Ceia <br />Pão: "Senhor, abençoa este Pão que vamos
-            comer, que é a comunhão do Corpo de Cristo."
-          </p>
-          <p>
-            Cálice: "Senhor, abençoa o Cálice que vamos beber, que é a comunhão
-            do Sangue de Cristo."
-          </p>
-        </i>
-      </b>
+        <div class="footer">
+          <b>
+            <i>
+              <p>
+                Oração Santa Ceia <br />Pão: "Senhor, abençoa este Pão que vamos
+                comer, que é a comunhão do Corpo de Cristo."
+              </p>
+              <p>
+                Cálice: "Senhor, abençoa o Cálice que vamos beber, que é a
+                comunhão do Sangue de Cristo."
+              </p>
+            </i>
+          </b>
+        </div>
+      </div>
+      <div v-else>Carregando...</div>
     </div>
 
     <script>
@@ -65,6 +68,7 @@
             headers: [],
             rows: [],
             tipos: "",
+            loaded: false,
           };
         },
         methods: {
@@ -91,6 +95,7 @@
           )
             .then((response) => response.text())
             .then((csvData) => {
+              this.loaded = true;
               const lines = csvData.split("\n");
               this.headers = lines[0].split(",").map((el) => el.trim());
               const result = [];
