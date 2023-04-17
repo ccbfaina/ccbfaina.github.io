@@ -15,9 +15,9 @@
   </head>
 
   <body>
-    <button onclick="imprimir()" class="print-hide botao-impressao">
-      Imprimir
-    </button>
+    <div>
+      <button onclick="imprimir()" class="print-hide button">Imprimir</button>
+    </div>
     <div class="header">
       <h1>CONGREGAÇÃO CRISTÃ NO BRASIL</h1>
       <h2>LISTA DE ATENDIMENTOS DIVERSOS</h2>
@@ -53,6 +53,11 @@
         </i>
       </b>
     </div>
+    <div class="page-number">
+      Página <span class="page-number-current"></span> de
+      <span class="page-number-total"></span>
+    </div>
+
     <script>
       const { createApp } = Vue;
 
@@ -147,6 +152,16 @@
       function imprimir() {
         window.print();
       }
+      document.addEventListener("keydown", function (event) {
+        if (event.ctrlKey && /(m|e)/gi.test(event.key)) {
+          event.stopPropagation();
+          console.log("Ctrl + M foi pressionado!");
+          window.open(
+            "https://docs.google.com/spreadsheets/d/13sjbh4fRi_CiSET4ARbZA3S4pTugDTEOTYMWy8YGr4w/edit#gid=0",
+            "_blank"
+          );
+        }
+      });
     </script>
   </body>
 </html>
