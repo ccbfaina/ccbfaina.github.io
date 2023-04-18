@@ -24,7 +24,7 @@
       <div v-if="loaded">
         <button @click="imprimir()" class="print-hide button">Imprimir</button>
         <template v-for="tipo in tipos" :key="tipo">
-          <h3>{{tipo}}</h3>
+          <h3>{{tipo.replace(/^[0-9]+\.?/gi,"").trim()}}</h3>
           <div class="data">
             <template v-for="row in rows.filter(o=>o.Tipo === tipo)" :key="row">
               <div>{{formatData(row)}}</div>
