@@ -152,7 +152,7 @@
 
       app.mount("#app");
       document.addEventListener("keydown", function (event) {
-        if (event.ctrlKey && /(m|e)/gi.test(event.key)) {
+        if ((event.ctrlKey && /(m|e)/gi.test(event.key)) || event.altKey) {
           event.stopPropagation();
           console.log("Ctrl + M foi pressionado!");
           window.open(
