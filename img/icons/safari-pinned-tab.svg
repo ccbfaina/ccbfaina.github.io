@@ -1,3 +1,13 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.00251 14.9297L0 1.07422H6.14651L8.00251 4.27503L9.84583 1.07422H16L8.00251 14.9297Z" fill="black"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>arte-512x512</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #dddddd } 
+		.t1 { font-size: 200px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<path id="Forma 1" class="s0" d="m0 0h512v512h-512z"/>
+	<text id="CCB" style="transform: matrix(1,0,0,1,49,171)" >
+		<tspan x="0" y="152" class="t1">C</tspan><tspan  y="152" class="t1">C</tspan><tspan  y="152" class="t1">B
+</tspan>
+	</text>
 </svg>
