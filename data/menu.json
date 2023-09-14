@@ -1,0 +1,29 @@
+{
+    "values": [
+        {
+            "title": "Regional Faina",
+            "href": "#/lista?filter=Regional",
+            "icon": "img/lista.png"
+        },
+        {
+            "title": "DARPE",
+            "href": "#/darpe",
+            "icon": "img/aperto-de-mao.png"
+        },
+        {
+            "title": "Calendário",
+            "href": "#/agenda",
+            "icon": "img/calendario.png"
+        },
+        {
+            "title": "Regional Goiânia",
+            "href": "https://listagoiania.ccbgo.org.br/",
+            "icon": "img/lista.png"
+        },
+        {
+            "title": "Regional Uruaçu",
+            "href": "https://listauruacu.fly.dev/",
+            "icon": "img/lista.png"
+        }
+    ]
+}
