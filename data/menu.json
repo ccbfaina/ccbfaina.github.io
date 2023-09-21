@@ -6,7 +6,7 @@
             "icon": "img/lista.png"
         },
         {
-            "title": "DARPE",
+            "title": "Sobre DARPE",
             "href": "#/darpe",
             "icon": "img/aperto-de-mao.png"
         },
@@ -18,12 +18,12 @@
         {
             "title": "Regional Goiânia",
             "href": "https://listagoiania.ccbgo.org.br/",
-            "icon": "img/lista.png"
+            "icon": "img/documento.png"
         },
         {
             "title": "Regional Uruaçu",
             "href": "https://listauruacu.fly.dev/",
-            "icon": "img/lista.png"
+            "icon": "img/documento.png"
         }
     ]
 }
