@@ -1,18 +1,18 @@
 {
     "values": [
         {
-            "title": "Regional Faina",
-            "href": "#/lista?filter=Regional",
+            "title": "REGIONAL",
+            "href": "#lista?filter=REGIONAL",
             "icon": "img/lista.png"
         },
         {
             "title": "Sobre DARPE",
-            "href": "#/darpe",
+            "href": "#darpe",
             "icon": "img/aperto-de-mao.png"
         },
         {
             "title": "Calendário",
-            "href": "#/agenda",
+            "href": "#agenda",
             "icon": "img/calendario.png"
         },
         {
@@ -24,6 +24,16 @@
             "title": "Regional Uruaçu",
             "href": "https://listauruacu.fly.dev/",
             "icon": "img/documento.png"
+        },
+        {
+            "title": "DARPE",
+            "href": "#lista?filter=DARPE",
+            "icon": "img/lista.png"
+        },
+        {
+            "title": "Goiás",
+            "href": "#lista?filter=GOIÁS -",
+            "icon": "img/lista.png"
         }
     ]
 }
