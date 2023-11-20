@@ -31,8 +31,18 @@
             "icon": "img/lista.png"
         },
         {
+            "title": "Faina",
+            "href": "#lista?filter=FAINA -",
+            "icon": "img/lista.png"
+        },
+        {
             "title": "Goiás",
             "href": "#lista?filter=GOIÁS -",
+            "icon": "img/lista.png"
+        },
+        {
+            "title": "Itaberaí",
+            "href": "#lista?filter=ITABERAÍ -",
             "icon": "img/lista.png"
         }
     ]
