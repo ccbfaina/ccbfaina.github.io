@@ -26,6 +26,11 @@
             "icon": "img/documento.png"
         },
         {
+            "title": "Relatório Digital",
+            "href": "https://congregacaocristanobrasil.org.br/relatorio",
+            "icon": "img/documento.png"
+        },
+        {
             "title": "DARPE",
             "href": "#lista?filter=DARPE",
             "icon": "img/lista.png"
