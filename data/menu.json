@@ -2,7 +2,7 @@
     "values": [
         {
             "title": "REGIONAL",
-            "href": "#lista?filter=REGIONAL",
+            "href": "#lista?lista=REGIONAL",
             "icon": "img/lista.png"
         },
         {
@@ -26,28 +26,23 @@
             "icon": "img/documento.png"
         },
         {
-            "title": "Relatório Digital",
-            "href": "https://congregacaocristanobrasil.org.br/relatorio",
-            "icon": "img/documento.png"
-        },
-        {
             "title": "DARPE",
-            "href": "#lista?filter=DARPE",
+            "href": "#lista?lista=DARPE",
             "icon": "img/lista.png"
         },
         {
             "title": "Faina",
-            "href": "#lista?filter=FAINA -",
+            "href": "#lista?local=FAINA - ",
             "icon": "img/lista.png"
         },
         {
             "title": "Goiás",
-            "href": "#lista?filter=GOIÁS -",
+            "href": "#lista?local=GOIAS",
             "icon": "img/lista.png"
         },
         {
             "title": "Itaberaí",
-            "href": "#lista?filter=ITABERAÍ -",
+            "href": "#lista?local=ITABERAÍ - ",
             "icon": "img/lista.png"
         }
     ]
