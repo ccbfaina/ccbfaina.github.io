@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   viewBox="0 0 512 512"
+   width="512"
+   height="512"
+   id="svg14"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2578125"
+     inkscape:cx="255.60248"
+     inkscape:cy="255.60248"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <title
+     id="title2">arte-512x512</title>
+  <style
+     id="style4">
+		tspan { white-space:pre } 
+		.s0 { fill: #dddddd } 
+		.t1 { font-size: 200px;fill: #000000;font-weight: 400;font-family: &quot;DejaVuSans&quot;, &quot;DejaVu Sans&quot; } 
+	</style>
+  <path
+     id="Forma 1"
+     class="s0"
+     d="m0 0h512v512h-512z" />
+  <text
+     id="CCB"
+     x="49.212967"
+     y="179.33542"
+     style="font-size:11.8px;stroke-width:0.983338"><tspan
+       x="49.212967"
+       y="328.80267"
+       class="t1"
+       id="tspan7"
+       style="stroke-width:0.983338">C</tspan><tspan
+       y="328.80267"
+       class="t1"
+       id="tspan9"
+       style="stroke-width:0.983338">C</tspan><tspan
+       y="328.80267"
+       class="t1"
+       id="tspan11"
+       style="stroke-width:0.983338">B
+</tspan></text>
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>arte-512x512</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
