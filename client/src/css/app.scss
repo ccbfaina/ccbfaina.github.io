@@ -1,0 +1,216 @@
+// app global css in SCSS form
+
+ol,
+ul,
+li,
+blockquote,
+q {
+  vertical-align: baseline;
+  list-style: none;
+  text-decoration: none;
+  quotes: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+html {
+  font-size: 13.4px;
+}
+
+body {
+  -webkit-user-select: none;
+  letter-spacing: 0.1px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  user-select: none;
+}
+
+html,
+body,
+#q-app {
+  height: 100vh;
+}
+
+#q-app {
+  margin: 0 auto;
+  max-width: 210mm;
+  padding-top: 15px;
+}
+
+h1 {
+  font-size: 1.4rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+h3 {
+  margin: 20px 0 5px;
+  font-size: 1.1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #000420;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.center {
+  justify-content: center;
+}
+
+.stretch {
+  justify-content: stretch;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.space-around {
+  justify-content: space-around;
+}
+
+.right {
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.success {
+  background-color: #4caf50;
+  color: white;
+}
+
+.warn {
+  background-color: #f44336;
+  color: white;
+}
+
+div.header {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th,
+td {
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+td {
+  padding: 4px 2px;
+}
+
+th {
+  background-color: #e6e6e6;
+  text-align: center;
+  padding: 8px;
+}
+td:nth-child(1) {
+  border-left: 1px solid #ddd;
+  text-align: left;
+}
+
+.print-only {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 0.2cm 0.5cm 0.2cm 0.5cm;
+    counter-increment: page;
+  }
+
+  html {
+    font-size: 12px;
+  }
+
+  header,
+  footer {
+    display: none;
+  }
+
+  body {
+    line-height: 1;
+  }
+  a {
+    color: #000;
+  }
+
+  .print-only {
+    display: block;
+  }
+
+  .print-hide {
+    display: none !important;
+  }
+
+  h3 {
+    padding: 0;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  table {
+    page-break-inside: inherit;
+    /* page-break-before: always; */
+    border: 1px solid #000;
+  }
+  th {
+    border: 0px none;
+    padding: 6px;
+  }
+
+  td {
+    padding: 2px;
+    border: 1px solid #000 !important;
+  }
+}
+
+html {
+  overflow-y: scroll;
+}
+html ::-webkit-scrollbar {
+  width: 8px;
+}
+html ::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  background: #d4d9e2;
+}
+html ::-webkit-scrollbar-track {
+  background: #ededed;
+}
+

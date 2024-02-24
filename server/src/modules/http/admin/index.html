@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>APP</title>
+    <script src="static/vue.global.js"></script>
+    <link rel="stylesheet" href="static/css/global.css" />
+  </head>
+  <body>
+    <div id="app">
+      <nav>
+        <ul class="nav-links">
+          <li
+            @click="changeTab('agenda')"
+            :class="{ 'active-tab': state.activeTab === 'agenda' }"
+          >
+            Agenda
+          </li>
+          <li
+            @click="changeTab('google')"
+            :class="{ 'active-tab': state.activeTab === 'google' }"
+          >
+            Google
+          </li>
+        </ul>
+      </nav>
+
+      <div v-if="state.activeTab === 'agenda'">
+        <div class="input-field">
+          <label for="dias">Dias gerenciados</label>
+          <input
+            id="dias"
+            type="number"
+            v-model="data.dias"
+            required
+            autocomplete="off"
+          />
+        </div>
+        <div class="input-field" v-if="data.old">
+          <label for="oldToken">Chave API ANTIGA</label>
+          <input
+            id="oldToken"
+            type="text"
+            v-model="data.oldToken"
+            autocomplete="off"
+          />
+        </div>
+        <div class="input-field">
+          <label for="token">Chave API</label>
+          <input
+            id="token"
+            type="text"
+            v-model="data.token"
+            required
+            autocomplete="off"
+          />
+        </div>
+      </div>
+
+      <div v-else-if="state.activeTab === 'google'">
+        <div class="input-field">
+          <label for="file">Conta de Serviço (JSON)</label>
+          <input
+            id="file"
+            type="file"
+            @change="handleFileChange"
+            accept=".json"
+          />
+          <small>
+            <a
+              href="https://cloud.google.com/iam/docs/service-account-overview?hl=pt-br"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Leia sobre contas de serviço
+            </a>
+          </small>
+        </div>
+        <div class="input-field">
+          <label for="shared">
+            Agendas Compartilhadas com os Colaboradores
+          </label>
+          <textarea id="shared" v-model="data.shared" rows="6"></textarea>
+        </div>
+      </div>
+
+      <div class="notification" v-if="data.message">{{ data.message }}</div>
+      <div class="flex">
+        <button class="btn success" @click="enviar">SALVAR</button>
+        <a class="btn dark" href="/">ACESSAR APLICAÇÃO</a>
+      </div>
+    </div>
+
+    <script>
+      const { createApp, reactive } = Vue;
+
+      createApp({
+        setup() {
+          const data = reactive({
+            old: false,
+            dias: 80,
+            oldToken: "",
+            token: "",
+            message: "",
+            secret: "",
+            shared: "",
+          });
+
+          const state = reactive({
+            activeTab: "agenda",
+          });
+          const changeTab = (tab) => {
+            state.activeTab = tab;
+          };
+
+          const enviar = async () => {
+            try {
+              data.shared = `${data.shared}`.replace(/(\n| )/, ",");
+              const response = await fetch("/api/settings", {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json",
+                },
+                body: JSON.stringify(data),
+              });
+
+              if (response.ok) {
+                const result = await response.json();
+                data.message = result.message;
+                console.log("Dados enviados com sucesso!", result);
+                localStorage.setItem("key", data.token);
+                localStorage.setItem("ip_socket", window.location.origin);
+              } else {
+                console.error("Falha ao enviar dados.");
+              }
+              data.shared = `${data.shared}`
+                .split(",")
+                .map((e) => e.trim())
+                .join("\n");
+            } catch (error) {
+              console.error("Erro ao enviar solicitação:", error);
+            }
+          };
+
+          const handleFileChange = async (event) => {
+            const file = event.target.files[0];
+            if (file) {
+              const reader = new FileReader();
+              reader.onload = () => {
+                data.secret = reader.result;
+              };
+              reader.readAsText(file);
+            }
+          };
+
+          (async () => {
+            const response = await fetch("/api/data");
+            const result = await response.json();
+            console.log("Resultado: ", result);
+            if (result.token) {
+              data.old = !!result.token;
+            }
+            data.shared = `${result.shared}`.replace(/,/gi, "\n");
+          })();
+
+          return {
+            data,
+            state,
+            enviar,
+            changeTab,
+            handleFileChange,
+          };
+        },
+      }).mount("#app");
+    </script>
+
+    <style scoped>
+      nav {
+        background-color: #eee;
+        padding: 10px;
+      }
+
+      .nav-links {
+        list-style: none;
+        display: flex;
+        gap: 20px;
+        margin: 0;
+        padding: 0;
+      }
+
+      .nav-links li {
+        cursor: pointer;
+        padding: 8px;
+        border-radius: 4px;
+      }
+
+      .active-tab {
+        background-color: #007bff;
+        color: #fff;
+      }
+
+      .success {
+        background-color: rgb(0, 88, 0);
+      }
+
+      .dark {
+        background-color: #202020;
+        color: #eee;
+      }
+    </style>
+  </body>
+</html>
