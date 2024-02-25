@@ -1,29 +1,10 @@
 {
   "id": "app",
-  "git": {
-    "token": ""
-  },
+  "git": {},
   "system": {
-    "path": "src/app/config.json",
-    "port": 3000,
-    "token": "123",
-    "rebooting": false,
-    "save": true
+    "port": 3000
   },
   "google": {
-    "secret": {
-      "type": "service_account",
-      "project_id": "agenda-408113",
-      "private_key_id": "37b513ad9ad214ec59b7ea987c7a6d3243fb58cd",
-      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJnkC+pgOegnxX\nmvsV+DtUOKWUpJjAk/frzmOs/ANwbgmQ2YlWDPFg1HfKfrDQPDGt7cPlz7Lkf/4q\nfPaNHrfm/8NN6zox0NUX0//3QRjTqlZZRUU2xVvivP4Hlib9vfE/FEvlubIagKS4\nA2I68AGVqWSWb64F1Isa32jJGllvNBQpbDRTsTKb/cyhnCayZHXMPmM6waw+Vpgj\nWeK6EBGtoFFZSDlOaftEs5RfHy0U4xoq65VT47MeEXVIkQg/vmLfLntK6cMjzceX\npqXmwRMkVI+5e+XLOFBGNr0ABHfmf6SCnVYER8eWsUEujPfR7tYjg03dmMtJuM2i\n7iLrVk9RAgMBAAECggEAAbu3cLNAhGqz8VIxikAk8wUlgCdpf+Cyz0yZcW9DRe+S\nKVVduCTYyQwrvT6Bk/W+vOxXr64VuM8Wzg9Lxm14Se5RjBoV4pUVUHybtt9Cnb/P\nzCa+hZUhNiFaGinag/VnZt3xNYm0xdJLhUHBAT85VNsoF/7W+cft/JWZd64orhOZ\nE1gqkccInQAbAVU3XbT0Zprl9dVvbh5OI3AyAAsmRTSizj+v0yJKLf3qnumRE0Cf\nP/wfszti1iQ4C21qAb1Ey1Bv+6Tax91Ut08mZBwQCsqlvR41aOujgZhmMWhXIuoF\nFYVAoXgYyRDqNFFXj09OsmS4Txa/Qm5PE2QPHuuVwQKBgQDpsio5KUuO5KzvGWbv\nKXsugqgP8sbPaMPCFv7TEbhrAoNvmlHL6N3OALqYfGXgx1IR0A5A6mwCeR00lmEL\n6LhVYzUr+xIV/FaSsHvcuxecVmB18yjBgiVor96mNklUJG7GENtDgJf+uh9fpFPo\nSaz2xt67l/vzbmDB+uaKjxqhHQKBgQDc3Fbr8brIuVhm8S+3UTr75HYpNoz35Vg4\n8zJJpGMNkRZqGE1DqJNA/t0J+1fmA/XPmgWGhJteoib1IIcLvGSfsoui0CswoXUg\nFLuu/Bl5nSO4ixx6PSdgZWGtOXe2PP8qc0Eg5RkND+Y404iMYAvZVqXEToX3S9sH\nlek9NT1kxQKBgQDA5EwxrkItidar7B2oXmbMdw/dShiLbf/WnkBrW38K5KI0Zf4J\n/wXFWZiq8FLu+9Zj2YVKU7QfPnS6yT0FJWuxHxfuW2gMOaIDpiQ2hz7vzeQEt1X2\nk0PpavCt5LUV/JRqa9Nvnh7XJC1tNigD3XwknPWPhd1yirLWqg/MYl4qiQKBgQCF\nbdRRfNt0Mo1Wu7UxEbEJxq8gHOWzSeovlbU2ykpRQusAs6fSDUDRDmgphKBIxPG3\nNvzJlMlstZfFlZ4gl/NOi4ZSmWLOYWyqMfxlLcaSMz4GWnyc2N82HGmTRlmtTlJ1\nqeWZ4u5sdsOGZz1iWRAvgGprG2lRypELlySupsBtZQKBgQCmhwYMLCax8OLh4M3d\nqR5oDuYAymI9uuAJTzBWL99kgSJe2/XfWPVO23750oETjgRD4J0Z0fR+hgpdCPmX\nPYXlINtuQC6FtRTkCbIJsHYNy/zpkvc6fW7j6QEKRBpcsZP4Iv0iW4wuSagkPzca\nttllg00rmIo7iY6kUwi+QcpVew==\n-----END PRIVATE KEY-----\n",
-      "client_email": "marcoaq@agenda-408113.iam.gserviceaccount.com",
-      "client_id": "105392919784974699134",
-      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-      "token_uri": "https://oauth2.googleapis.com/token",
-      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marcoaq%40agenda-408113.iam.gserviceaccount.com",
-      "universe_domain": "googleapis.com"
-    },
     "updated": false,
     "calendars": [
       {
