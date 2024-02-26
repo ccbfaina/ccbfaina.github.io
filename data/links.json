@@ -19,25 +19,7 @@
             "grupo": "LISTAS"
         },
         {
-            "title": "Faina",
-            "href": "#/lista/FAINA - ",
-            "icon": "img/lista.png",
-            "grupo": "LISTAS"
-        },
-        {
-            "title": "Cidade de Goiás",
-            "href": "#/lista/GOIAS -",
-            "icon": "img/lista.png",
-            "grupo": "LISTAS"
-        },
-        {
-            "title": "Itaberaí",
-            "href": "#/lista/ITABERAÍ - ",
-            "icon": "img/lista.png",
-            "grupo": "LISTAS"
-        },
-        {
-            "title": "LISTA COMPLETA",
+            "title": "TODAS AS LISTAS",
             "href": "#/lista/?pesquisar=*",
             "icon": "img/lista.png",
             "grupo": "LISTAS"
@@ -83,6 +65,24 @@
             "href": "https://listauruacu.fly.dev/",
             "icon": "img/documento.png",
             "grupo": "OUTRAS LISTAS"
+        },
+        {
+            "title": "Faina",
+            "href": "#/lista/FAINA - ",
+            "icon": "img/lista.png",
+            "grupo": "LOCALIDADES"
+        },
+        {
+            "title": "Cidade de Goiás",
+            "href": "#/lista/GOIAS -",
+            "icon": "img/lista.png",
+            "grupo": "LOCALIDADES"
+        },
+        {
+            "title": "Itaberaí",
+            "href": "#/lista/ITABERAÍ - ",
+            "icon": "img/lista.png",
+            "grupo": "LOCALIDADES"
         }
     ]
 }
