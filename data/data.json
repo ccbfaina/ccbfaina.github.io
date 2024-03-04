@@ -1188,11 +1188,11 @@
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "IR. TEREZINHA, ST. AEROPORTO",
         "desc": "RESP. MARCO ANTÔNIO",
-        "date": "2024-03-05T22:00:00.000Z",
-        "end": "2024-03-06T00:00:00.000Z",
-        "updated": "2024-03-04T15:07:34.643Z",
-        "gid": "bfct22v5e8c16ae8o278sp05n4",
-        "maps": "YmZjdDIydjVlOGMxNmFlOG8yNzhzcDA1bjQgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "date": "2024-03-04T22:30:00.000Z",
+        "end": "2024-03-05T00:00:00.000Z",
+        "updated": "2024-03-04T15:08:44.502Z",
+        "gid": "8idjos3umsuo5apr7fd9eiie58",
+        "maps": "OGlkam9zM3Vtc3VvNWFwcjdmZDllaWllNTggM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
         "recurring": "false"
       },
       {
@@ -1207,19 +1207,6 @@
         "gid": "2dut32j8nojdgp8r2jq6stp068_20240305T223000Z",
         "maps": "MmR1dDMyajhub2pkZ3A4cjJqcTZzdHAwNjhfMjAyNDAzMDVUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "IR. TEREZINHA, ST. AEROPORTO",
-        "desc": "RESP. MARCO ANTÔNIO",
-        "date": "2024-03-05T22:30:00.000Z",
-        "end": "2024-03-06T00:00:00.000Z",
-        "updated": "2024-03-04T14:59:03.611Z",
-        "gid": "8idjos3umsuo5apr7fd9eiie58",
-        "maps": "OGlkam9zM3Vtc3VvNWFwcjdmZDllaWllNTggM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": "false"
       },
       {
         "id": 0,
