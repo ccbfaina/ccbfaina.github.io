@@ -2334,9 +2334,9 @@
         "desc": "Sebastião",
         "date": "2024-03-21T21:30:00.000Z",
         "end": "2024-03-22T00:00:00.000Z",
-        "updated": "2024-03-14T18:13:51.918Z",
-        "gid": "70ojidj1c9i64b9i6cqmab9k74ojgb9ocoo30bb6c8pmcoj368sjccj360_20240321T213000Z",
-        "maps": "NzBvamlkajFjOWk2NGI5aTZjcW1hYjlrNzRvamdiOW9jb28zMGJiNmM4cG1jb2ozNjhzamNjajM2MF8yMDI0MDMyMVQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T18:22:52.291Z",
+        "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240321T213000Z",
+        "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDAzMjFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2448,6 +2448,19 @@
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
         "locale": "GOIAS - CENTRAL",
+        "desc": "Sebastião",
+        "date": "2024-04-04T21:30:00.000Z",
+        "end": "2024-04-05T00:00:00.000Z",
+        "updated": "2024-03-14T18:22:52.291Z",
+        "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240404T213000Z",
+        "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA0MDRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
         "desc": "SEBASTIÃO",
         "date": "2024-04-07T11:00:00.000Z",
         "end": "2024-04-07T14:00:00.000Z",
@@ -2480,19 +2493,6 @@
         "updated": "2024-03-14T17:38:28.398Z",
         "gid": "pbogvkbp73un0qjpu53bo254r3_20240410T213000Z",
         "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA0MTBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Sebastião",
-        "date": "2024-04-11T21:30:00.000Z",
-        "end": "2024-04-12T00:00:00.000Z",
-        "updated": "2024-03-14T18:13:51.918Z",
-        "gid": "70ojidj1c9i64b9i6cqmab9k74ojgb9ocoo30bb6c8pmcoj368sjccj360_20240411T213000Z",
-        "maps": "NzBvamlkajFjOWk2NGI5aTZjcW1hYjlrNzRvamdiOW9jb28zMGJiNmM4cG1jb2ozNjhzamNjajM2MF8yMDI0MDQxMVQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2545,6 +2545,19 @@
         "updated": "2024-02-25T14:57:42.883Z",
         "gid": "6noqrjs6vsaqsltuv31b08ulop_20240418T213000Z",
         "maps": "Nm5vcXJqczZ2c2Fxc2x0dXYzMWIwOHVsb3BfMjAyNDA0MThUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Sebastião",
+        "date": "2024-04-18T21:30:00.000Z",
+        "end": "2024-04-19T00:00:00.000Z",
+        "updated": "2024-03-14T18:22:52.291Z",
+        "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240418T213000Z",
+        "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA0MThUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2646,9 +2659,9 @@
         "desc": "Sebastião",
         "date": "2024-05-02T21:30:00.000Z",
         "end": "2024-05-03T00:00:00.000Z",
-        "updated": "2024-03-14T18:13:51.918Z",
-        "gid": "70ojidj1c9i64b9i6cqmab9k74ojgb9ocoo30bb6c8pmcoj368sjccj360_20240502T213000Z",
-        "maps": "NzBvamlkajFjOWk2NGI5aTZjcW1hYjlrNzRvamdiOW9jb28zMGJiNmM4cG1jb2ozNjhzamNjajM2MF8yMDI0MDUwMlQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T18:22:52.291Z",
+        "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240502T213000Z",
+        "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA1MDJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2760,6 +2773,19 @@
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
         "locale": "GOIAS - CENTRAL",
+        "desc": "Sebastião",
+        "date": "2024-05-16T21:30:00.000Z",
+        "end": "2024-05-17T00:00:00.000Z",
+        "updated": "2024-03-14T18:22:52.291Z",
+        "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240516T213000Z",
+        "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA1MTZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
         "desc": "SEBASTIÃO",
         "date": "2024-05-19T11:00:00.000Z",
         "end": "2024-05-19T14:00:00.000Z",
@@ -2792,19 +2818,6 @@
         "updated": "2024-03-14T17:38:28.398Z",
         "gid": "pbogvkbp73un0qjpu53bo254r3_20240522T213000Z",
         "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA1MjJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Sebastião",
-        "date": "2024-05-23T21:30:00.000Z",
-        "end": "2024-05-24T00:00:00.000Z",
-        "updated": "2024-03-14T18:13:51.918Z",
-        "gid": "70ojidj1c9i64b9i6cqmab9k74ojgb9ocoo30bb6c8pmcoj368sjccj360_20240523T213000Z",
-        "maps": "NzBvamlkajFjOWk2NGI5aTZjcW1hYjlrNzRvamdiOW9jb28zMGJiNmM4cG1jb2ozNjhzamNjajM2MF8yMDI0MDUyM1QyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2857,6 +2870,19 @@
         "updated": "2024-02-25T14:57:42.883Z",
         "gid": "6noqrjs6vsaqsltuv31b08ulop_20240530T213000Z",
         "maps": "Nm5vcXJqczZ2c2Fxc2x0dXYzMWIwOHVsb3BfMjAyNDA1MzBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Sebastião",
+        "date": "2024-05-30T21:30:00.000Z",
+        "end": "2024-05-31T00:00:00.000Z",
+        "updated": "2024-03-14T18:22:52.291Z",
+        "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240530T213000Z",
+        "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA1MzBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
