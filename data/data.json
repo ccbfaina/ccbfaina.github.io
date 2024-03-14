@@ -2347,9 +2347,9 @@
         "desc": "Jonathan Lucas",
         "date": "2024-03-24T11:00:00.000Z",
         "end": "2024-03-24T14:00:00.000Z",
-        "updated": "2023-12-25T20:45:10.745Z",
-        "gid": "cosmcphm6gq3gbb1ccqj2b9k74sm6b9ocpj32b9p6hi68oj5ckq32oj2c4_20240324T110000Z",
-        "maps": "Y29zbWNwaG02Z3EzZ2JiMWNjcWoyYjlrNzRzbTZiOW9jcGozMmI5cDZoaTY4b2o1Y2txMzJvajJjNF8yMDI0MDMyNFQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T19:31:23.525Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240324T110000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDAzMjRUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2457,6 +2457,19 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Jonathan Lucas",
+        "date": "2024-04-07T11:00:00.000Z",
+        "end": "2024-04-07T14:00:00.000Z",
+        "updated": "2024-03-14T19:31:23.525Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240407T110000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA0MDdUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
         "locale": "GOIÁS - CENTRAL",
         "desc": "Jonathan Lucas",
         "date": "2024-04-07T21:30:00.000Z",
@@ -2489,19 +2502,6 @@
         "updated": "2024-03-14T18:30:51.816Z",
         "gid": "fa4qjk80f1djaphceucgb8ogmr_20240411T213000Z",
         "maps": "ZmE0cWprODBmMWRqYXBoY2V1Y2diOG9nbXJfMjAyNDA0MTFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Jonathan Lucas",
-        "date": "2024-04-14T11:00:00.000Z",
-        "end": "2024-04-14T14:00:00.000Z",
-        "updated": "2023-12-25T20:45:10.745Z",
-        "gid": "cosmcphm6gq3gbb1ccqj2b9k74sm6b9ocpj32b9p6hi68oj5ckq32oj2c4_20240414T110000Z",
-        "maps": "Y29zbWNwaG02Z3EzZ2JiMWNjcWoyYjlrNzRzbTZiOW9jcGozMmI5cDZoaTY4b2o1Y2txMzJvajJjNF8yMDI0MDQxNFQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2554,6 +2554,19 @@
         "updated": "2024-02-25T16:35:40.912Z",
         "gid": "6grjcpj4cgp30b9o75i64b9k6gpj8b9p6kqj4b9n6osj0c9jc8p38dr5c4_20240421T110000Z",
         "maps": "NmdyamNwajRjZ3AzMGI5bzc1aTY0YjlrNmdwajhiOXA2a3FqNGI5bjZvc2owYzlqYzhwMzhkcjVjNF8yMDI0MDQyMVQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Jonathan Lucas",
+        "date": "2024-04-21T11:00:00.000Z",
+        "end": "2024-04-21T14:00:00.000Z",
+        "updated": "2024-03-14T19:31:23.525Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240421T110000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA0MjFUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2652,9 +2665,9 @@
         "desc": "Jonathan Lucas",
         "date": "2024-05-05T11:00:00.000Z",
         "end": "2024-05-05T14:00:00.000Z",
-        "updated": "2023-12-25T20:45:10.745Z",
-        "gid": "cosmcphm6gq3gbb1ccqj2b9k74sm6b9ocpj32b9p6hi68oj5ckq32oj2c4_20240505T110000Z",
-        "maps": "Y29zbWNwaG02Z3EzZ2JiMWNjcWoyYjlrNzRzbTZiOW9jcGozMmI5cDZoaTY4b2o1Y2txMzJvajJjNF8yMDI0MDUwNVQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T19:31:23.525Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240505T110000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA1MDVUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2763,6 +2776,19 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Jonathan Lucas",
+        "date": "2024-05-19T11:00:00.000Z",
+        "end": "2024-05-19T14:00:00.000Z",
+        "updated": "2024-03-14T19:31:23.525Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240519T110000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA1MTlUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
         "locale": "GOIÁS - CENTRAL",
         "date": "2024-05-19T21:30:00.000Z",
         "end": "2024-05-20T00:00:00.000Z",
@@ -2794,19 +2820,6 @@
         "updated": "2024-03-14T18:30:51.816Z",
         "gid": "fa4qjk80f1djaphceucgb8ogmr_20240523T213000Z",
         "maps": "ZmE0cWprODBmMWRqYXBoY2V1Y2diOG9nbXJfMjAyNDA1MjNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Jonathan Lucas",
-        "date": "2024-05-26T11:00:00.000Z",
-        "end": "2024-05-26T14:00:00.000Z",
-        "updated": "2023-12-25T20:45:10.745Z",
-        "gid": "cosmcphm6gq3gbb1ccqj2b9k74sm6b9ocpj32b9p6hi68oj5ckq32oj2c4_20240526T110000Z",
-        "maps": "Y29zbWNwaG02Z3EzZ2JiMWNjcWoyYjlrNzRzbTZiOW9jcGozMmI5cDZoaTY4b2o1Y2txMzJvajJjNF8yMDI0MDUyNlQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2859,6 +2872,19 @@
         "updated": "2024-02-25T16:35:40.912Z",
         "gid": "6grjcpj4cgp30b9o75i64b9k6gpj8b9p6kqj4b9n6osj0c9jc8p38dr5c4_20240602T110000Z",
         "maps": "NmdyamNwajRjZ3AzMGI5bzc1aTY0YjlrNmdwajhiOXA2a3FqNGI5bjZvc2owYzlqYzhwMzhkcjVjNF8yMDI0MDYwMlQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Jonathan Lucas",
+        "date": "2024-06-02T11:00:00.000Z",
+        "end": "2024-06-02T14:00:00.000Z",
+        "updated": "2024-03-14T19:31:23.525Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240602T110000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA2MDJUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
