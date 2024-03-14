@@ -2356,18 +2356,6 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "date": "2024-03-24T21:30:00.000Z",
-        "end": "2024-03-25T00:00:00.000Z",
-        "updated": "2024-03-14T18:45:08.783Z",
-        "gid": "c9ij8dphckojib9l69gj4b9k69hj2bb274s3eb9lc5hjgohp6oqj0eb2cg_20240324T213000Z",
-        "maps": "YzlpajhkcGhja29qaWI5bDY5Z2o0YjlrNjloajJiYjI3NHMzZWI5bGM1aGpnb2hwNm9xajBlYjJjZ18yMDI0MDMyNFQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
         "locale": "GOIÁS - VILA LIONS",
         "desc": "Adivair Gonçalves",
         "date": "2024-03-27T21:30:00.000Z",
@@ -2563,18 +2551,6 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "date": "2024-04-21T21:30:00.000Z",
-        "end": "2024-04-22T00:00:00.000Z",
-        "updated": "2024-03-14T18:45:08.783Z",
-        "gid": "c9ij8dphckojib9l69gj4b9k69hj2bb274s3eb9lc5hjgohp6oqj0eb2cg_20240421T213000Z",
-        "maps": "YzlpajhkcGhja29qaWI5bDY5Z2o0YjlrNjloajJiYjI3NHMzZWI5bGM1aGpnb2hwNm9xajBlYjJjZ18yMDI0MDQyMVQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
         "locale": "GOIÁS - VILA LIONS",
         "desc": "Adivair Gonçalves",
         "date": "2024-04-24T21:30:00.000Z",
@@ -2764,18 +2740,6 @@
         "updated": "2024-03-14T19:31:23.525Z",
         "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240519T110000Z",
         "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA1MTlUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "date": "2024-05-19T21:30:00.000Z",
-        "end": "2024-05-20T00:00:00.000Z",
-        "updated": "2024-03-14T18:45:08.783Z",
-        "gid": "c9ij8dphckojib9l69gj4b9k69hj2bb274s3eb9lc5hjgohp6oqj0eb2cg_20240519T213000Z",
-        "maps": "YzlpajhkcGhja29qaWI5bDY5Z2o0YjlrNjloajJiYjI3NHMzZWI5bGM1aGpnb2hwNm9xajBlYjJjZ18yMDI0MDUxOVQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
