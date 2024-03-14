@@ -2295,9 +2295,9 @@
         "desc": "SEBASTIÃO",
         "date": "2024-03-17T11:00:00.000Z",
         "end": "2024-03-17T14:00:00.000Z",
-        "updated": "2024-03-14T18:40:06.409Z",
-        "gid": "6oqjae9lcph66bb56lj36b9kclhj2bb1c5hm2b9pcphj8cj3cpgj4e1i60_20240317T110000Z",
-        "maps": "Nm9xamFlOWxjcGg2NmJiNTZsajM2YjlrY2xoajJiYjFjNWhtMmI5cGNwaGo4Y2ozY3BnajRlMWk2MF8yMDI0MDMxN1QxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T19:36:44.724Z",
+        "gid": "rrlf7fe8ksoc7incgi3nt7ro84_20240317T110000Z",
+        "maps": "cnJsZjdmZThrc29jN2luY2dpM250N3JvODRfMjAyNDAzMTdUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2398,9 +2398,9 @@
         "desc": "MARCELO PIRES",
         "date": "2024-03-31T11:00:00.000Z",
         "end": "2024-03-31T14:00:00.000Z",
-        "updated": "2024-02-25T16:35:40.912Z",
-        "gid": "6grjcpj4cgp30b9o75i64b9k6gpj8b9p6kqj4b9n6osj0c9jc8p38dr5c4_20240331T110000Z",
-        "maps": "NmdyamNwajRjZ3AzMGI5bzc1aTY0YjlrNmdwajhiOXA2a3FqNGI5bjZvc2owYzlqYzhwMzhkcjVjNF8yMDI0MDMzMVQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T19:37:25.932Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240331T110000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDAzMzFUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2440,18 +2440,6 @@
         "updated": "2024-03-14T19:33:15.546Z",
         "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240404T213000Z",
         "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA0MDRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "date": "2024-04-07T11:00:00.000Z",
-        "end": "2024-04-07T14:00:00.000Z",
-        "updated": "2024-03-14T18:53:43.953Z",
-        "gid": "6oqjae9lcph66bb56lj36b9kclhj2bb1c5hm2b9pcphj8cj3cpgj4e1i60_20240407T110000Z",
-        "maps": "Nm9xamFlOWxjcGg2NmJiNTZsajM2YjlrY2xoajJiYjFjNWhtMmI5cGNwaGo4Y2ozY3BnajRlMWk2MF8yMDI0MDQwN1QxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2510,6 +2498,32 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "SEBASTIÃO",
+        "date": "2024-04-14T11:00:00.000Z",
+        "end": "2024-04-14T14:00:00.000Z",
+        "updated": "2024-03-14T19:36:44.724Z",
+        "gid": "rrlf7fe8ksoc7incgi3nt7ro84_20240414T110000Z",
+        "maps": "cnJsZjdmZThrc29jN2luY2dpM250N3JvODRfMjAyNDA0MTRUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "MARCELO PIRES",
+        "date": "2024-04-14T11:00:00.000Z",
+        "end": "2024-04-14T14:00:00.000Z",
+        "updated": "2024-03-14T19:37:25.932Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240414T110000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA0MTRUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
         "locale": "GOIÁS - CENTRAL",
         "desc": "Abel",
         "date": "2024-04-14T21:30:00.000Z",
@@ -2543,19 +2557,6 @@
         "updated": "2024-03-14T19:33:15.546Z",
         "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240418T213000Z",
         "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA0MThUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "MARCELO PIRES",
-        "date": "2024-04-21T11:00:00.000Z",
-        "end": "2024-04-21T14:00:00.000Z",
-        "updated": "2024-02-25T16:35:40.912Z",
-        "gid": "6grjcpj4cgp30b9o75i64b9k6gpj8b9p6kqj4b9n6osj0c9jc8p38dr5c4_20240421T110000Z",
-        "maps": "NmdyamNwajRjZ3AzMGI5bzc1aTY0YjlrNmdwajhiOXA2a3FqNGI5bjZvc2owYzlqYzhwMzhkcjVjNF8yMDI0MDQyMVQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2614,11 +2615,12 @@
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
         "locale": "GOIAS - CENTRAL",
+        "desc": "MARCELO PIRES",
         "date": "2024-04-28T11:00:00.000Z",
         "end": "2024-04-28T14:00:00.000Z",
-        "updated": "2024-03-14T18:53:43.953Z",
-        "gid": "6oqjae9lcph66bb56lj36b9kclhj2bb1c5hm2b9pcphj8cj3cpgj4e1i60_20240428T110000Z",
-        "maps": "Nm9xamFlOWxjcGg2NmJiNTZsajM2YjlrY2xoajJiYjFjNWhtMmI5cGNwaGo4Y2ozY3BnajRlMWk2MF8yMDI0MDQyOFQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T19:37:25.932Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240428T110000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA0MjhUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2717,12 +2719,25 @@
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
         "locale": "GOIAS - CENTRAL",
+        "desc": "SEBASTIÃO",
+        "date": "2024-05-12T11:00:00.000Z",
+        "end": "2024-05-12T14:00:00.000Z",
+        "updated": "2024-03-14T19:36:44.724Z",
+        "gid": "rrlf7fe8ksoc7incgi3nt7ro84_20240512T110000Z",
+        "maps": "cnJsZjdmZThrc29jN2luY2dpM250N3JvODRfMjAyNDA1MTJUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
         "desc": "MARCELO PIRES",
         "date": "2024-05-12T11:00:00.000Z",
         "end": "2024-05-12T14:00:00.000Z",
-        "updated": "2024-02-25T16:35:40.912Z",
-        "gid": "6grjcpj4cgp30b9o75i64b9k6gpj8b9p6kqj4b9n6osj0c9jc8p38dr5c4_20240512T110000Z",
-        "maps": "NmdyamNwajRjZ3AzMGI5bzc1aTY0YjlrNmdwajhiOXA2a3FqNGI5bjZvc2owYzlqYzhwMzhkcjVjNF8yMDI0MDUxMlQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T19:37:25.932Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240512T110000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA1MTJUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2762,18 +2777,6 @@
         "updated": "2024-03-14T19:33:15.546Z",
         "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240516T213000Z",
         "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA1MTZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "date": "2024-05-19T11:00:00.000Z",
-        "end": "2024-05-19T14:00:00.000Z",
-        "updated": "2024-03-14T18:53:43.953Z",
-        "gid": "6oqjae9lcph66bb56lj36b9kclhj2bb1c5hm2b9pcphj8cj3cpgj4e1i60_20240519T110000Z",
-        "maps": "Nm9xamFlOWxjcGg2NmJiNTZsajM2YjlrY2xoajJiYjFjNWhtMmI5cGNwaGo4Y2ozY3BnajRlMWk2MF8yMDI0MDUxOVQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2831,6 +2834,19 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "MARCELO PIRES",
+        "date": "2024-05-26T11:00:00.000Z",
+        "end": "2024-05-26T14:00:00.000Z",
+        "updated": "2024-03-14T19:37:25.932Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240526T110000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA1MjZUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
         "locale": "GOIÁS - CENTRAL",
         "desc": "Benjamin",
         "date": "2024-05-26T21:30:00.000Z",
@@ -2864,19 +2880,6 @@
         "updated": "2024-03-14T19:33:15.546Z",
         "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240530T213000Z",
         "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA1MzBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "MARCELO PIRES",
-        "date": "2024-06-02T11:00:00.000Z",
-        "end": "2024-06-02T14:00:00.000Z",
-        "updated": "2024-02-25T16:35:40.912Z",
-        "gid": "6grjcpj4cgp30b9o75i64b9k6gpj8b9p6kqj4b9n6osj0c9jc8p38dr5c4_20240602T110000Z",
-        "maps": "NmdyamNwajRjZ3AzMGI5bzc1aTY0YjlrNmdwajhiOXA2a3FqNGI5bjZvc2owYzlqYzhwMzhkcjVjNF8yMDI0MDYwMlQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2936,11 +2939,25 @@
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
         "locale": "GOIAS - CENTRAL",
+        "desc": "SEBASTIÃO",
         "date": "2024-06-09T11:00:00.000Z",
         "end": "2024-06-09T14:00:00.000Z",
-        "updated": "2024-03-14T18:53:43.953Z",
-        "gid": "6oqjae9lcph66bb56lj36b9kclhj2bb1c5hm2b9pcphj8cj3cpgj4e1i60_20240609T110000Z",
-        "maps": "Nm9xamFlOWxjcGg2NmJiNTZsajM2YjlrY2xoajJiYjFjNWhtMmI5cGNwaGo4Y2ozY3BnajRlMWk2MF8yMDI0MDYwOVQxMTAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
+        "updated": "2024-03-14T19:36:44.724Z",
+        "gid": "rrlf7fe8ksoc7incgi3nt7ro84_20240609T110000Z",
+        "maps": "cnJsZjdmZThrc29jN2luY2dpM250N3JvODRfMjAyNDA2MDlUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "MARCELO PIRES",
+        "date": "2024-06-09T11:00:00.000Z",
+        "end": "2024-06-09T14:00:00.000Z",
+        "updated": "2024-03-14T19:37:25.932Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240609T110000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA2MDlUMTEwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
