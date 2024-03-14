@@ -2282,7 +2282,7 @@
         "desc": "Marcelo Pires",
         "date": "2024-03-14T21:30:00.000Z",
         "end": "2024-03-15T00:00:00.000Z",
-        "updated": "2023-12-25T01:38:32.802Z",
+        "updated": "2024-03-14T18:24:44.628Z",
         "gid": "cos38e356kqm4b9l6gpjeb9k6tijib9p60p36bb4coqjac366hijgdplc8_20240314T213000Z",
         "maps": "Y29zMzhlMzU2a3FtNGI5bDZncGplYjlrNnRpamliOXA2MHAzNmJiNGNvcWphYzM2NmhpamdkcGxjOF8yMDI0MDMxNFQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
@@ -2428,19 +2428,6 @@
         "updated": "2024-03-14T17:39:10.659Z",
         "gid": "n8v20h6agmuonuharhqf9i2j16_20240403T213000Z",
         "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTZfMjAyNDA0MDNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Marcelo Pires",
-        "date": "2024-04-04T21:30:00.000Z",
-        "end": "2024-04-05T00:00:00.000Z",
-        "updated": "2023-12-25T01:38:32.802Z",
-        "gid": "cos38e356kqm4b9l6gpjeb9k6tijib9p60p36bb4coqjac366hijgdplc8_20240404T213000Z",
-        "maps": "Y29zMzhlMzU2a3FtNGI5bDZncGplYjlrNnRpamliOXA2MHAzNmJiNGNvcWphYzM2NmhpamdkcGxjOF8yMDI0MDQwNFQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2604,19 +2591,6 @@
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
         "locale": "GOIAS - CENTRAL",
-        "desc": "Marcelo Pires",
-        "date": "2024-04-25T21:30:00.000Z",
-        "end": "2024-04-26T00:00:00.000Z",
-        "updated": "2023-12-25T01:38:32.802Z",
-        "gid": "cos38e356kqm4b9l6gpjeb9k6tijib9p60p36bb4coqjac366hijgdplc8_20240425T213000Z",
-        "maps": "Y29zMzhlMzU2a3FtNGI5bDZncGplYjlrNnRpamliOXA2MHAzNmJiNGNvcWphYzM2NmhpamdkcGxjOF8yMDI0MDQyNVQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
         "desc": "SEBASTIÃO",
         "date": "2024-04-28T11:00:00.000Z",
         "end": "2024-04-28T14:00:00.000Z",
@@ -2753,19 +2727,6 @@
         "updated": "2024-03-14T17:36:41.469Z",
         "gid": "41p7c9m1ltvfvn1a0r7uppmit0_20240515T213000Z",
         "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfMjAyNDA1MTVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Marcelo Pires",
-        "date": "2024-05-16T21:30:00.000Z",
-        "end": "2024-05-17T00:00:00.000Z",
-        "updated": "2023-12-25T01:38:32.802Z",
-        "gid": "cos38e356kqm4b9l6gpjeb9k6tijib9p60p36bb4coqjac366hijgdplc8_20240516T213000Z",
-        "maps": "Y29zMzhlMzU2a3FtNGI5bDZncGplYjlrNnRpamliOXA2MHAzNmJiNGNvcWphYzM2NmhpamdkcGxjOF8yMDI0MDUxNlQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
@@ -2922,19 +2883,6 @@
         "updated": "2024-03-14T17:38:28.398Z",
         "gid": "pbogvkbp73un0qjpu53bo254r3_20240605T213000Z",
         "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA2MDVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Marcelo Pires",
-        "date": "2024-06-06T21:30:00.000Z",
-        "end": "2024-06-07T00:00:00.000Z",
-        "updated": "2023-12-25T01:38:32.802Z",
-        "gid": "cos38e356kqm4b9l6gpjeb9k6tijib9p60p36bb4coqjac366hijgdplc8_20240606T213000Z",
-        "maps": "Y29zMzhlMzU2a3FtNGI5bDZncGplYjlrNnRpamliOXA2MHAzNmJiNGNvcWphYzM2NmhpamdkcGxjOF8yMDI0MDYwNlQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzVAZw",
         "recurring": "true"
       },
       {
