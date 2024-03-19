@@ -1029,19 +1029,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - SÃO CARLOS",
-        "desc": "Resp. Jonathan Lucas Gonçalves",
-        "date": "2024-04-06T17:00:00.000Z",
-        "end": "2024-04-06T18:30:00.000Z",
-        "updated": "2023-12-27T14:52:04.124Z",
-        "gid": "0uo5bvb109au7vgidk6f6vpfns_20240406T170000Z",
-        "maps": "MHVvNWJ2YjEwOWF1N3ZnaWRrNmY2dnBmbnNfMjAyNDA0MDZUMTcwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - SÃO FELIPOS",
         "desc": "<DIV>WALLACE DE SOLZA</DIV><DIV>RESP. MARCO ANTÔNIO </DIV>",
         "date": "2024-04-06T17:00:00.000Z",
@@ -1062,6 +1049,19 @@
         "updated": "2023-12-27T14:41:12.390Z",
         "gid": "179k39951t9pr8q6digrdli542_20240406T223000Z",
         "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA0MDZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - SÃO CARLOS",
+        "desc": "Resp. Jonathan Lucas Gonçalves",
+        "date": "2024-04-07T17:00:00.000Z",
+        "end": "2024-04-07T19:00:00.000Z",
+        "updated": "2024-03-19T22:36:06.382Z",
+        "gid": "0uo5bvb109au7vgidk6f6vpfns_20240406T170000Z",
+        "maps": "MHVvNWJ2YjEwOWF1N3ZnaWRrNmY2dnBmbnNfMjAyNDA0MDZUMTcwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
