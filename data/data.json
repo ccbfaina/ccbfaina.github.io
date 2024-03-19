@@ -1704,6 +1704,19 @@
       {
         "id": 0,
         "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento",
+        "date": "2024-06-17T19:00:00.000Z",
+        "end": "2024-06-17T21:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "erfl2ic6mh8nrdq6m8ajqgijs0_20240617T190000Z",
+        "maps": "ZXJmbDJpYzZtaDhucmRxNm04YWpxZ2lqczBfMjAyNDA2MTdUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
         "title": "LAR DE IDOSOS",
         "locale": "FAINA - LAR DO IDOSO DONA LEONTINA GOBBE CUNHA",
         "desc": "Ir. Maciel Antônio de Oliveira\nIR. PAULO VINICIOS SALES DE ARAUJO",
@@ -3220,6 +3233,19 @@
         "updated": "2024-02-12T15:48:27.211Z",
         "gid": "aeliqius6hsi6ket7t3el8slgc_20240610T220000Z",
         "maps": "YWVsaXFpdXM2aHNpNmtldDd0M2VsOHNsZ2NfMjAyNDA2MTBUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "GRUPO DE ESTUDOS MUSICAIS (GEM)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "<span>ARTHOS MORAES VIEIRA, </span><br>OSMAR ALVES NASCIMENTO",
+        "date": "2024-06-17T22:00:00.000Z",
+        "end": "2024-06-18T00:00:00.000Z",
+        "updated": "2024-02-12T15:48:27.211Z",
+        "gid": "aeliqius6hsi6ket7t3el8slgc_20240617T220000Z",
+        "maps": "YWVsaXFpdXM2aHNpNmtldDd0M2VsOHNsZ2NfMjAyNDA2MTdUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       }
     ]
