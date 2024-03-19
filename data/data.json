@@ -1497,19 +1497,6 @@
         "id": 0,
         "list": "DARPE",
         "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento",
-        "date": "2024-03-18T19:00:00.000Z",
-        "end": "2024-03-18T21:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "erfl2ic6mh8nrdq6m8ajqgijs0_20240318T190000Z",
-        "maps": "ZXJmbDJpYzZtaDhucmRxNm04YWpxZ2lqczBfMjAyNDAzMThUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
         "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
         "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
         "date": "2024-03-25T18:00:00.000Z",
@@ -3064,19 +3051,6 @@
         "updated": "2024-03-14T19:45:00.239Z",
         "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20240616T213000Z",
         "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDA2MTZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "GRUPO DE ESTUDOS MUSICAIS (GEM)",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "<span>ARTHOS MORAES VIEIRA, </span><br>OSMAR ALVES NASCIMENTO",
-        "date": "2024-03-18T22:00:00.000Z",
-        "end": "2024-03-19T00:00:00.000Z",
-        "updated": "2024-02-12T15:48:27.211Z",
-        "gid": "aeliqius6hsi6ket7t3el8slgc_20240318T220000Z",
-        "maps": "YWVsaXFpdXM2aHNpNmtldDd0M2VsOHNsZ2NfMjAyNDAzMThUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
