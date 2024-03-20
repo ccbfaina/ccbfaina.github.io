@@ -4,18 +4,6 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "REUNIÃO PARA MOCIDADE",
-        "locale": "JUSSARA",
-        "date": "2024-06-16T17:00:00.000Z",
-        "end": "2024-06-16T20:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "t1pipi9oci4lkh0dm8be3hkgj8_20240616T170000Z",
-        "maps": "dDFwaXBpOW9jaTRsa2gwZG04YmUzaGtnajhfMjAyNDA2MTZUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "ARAGUAPAZ",
         "desc": "ECLESIASTES ARAÚJO DE SOUSA",
@@ -41,6 +29,18 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES PARA A MOCIDADE",
+        "locale": "JUSSARA",
+        "date": "2024-06-16T17:00:00.000Z",
+        "end": "2024-06-16T20:00:00.000Z",
+        "updated": "2024-03-20T02:29:49.215Z",
+        "gid": "t1pipi9oci4lkh0dm8be3hkgj8_20240616T170000Z",
+        "maps": "dDFwaXBpOW9jaTRsa2gwZG04YmUzaGtnajhfMjAyNDA2MTZUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
         "locale": "ARAGUAPAZ",
         "desc": "ANC. ECLESIASTES ARAÚJO DE SOUSA<br>ENC. MONOEL MESSIAS",
@@ -54,11 +54,11 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "ENSAIO REGIONAL",
+        "title": "ENSAIOS REGIONAIS",
         "locale": "ARUANÃ",
         "date": "2024-05-05T12:00:00.000Z",
         "end": "2024-05-05T15:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "updated": "2024-03-20T02:31:01.238Z",
         "gid": "4ua2d9inj9sisj4poipb1hbuei_20240505T120000Z",
         "maps": "NHVhMmQ5aW5qOXNpc2o0cG9pcGIxaGJ1ZWlfMjAyNDA1MDVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
@@ -66,12 +66,12 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "ENSAIO REGIONAL",
+        "title": "ENSAIOS REGIONAIS",
         "locale": "JUSSARA",
         "desc": "<b><u>TESTES MUSICAIS</u></b>",
         "date": "2024-06-16T12:00:00.000Z",
         "end": "2024-06-16T15:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "updated": "2024-03-20T02:31:24.320Z",
         "gid": "qfslsh68s89eb00kucvr55dtf2_20240616T120000Z",
         "maps": "cWZzbHNoNjhzODllYjAwa3VjdnI1NWR0ZjJfMjAyNDA2MTZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
