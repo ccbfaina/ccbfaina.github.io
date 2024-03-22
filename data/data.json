@@ -951,19 +951,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - ENTRADA BOM SUCESSO",
-        "desc": "SRA. JOELMA E SR. DEMILSON<BR>RESP. IR. JONATHAN<BR>LOCAL: HTTPS://MAPS.APP.GOO.GL/M3EC2KE1WIQTNZUF6",
-        "date": "2024-03-22T22:00:00.000Z",
-        "end": "2024-03-23T00:00:00.000Z",
-        "updated": "2024-03-22T16:31:04.800Z",
-        "gid": "1oh1e1ds7sd8tlvhbnjiivbn3c",
-        "maps": "MW9oMWUxZHM3c2Q4dGx2aGJuamlpdmJuM2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - BUENOLÂNDIA",
         "desc": "RESP. GILMAR LINO",
         "date": "2024-03-23T22:30:00.000Z",
@@ -998,6 +985,19 @@
         "gid": "2dut32j8nojdgp8r2jq6stp068_20240402T223000Z",
         "maps": "MmR1dDMyajhub2pkZ3A4cjJqcTZzdHAwNjhfMjAyNDA0MDJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - ENTRADA BOM SUCESSO",
+        "desc": "SRA. JOELMA E SR. DEMILSON<BR>RESP. IR. JONATHAN<BR>LOCAL: HTTPS://MAPS.APP.GOO.GL/M3EC2KE1WIQTNZUF6",
+        "date": "2024-04-05T22:00:00.000Z",
+        "end": "2024-04-06T00:00:00.000Z",
+        "updated": "2024-03-22T16:31:29.256Z",
+        "gid": "1oh1e1ds7sd8tlvhbnjiivbn3c",
+        "maps": "MW9oMWUxZHM3c2Q4dGx2aGJuamlpdmJuM2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "recurring": "false"
       },
       {
         "id": 0,
