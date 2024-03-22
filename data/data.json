@@ -143,13 +143,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES DIVERSAS",
         "locale": "FAINA - CENTRAL",
-        "desc": "RGE - REUNIÃO GERAL DE ENSINAMENTOS",
+        "desc": "RGE - <B>REUNIÃO GERAL DE ENSINAMENTOS</B>",
         "date": "2024-03-31T12:00:00.000Z",
         "end": "2024-03-31T14:00:00.000Z",
-        "updated": "2024-02-11T15:19:42.701Z",
+        "updated": "2024-03-22T16:54:04.526Z",
         "gid": "3kabbuk7m529tc2orijutnqeed_20240331T120000Z",
         "maps": "M2thYmJ1azdtNTI5dGMyb3JpanV0bnFlZWRfMjAyNDAzMzFUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
