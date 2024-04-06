@@ -910,19 +910,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - ENTRADA BOM SUCESSO",
-        "desc": "SRA. JOELMA E SR. DEMILSON<BR>RESP. IR. JONATHAN<DIV><BR></DIV>",
-        "date": "2024-04-05T22:00:00.000Z",
-        "end": "2024-04-06T00:00:00.000Z",
-        "updated": "2024-03-22T18:25:06.481Z",
-        "gid": "1oh1e1ds7sd8tlvhbnjiivbn3c",
-        "maps": "MW9oMWUxZHM3c2Q4dGx2aGJuamlpdmJuM2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - SÃO FELIPOS",
         "desc": "<DIV>WALLACE DE SOLZA</DIV><DIV>RESP. MARCO ANTÔNIO</DIV>",
         "date": "2024-04-06T13:00:00.000Z",
@@ -1307,6 +1294,19 @@
         "updated": "2023-12-27T14:46:10.676Z",
         "gid": "2dut32j8nojdgp8r2jq6stp068_20240702T223000Z",
         "maps": "MmR1dDMyajhub2pkZ3A4cjJqcTZzdHAwNjhfMjAyNDA3MDJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - REGIÃO BOM SUCESSO",
+        "desc": "Resp. Adivair Francelino Gonçalves",
+        "date": "2024-07-05T22:30:00.000Z",
+        "end": "2024-07-06T00:00:00.000Z",
+        "updated": "2023-12-27T14:43:58.874Z",
+        "gid": "56sdjgl9vihm0bpbs3tueaep0q_20240705T223000Z",
+        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHFfMjAyNDA3MDVUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
