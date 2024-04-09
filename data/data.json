@@ -30,6 +30,18 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "MOZARLÂNDIA - CENTRAL",
+        "date": "2024-04-21T22:00:00.000Z",
+        "end": "2024-04-22T00:00:00.000Z",
+        "updated": "2024-04-09T18:37:02.796Z",
+        "gid": "rgiv7v1htn7lakhbuahs8ub5k8",
+        "maps": "cmdpdjd2MWh0bjdsYWtoYnVhaHM4dWI1azggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "ARUANÃ",
         "date": "2024-05-05T17:00:00.000Z",
