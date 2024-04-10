@@ -16,6 +16,30 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "ITABERAÍ - CENTRAL",
+        "date": "2024-05-19T22:00:00.000Z",
+        "end": "2024-05-20T00:00:00.000Z",
+        "updated": "2024-04-10T14:35:58.195Z",
+        "gid": "j1kakjgodgsb2fg7qgrhcgdakc_20240519T220000Z",
+        "maps": "ajFrYWtqZ29kZ3NiMmZnN3FncmhjZ2Rha2NfMjAyNDA1MTlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "ITABERAÍ - CENTRAL",
+        "date": "2024-06-16T22:00:00.000Z",
+        "end": "2024-06-17T00:00:00.000Z",
+        "updated": "2024-04-10T14:35:58.195Z",
+        "gid": "j1kakjgodgsb2fg7qgrhcgdakc_20240616T220000Z",
+        "maps": "ajFrYWtqZ29kZ3NiMmZnN3FncmhjZ2Rha2NfMjAyNDA2MTZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "JUSSARA",
         "date": "2024-06-16T17:00:00.000Z",
@@ -863,19 +887,6 @@
         "updated": "2024-04-10T14:31:48.703Z",
         "gid": "udd0qffmvc46fcjq8vkm2i684s_20240526T220000Z",
         "maps": "dWRkMHFmZm12YzQ2ZmNqcTh2a20yaTY4NHNfMjAyNDA1MjZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "ITABERAÍ - CENTRAL",
-        "desc": "EMIVAL DIVINO FERNANDES",
-        "date": "2024-06-16T22:00:00.000Z",
-        "end": "2024-06-17T00:00:00.000Z",
-        "updated": "2024-04-10T14:34:06.387Z",
-        "gid": "bpp1aip6kvpc6raqa2at7om4e4_20240616T220000Z",
-        "maps": "YnBwMWFpcDZrdnBjNnJhcWEyYXQ3b200ZTRfMjAyNDA2MTZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
