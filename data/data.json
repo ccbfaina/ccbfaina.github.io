@@ -91,13 +91,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "ENSAIOS REGIONAIS",
         "locale": "GOIÁS - CENTRAL",
-        "desc": "<DIV>ANC. </DIV>ENC. WILSON",
+        "desc": "<DIV>ANC. </DIV>ENC. FRANCISCO WILSON SOARES DE MACEDO",
         "date": "2024-07-07T12:00:00.000Z",
         "end": "2024-07-07T14:00:00.000Z",
-        "updated": "2024-04-10T14:55:02.494Z",
+        "updated": "2024-04-10T15:18:41.069Z",
         "gid": "555sppvcp2pv9loc0hfuermn7j_20240707T120000Z",
         "maps": "NTU1c3BwdmNwMnB2OWxvYzBoZnVlcm1uN2pfMjAyNDA3MDdUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
