@@ -77,13 +77,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "ENSAIOS REGIONAIS",
         "locale": "ITAPURANGA - CENTRAL",
-        "desc": "ANC. <DIV>ENC. UASLEI SILVA RIBEIRO</DIV>",
+        "desc": "ANC. WALTER BORGES<DIV>ENC. UASLEI SILVA RIBEIRO</DIV>",
         "date": "2024-06-23T12:00:00.000Z",
         "end": "2024-06-23T14:00:00.000Z",
-        "updated": "2024-04-10T14:50:14.000Z",
+        "updated": "2024-04-10T14:51:56.992Z",
         "gid": "3qs5asjcthjq1l9vthq5jq0017_20240623T120000Z",
         "maps": "M3FzNWFzamN0aGpxMWw5dnRocTVqcTAwMTdfMjAyNDA2MjNUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
