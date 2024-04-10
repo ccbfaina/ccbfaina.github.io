@@ -92,9 +92,10 @@
         "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
         "locale": "ITAPURANGA - CENTRAL",
+        "desc": "ANC. <DIV>ENC. UASLEI SILVA RIBEIRO</DIV>",
         "date": "2024-06-23T12:00:00.000Z",
-        "end": "2024-06-23T15:00:00.000Z",
-        "updated": "2024-03-20T02:32:54.789Z",
+        "end": "2024-06-23T14:00:00.000Z",
+        "updated": "2024-04-10T14:50:14.000Z",
         "gid": "3qs5asjcthjq1l9vthq5jq0017_20240623T120000Z",
         "maps": "M3FzNWFzamN0aGpxMWw5dnRocTVqcTAwMTdfMjAyNDA2MjNUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
