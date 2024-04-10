@@ -4,32 +4,6 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "SANTA CEIA",
-        "locale": "SANTA FÉ DE GOIÁS - CENTRAL",
-        "desc": "NEIDE DA SILVA PEREIRA",
-        "date": "2024-06-30T22:00:00.000Z",
-        "end": "2024-07-01T00:00:00.000Z",
-        "updated": "2024-02-19T15:00:45.882Z",
-        "gid": "0ar04rsclm7dck6qu6jauilsp0_20240630T220000Z",
-        "maps": "MGFyMDRyc2NsbTdkY2s2cXU2amF1aWxzcDBfMjAyNDA2MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTA CEIA",
-        "locale": " ITABERAÍ - JARDIM CRISTINA",
-        "desc": "EMIVAL DIVINO FERNANDES",
-        "date": "2024-07-06T22:00:00.000Z",
-        "end": "2024-07-07T00:00:00.000Z",
-        "updated": "2024-02-19T15:00:59.306Z",
-        "gid": "4tuuvr0bcp5ld7in0jskaddbij_20240706T220000Z",
-        "maps": "NHR1dXZyMGJjcDVsZDdpbjBqc2thZGRiaWpfMjAyNDA3MDZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
         "title": "BATISMOS",
         "locale": "MOZARLÂNDIA - CENTRAL",
         "date": "2024-04-21T22:00:00.000Z",
@@ -864,6 +838,32 @@
         "gid": "l0f3dk5np2rjbsd9eahqs4nebo",
         "maps": "bDBmM2RrNW5wMnJqYnNkOWVhaHFzNG5lYm8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "SANTA FÉ DE GOIÁS - CENTRAL",
+        "desc": "NEIDE DA SILVA PEREIRA",
+        "date": "2024-06-30T22:00:00.000Z",
+        "end": "2024-07-01T00:00:00.000Z",
+        "updated": "2024-04-10T13:55:46.930Z",
+        "gid": "0ar04rsclm7dck6qu6jauilsp0_20240630T220000Z",
+        "maps": "MGFyMDRyc2NsbTdkY2s2cXU2amF1aWxzcDBfMjAyNDA2MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": " ITABERAÍ - JARDIM CRISTINA",
+        "desc": "EMIVAL DIVINO FERNANDES",
+        "date": "2024-07-06T22:00:00.000Z",
+        "end": "2024-07-07T00:00:00.000Z",
+        "updated": "2024-04-10T13:56:18.684Z",
+        "gid": "4tuuvr0bcp5ld7in0jskaddbij_20240706T220000Z",
+        "maps": "NHR1dXZyMGJjcDVsZDdpbjBqc2thZGRiaWpfMjAyNDA3MDZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
       },
       {
         "id": 0,
