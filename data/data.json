@@ -949,13 +949,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "SANTAS CEIAS",
         "locale": " ITABERAÍ - JARDIM CRISTINA",
-        "desc": "EMIVAL DIVINO FERNANDES",
+        "desc": "ISRAEL BARBOSA EUZÉBIO DA SILVA",
         "date": "2024-07-06T22:00:00.000Z",
         "end": "2024-07-07T00:00:00.000Z",
-        "updated": "2024-04-10T13:56:18.684Z",
+        "updated": "2024-04-10T19:44:17.320Z",
         "gid": "4tuuvr0bcp5ld7in0jskaddbij_20240706T220000Z",
         "maps": "NHR1dXZyMGJjcDVsZDdpbjBqc2thZGRiaWpfMjAyNDA3MDZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
