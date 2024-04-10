@@ -809,10 +809,10 @@
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "ITABERAÍ - VILA PROGRESSO",
-        "desc": "ANC.: VAGNER GARCIA, ANC. ITAMAR MENEZES\nDIÁCONO: SALMO SILVESTRE SOUZA",
+        "desc": "ANC.: VAGNER GARCIA, \nANC. ITAMAR MENEZES \nDIÁCONO: SALMO SILVESTRE SOUZA",
         "date": "2024-06-10T04:00:00.000Z",
         "end": "2024-06-10T04:30:00.000Z",
-        "updated": "2024-02-11T16:55:13.144Z",
+        "updated": "2024-04-10T15:06:20.242Z",
         "gid": "g4399lkrou132g28aju77bco10_20240610T040000Z",
         "maps": "ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNDA2MTBUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
@@ -854,6 +854,19 @@
         "updated": "2024-04-10T14:56:09.741Z",
         "gid": "kvcbbargu6g0dgbtnqa289n84s_20240505T220000Z",
         "maps": "a3ZjYmJhcmd1NmcwZGdidG5xYTI4OW44NHNfMjAyNDA1MDVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "ITABERAÍ - FAZENDA SOBRADINHO",
+        "desc": "ISRAEL BARBOSA EUZÉBIO DA SILVA",
+        "date": "2024-05-18T22:00:00.000Z",
+        "end": "2024-05-19T00:00:00.000Z",
+        "updated": "2024-04-10T15:11:01.341Z",
+        "gid": "8m3ldse3qetnhac1hfunhom8a8_20240518T220000Z",
+        "maps": "OG0zbGRzZTNxZXRuaGFjMWhmdW5ob204YThfMjAyNDA1MThUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
