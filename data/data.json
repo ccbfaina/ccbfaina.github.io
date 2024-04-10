@@ -40,12 +40,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "ITAPURANGA - CENTRAL",
+        "desc": "WALTER BORGES",
         "date": "2024-06-23T17:00:00.000Z",
-        "end": "2024-06-23T20:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "end": "2024-06-23T19:00:00.000Z",
+        "updated": "2024-04-10T14:52:08.426Z",
         "gid": "1mi3to9pn5c7dqts0rgf3g2shm_20240623T170000Z",
         "maps": "MW1pM3RvOXBuNWM3ZHF0czByZ2YzZzJzaG1fMjAyNDA2MjNUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
