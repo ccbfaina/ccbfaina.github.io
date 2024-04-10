@@ -620,6 +620,32 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ITABERAÍ - VILA PROGRESSO",
+        "desc": "ANCIÃES E DIÁCONOS",
+        "date": "2024-07-09T21:00:00.000Z",
+        "end": "2024-07-09T22:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "74rmap9pvglu1sq9jh9veag4os_20240709T210000Z",
+        "maps": "NzRybWFwOXB2Z2x1MXNxOWpoOXZlYWc0b3NfMjAyNDA3MDlUMjEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ITABERAÍ - VILA PROGRESSO",
+        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
+        "date": "2024-07-09T22:30:00.000Z",
+        "end": "2024-07-10T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "77ag1e7v1hlue4vvlqga8jbbsr_20240709T223000Z",
+        "maps": "NzdhZzFlN3YxaGx1ZTR2dmxxZ2E4amJic3JfMjAyNDA3MDlUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "FAINA - CENTRAL",
         "desc": "ATENDIMENTO OBRA DA PIEDADE",
@@ -1317,6 +1343,19 @@
         "updated": "2023-12-27T14:41:12.390Z",
         "gid": "179k39951t9pr8q6digrdli542_20240706T223000Z",
         "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA3MDZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
+        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
+        "date": "2024-07-09T22:30:00.000Z",
+        "end": "2024-07-10T00:00:00.000Z",
+        "updated": "2024-03-26T17:53:23.551Z",
+        "gid": "4tbb562a64lo4ghjm83vobrpub_20240709T223000Z",
+        "maps": "NHRiYjU2MmE2NGxvNGdoam04M3ZvYnJwdWJfMjAyNDA3MDlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
