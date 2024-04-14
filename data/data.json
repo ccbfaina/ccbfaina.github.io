@@ -196,13 +196,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "ENSAIOS REGIONAIS",
         "locale": "JUSSARA",
-        "desc": "ANC. VAGNER GARCIA DOS REIS<DIV><DIV STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. NEREU</DIV><B STYLE=\"LETTER-SPACING: 0.1PX;\"><U>TESTES MUSICAIS</U></B><BR></DIV>",
+        "desc": "ANC. VAGNER GARCIA DOS REIS<DIV><DIV STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. NEREU JOSÉ DA ROCHA</DIV><B STYLE=\"LETTER-SPACING: 0.1PX;\"><U>TESTES MUSICAIS</U></B><BR></DIV>",
         "date": "2024-06-16T12:00:00.000Z",
         "end": "2024-06-16T14:00:00.000Z",
-        "updated": "2024-04-14T11:28:50.867Z",
+        "updated": "2024-04-14T11:49:57.955Z",
         "gid": "qfslsh68s89eb00kucvr55dtf2_20240616T120000Z",
         "maps": "cWZzbHNoNjhzODllYjAwa3VjdnI1NWR0ZjJfMjAyNDA2MTZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
