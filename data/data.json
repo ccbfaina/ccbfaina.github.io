@@ -160,6 +160,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "ARUANÃ - CENTRAL",
+        "desc": "MUDANÇA DE LOCAL DE CULTO PARA O SETOR NOVA ARUANA DURANTE O PERÍODO DE CONSTRUÇÃO",
+        "date": "2024-06-09T03:00:00.000Z",
+        "end": "2024-06-09T05:00:00.000Z",
+        "updated": "2024-04-14T12:17:14.164Z",
+        "gid": "s5klb5mlemq8l3436hh1j94sis",
+        "maps": "czVrbGI1bWxlbXE4bDM0MzZoaDFqOTRzaXMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "JUSSARA",
         "desc": "VAGNER GARCIA DOS REIS",
