@@ -1241,9 +1241,9 @@
         "date": "2024-06-15T22:00:00.000Z",
         "end": "2024-06-16T00:00:00.000Z",
         "updated": "2024-04-14T03:22:38.902Z",
-        "gid": "o0g06np4derq0lg5ohqdto4f0c",
+        "gid": "o0g06np4derq0lg5ohqdto4f0c_20240615T220000Z",
         "maps": "bzBnMDZucDRkZXJxMGxnNW9ocWR0bzRmMGNfMjAyNDA2MTVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "false"
+        "recurring": "true"
       },
       {
         "id": 0,
