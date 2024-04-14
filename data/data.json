@@ -703,6 +703,71 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "JUSSARA - CENTRAL",
+        "desc": "ANCIÃES E DIÁCONOS",
+        "date": "2024-07-13T11:00:00.000Z",
+        "end": "2024-07-13T12:30:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "34o3193ep3dbke8sdllnv7oa8q_20240713T110000Z",
+        "maps": "MzRvMzE5M2VwM2Ria2U4c2RsbG52N29hOHFfMjAyNDA3MTNUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "JUSSARA - CENTRAL",
+        "desc": "RA (REUNIÃO ADMINISTRATIVA COM COLABORADORES)",
+        "date": "2024-07-13T11:00:00.000Z",
+        "end": "2024-07-13T13:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "cep1mqum0r60poqu8pjkoa74pg_20240713T110000Z",
+        "maps": "Y2VwMW1xdW0wcjYwcG9xdThwamtvYTc0cGdfMjAyNDA3MTNUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "JUSSARA - CENTRAL",
+        "desc": "ANCIÃES E DIÁCONOS",
+        "date": "2024-07-13T11:00:00.000Z",
+        "end": "2024-07-13T13:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "gfnm2go5v29dcshs45tp82v9oo_20240713T110000Z",
+        "maps": "Z2ZubTJnbzV2MjlkY3NoczQ1dHA4MnY5b29fMjAyNDA3MTNUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "JUSSARA - CENTRAL",
+        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
+        "date": "2024-07-13T13:00:00.000Z",
+        "end": "2024-07-13T15:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "33n5n2rnvdbt6ur4l062dp6flf_20240713T130000Z",
+        "maps": "MzNuNW4ycm52ZGJ0NnVyNGwwNjJkcDZmbGZfMjAyNDA3MTNUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "JUSSARA - CENTRAL",
+        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
+        "date": "2024-07-13T13:00:00.000Z",
+        "end": "2024-07-13T15:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "hl42ekjm3248htnaq1640h8rt0_20240713T130000Z",
+        "maps": "aGw0MmVram0zMjQ4aHRuYXExNjQwaDhydDBfMjAyNDA3MTNUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "FAINA - CENTRAL",
         "desc": "ATENDIMENTO OBRA DA PIEDADE",
@@ -859,6 +924,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "FAINA - CENTRAL",
+        "desc": "ATENDIMENTO OBRA DA PIEDADE",
+        "date": "2024-07-13T12:00:00.000Z",
+        "end": "2024-07-13T15:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "05dair5fh112bphao15l4ubpp5_20240713T120000Z",
+        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfMjAyNDA3MTNUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "JUSSARA - CENTRAL",
         "desc": "<DIV>DIAC. FERNANDO FERREIRA DE MENEZES</DIV><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">DIAC.</SPAN><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\"> </SPAN>SALMO SILVESTRE SOUZA</DIV><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">DIAC.</SPAN><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\"> </SPAN>ADEILSON JOSÉ DA SILVA JÚNIOR</DIV>",
@@ -945,6 +1023,19 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "ih00b2egihvqi68bsnpkiuur78_20240707T040000Z",
         "maps": "aWgwMGIyZWdpaHZxaTY4YnNucGtpdXVyNzhfMjAyNDA3MDdUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "JUSSARA - CENTRAL",
+        "desc": "ADM FAINA\nANC. VAGNER GARCIA, ANC. ITAMAR MENEZES",
+        "date": "2024-07-13T04:00:00.000Z",
+        "end": "2024-07-13T06:00:00.000Z",
+        "updated": "2024-02-11T16:55:58.591Z",
+        "gid": "0gr10qmma42s51c64uebft89ror20240113T040000_20240713T040000Z",
+        "maps": "MGdyMTBxbW1hNDJzNTFjNjR1ZWJmdDg5cm9yMjAyNDAxMTNUMDQwMDAwXzIwMjQwNzEzVDA0MDAwMFogNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "true"
       },
       {
@@ -1128,19 +1219,6 @@
         "gid": "0ar04rsclm7dck6qu6jauilsp0_20240630T220000Z",
         "maps": "MGFyMDRyc2NsbTdkY2s2cXU2amF1aWxzcDBfMjAyNDA2MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "ITABERAÍ - FAZENDA MATO DENTRO",
-        "desc": "FLAVIO DA COSTA MATOS",
-        "date": "2024-07-27T22:00:00.000Z",
-        "end": "2024-07-28T00:00:00.000Z",
-        "updated": "2024-04-14T03:03:34.671Z",
-        "gid": "hn52lbuhbqhk90ikabbr06tg6g",
-        "maps": "aG41MmxidWhicWhrOTBpa2FiYnIwNnRnNmdfMjAyNDA3MjdUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "false"
       },
       {
         "id": 0,
@@ -1621,6 +1699,19 @@
         "updated": "2024-03-26T17:53:23.551Z",
         "gid": "4tbb562a64lo4ghjm83vobrpub_20240709T223000Z",
         "maps": "NHRiYjU2MmE2NGxvNGdoam04M3ZvYnJwdWJfMjAyNDA3MDlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BUENOLÂNDIA",
+        "desc": "RESP. GILMAR LINO",
+        "date": "2024-07-13T22:30:00.000Z",
+        "end": "2024-07-14T00:00:00.000Z",
+        "updated": "2023-12-27T14:41:12.390Z",
+        "gid": "179k39951t9pr8q6digrdli542_20240713T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA3MTNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -2427,6 +2518,19 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "4hpv6vkb9khueiudf2o5s787c4_20240711T220000Z",
         "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDA3MTFUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
+        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
+        "date": "2024-07-13T18:30:00.000Z",
+        "end": "2024-07-13T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240713T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA3MTNUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -3363,6 +3467,19 @@
         "updated": "2024-04-08T16:43:10.930Z",
         "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240711T213000Z",
         "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA3MTFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - COL. DE UVÁ",
+        "desc": "Valdemar",
+        "date": "2024-07-13T21:30:00.000Z",
+        "end": "2024-07-14T00:00:00.000Z",
+        "updated": "2024-03-26T13:53:01.847Z",
+        "gid": "4cv5pdlrit4fif79k8p4uehk9n_20240713T213000Z",
+        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW5fMjAyNDA3MTNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
