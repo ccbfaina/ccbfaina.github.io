@@ -5,18 +5,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
-        "locale": "JUSSARA - CENTRAL",
-        "date": "2024-04-17T22:00:00.000Z",
-        "end": "2024-04-18T00:00:00.000Z",
-        "updated": "2024-04-14T03:32:58.328Z",
-        "gid": "nfjtdq9b5vnj348dmhbfllsp10",
-        "maps": "bmZqdGRxOWI1dm5qMzQ4ZG1oYmZsbHNwMTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
         "locale": "MATRINCHÃ - LUA NOVA",
         "desc": "FLAVIO DA COSTA MATOS",
         "date": "2024-04-20T22:30:00.000Z",
@@ -49,6 +37,19 @@
         "updated": "2024-04-12T19:05:23.120Z",
         "gid": "oeggnrl98sumrp1ja7drc02e4s",
         "maps": "b2VnZ25ybDk4c3VtcnAxamE3ZHJjMDJlNHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "JUSSARA - CENTRAL",
+        "desc": "NEIDE DA SILVA PEREIRA",
+        "date": "2024-04-27T22:00:00.000Z",
+        "end": "2024-04-28T00:00:00.000Z",
+        "updated": "2024-04-14T10:55:18.260Z",
+        "gid": "nfjtdq9b5vnj348dmhbfllsp10",
+        "maps": "bmZqdGRxOWI1dm5qMzQ4ZG1oYmZsbHNwMTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
