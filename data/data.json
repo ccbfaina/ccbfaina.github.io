@@ -477,19 +477,6 @@
         "date": "2024-05-11T13:00:00.000Z",
         "end": "2024-05-11T15:00:00.000Z",
         "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "33n5n2rnvdbt6ur4l062dp6flf_20240511T130000Z",
-        "maps": "MzNuNW4ycm52ZGJ0NnVyNGwwNjJkcDZmbGZfMjAyNDA1MTFUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "JUSSARA - CENTRAL",
-        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
-        "date": "2024-05-11T13:00:00.000Z",
-        "end": "2024-05-11T15:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
         "gid": "hl42ekjm3248htnaq1640h8rt0_20240511T130000Z",
         "maps": "aGw0MmVram0zMjQ4aHRuYXExNjQwaDhydDBfMjAyNDA1MTFUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
@@ -817,19 +804,6 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "gfnm2go5v29dcshs45tp82v9oo_20240713T110000Z",
         "maps": "Z2ZubTJnbzV2MjlkY3NoczQ1dHA4MnY5b29fMjAyNDA3MTNUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "JUSSARA - CENTRAL",
-        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
-        "date": "2024-07-13T13:00:00.000Z",
-        "end": "2024-07-13T15:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "33n5n2rnvdbt6ur4l062dp6flf_20240713T130000Z",
-        "maps": "MzNuNW4ycm52ZGJ0NnVyNGwwNjJkcDZmbGZfMjAyNDA3MTNUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
