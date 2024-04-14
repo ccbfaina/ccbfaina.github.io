@@ -94,6 +94,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "ITABERAÍ - CENTRAL",
+        "desc": "FLAVIO DA COSTA MATOS",
+        "date": "2024-06-30T22:00:00.000Z",
+        "end": "2024-07-01T00:00:00.000Z",
+        "updated": "2024-04-14T03:09:29.679Z",
+        "gid": "618a9muof00e401dgptrdmpers_20240630T220000Z",
+        "maps": "NjE4YTltdW9mMDBlNDAxZGdwdHJkbXBlcnNfMjAyNDA2MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "JUSSARA",
         "date": "2024-06-16T17:00:00.000Z",
@@ -955,10 +968,10 @@
         "desc": "ANC. VAGNER GARCIA DOS REIS",
         "date": "2024-04-27T10:00:00.000Z",
         "end": "2024-04-27T12:00:00.000Z",
-        "updated": "2024-04-14T02:46:00.603Z",
-        "gid": "vqfcccuimf63bslcgbguu4pah8",
-        "maps": "dnFmY2NjdWltZjYzYnNsY2diZ3V1NHBhaDggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
+        "updated": "2024-04-14T03:08:37.277Z",
+        "gid": "vqfcccuimf63bslcgbguu4pah8_20240427T100000Z",
+        "maps": "dnFmY2NjdWltZjYzYnNsY2diZ3V1NHBhaDhfMjAyNDA0MjdUMTAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
       },
       {
         "id": 0,
