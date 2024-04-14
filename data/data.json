@@ -158,7 +158,7 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL",
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "JUSSARA",
         "desc": "VAGNER GARCIA DOS REIS",
@@ -196,7 +196,7 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL",
+        "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
         "locale": "JUSSARA",
         "desc": "ANC. VAGNER GARCIA DOS REIS<DIV><DIV STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. NEREU</DIV><B STYLE=\"LETTER-SPACING: 0.1PX;\"><U>TESTES MUSICAIS</U></B><BR></DIV>",
@@ -1310,19 +1310,6 @@
         "updated": "2024-04-10T14:32:56.658Z",
         "gid": "s4si6sm92vjv9lgeto52uja63c_20240616T220000Z",
         "maps": "czRzaTZzbTkydmp2OWxnZXRvNTJ1amE2M2NfMjAyNDA2MTZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "SANTA FÉ DE GOIÁS - CENTRAL",
-        "desc": "NEIDE DA SILVA PEREIRA",
-        "date": "2024-06-30T22:00:00.000Z",
-        "end": "2024-07-01T00:00:00.000Z",
-        "updated": "2024-04-10T13:55:46.930Z",
-        "gid": "0ar04rsclm7dck6qu6jauilsp0_20240630T220000Z",
-        "maps": "MGFyMDRyc2NsbTdkY2s2cXU2amF1aWxzcDBfMjAyNDA2MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
