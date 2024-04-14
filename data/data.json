@@ -145,12 +145,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "JUSSARA",
+        "desc": "VAGNER GARCIA DOS REIS",
         "date": "2024-06-16T17:00:00.000Z",
-        "end": "2024-06-16T20:00:00.000Z",
-        "updated": "2024-03-20T02:29:49.215Z",
+        "end": "2024-06-16T19:00:00.000Z",
+        "updated": "2024-04-14T11:29:11.237Z",
         "gid": "t1pipi9oci4lkh0dm8be3hkgj8_20240616T170000Z",
         "maps": "dDFwaXBpOW9jaTRsa2gwZG04YmUzaGtnajhfMjAyNDA2MTZUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
