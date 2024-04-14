@@ -196,6 +196,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "PARTE MUSICAL",
+        "locale": "JUSSARA",
+        "desc": "<b><u>TESTES MUSICAIS</u></b>",
+        "date": "2024-06-16T12:00:00.000Z",
+        "end": "2024-06-16T14:00:00.000Z",
+        "updated": "2024-04-14T02:53:33.394Z",
+        "gid": "0i0j4a1i2k2c9slcpgd81kit40",
+        "maps": "MGkwajRhMWkyazJjOXNsY3BnZDgxa2l0NDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES REGIONAIS",
         "locale": "FAINA - CENTRAL",
         "desc": "RRM ANCIÃES E DIÁCONOS",
