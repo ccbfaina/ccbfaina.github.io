@@ -1055,13 +1055,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "NOVA CRIXÁS-CENTRAL",
-        "desc": "ADM FAINA \nANC. ITAMAR MENEZES\nANC. VAGNER GARCIA\nANC. PAULO SILVANO",
+        "desc": "ADM FAINA,  ANC. ITAMAR MENEZES, ANC. VAGNER GARCIA, ANC. PAULO SILVANO",
         "date": "2024-05-12T04:00:00.000Z",
         "end": "2024-05-12T06:00:00.000Z",
-        "updated": "2024-04-10T15:14:42.424Z",
+        "updated": "2024-04-15T13:28:10.727Z",
         "gid": "m4tk4su2vaph2cl3s1b0vtrji8_20240512T040000Z",
         "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfMjAyNDA1MTJUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
