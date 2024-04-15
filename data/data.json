@@ -147,6 +147,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "ARUANÃ - CENTRAL",
+        "desc": "SUSPENSÃO DE TODOS OS CULTOS. MUDANÇA DO LOCAL DE CULTODE DOMINGO PARA O SETOR NOVA ARUANA DURANTE O PERÍODO DECONSTRUÇÃO.",
+        "date": "2024-06-09T22:00:00.000Z",
+        "end": "2024-06-10T00:00:00.000Z",
+        "updated": "2024-04-15T13:12:05.854Z",
+        "gid": "s5klb5mlemq8l3436hh1j94sis",
+        "maps": "czVrbGI1bWxlbXE4bDM0MzZoaDFqOTRzaXMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "JUSSARA",
         "desc": "VAGNER GARCIA DOS REIS",
