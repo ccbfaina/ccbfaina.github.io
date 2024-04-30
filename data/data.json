@@ -339,19 +339,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "ITABERAÍ - VILA PROGRESSO",
-        "desc": "REUNIÃO PREVENTIVA TRIMESTRAL",
-        "date": "2024-04-29T22:30:00.000Z",
-        "end": "2024-04-30T00:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "7bbunv0gqgh66u60hp5vq7v6cj_20240429T223000Z",
-        "maps": "N2JidW52MGdxZ2g2NnU2MGhwNXZxN3Y2Y2pfMjAyNDA0MjlUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "FAINA - CENTRAL",
         "desc": "REUNIÃO FINANCEIRA (ONLINE)",
         "date": "2024-05-01T22:30:00.000Z",
@@ -879,6 +866,19 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "kcf8r18p2uueps6cg1crcl5s9c_20240720T170000Z",
         "maps": "a2NmOHIxOHAydXVlcHM2Y2cxY3JjbDVzOWNfMjAyNDA3MjBUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ITABERAÍ - VILA PROGRESSO",
+        "desc": "REUNIÃO PREVENTIVA TRIMESTRAL",
+        "date": "2024-07-29T22:30:00.000Z",
+        "end": "2024-07-30T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "7bbunv0gqgh66u60hp5vq7v6cj_20240729T223000Z",
+        "maps": "N2JidW52MGdxZ2g2NnU2MGhwNXZxN3Y2Y2pfMjAyNDA3MjlUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -2107,19 +2107,6 @@
         "id": 0,
         "list": "DARPE",
         "title": "HOSPITAL",
-        "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
-        "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
-        "date": "2024-04-29T18:00:00.000Z",
-        "end": "2024-04-29T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "40udpbcvmvfek4a9m320cgch2g_20240429T180000Z",
-        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDA0MjlUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
         "locale": "GOIÁS - Hospital São Pedro",
         "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
         "date": "2024-04-30T19:00:00.000Z",
@@ -2309,6 +2296,19 @@
         "updated": "2024-04-23T13:36:19.749Z",
         "gid": "5fln97908qjka7trpgbg5uu0fa_20240723T190000Z",
         "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA3MjNUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
+        "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
+        "date": "2024-07-29T18:00:00.000Z",
+        "end": "2024-07-29T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "40udpbcvmvfek4a9m320cgch2g_20240729T180000Z",
+        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDA3MjlUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
