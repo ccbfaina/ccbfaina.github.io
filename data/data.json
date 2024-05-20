@@ -963,19 +963,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "AMERICANO DO BRASIL - CENTRAL",
-        "desc": "EMIVAL DIVINO FERNANDES",
-        "date": "2024-05-19T22:00:00.000Z",
-        "end": "2024-05-20T00:00:00.000Z",
-        "updated": "2024-04-10T14:23:55.926Z",
-        "gid": "96lu5iv5o9p7hi85ci98rdrva8_20240519T220000Z",
-        "maps": "OTZsdTVpdjVvOXA3aGk4NWNpOThyZHJ2YThfMjAyNDA1MTlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
         "locale": "ITABERAÍ - OLHO D'ÁGUA DE SÃO BENEDITO",
         "desc": "EMIVAL DIVINO FERNANDES",
         "date": "2024-05-26T22:00:00.000Z",
@@ -1152,6 +1139,32 @@
         "updated": "2024-04-10T14:28:16.725Z",
         "gid": "7q3ql13ruvqhgaap4b66ncgpje_20240803T220000Z",
         "maps": "N3EzcWwxM3J1dnFoZ2FhcDRiNjZuY2dwamVfMjAyNDA4MDNUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "ITABERAÍ - VILA COMUNITÁRIA",
+        "desc": "FLAVIO DA COSTA MATOS",
+        "date": "2024-08-18T22:00:00.000Z",
+        "end": "2024-08-19T00:00:00.000Z",
+        "updated": "2024-04-19T12:47:04.050Z",
+        "gid": "1tkdli5edhu39mhevcf8ad8ak4_20240818T220000Z",
+        "maps": "MXRrZGxpNWVkaHUzOW1oZXZjZjhhZDhhazRfMjAyNDA4MThUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "ITAPIRAPUÃ - CENTRAL",
+        "desc": "ECLESIASTES ARAÚJO DE SOUSA",
+        "date": "2024-08-18T22:00:00.000Z",
+        "end": "2024-08-19T00:00:00.000Z",
+        "updated": "2024-04-10T14:46:46.609Z",
+        "gid": "tdgb5sb53scnq5d7b66u6ddiq0_20240818T220000Z",
+        "maps": "dGRnYjVzYjUzc2NucTVkN2I2NnU2ZGRpcTBfMjAyNDA4MThUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1601,19 +1614,6 @@
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. HIST.: SARA\nPEDAGOGA: MARCIA <DIV>AUX. REGINA, FLAVIO, MARTA <DIV>TEMA: <B>MOISÉS FERE A ROCHA E DELA SAI ÁGUA</B></DIV></DIV>",
-        "date": "2024-05-19T22:00:00.000Z",
-        "end": "2024-05-20T00:00:00.000Z",
-        "updated": "2024-03-19T23:17:28.051Z",
-        "gid": "26so2l6m3e6g5egbrms2deqlt1_20240519T220000Z",
-        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDA1MTlUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "RPC",
-        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-        "locale": "GOIÁS - CENTRAL",
         "desc": "RESP. <SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">ELIZÂNGELA</SPAN> PEDAGOGA: MIRNA\nAUX. ARTHUR, LUDY, HUMBERTO\nTEMA: <B>A QUEDA DO MURO DE JERICÓ</B>",
         "date": "2024-05-26T22:00:00.000Z",
         "end": "2024-05-27T00:00:00.000Z",
@@ -1763,6 +1763,19 @@
         "updated": "2024-03-18T11:46:06.241Z",
         "gid": "26so2l6m3e6g5egbrms2deqlt1_20240811T220000Z",
         "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDA4MTFUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "RESP. ELIZÂNGELA\nPEDAGOGA: MIRNA\nAUX. ARTHUR, LUDY, HUMBERTO\nTEMA:",
+        "date": "2024-08-18T22:00:00.000Z",
+        "end": "2024-08-19T00:00:00.000Z",
+        "updated": "2024-04-04T15:28:57.335Z",
+        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_20240818T220000Z",
+        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfMjAyNDA4MThUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1971,19 +1984,6 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o_20240813T190000Z",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA4MTNUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "ITABERAÍ - LAR DOS IDOSOS SANTANA",
-        "desc": "Ir. ANTONIO BATISTA DE FARIA\nIr. DIVINO MODESTO",
-        "date": "2024-05-19T17:00:00.000Z",
-        "end": "2024-05-19T18:30:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20240519T170000Z",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDA1MTlUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2491,32 +2491,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0_20240817T180000Z",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA4MTdUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Jonathan Lucas",
-        "date": "2024-05-19T12:00:00.000Z",
-        "end": "2024-05-19T15:00:00.000Z",
-        "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240519T120000Z",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA1MTlUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Benjamin",
-        "date": "2024-05-19T21:30:00.000Z",
-        "end": "2024-05-20T00:00:00.000Z",
-        "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20240519T213000Z",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDA1MTlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -3336,6 +3310,32 @@
         "updated": "2024-04-08T16:43:56.375Z",
         "gid": "0o6pck9vdchp5v1ol35to3vada_20240817T213000Z",
         "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfMjAyNDA4MTdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "MARCELO PIRES",
+        "date": "2024-08-18T12:00:00.000Z",
+        "end": "2024-08-18T15:00:00.000Z",
+        "updated": "2024-03-14T19:43:25.810Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240818T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA4MThUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Abel",
+        "date": "2024-08-18T21:30:00.000Z",
+        "end": "2024-08-19T00:00:00.000Z",
+        "updated": "2024-03-14T19:44:33.735Z",
+        "gid": "cl049nanq5uc4o7celhug74en0_20240818T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDA4MThUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
