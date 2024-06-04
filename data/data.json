@@ -286,19 +286,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "ITABERAÍ - VILA PROGRESSO",
-        "desc": "REUNIÃO FINANCEIRA",
-        "date": "2024-06-03T22:00:00.000Z",
-        "end": "2024-06-04T00:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_20240603T220000Z",
-        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfMjAyNDA2MDNUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "FAINA - CENTRAL",
         "desc": "REUNIÃO FINANCEIRA (ONLINE)",
         "date": "2024-06-05T22:30:00.000Z",
@@ -683,6 +670,19 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "cov1b12mn8gv8nsscpigt555s7_20240901T180000Z",
         "maps": "Y292MWIxMm1uOGd2OG5zc2NwaWd0NTU1czdfMjAyNDA5MDFUMTgwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ITABERAÍ - VILA PROGRESSO",
+        "desc": "REUNIÃO FINANCEIRA",
+        "date": "2024-09-02T22:00:00.000Z",
+        "end": "2024-09-03T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_20240902T220000Z",
+        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfMjAyNDA5MDJUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
