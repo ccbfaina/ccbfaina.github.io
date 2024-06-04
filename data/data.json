@@ -1287,6 +1287,19 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
+        "desc": "RUA MARIA DIVINA BOTELHO\nRESP. Ir. Jonathan Lucas",
+        "date": "2024-06-10T22:30:00.000Z",
+        "end": "2024-06-11T00:00:00.000Z",
+        "updated": "2024-06-04T15:32:05.666Z",
+        "gid": "31utm7o7tkpmqglcojejqiqovr",
+        "maps": "MzF1dG03bzd0a3BtcWdsY29qZWpxaXFvdnIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - Agapé - Faz. da Dn. Pituca ",
         "desc": "RESP. Adivair",
         "date": "2024-06-11T22:30:00.000Z",
@@ -1294,19 +1307,6 @@
         "updated": "2024-06-01T03:45:08.300Z",
         "gid": "05prlqm4r9ukv2ma95d80iq6t9",
         "maps": "MDVwcmxxbTRyOXVrdjJtYTk1ZDgwaXE2dDkgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
-        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
-        "date": "2024-06-11T22:30:00.000Z",
-        "end": "2024-06-12T00:00:00.000Z",
-        "updated": "2024-05-30T13:05:51.327Z",
-        "gid": "31utm7o7tkpmqglcojejqiqovr",
-        "maps": "MzF1dG03bzd0a3BtcWdsY29qZWpxaXFvdnIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
         "recurring": "false"
       },
       {
