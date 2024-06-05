@@ -1001,19 +1001,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "ARUANÃ - SETOR MORADA DO SOL",
-        "desc": "PAULO SILVANO SANTOS",
-        "date": "2024-06-04T22:00:00.000Z",
-        "end": "2024-06-05T00:00:00.000Z",
-        "updated": "2024-04-14T11:04:52.683Z",
-        "gid": "7vub9bhv3q1jte2o30e4bmkfak_20240604T220000Z",
-        "maps": "N3Z1YjliaHYzcTFqdGUybzMwZTRibWtmYWtfMjAyNDA2MDRUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
         "locale": "FAINA - CAIÇARA",
         "desc": "VAGNER GARCIA DOS REIS",
         "date": "2024-06-13T22:00:00.000Z",
@@ -1255,19 +1242,6 @@
         "updated": "2023-12-27T17:55:02.585Z",
         "gid": "qf3b4aqni47hgs11klocrepsvc_20240901T200000Z",
         "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDA5MDFUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - IR. SEMIR - TEMPO NOVO",
-        "desc": "PROX. POLICLÍNICA\nRESP.",
-        "date": "2024-06-04T22:30:00.000Z",
-        "end": "2024-06-05T00:00:00.000Z",
-        "updated": "2024-05-28T14:10:59.568Z",
-        "gid": "0ied03g19din9j6a3ad9ttv54u_20240604T223000Z",
-        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHVfMjAyNDA2MDRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1805,6 +1779,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. SEMIR - TEMPO NOVO",
+        "desc": "PROX. POLICLÍNICA\nRESP.",
+        "date": "2024-09-03T22:30:00.000Z",
+        "end": "2024-09-04T00:00:00.000Z",
+        "updated": "2024-05-28T14:10:59.568Z",
+        "gid": "0ied03g19din9j6a3ad9ttv54u_20240903T223000Z",
+        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHVfMjAyNDA5MDNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
@@ -1970,19 +1957,6 @@
         "updated": "2024-04-11T12:50:35.497Z",
         "gid": "0q99p3pa5hdhko0grm7eoo18ba_20240901T220000Z",
         "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfMjAyNDA5MDFUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "IR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
-        "date": "2024-06-04T19:00:00.000Z",
-        "end": "2024-06-04T21:00:00.000Z",
-        "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o_20240604T190000Z",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA2MDRUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2178,6 +2152,19 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o_20240827T190000Z",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA4MjdUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
+        "date": "2024-09-03T19:00:00.000Z",
+        "end": "2024-09-03T21:00:00.000Z",
+        "updated": "2024-04-23T13:36:19.749Z",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20240903T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA5MDNUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
