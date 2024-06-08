@@ -1096,10 +1096,10 @@
         "desc": "NAZARÉ ANTONIO DA SILVA",
         "date": "2024-06-30T22:00:00.000Z",
         "end": "2024-07-01T00:00:00.000Z",
-        "updated": "2024-06-08T17:27:44.355Z",
-        "gid": "3tdupd5qnlqb7b0dhoo1q30jdo",
-        "maps": "M3RkdXBkNXFubHFiN2IwZGhvbzFxMzBqZG8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
+        "updated": "2024-06-08T17:30:00.165Z",
+        "gid": "3tdupd5qnlqb7b0dhoo1q30jdo_20240630T220000Z",
+        "maps": "M3RkdXBkNXFubHFiN2IwZGhvbzFxMzBqZG9fMjAyNDA2MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
       },
       {
         "id": 0,
