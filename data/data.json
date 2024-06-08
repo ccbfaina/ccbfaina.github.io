@@ -144,13 +144,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": " GOIÁS - CENTRAL",
-        "desc": "GILSON MOURA DE BRITO",
+        "desc": "GILSON MOURA DE BRITO.",
         "date": "2024-07-07T17:00:00.000Z",
         "end": "2024-07-07T19:00:00.000Z",
-        "updated": "2024-05-30T02:27:51.249Z",
+        "updated": "2024-06-08T20:32:33.796Z",
         "gid": "7auvalstdm17cvtqa2d0esktnb_20240707T170000Z",
         "maps": "N2F1dmFsc3RkbTE3Y3Z0cWEyZDBlc2t0bmJfMjAyNDA3MDdUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
