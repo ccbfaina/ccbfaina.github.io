@@ -43,6 +43,18 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
+        "locale": "ITAPURANGA - CENTRAL",
+        "date": "2024-06-16T22:00:00.000Z",
+        "end": "2024-06-17T00:00:00.000Z",
+        "updated": "2024-06-08T17:43:14.529Z",
+        "gid": "ngclnkan5lb0htagltmekgepm4",
+        "maps": "bmdjbG5rYW41bGIwaHRhZ2x0bWVrZ2VwbTQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
         "locale": "URUÍTA - CENTRAL",
         "desc": "NAZARÉ ANTONIO DA SILVA",
         "date": "2024-06-23T22:00:00.000Z",
