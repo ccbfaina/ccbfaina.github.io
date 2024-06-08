@@ -4,19 +4,6 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "Reunião Regional de Ensinamento da Obra da Piedade",
-        "locale": "FAINA - CENTRAL",
-        "desc": "Reunião Regional de Ensinamento da Obra da Piedade",
-        "date": "2024-08-17T12:00:00.000Z",
-        "end": "2024-08-17T15:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "778m9nt18qu50abcnuq0jhns1g_20240817T120000Z",
-        "maps": "Nzc4bTludDE4cXU1MGFiY251cTBqaG5zMWdfMjAyNDA4MTdUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
         "title": "BATISMOS",
         "locale": "HEITORAÍ - CENTRAL",
         "desc": "NAZARÉ ANTONIO DA SILVA",
@@ -293,6 +280,19 @@
         "updated": "2024-02-09T20:31:18.433Z",
         "gid": "36attmogj75jnu3qqdlhfq4g35_20240811T130000Z",
         "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfMjAyNDA4MTFUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "FAINA - CENTRAL",
+        "desc": "Reunião Regional de Ensinamento da Obra da Piedade",
+        "date": "2024-08-17T12:00:00.000Z",
+        "end": "2024-08-17T14:00:00.000Z",
+        "updated": "2024-06-08T17:24:08.353Z",
+        "gid": "778m9nt18qu50abcnuq0jhns1g_20240817T120000Z",
+        "maps": "Nzc4bTludDE4cXU1MGFiY251cTBqaG5zMWdfMjAyNDA4MTdUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
