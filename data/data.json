@@ -93,6 +93,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "ARUANÃ - SETOR NOVA ARUANÃ",
+        "desc": "WALTER BORGES COSTA",
+        "date": "2024-06-30T22:00:00.000Z",
+        "end": "2024-07-01T00:00:00.000Z",
+        "updated": "2024-06-08T18:02:02.657Z",
+        "gid": "l2afqt3dhb9dmpi8qan0letnf4",
+        "maps": "bDJhZnF0M2RoYjlkbXBpOHFhbjBsZXRuZjQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "ARUANÃ - CENTRAL",
         "desc": "SUSPENSÃO DE TODOS OS CULTOS. MUDANÇA DO LOCAL DE CULTODE DOMINGO PARA O SETOR NOVA ARUANA DURANTE O PERÍODO DECONSTRUÇÃO.",
