@@ -1129,14 +1129,27 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
+        "locale": "NOVA CRIXAS - AGUA BRANCA",
+        "desc": "JOSÉ PEREIRA GOMES",
+        "date": "2024-06-29T22:00:00.000Z",
+        "end": "2024-06-30T00:00:00.000Z",
+        "updated": "2024-06-08T17:47:38.940Z",
+        "gid": "i55dv8he3c5950uei0bh5j604b_20240629T220000Z",
+        "maps": "aTU1ZHY4aGUzYzU5NTB1ZWkwYmg1ajYwNGJfMjAyNDA2MjlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
         "locale": "SÃO MIGUEL DO ARAGUAIA - SETOR OESTE",
         "desc": "JOILDO LIBERAL SILVA",
         "date": "2024-06-29T22:00:00.000Z",
         "end": "2024-06-30T00:00:00.000Z",
-        "updated": "2024-06-08T17:44:56.811Z",
-        "gid": "q3grhequ66fct8oo8tkhrbja30",
-        "maps": "cTNncmhlcXU2NmZjdDhvbzh0a2hyYmphMzAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
+        "updated": "2024-06-08T17:45:40.990Z",
+        "gid": "q3grhequ66fct8oo8tkhrbja30_20240629T220000Z",
+        "maps": "cTNncmhlcXU2NmZjdDhvbzh0a2hyYmphMzBfMjAyNDA2MjlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
       },
       {
         "id": 0,
@@ -1214,19 +1227,6 @@
         "updated": "2024-04-11T01:10:14.907Z",
         "gid": "2a0jm1a0j9cdn68k3evrol429t_20240728T220000Z",
         "maps": "MmEwam0xYTBqOWNkbjY4azNldnJvbDQyOXRfMjAyNDA3MjhUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "NOVA CRIXAS - AGUA BRANCA",
-        "desc": "WALTER BORGES COSTAS",
-        "date": "2024-08-03T22:00:00.000Z",
-        "end": "2024-08-04T00:00:00.000Z",
-        "updated": "2024-04-10T14:28:16.725Z",
-        "gid": "7q3ql13ruvqhgaap4b66ncgpje_20240803T220000Z",
-        "maps": "N3EzcWwxM3J1dnFoZ2FhcDRiNjZuY2dwamVfMjAyNDA4MDNUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
