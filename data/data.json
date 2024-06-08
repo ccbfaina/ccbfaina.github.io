@@ -17,6 +17,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "URUÍTA - CENTRAL",
+        "desc": "NAZARÉ ANTONIO DA SILVA",
+        "date": "2024-06-23T22:00:00.000Z",
+        "end": "2024-06-24T00:00:00.000Z",
+        "updated": "2024-06-08T17:26:42.000Z",
+        "gid": "6s8d41him27p2go7s8c2sjj2eo",
+        "maps": "NnM4ZDQxaGltMjdwMmdvN3M4YzJzamoyZW8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "ARUANÃ - CENTRAL",
         "desc": "SUSPENSÃO DE TODOS OS CULTOS. MUDANÇA DO LOCAL DE CULTODE DOMINGO PARA O SETOR NOVA ARUANA DURANTE O PERÍODO DECONSTRUÇÃO.",
