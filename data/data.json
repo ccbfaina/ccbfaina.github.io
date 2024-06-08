@@ -1313,6 +1313,19 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. Cleide / Fazenda Dom Fernandes",
+        "desc": "Confirmar com irmão Paulinho \nRESP. Marco Antônio",
+        "date": "2024-06-17T22:30:00.000Z",
+        "end": "2024-06-18T00:00:00.000Z",
+        "updated": "2024-06-08T01:37:40.041Z",
+        "gid": "6sp3ae9g6lj64bb56sp36b9kcpgmcb9ockomcb9pchijachp68q62c1gc4",
+        "maps": "NnNwM2FlOWc2bGo2NGJiNTZzcDM2YjlrY3BnbWNiOW9ja29tY2I5cGNoaWphY2hwNjhxNjJjMWdjNCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - IR. Lourdes  - ST. PAPYRUS",
         "desc": "RUA MARIA DIVINA BOTELHO\nRESP. GILMAR",
         "date": "2024-06-18T22:30:00.000Z",
@@ -1788,6 +1801,19 @@
         "updated": "2024-05-28T14:10:59.568Z",
         "gid": "0ied03g19din9j6a3ad9ttv54u_20240903T223000Z",
         "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHVfMjAyNDA5MDNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - REGIÃO BOM SUCESSO",
+        "desc": "Resp. Adivair Francelino Gonçalves",
+        "date": "2024-09-06T22:30:00.000Z",
+        "end": "2024-09-07T00:00:00.000Z",
+        "updated": "2023-12-27T14:43:58.874Z",
+        "gid": "56sdjgl9vihm0bpbs3tueaep0q_20240906T223000Z",
+        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHFfMjAyNDA5MDZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
