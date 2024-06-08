@@ -336,13 +336,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES REGIONAIS",
         "locale": "FAINA - CENTRAL",
-        "desc": "REUNIÃO REGIONAL ADMINISTRATIVA (RRA)",
+        "desc": "<B>REUNIÃO REGIONAL ADMINISTRATIVA (RRA)</B>",
         "date": "2024-07-20T17:00:00.000Z",
         "end": "2024-07-20T19:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "updated": "2024-06-08T20:18:13.292Z",
         "gid": "cqe04tgtoo250ls7uvfbn3q5l0_20240720T170000Z",
         "maps": "Y3FlMDR0Z3RvbzI1MGxzN3V2ZmJuM3E1bDBfMjAyNDA3MjBUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
