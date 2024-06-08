@@ -258,7 +258,7 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL",
+        "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
         "locale": "URUANA - CENTRAL",
         "desc": "ANC. <SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">CÍCERO NATAL COELHO</SPAN><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. </SPAN><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">VITOR VIEIRA RAMOS</SPAN><BR></DIV>",
@@ -371,19 +371,6 @@
         "updated": "2024-02-09T20:31:18.433Z",
         "gid": "36attmogj75jnu3qqdlhfq4g35_20240811T130000Z",
         "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfMjAyNDA4MTFUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES REGIONAIS",
-        "locale": "FAINA - CENTRAL",
-        "desc": "Reunião Regional de Ensinamento da Obra da Piedade",
-        "date": "2024-08-17T12:00:00.000Z",
-        "end": "2024-08-17T14:00:00.000Z",
-        "updated": "2024-06-08T17:24:08.353Z",
-        "gid": "778m9nt18qu50abcnuq0jhns1g_20240817T120000Z",
-        "maps": "Nzc4bTludDE4cXU1MGFiY251cTBqaG5zMWdfMjAyNDA4MTdUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -989,10 +976,10 @@
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "URUANA - CENTRAL",
-        "desc": "<b>RA: </b>ADM FAINA ANC. ITAMAR FERREIRA DE MENEZES",
+        "desc": "RA: ADM FAINA \nANC. ITAMAR FERREIRA DE MENEZES\nDiac. Adeilson, Fernando, Salmo Silvestre, Silva Junior.",
         "date": "2024-07-07T04:00:00.000Z",
         "end": "2024-07-07T06:00:00.000Z",
-        "updated": "2024-04-15T13:31:12.250Z",
+        "updated": "2024-06-08T20:06:12.133Z",
         "gid": "ih00b2egihvqi68bsnpkiuur78_20240707T040000Z",
         "maps": "aWgwMGIyZWdpaHZxaTY4YnNucGtpdXVyNzhfMjAyNDA3MDdUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
@@ -1093,10 +1080,10 @@
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "URUANA - CENTRAL",
-        "desc": "<b>RA: </b>ADM FAINA ANC. ITAMAR FERREIRA DE MENEZES",
+        "desc": "RA: ADM FAINA \nANC. ITAMAR FERREIRA DE MENEZES\nDiac. Adeilson, Fernando, Salmo Silvestre, Silva Junior.",
         "date": "2024-09-01T04:00:00.000Z",
         "end": "2024-09-01T06:00:00.000Z",
-        "updated": "2024-04-15T13:31:12.250Z",
+        "updated": "2024-06-08T20:06:12.133Z",
         "gid": "ih00b2egihvqi68bsnpkiuur78_20240901T040000Z",
         "maps": "aWgwMGIyZWdpaHZxaTY4YnNucGtpdXVyNzhfMjAyNDA5MDFUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
