@@ -1064,19 +1064,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "SÃO MIGUEL DO ARAGUAIA - SETOR OESTE",
-        "desc": "JOILDO LIBERAL SILVA",
-        "date": "2024-06-08T22:00:00.000Z",
-        "end": "2024-06-09T00:00:00.000Z",
-        "updated": "2024-06-08T17:44:14.141Z",
-        "gid": "q3grhequ66fct8oo8tkhrbja30",
-        "maps": "cTNncmhlcXU2NmZjdDhvbzh0a2hyYmphMzAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
         "locale": "FAINA - CAIÇARA",
         "desc": "VAGNER GARCIA DOS REIS",
         "date": "2024-06-13T22:00:00.000Z",
@@ -1137,6 +1124,19 @@
         "gid": "s4si6sm92vjv9lgeto52uja63c_20240616T220000Z",
         "maps": "czRzaTZzbTkydmp2OWxnZXRvNTJ1amE2M2NfMjAyNDA2MTZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "SÃO MIGUEL DO ARAGUAIA - SETOR OESTE",
+        "desc": "JOILDO LIBERAL SILVA",
+        "date": "2024-06-29T22:00:00.000Z",
+        "end": "2024-06-30T00:00:00.000Z",
+        "updated": "2024-06-08T17:44:56.811Z",
+        "gid": "q3grhequ66fct8oo8tkhrbja30",
+        "maps": "cTNncmhlcXU2NmZjdDhvbzh0a2hyYmphMzAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
       },
       {
         "id": 0,
