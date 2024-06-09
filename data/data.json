@@ -248,18 +248,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
-        "locale": " SÃO MIGUEL DO ARAGUAIA - CENTRAL",
-        "date": "2024-07-28T12:00:00.000Z",
-        "end": "2024-07-28T15:00:00.000Z",
-        "updated": "2024-03-20T02:33:45.005Z",
-        "gid": "1mt7dk9485g55t8eelidhr57f7_20240728T120000Z",
-        "maps": "MW10N2RrOTQ4NWc1NXQ4ZWVsaWRocjU3ZjdfMjAyNDA3MjhUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ENSAIOS REGIONAIS",
         "locale": "URUANA - CENTRAL",
         "desc": "ANC. <SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">CÍCERO NATAL COELHO</SPAN><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. </SPAN><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">VITOR VIEIRA RAMOS</SPAN><BR></DIV>",
         "date": "2024-08-25T12:00:00.000Z",
