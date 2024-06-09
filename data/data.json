@@ -459,19 +459,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "URUANA - CENTRAL",
-        "desc": "RA (REUNIÃO ADMINISTRAÇÃO COM COLABORADORES)",
-        "date": "2024-07-07T18:00:00.000Z",
-        "end": "2024-07-07T20:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "cov1b12mn8gv8nsscpigt555s7_20240707T180000Z",
-        "maps": "Y292MWIxMm1uOGd2OG5zc2NwaWd0NTU1czdfMjAyNDA3MDdUMTgwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "NOVA CRIXÁS - CENTRAL",
         "desc": "REUNIÃO FINANCEIRA",
         "date": "2024-07-08T22:00:00.000Z",
@@ -739,19 +726,6 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "p2e30ebh24p8dvlipeiu0bkeer_20240901T170000Z",
         "maps": "cDJlMzBlYmgyNHA4ZHZsaXBlaXUwYmtlZXJfMjAyNDA5MDFUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "URUANA - CENTRAL",
-        "desc": "RA (REUNIÃO ADMINISTRAÇÃO COM COLABORADORES)",
-        "date": "2024-09-01T18:00:00.000Z",
-        "end": "2024-09-01T20:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "cov1b12mn8gv8nsscpigt555s7_20240901T180000Z",
-        "maps": "Y292MWIxMm1uOGd2OG5zc2NwaWd0NTU1czdfMjAyNDA5MDFUMTgwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
