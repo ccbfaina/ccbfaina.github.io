@@ -377,13 +377,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES DIVERSAS",
         "locale": "NOVA CRIXÁS - CENTRAL",
-        "desc": "REUNIÃO FINANCEIRA",
+        "desc": "REUNIÃO FINANCEIRA<DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">RA (REUNIÃO ADMINISTRATIVA COM COLABORADORES)</SPAN><BR></DIV>",
         "date": "2024-06-10T22:00:00.000Z",
-        "end": "2024-06-10T23:30:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "end": "2024-06-11T00:00:00.000Z",
+        "updated": "2024-06-09T11:56:56.269Z",
         "gid": "4184pudipcmi5016ag2ph1sdso_20240610T220000Z",
         "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fMjAyNDA2MTBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
