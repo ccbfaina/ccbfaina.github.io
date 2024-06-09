@@ -341,19 +341,6 @@
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES REGIONAIS",
         "locale": "FAINA - CENTRAL",
-        "desc": "RRM ANCIÃES E DIÁCONOS",
-        "date": "2024-06-09T11:00:00.000Z",
-        "end": "2024-06-09T12:30:00.000Z",
-        "updated": "2024-02-09T20:27:18.562Z",
-        "gid": "tv1d8hnfdsat2lqflh3fc63u7t_20240609T110000Z",
-        "maps": "dHYxZDhobmZkc2F0MmxxZmxoM2ZjNjN1N3RfMjAyNDA2MDlUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES REGIONAIS",
-        "locale": "FAINA - CENTRAL",
         "desc": "<b>RRM (REUNIÃO REGIONAL MINISTERIAL)</b>",
         "date": "2024-06-09T13:00:00.000Z",
         "end": "2024-06-09T16:10:00.000Z",
@@ -373,19 +360,6 @@
         "updated": "2024-06-08T20:18:13.292Z",
         "gid": "cqe04tgtoo250ls7uvfbn3q5l0_20240720T170000Z",
         "maps": "Y3FlMDR0Z3RvbzI1MGxzN3V2ZmJuM3E1bDBfMjAyNDA3MjBUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES REGIONAIS",
-        "locale": "FAINA - CENTRAL",
-        "desc": "RRM ANCIÃES E DIÁCONOS",
-        "date": "2024-08-11T11:00:00.000Z",
-        "end": "2024-08-11T12:30:00.000Z",
-        "updated": "2024-02-09T20:27:18.562Z",
-        "gid": "tv1d8hnfdsat2lqflh3fc63u7t_20240811T110000Z",
-        "maps": "dHYxZDhobmZkc2F0MmxxZmxoM2ZjNjN1N3RfMjAyNDA4MTFUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
