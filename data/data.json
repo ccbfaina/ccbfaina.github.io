@@ -936,19 +936,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "SÃO JOSÉ DOS BANDEIRANTES",
-        "desc": "JOSÉ PEREIRA GOMES",
-        "date": "2024-06-10T04:00:00.000Z",
-        "end": "2024-06-10T06:00:00.000Z",
-        "updated": "2024-06-09T11:22:31.933Z",
-        "gid": "r54q2ls01ov5vj6dv6qhaiajr8",
-        "maps": "cjU0cTJsczAxb3Y1dmo2ZHY2cWhhaWFqcjggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
         "locale": "JUSSARA - CENTRAL ",
         "desc": "<b>OBRA DA PIEDADE: </b>DIAC. FERNANDO FERREIRA DE MENESES, DIAC. ADEILSON JOSÉ DA SILVA, DIAC. SALMO SILVESTRE SOUZA, DIAC. ADEILSON JUNIOR",
         "date": "2024-06-15T12:00:00.000Z",
@@ -969,6 +956,19 @@
         "updated": "2024-04-15T13:30:29.822Z",
         "gid": "ctne0em5pllhui63rjkajqj2so_20240622T120000Z",
         "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fMjAyNDA2MjJUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "SÃO JOSÉ DOS BANDEIRANTES",
+        "desc": "JOSÉ PEREIRA GOMES",
+        "date": "2024-06-30T04:00:00.000Z",
+        "end": "2024-06-30T06:00:00.000Z",
+        "updated": "2024-06-09T11:23:48.587Z",
+        "gid": "r54q2ls01ov5vj6dv6qhaiajr8_20240630T040000Z",
+        "maps": "cjU0cTJsczAxb3Y1dmo2ZHY2cWhhaWFqcjhfMjAyNDA2MzBUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1040,6 +1040,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "SÃO JOSÉ DOS BANDEIRANTES",
+        "desc": "JOSÉ PEREIRA GOMES",
+        "date": "2024-07-28T04:00:00.000Z",
+        "end": "2024-07-28T06:00:00.000Z",
+        "updated": "2024-06-09T11:23:48.587Z",
+        "gid": "r54q2ls01ov5vj6dv6qhaiajr8_20240728T040000Z",
+        "maps": "cjU0cTJsczAxb3Y1dmo2ZHY2cWhhaWFqcjhfMjAyNDA3MjhUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
         "locale": "ITABERAÍ - VILA PROGRESSO",
         "desc": "<b>RA: </b>ANC.: VAGNER GARCIA, DIÁCONO: SALMO SILVESTRE SOUZA",
         "date": "2024-08-12T04:00:00.000Z",
@@ -1073,6 +1086,19 @@
         "updated": "2024-04-15T13:30:29.822Z",
         "gid": "ctne0em5pllhui63rjkajqj2so_20240824T120000Z",
         "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fMjAyNDA4MjRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "SÃO JOSÉ DOS BANDEIRANTES",
+        "desc": "JOSÉ PEREIRA GOMES",
+        "date": "2024-08-25T04:00:00.000Z",
+        "end": "2024-08-25T06:00:00.000Z",
+        "updated": "2024-06-09T11:23:48.587Z",
+        "gid": "r54q2ls01ov5vj6dv6qhaiajr8_20240825T040000Z",
+        "maps": "cjU0cTJsczAxb3Y1dmo2ZHY2cWhhaWFqcjhfMjAyNDA4MjVUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
