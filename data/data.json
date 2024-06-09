@@ -157,12 +157,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "ITABERAÍ - CENTRAL",
+        "desc": "LUCIANO PONTES",
         "date": "2024-07-21T17:00:00.000Z",
-        "end": "2024-07-21T20:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "end": "2024-07-21T19:00:00.000Z",
+        "updated": "2024-06-09T10:52:27.599Z",
         "gid": "5buhgar5krfrd67bfeaen2nh9o_20240721T170000Z",
         "maps": "NWJ1aGdhcjVrcmZyZDY3YmZlYWVuMm5oOW9fMjAyNDA3MjFUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
