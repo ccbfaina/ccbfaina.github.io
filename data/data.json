@@ -150,7 +150,7 @@
         "desc": "GILSON MOURA DE BRITO",
         "date": "2024-07-07T17:00:00.000Z",
         "end": "2024-07-07T19:00:00.000Z",
-        "updated": "2024-05-30T02:27:51.249Z",
+        "updated": "2024-06-08T20:32:59.520Z",
         "gid": "7auvalstdm17cvtqa2d0esktnb_20240707T170000Z",
         "maps": "N2F1dmFsc3RkbTE3Y3Z0cWEyZDBlc2t0bmJfMjAyNDA3MDdUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
@@ -780,19 +780,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
-        "locale": "FAINA - CENTRAL",
-        "desc": "ATENDIMENTO OBRA DA PIEDADE",
-        "date": "2024-06-08T12:00:00.000Z",
-        "end": "2024-06-08T15:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "05dair5fh112bphao15l4ubpp5_20240608T120000Z",
-        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfMjAyNDA2MDhUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "OBRA DA PIEDADE",
         "locale": "JUSSARA - CENTRAL ",
         "desc": "ATENDIMENTO OBRA DA PIEDADE",
         "date": "2024-06-15T12:00:00.000Z",
@@ -1196,19 +1183,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "JUSSARA - BAIRRO GOIÁS",
-        "desc": "NEIDE DA SILVA PEREIRA",
-        "date": "2024-07-21T22:00:00.000Z",
-        "end": "2024-07-22T00:00:00.000Z",
-        "updated": "2024-04-10T13:56:36.931Z",
-        "gid": "9u0662hok2vi5o36gcugnq4qof_20240721T220000Z",
-        "maps": "OXUwNjYyaG9rMnZpNW8zNmdjdWducTRxb2ZfMjAyNDA3MjFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
         "locale": "ITABERAÍ - FAZENDA MATO DENTRO",
         "desc": "FLAVIO DA COSTA MATOS",
         "date": "2024-07-27T22:00:00.000Z",
@@ -1235,13 +1209,13 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "JUSSARA - SÃO SEBASTIÃO DO RIO CLARO (GUEROBA)",
+        "locale": "JUSSARA - BAIRRO GOIÁS",
         "desc": "NEIDE DA SILVA PEREIRA",
         "date": "2024-07-28T22:00:00.000Z",
         "end": "2024-07-29T00:00:00.000Z",
-        "updated": "2024-04-11T01:10:14.907Z",
-        "gid": "2a0jm1a0j9cdn68k3evrol429t_20240728T220000Z",
-        "maps": "MmEwam0xYTBqOWNkbjY4azNldnJvbDQyOXRfMjAyNDA3MjhUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "updated": "2024-06-09T10:38:23.157Z",
+        "gid": "9u0662hok2vi5o36gcugnq4qof_20240728T220000Z",
+        "maps": "OXUwNjYyaG9rMnZpNW8zNmdjdWducTRxb2ZfMjAyNDA3MjhUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1268,6 +1242,19 @@
         "updated": "2024-04-10T14:46:46.609Z",
         "gid": "tdgb5sb53scnq5d7b66u6ddiq0_20240818T220000Z",
         "maps": "dGRnYjVzYjUzc2NucTVkN2I2NnU2ZGRpcTBfMjAyNDA4MThUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "JUSSARA - SÃO SEBASTIÃO DO RIO CLARO (GUEROBA)",
+        "desc": "NEIDE DA SILVA PEREIRA",
+        "date": "2024-08-18T22:00:00.000Z",
+        "end": "2024-08-19T00:00:00.000Z",
+        "updated": "2024-06-09T10:39:06.223Z",
+        "gid": "9115q7fdoakl6v3cfmq9ntj6bb_20240818T220000Z",
+        "maps": "OTExNXE3ZmRvYWtsNnYzY2ZtcTludGo2YmJfMjAyNDA4MThUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1346,19 +1333,6 @@
         "updated": "2023-12-27T17:55:02.585Z",
         "gid": "qf3b4aqni47hgs11klocrepsvc_20240901T200000Z",
         "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDA5MDFUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - BUENOLÂNDIA",
-        "desc": "RESP. GILMAR LINO",
-        "date": "2024-06-08T22:30:00.000Z",
-        "end": "2024-06-09T00:00:00.000Z",
-        "updated": "2023-12-27T14:41:12.390Z",
-        "gid": "179k39951t9pr8q6digrdli542_20240608T223000Z",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA2MDhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1922,6 +1896,32 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BOM SUCESSO",
+        "desc": "RESP. ADIVAIR",
+        "date": "2024-09-07T22:30:00.000Z",
+        "end": "2024-09-08T00:00:00.000Z",
+        "updated": "2024-06-01T03:41:39.409Z",
+        "gid": "2g51iuru7uk6oljt1sh47b9j71_20240907T223000Z",
+        "maps": "Mmc1MWl1cnU3dWs2b2xqdDFzaDQ3YjlqNzFfMjAyNDA5MDdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BUENOLÂNDIA",
+        "desc": "RESP. GILMAR LINO",
+        "date": "2024-09-07T22:30:00.000Z",
+        "end": "2024-09-08T00:00:00.000Z",
+        "updated": "2023-12-27T14:41:12.390Z",
+        "gid": "179k39951t9pr8q6digrdli542_20240907T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA5MDdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
@@ -2295,32 +2295,6 @@
         "updated": "2024-04-23T13:36:19.749Z",
         "gid": "5fln97908qjka7trpgbg5uu0fa_20240903T190000Z",
         "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA5MDNUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
-        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
-        "date": "2024-06-08T18:30:00.000Z",
-        "end": "2024-06-08T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee_20240608T183000Z",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA2MDhUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "ITAPIRAPUÃ - ABRIGO VEREADOR HELLENO RODRIGUES PAES",
-        "desc": "IR. JONAS DOMINGUES VIEIRA\nIR. MARILZO HONÓRIO DA SILVA",
-        "date": "2024-06-08T19:00:00.000Z",
-        "end": "2024-06-08T20:30:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "lafva87rmd6qk7nk5fb4jvkbcq_20240608T190000Z",
-        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3FfMjAyNDA2MDhUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2729,14 +2703,14 @@
       {
         "id": 0,
         "list": "DARPE",
-        "title": "CASA DE RECUPERAÇÃO",
-        "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
-        "desc": "Ir. Hedyone Campos",
-        "date": "2024-06-08T18:00:00.000Z",
-        "end": "2024-06-08T20:00:00.000Z",
+        "title": "LAR DE IDOSOS",
+        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
+        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
+        "date": "2024-09-07T18:30:00.000Z",
+        "end": "2024-09-07T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "dkgs2c3v8aeamfso44ne4428h0_20240608T180000Z",
-        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA2MDhUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240907T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA5MDdUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2815,19 +2789,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0_20240831T180000Z",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA4MzFUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - COL. DE UVÁ",
-        "desc": "Benedito",
-        "date": "2024-06-08T21:30:00.000Z",
-        "end": "2024-06-09T00:00:00.000Z",
-        "updated": "2024-03-26T13:54:16.215Z",
-        "gid": "7s4e48vk3qjuj87pls8na5qclr_20240608T213000Z",
-        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfMjAyNDA2MDhUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -3660,6 +3621,19 @@
         "updated": "2024-04-08T16:43:10.930Z",
         "gid": "a62uolhp40hjbq8pjbfqph2v4q_20240905T213000Z",
         "maps": "YTYydW9saHA0MGhqYnE4cGpiZnFwaDJ2NHFfMjAyNDA5MDVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - COL. DE UVÁ",
+        "desc": "Ir. Sebastião Ferreira da Silva",
+        "date": "2024-09-07T21:30:00.000Z",
+        "end": "2024-09-08T00:00:00.000Z",
+        "updated": "2024-04-08T16:43:56.375Z",
+        "gid": "0o6pck9vdchp5v1ol35to3vada_20240907T213000Z",
+        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfMjAyNDA5MDdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
