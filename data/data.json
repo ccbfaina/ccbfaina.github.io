@@ -198,12 +198,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "SÃO MIGUEL DO ARAGUAIA - CENTRAL",
+        "desc": "SEBASTIÃO ALVES DE SOUZA",
         "date": "2024-07-28T17:00:00.000Z",
-        "end": "2024-07-28T20:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "end": "2024-07-28T19:00:00.000Z",
+        "updated": "2024-06-09T13:34:45.754Z",
         "gid": "215a1ah8ncgsr1nunccddr82d5_20240728T170000Z",
         "maps": "MjE1YTFhaDhuY2dzcjFudW5jY2RkcjgyZDVfMjAyNDA3MjhUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
