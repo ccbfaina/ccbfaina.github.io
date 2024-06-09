@@ -444,13 +444,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES DIVERSAS",
         "locale": "URUANA - CENTRAL",
-        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA",
+        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA<DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">15H RA (REUNIÃO ADMINISTRAÇÃO COM COLABORADORES)</SPAN><BR></DIV>",
         "date": "2024-07-07T17:00:00.000Z",
-        "end": "2024-07-07T18:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
+        "end": "2024-07-07T19:00:00.000Z",
+        "updated": "2024-06-09T12:19:27.056Z",
         "gid": "p2e30ebh24p8dvlipeiu0bkeer_20240707T170000Z",
         "maps": "cDJlMzBlYmgyNHA4ZHZsaXBlaXUwYmtlZXJfMjAyNDA3MDdUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
