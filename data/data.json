@@ -381,6 +381,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES REGIONAIS",
+        "locale": "ON-LINE",
+        "desc": "DARPE: TRANSMISSÃO NACIONAL COM TODOS COLABORADORES",
+        "date": "2024-08-08T22:00:00.000Z",
+        "end": "2024-08-09T00:00:00.000Z",
+        "updated": "2024-06-09T13:04:59.587Z",
+        "gid": "4tr7kuro32q6ic9jaqgk6na6qo",
+        "maps": "NHRyN2t1cm8zMnE2aWM5amFxZ2s2bmE2cW8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES REGIONAIS",
         "locale": "FAINA - CENTRAL",
         "desc": "<b>RRM (REUNIÃO REGIONAL MINISTERIAL)</b>",
         "date": "2024-08-11T13:00:00.000Z",
@@ -584,19 +597,6 @@
         "gid": "a1tllmf9t9mdcbma3kcvcak5q0_20240807T223000Z",
         "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfMjAyNDA4MDdUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "ON-LINE",
-        "desc": "DARPE: TRANSMISSÃO NACIONAL COM TODOS COLABORADORES",
-        "date": "2024-08-08T22:00:00.000Z",
-        "end": "2024-08-09T00:00:00.000Z",
-        "updated": "2024-02-23T20:28:34.476Z",
-        "gid": "4tr7kuro32q6ic9jaqgk6na6qo",
-        "maps": "NHRyN2t1cm8zMnE2aWM5amFxZ2s2bmE2cW8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
       },
       {
         "id": 0,
