@@ -234,13 +234,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "ENSAIOS REGIONAIS",
         "locale": " ITABERAÍ - CENTRAL",
-        "desc": "<b><u>TESTES MUSICAIS</u></b>",
+        "desc": "<DIV>ANC. <SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">LUCIANO PONTES</SPAN></DIV><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. MÁRCIO LUIZ</SPAN></DIV><B><U>TESTES MUSICAIS</U></B>",
         "date": "2024-07-21T12:00:00.000Z",
-        "end": "2024-07-21T15:00:00.000Z",
-        "updated": "2024-03-20T02:33:26.524Z",
+        "end": "2024-07-21T14:00:00.000Z",
+        "updated": "2024-06-09T10:53:21.748Z",
         "gid": "75ksoqgtdlfl22nmug9v47saej_20240721T120000Z",
         "maps": "NzVrc29xZ3RkbGZsMjJubXVnOXY0N3NhZWpfMjAyNDA3MjFUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
