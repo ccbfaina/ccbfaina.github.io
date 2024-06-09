@@ -496,13 +496,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES DIVERSAS",
         "locale": "JUSSARA - CENTRAL",
         "desc": "<DIV>RA (REUNIÃO ADMINISTRATIVA COM COLABORADORES)</DIV><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">10H00 RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)</SPAN><BR></DIV>",
-        "date": "2024-07-13T12:00:00.000Z",
-        "end": "2024-07-13T14:00:00.000Z",
-        "updated": "2024-06-09T12:56:51.732Z",
+        "date": "2024-07-13T11:00:00.000Z",
+        "end": "2024-07-13T13:00:00.000Z",
+        "updated": "2024-06-09T13:17:19.014Z",
         "gid": "cep1mqum0r60poqu8pjkoa74pg_20240713T110000Z",
         "maps": "Y2VwMW1xdW0wcjYwcG9xdThwamtvYTc0cGdfMjAyNDA3MTNUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
