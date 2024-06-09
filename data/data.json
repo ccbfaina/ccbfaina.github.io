@@ -275,6 +275,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
+        "locale": "SÃO MIGUEL DO ARAGUAIA - CENTRAL",
+        "desc": "ENC. EDIMAR RODRIGUES ALVES",
+        "date": "2024-07-28T12:00:00.000Z",
+        "end": "2024-07-28T14:00:00.000Z",
+        "updated": "2024-06-09T11:56:14.128Z",
+        "gid": "g0lm928n20tg5m6p9va21ih22g",
+        "maps": "ZzBsbTkyOG4yMHRnNW02cDl2YTIxaWgyMmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
         "locale": "URUANA - CENTRAL",
         "desc": "ANC. <SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">CÍCERO NATAL COELHO</SPAN><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. </SPAN><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">VITOR VIEIRA RAMOS</SPAN><BR></DIV>",
         "date": "2024-08-25T12:00:00.000Z",
@@ -283,19 +296,6 @@
         "gid": "725qjc9rndajug9k4om9gc0k8p_20240825T120000Z",
         "maps": "NzI1cWpjOXJuZGFqdWc5azRvbTlnYzBrOHBfMjAyNDA4MjVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ENSAIO REGIONAL",
-        "locale": "SÃO MIGUEL DO ARAGUAIA - CENTRAL",
-        "desc": "ENC. EDIMAR RODRIGUES ALVES",
-        "date": "2024-07-28T12:00:00.000Z",
-        "end": "2024-07-28T14:00:00.000Z",
-        "updated": "2024-06-09T11:33:37.472Z",
-        "gid": "g0lm928n20tg5m6p9va21ih22g",
-        "maps": "ZzBsbTkyOG4yMHRnNW02cDl2YTIxaWgyMmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
       },
       {
         "id": 0,
