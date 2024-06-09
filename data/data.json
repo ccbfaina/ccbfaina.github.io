@@ -105,6 +105,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "BRITÂNIA - CENTRAL",
+        "desc": "ISMAEL ALVES RANGEL FILHO",
+        "date": "2024-07-28T22:00:00.000Z",
+        "end": "2024-07-29T00:00:00.000Z",
+        "updated": "2024-06-09T11:43:12.035Z",
+        "gid": "m8ngq97b48rumvvfltgsvfsah4",
+        "maps": "bThuZ3E5N2I0OHJ1bXZ2Zmx0Z3N2ZnNhaDQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "JUSSARA",
         "desc": "VAGNER GARCIA DOS REIS",
