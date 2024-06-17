@@ -5,58 +5,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
-        "locale": "ARAGUAPAZ - CENTRAL",
-        "desc": "ISRAEL BARBOSA EUZÉBIO DA SILVA",
-        "date": "2024-06-16T22:00:00.000Z",
-        "end": "2024-06-17T00:00:00.000Z",
-        "updated": "2024-06-08T17:59:42.201Z",
-        "gid": "99i2gpq433f8l1e2q19hcgaca0",
-        "maps": "OTlpMmdwcTQzM2Y4bDFlMnExOWhjZ2FjYTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "FAINA - CENTRAL",
-        "desc": "ECLESIASTES ARAÚJO DE SOUSA",
-        "date": "2024-06-16T22:00:00.000Z",
-        "end": "2024-06-17T00:00:00.000Z",
-        "updated": "2024-06-09T12:05:04.946Z",
-        "gid": "cf3t8vgkjm0ic98gd0hmuf4p1k",
-        "maps": "Y2YzdDh2Z2tqbTBpYzk4Z2QwaG11ZjRwMWsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "HEITORAÍ - CENTRAL",
-        "desc": "NAZARÉ ANTONIO DA SILVA",
-        "date": "2024-06-16T22:00:00.000Z",
-        "end": "2024-06-17T00:00:00.000Z",
-        "updated": "2024-06-08T17:23:38.884Z",
-        "gid": "p1oaob07mbnil1ohig18g0okfo",
-        "maps": "cDFvYW9iMDdtYm5pbDFvaGlnMThnMG9rZm8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "ITAPURANGA - CENTRAL",
-        "desc": "PAULO SILVANO SANTOS",
-        "date": "2024-06-16T22:00:00.000Z",
-        "end": "2024-06-17T00:00:00.000Z",
-        "updated": "2024-06-09T12:29:53.095Z",
-        "gid": "ngclnkan5lb0htagltmekgepm4",
-        "maps": "bmdjbG5rYW41bGIwaHRhZ2x0bWVrZ2VwbTQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
         "locale": "ITABERAÍ - CENTRAL",
         "desc": "MARCO ANTÔNIO QUEIROZ",
         "date": "2024-06-23T22:00:00.000Z",
@@ -148,19 +96,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
-        "locale": "JUSSARA",
-        "desc": "VAGNER GARCIA DOS REIS",
-        "date": "2024-06-16T17:00:00.000Z",
-        "end": "2024-06-16T19:00:00.000Z",
-        "updated": "2024-04-14T11:29:11.237Z",
-        "gid": "t1pipi9oci4lkh0dm8be3hkgj8_20240616T170000Z",
-        "maps": "dDFwaXBpOW9jaTRsa2gwZG04YmUzaGtnajhfMjAyNDA2MTZUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "ITAPURANGA - CENTRAL",
         "desc": "WALTER BORGES",
         "date": "2024-06-23T17:00:00.000Z",
@@ -237,14 +172,13 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "ENSAIOS REGIONAIS",
-        "locale": "JUSSARA",
-        "desc": "ANC. VAGNER GARCIA DOS REIS<DIV><DIV STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. NEREU JOSÉ DA ROCHA</DIV><B STYLE=\"LETTER-SPACING: 0.1PX;\"><U>TESTES MUSICAIS</U></B><BR></DIV>",
-        "date": "2024-06-16T12:00:00.000Z",
-        "end": "2024-06-16T14:00:00.000Z",
-        "updated": "2024-04-14T11:49:57.955Z",
-        "gid": "qfslsh68s89eb00kucvr55dtf2_20240616T120000Z",
-        "maps": "cWZzbHNoNjhzODllYjAwa3VjdnI1NWR0ZjJfMjAyNDA2MTZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "title": "REUNIÕES PARA A MOCIDADE",
+        "locale": "MOZARLÂNDIA - CENTRAL",
+        "date": "2024-09-15T17:00:00.000Z",
+        "end": "2024-09-15T20:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "44khlht51md9e0rd6b938llr9m_20240915T170000Z",
+        "maps": "NDRraGxodDUxbWQ5ZTByZDZiOTM4bGxyOW1fMjAyNDA5MTVUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -327,15 +261,14 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "PARTE MUSICAL",
-        "locale": "JUSSARA",
-        "desc": "<b><u>TESTES MUSICAIS</u></b>",
-        "date": "2024-06-16T12:00:00.000Z",
-        "end": "2024-06-16T14:00:00.000Z",
-        "updated": "2024-04-14T02:53:33.394Z",
-        "gid": "0i0j4a1i2k2c9slcpgd81kit40",
-        "maps": "MGkwajRhMWkyazJjOXNsY3BnZDgxa2l0NDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "MOZARLÂNDIA - CENTRAL",
+        "date": "2024-09-15T12:00:00.000Z",
+        "end": "2024-09-15T15:00:00.000Z",
+        "updated": "2024-03-20T02:34:26.231Z",
+        "gid": "ide35gcidm2tqa6ci6t8f62ltk_20240915T120000Z",
+        "maps": "aWRlMzVnY2lkbTJ0cWE2Y2k2dDhmNjJsdGtfMjAyNDA5MTVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
       },
       {
         "id": 0,
@@ -413,6 +346,19 @@
         "updated": "2024-06-08T20:17:50.529Z",
         "gid": "36attmogj75jnu3qqdlhfq4g35_20240811T130000Z",
         "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfMjAyNDA4MTFUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "FAINA - CENTRAL",
+        "desc": "Reunião Regional de Ensinamento da Obra da Piedade",
+        "date": "2024-09-15T12:00:00.000Z",
+        "end": "2024-09-15T14:00:00.000Z",
+        "updated": "2024-06-08T20:10:32.404Z",
+        "gid": "jcpcju449u4lshjv0nmcn9grb5_20240915T120000Z",
+        "maps": "amNwY2p1NDQ5dTRsc2hqdjBubWNuOWdyYjVfMjAyNDA5MTVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1236,6 +1182,19 @@
       },
       {
         "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "URUANA - DISTRITO DE URUÍTA",
+        "desc": "NAZARÉ ANTONIO DA SILVA",
+        "date": "2024-09-15T22:00:00.000Z",
+        "end": "2024-09-16T00:00:00.000Z",
+        "updated": "2024-04-11T01:11:31.251Z",
+        "gid": "4qfhffhtfnf701ih4vv8lubaio_20240915T220000Z",
+        "maps": "NHFmaGZmaHRmbmY3MDFpaDR2djhsdWJhaW9fMjAyNDA5MTVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
         "locale": "MOSSÂMEDES - CENTRAL",
@@ -1902,19 +1861,6 @@
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. HIST.: SARA\nPEDAGOGA: MARCIA <DIV>AUX. REGINA, JONATHAN, MARTA <DIV>TEMA: <B>PAULO E SILAS CANTAM NA PRISÃO</B></DIV></DIV>",
-        "date": "2024-06-16T22:00:00.000Z",
-        "end": "2024-06-17T00:00:00.000Z",
-        "updated": "2024-06-15T19:09:32.937Z",
-        "gid": "26so2l6m3e6g5egbrms2deqlt1_20240616T220000Z",
-        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDA2MTZUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "RPC",
-        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-        "locale": "GOIÁS - CENTRAL",
         "desc": "<SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">RESP. HOSONA PEDAGOGA: MIRNA</SPAN><DIV STYLE=\"LETTER-SPACING: 0.1PX;\">AUX. VALBER, ISABELA<DIV>TEMA: <B>A SUPREMA EXCELÊNCIA DA CARIDADE</B></DIV></DIV>",
         "date": "2024-06-23T22:00:00.000Z",
         "end": "2024-06-24T00:00:00.000Z",
@@ -2064,6 +2010,19 @@
         "updated": "2024-06-15T19:09:41.446Z",
         "gid": "26so2l6m3e6g5egbrms2deqlt1_20240908T220000Z",
         "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDA5MDhUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "RESP. ELIZÂNGELA\nPEDAGOGA: MIRNA\nAUX. ARTHUR, LUDY, HUMBERTO\nTEMA:",
+        "date": "2024-09-15T22:00:00.000Z",
+        "end": "2024-09-16T00:00:00.000Z",
+        "updated": "2024-06-15T19:07:42.782Z",
+        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_20240915T220000Z",
+        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfMjAyNDA5MTVUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -2272,19 +2231,6 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o_20240910T190000Z",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA5MTBUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "ITABERAÍ - LAR DOS IDOSOS SANTANA",
-        "desc": "Ir. ANTONIO BATISTA DE FARIA\nIr. DIVINO MODESTO",
-        "date": "2024-06-16T17:00:00.000Z",
-        "end": "2024-06-16T18:30:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20240616T170000Z",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDA2MTZUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2792,32 +2738,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0_20240914T180000Z",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA5MTRUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Jonathan Lucas",
-        "date": "2024-06-16T12:00:00.000Z",
-        "end": "2024-06-16T15:00:00.000Z",
-        "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240616T120000Z",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA2MTZUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Benjamin",
-        "date": "2024-06-16T21:30:00.000Z",
-        "end": "2024-06-17T00:00:00.000Z",
-        "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20240616T213000Z",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDA2MTZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -3637,6 +3557,32 @@
         "updated": "2024-03-26T13:53:01.847Z",
         "gid": "4cv5pdlrit4fif79k8p4uehk9n_20240914T213000Z",
         "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW5fMjAyNDA5MTRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Marcelo Pires",
+        "date": "2024-09-15T12:00:00.000Z",
+        "end": "2024-09-15T15:00:00.000Z",
+        "updated": "2024-06-11T11:29:17.089Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240915T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA5MTVUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Abel",
+        "date": "2024-09-15T21:30:00.000Z",
+        "end": "2024-09-16T00:00:00.000Z",
+        "updated": "2024-03-14T19:44:33.735Z",
+        "gid": "cl049nanq5uc4o7celhug74en0_20240915T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDA5MTVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
