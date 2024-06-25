@@ -1249,19 +1249,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - IR. IZABEL PONCE",
-        "desc": "<DIV>JARDIM DAS ACÁCIAS</DIV>RESP. ",
-        "date": "2024-06-24T22:30:00.000Z",
-        "end": "2024-06-25T00:00:00.000Z",
-        "updated": "2024-06-15T19:18:22.436Z",
-        "gid": "s1qlkrko691b6d3opqkv7gejh0",
-        "maps": "czFxbGtya282OTFiNmQzb3Bxa3Y3Z2VqaDAgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
         "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
         "date": "2024-06-25T22:30:00.000Z",
@@ -1958,19 +1945,6 @@
         "updated": "2024-06-15T19:08:28.297Z",
         "gid": "33lu3optrqqesh3ohns5sfsflm_20240922T220000Z",
         "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fMjAyNDA5MjJUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
-        "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
-        "date": "2024-06-24T18:00:00.000Z",
-        "end": "2024-06-24T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "40udpbcvmvfek4a9m320cgch2g_20240624T180000Z",
-        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDA2MjRUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
