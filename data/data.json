@@ -339,19 +339,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "ITABERAÍ - VILA PROGRESSO",
-        "desc": "REUNIÃO FINANCEIRA",
-        "date": "2024-07-01T22:00:00.000Z",
-        "end": "2024-07-02T00:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_20240701T220000Z",
-        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfMjAyNDA3MDFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "FAINA - CENTRAL",
         "desc": "REUNIÃO FINANCEIRA (ONLINE)",
         "date": "2024-07-03T22:30:00.000Z",
@@ -2127,6 +2114,19 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o_20240924T190000Z",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA5MjRUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
+        "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
+        "date": "2024-09-30T18:00:00.000Z",
+        "end": "2024-09-30T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "40udpbcvmvfek4a9m320cgch2g_20240930T180000Z",
+        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDA5MzBUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
