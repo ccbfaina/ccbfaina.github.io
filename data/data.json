@@ -339,19 +339,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "FAINA - CENTRAL",
-        "desc": "REUNIÃO FINANCEIRA (ONLINE)",
-        "date": "2024-07-03T22:30:00.000Z",
-        "end": "2024-07-04T00:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_20240703T223000Z",
-        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfMjAyNDA3MDNUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "URUANA - CENTRAL",
         "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA<DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">15H RA (REUNIÃO ADMINISTRAÇÃO COM COLABORADORES)</SPAN><BR></DIV>",
         "date": "2024-07-07T17:00:00.000Z",
@@ -645,6 +632,19 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "kcf8r18p2uueps6cg1crcl5s9c_20240921T170000Z",
         "maps": "a2NmOHIxOHAydXVlcHM2Y2cxY3JjbDVzOWNfMjAyNDA5MjFUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "FAINA - CENTRAL",
+        "desc": "REUNIÃO FINANCEIRA (ONLINE)",
+        "date": "2024-10-02T22:30:00.000Z",
+        "end": "2024-10-03T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_20241002T223000Z",
+        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfMjAyNDEwMDJUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -2640,19 +2640,6 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
-        "locale": "GOIÁS - VILA LIONS",
-        "desc": "Adivair Gonçalves",
-        "date": "2024-07-03T21:30:00.000Z",
-        "end": "2024-07-04T00:00:00.000Z",
-        "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3_20240703T213000Z",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA3MDNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
         "locale": "GOIÁS - CENTRAL",
         "desc": "Wilson",
         "date": "2024-07-04T21:30:00.000Z",
@@ -3479,6 +3466,19 @@
         "updated": "2024-03-14T19:44:33.735Z",
         "gid": "cl049nanq5uc4o7celhug74en0_20240929T213000Z",
         "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDA5MjlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Benjamin",
+        "date": "2024-10-02T21:30:00.000Z",
+        "end": "2024-10-03T00:00:00.000Z",
+        "updated": "2024-06-11T11:31:54.303Z",
+        "gid": "41p7c9m1ltvfvn1a0r7uppmit0_20241002T213000Z",
+        "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfMjAyNDEwMDJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
