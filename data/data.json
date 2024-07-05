@@ -2548,6 +2548,19 @@
       {
         "id": 0,
         "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "FAINA - LAR DO IDOSO DONA LEONTINA GOBBE CUNHA",
+        "desc": "Ir. Maciel Antônio de Oliveira\nIR. PAULO VINICIOS SALES DE ARAUJO",
+        "date": "2024-10-03T22:00:00.000Z",
+        "end": "2024-10-04T00:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20241003T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDEwMDNUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
         "title": "CASA DE RECUPERAÇÃO",
         "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
         "desc": "Ir. Hedyone Campos",
@@ -2634,19 +2647,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0_20240928T180000Z",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA5MjhUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Wilson",
-        "date": "2024-07-04T21:30:00.000Z",
-        "end": "2024-07-05T00:00:00.000Z",
-        "updated": "2024-06-11T11:28:07.042Z",
-        "gid": "0pbgp8qb1mbf8ap0moqlajoijn_20240704T213000Z",
-        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam5fMjAyNDA3MDRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -3479,6 +3479,19 @@
         "updated": "2024-06-11T11:31:54.303Z",
         "gid": "41p7c9m1ltvfvn1a0r7uppmit0_20241002T213000Z",
         "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfMjAyNDEwMDJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Sebastiao Amilto da Silva",
+        "date": "2024-10-03T21:30:00.000Z",
+        "end": "2024-10-04T00:00:00.000Z",
+        "updated": "2024-06-11T11:27:26.572Z",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20241003T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDEwMDNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
