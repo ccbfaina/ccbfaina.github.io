@@ -313,19 +313,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "NOVA CRIXÁS - CENTRAL",
-        "desc": "REUNIÃO FINANCEIRA<br><span>19h30 RA (REUNIÃO ADMINISTRATIVA COM COLABORADORES)</span>",
-        "date": "2024-07-08T22:00:00.000Z",
-        "end": "2024-07-08T23:30:00.000Z",
-        "updated": "2024-06-09T12:20:48.790Z",
-        "gid": "4184pudipcmi5016ag2ph1sdso_20240708T220000Z",
-        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fMjAyNDA3MDhUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "ITABERAÍ - VILA PROGRESSO",
         "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
         "date": "2024-07-09T22:30:00.000Z",
@@ -606,6 +593,19 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "a1tllmf9t9mdcbma3kcvcak5q0_20241002T223000Z",
         "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfMjAyNDEwMDJUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ITABERAÍ - VILA PROGRESSO",
+        "desc": "REUNIÃO FINANCEIRA",
+        "date": "2024-10-07T22:00:00.000Z",
+        "end": "2024-10-08T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_20241007T220000Z",
+        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfMjAyNDEwMDdUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
