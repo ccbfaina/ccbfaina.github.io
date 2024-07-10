@@ -313,19 +313,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "ITABERAÍ - VILA PROGRESSO",
-        "desc": "RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
-        "date": "2024-07-09T22:30:00.000Z",
-        "end": "2024-07-10T00:00:00.000Z",
-        "updated": "2024-06-09T12:52:19.077Z",
-        "gid": "77ag1e7v1hlue4vvlqga8jbbsr_20240709T223000Z",
-        "maps": "NzdhZzFlN3YxaGx1ZTR2dmxxZ2E4amJic3JfMjAyNDA3MDlUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "JUSSARA - CENTRAL",
         "desc": "<DIV>08H ANCIÃES E DIÁCONOS</DIV><DIV>08H RA (REUNIÃO ADMINISTRATIVA COM COLABORADORES)</DIV><DIV>10H RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)</DIV>",
         "date": "2024-07-13T11:00:00.000Z",
@@ -768,19 +755,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "ITABERAÍ - VILA PROGRESSO",
-        "desc": "<b>RMA: </b>Vagner Garcia, Itamar Menezes, Paulo Silvano",
-        "date": "2024-07-09T03:00:00.000Z",
-        "end": "2024-07-09T04:30:00.000Z",
-        "updated": "2024-06-09T12:42:51.580Z",
-        "gid": "dt81j7tuq224f4kjk6e5hhpmq8_20240709T030000Z",
-        "maps": "ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfMjAyNDA3MDlUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
         "locale": "JUSSARA - CENTRAL",
         "desc": "<b>RMA: </b>ADM FAINA, ANC. VAGNER GARCIA",
         "date": "2024-07-13T04:00:00.000Z",
@@ -1191,19 +1165,6 @@
         "updated": "2023-12-27T17:55:02.585Z",
         "gid": "qf3b4aqni47hgs11klocrepsvc_20241006T200000Z",
         "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDEwMDZUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
-        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
-        "date": "2024-07-09T22:30:00.000Z",
-        "end": "2024-07-10T00:00:00.000Z",
-        "updated": "2024-04-16T11:44:37.081Z",
-        "gid": "71fvprkb47ql76ncu3teve8c2j_20240709T223000Z",
-        "maps": "NzFmdnBya2I0N3FsNzZuY3UzdGV2ZThjMmpfMjAyNDA3MDlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1728,6 +1689,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
+        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
+        "date": "2024-10-08T22:30:00.000Z",
+        "end": "2024-10-09T00:00:00.000Z",
+        "updated": "2024-04-16T11:45:00.057Z",
+        "gid": "3bm557ljhp742chpajtf0jdvva_20241008T223000Z",
+        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDEwMDhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
@@ -1893,19 +1867,6 @@
         "updated": "2024-06-15T19:09:32.937Z",
         "gid": "26so2l6m3e6g5egbrms2deqlt1_20241006T220000Z",
         "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDEwMDZUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
-        "date": "2024-07-09T19:00:00.000Z",
-        "end": "2024-07-09T21:00:00.000Z",
-        "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa_20240709T190000Z",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA3MDlUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2101,6 +2062,19 @@
         "updated": "2024-04-23T13:36:19.749Z",
         "gid": "5fln97908qjka7trpgbg5uu0fa_20241001T190000Z",
         "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDEwMDFUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
+        "date": "2024-10-08T19:00:00.000Z",
+        "end": "2024-10-08T21:00:00.000Z",
+        "updated": "2024-04-23T13:35:59.284Z",
+        "gid": "4p511c6c41mio6f52ltvlb6j4o_20241008T190000Z",
+        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDEwMDhUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
