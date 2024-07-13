@@ -1015,6 +1015,18 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
+        "locale": "BRITÂNIA - ANTIGA CENTRAL",
+        "date": "2024-08-31T22:00:00.000Z",
+        "end": "2024-08-31T23:00:00.000Z",
+        "updated": "2024-07-13T12:40:59.687Z",
+        "gid": "chijecpm6soj8b9ncpijeb9kccoj2b9pcgq3gb9hcpi38c9g6tgjge3664_20240831T220000Z",
+        "maps": "Y2hpamVjcG02c29qOGI5bmNwaWplYjlrY2NvajJiOXBjZ3EzZ2I5aGNwaTM4YzlnNnRnamdlMzY2NF8yMDI0MDgzMVQyMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmFAZw",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
         "locale": "JUSSARA - NOVA JUSSARA",
         "desc": "NEIDE DA SILVA PEREIRA",
         "date": "2024-09-08T22:00:00.000Z",
@@ -1042,10 +1054,9 @@
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "BRITÂNIA - CENTRAL",
-        "desc": "NEIDE DA SILVA PEREIRA",
         "date": "2024-09-29T22:00:00.000Z",
         "end": "2024-09-30T00:00:00.000Z",
-        "updated": "2024-04-11T01:11:41.734Z",
+        "updated": "2024-07-13T12:38:17.801Z",
         "gid": "47e8utlafkn2fsn2pqatcmqvee_20240929T220000Z",
         "maps": "NDdlOHV0bGFma24yZnNuMnBxYXRjbXF2ZWVfMjAyNDA5MjlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
@@ -1165,19 +1176,6 @@
         "updated": "2023-12-27T17:55:02.585Z",
         "gid": "qf3b4aqni47hgs11klocrepsvc_20241006T200000Z",
         "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDEwMDZUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - BOM SUCESSO",
-        "desc": "RESP. ADIVAIR",
-        "date": "2024-07-12T22:30:00.000Z",
-        "end": "2024-07-13T00:00:00.000Z",
-        "updated": "2024-06-15T19:18:57.802Z",
-        "gid": "gb6f0btfm42t7i1g7avf27hstc_20240712T223000Z",
-        "maps": "Z2I2ZjBidGZtNDJ0N2kxZzdhdmYyN2hzdGNfMjAyNDA3MTJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1698,6 +1696,19 @@
         "updated": "2024-04-16T11:45:00.057Z",
         "gid": "3bm557ljhp742chpajtf0jdvva_20241008T223000Z",
         "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDEwMDhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BOM SUCESSO",
+        "desc": "RESP. ADIVAIR",
+        "date": "2024-10-11T22:30:00.000Z",
+        "end": "2024-10-12T00:00:00.000Z",
+        "updated": "2024-06-15T19:18:57.802Z",
+        "gid": "gb6f0btfm42t7i1g7avf27hstc_20241011T223000Z",
+        "maps": "Z2I2ZjBidGZtNDJ0N2kxZzdhdmYyN2hzdGNfMjAyNDEwMTFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
