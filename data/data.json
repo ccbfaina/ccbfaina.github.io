@@ -56,6 +56,32 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "REGIONAL",
+        "desc": "COMUNICADO A IRMANDADE - ELEIÇÕES – CARGOS POLÍTICOS\n\n\nQuem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. \nQuanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. \nNão se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
+        "date": "2024-09-01T00:00:00.000Z",
+        "end": "2024-09-01T02:00:00.000Z",
+        "updated": "2024-07-13T18:38:04.279Z",
+        "gid": "cgrm8dj36dh3cb9g64p34b9k6ko64bb16pim6b9m6hj68or36tij4o9o6g",
+        "maps": "Y2dybThkajM2ZGgzY2I5ZzY0cDM0YjlrNmtvNjRiYjE2cGltNmI5bTZoajY4b3IzNnRpajRvOW82ZyA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "REGIONAL",
+        "desc": "Coleta Única: Para atendimento da Obra da Piedade, Viagens, Manutenção e Construções.",
+        "date": "2024-09-01T00:00:00.000Z",
+        "end": "2024-09-01T02:00:00.000Z",
+        "updated": "2024-07-13T18:41:03.314Z",
+        "gid": "ccpm4d9j6gr3ebb361h6ab9kc8s30b9p71hm8b9lckqj8dhk6som8e3260_20240901T000000Z",
+        "maps": "Y2NwbTRkOWo2Z3IzZWJiMzYxaDZhYjlrYzhzMzBiOXA3MWhtOGI5bGNrcWo4ZGhrNnNvbThlMzI2MF8yMDI0MDkwMVQwMDAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmFAZw",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "ITABERAÍ - CENTRAL",
         "desc": "LUCIANO PONTES",
