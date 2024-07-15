@@ -5,19 +5,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
-        "locale": "ITABERAÍ - FAZENDA MATO DENTRO",
-        "desc": "FLAVIO DA COSTA MATOS",
-        "date": "2024-07-14T17:00:00.000Z",
-        "end": "2024-07-14T19:00:00.000Z",
-        "updated": "2024-06-09T16:38:53.175Z",
-        "gid": "32d52k4nk2r1cpm9giuqm517c4",
-        "maps": "MzJkNTJrNG5rMnIxY3BtOWdpdXFtNTE3YzQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
         "locale": "BRITÂNIA - CENTRAL",
         "desc": "ISMAEL ALVES RANGEL FILHO",
         "date": "2024-07-28T22:00:00.000Z",
@@ -51,6 +38,32 @@
         "updated": "2023-12-26T01:46:58.187Z",
         "gid": "1ooqi721hcacjbar7ibfb6iqcm_20240924T220000Z",
         "maps": "MW9vcWk3MjFoY2FjamJhcjdpYmZiNmlxY21fMjAyNDA5MjRUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "ARUANÃ - CENTRAL",
+        "desc": "PAULO SILVANO SANTOS",
+        "date": "2024-10-13T22:00:00.000Z",
+        "end": "2024-10-14T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "ccb7of1i3n7ud4dv43op7270jo_20241013T220000Z",
+        "maps": "Y2NiN29mMWkzbjd1ZDRkdjQzb3A3Mjcwam9fMjAyNDEwMTNUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "ITAPURANGA - CENTRAL",
+        "desc": "VAGNER GARCIA DOS REIS",
+        "date": "2024-10-13T22:00:00.000Z",
+        "end": "2024-10-14T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "6g7asf302hqfbpcltqlg0lqnus_20241013T220000Z",
+        "maps": "Nmc3YXNmMzAyaHFmYnBjbHRxbGcwbHFudXNfMjAyNDEwMTNUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -209,19 +222,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "PARTE MUSICAL",
-        "locale": "NOVA CRIXÁS - CENTRAL",
-        "desc": "REUNIÃO ASSUNTOS MUSICAIS",
-        "date": "2024-07-14T12:30:00.000Z",
-        "end": "2024-07-14T14:00:00.000Z",
-        "updated": "2024-04-14T02:52:05.155Z",
-        "gid": "fsaj8ourgrdlk3j5k0svt18qbs_20240714T123000Z",
-        "maps": "ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNDA3MTRUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "PARTE MUSICAL",
         "locale": "FAINA - CENTRAL",
         "desc": "REUNIÃO ASSUNTOS MUSICAIS",
         "date": "2024-07-20T13:30:00.000Z",
@@ -338,27 +338,14 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "NOVA CRIXÁS - CENTRAL",
-        "desc": "08h Anciães e Diáconos\n08h RA (REUNIÃO ADMINISTRAÇÃO COM COLABORADORES)\n10h RMA (REUNIÃO MINISTERIAL ADMINISTRATIVA)",
-        "date": "2024-07-14T12:00:00.000Z",
-        "end": "2024-07-14T16:00:00.000Z",
-        "updated": "2024-06-09T13:31:57.602Z",
-        "gid": "u7rj3hcdj3usg0emrrgaboarm0_20240714T120000Z",
-        "maps": "dTdyajNoY2RqM3VzZzBlbXJyZ2Fib2FybTBfMjAyNDA3MTRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "NOVA CRIXÁS - CENTRAL",
-        "desc": "REUNIÃO DARPE (DEPARTAMENTO DE ASSISTÊNCIA RELIGIOSA PARA EVANGELIZAÇÃO)",
-        "date": "2024-07-14T17:00:00.000Z",
-        "end": "2024-07-14T19:00:00.000Z",
-        "updated": "2024-04-15T13:04:00.163Z",
-        "gid": "fpchv082hmd34pf3r5tun8k6nv_20240714T170000Z",
-        "maps": "ZnBjaHYwODJobWQzNHBmM3I1dHVuOGs2bnZfMjAyNDA3MTRUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "FAINA - CENTRAL",
+        "desc": "<b>RRM (REUNIÃO REGIONAL MINISTERIAL)</b>",
+        "date": "2024-10-13T13:00:00.000Z",
+        "end": "2024-10-13T16:10:00.000Z",
+        "updated": "2024-06-08T20:17:50.529Z",
+        "gid": "36attmogj75jnu3qqdlhfq4g35_20241013T130000Z",
+        "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfMjAyNDEwMTNUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -768,19 +755,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "NOVA CRIXÁS-CENTRAL",
-        "desc": "<b>RMA: </b>ADM FAINA,  ANC. ITAMAR MENEZES, ANC. VAGNER GARCIA, ANC. PAULO SILVANO.",
-        "date": "2024-07-14T04:00:00.000Z",
-        "end": "2024-07-14T06:00:00.000Z",
-        "updated": "2024-04-15T13:33:48.224Z",
-        "gid": "m4tk4su2vaph2cl3s1b0vtrji8_20240714T040000Z",
-        "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfMjAyNDA3MTRUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
         "locale": "NOVA CRIXÁS - CENTRAL",
         "desc": "<SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">ATENDIMENTO OBRA DA PIEDADE</SPAN><DIV STYLE=\"LETTER-SPACING: 0.1PX;\">DIAC. FERNANDO FERREIRA DE MENESES</DIV><DIV STYLE=\"LETTER-SPACING: 0.1PX;\"><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">DIAC. ADEILSON JOSÉ DA SILVA</SPAN><BR></DIV><DIV STYLE=\"LETTER-SPACING: 0.1PX;\"><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">DIAC. SALMO SILVESTRE SOUZA</SPAN><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\"><BR></SPAN></DIV><DIV STYLE=\"LETTER-SPACING: 0.1PX;\"><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">DIAC. ADEILSON JUNIOR</SPAN></DIV>",
         "date": "2024-07-27T12:00:00.000Z",
@@ -932,19 +906,6 @@
         "gid": "kmc4misb451rb3svtbu2k10qhg_20240929T030000Z",
         "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGdfMjAyNDA5MjlUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "SANTA FÉ DE GOIÁS - CENTRAL",
-        "desc": "NEIDE DA SILVA PEREIRA",
-        "date": "2024-07-14T22:00:00.000Z",
-        "end": "2024-07-15T00:00:00.000Z",
-        "updated": "2024-06-09T10:51:14.768Z",
-        "gid": "modkrfibse8dah1h2b66jetglk",
-        "maps": "bW9ka3JmaWJzZThkYWgxaDJiNjZqZXRnbGsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": "false"
       },
       {
         "id": 0,
@@ -1104,19 +1065,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. ARTHOS MORAES VIEIRA",
-        "date": "2024-07-14T20:00:00.000Z",
-        "end": "2024-07-14T22:00:00.000Z",
-        "updated": "2024-02-25T03:02:00.890Z",
-        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_20240714T200000Z",
-        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfMjAyNDA3MTRUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "ENSAIO LOCAL",
         "locale": "MOSSÂMEDES - CENTRAL",
         "desc": "ENC. RESP. ÊNIO",
         "date": "2024-08-04T20:00:00.000Z",
@@ -1176,6 +1124,19 @@
         "updated": "2023-12-27T17:55:02.585Z",
         "gid": "qf3b4aqni47hgs11klocrepsvc_20241006T200000Z",
         "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDEwMDZUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "ENSAIO LOCAL",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "RESP. ARTHOS MORAES VIEIRA",
+        "date": "2024-10-13T20:00:00.000Z",
+        "end": "2024-10-13T22:00:00.000Z",
+        "updated": "2024-02-25T03:02:00.890Z",
+        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_20241013T200000Z",
+        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfMjAyNDEwMTNUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1716,19 +1677,6 @@
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. HIST.: SARA\nPEDAGOGA: MARCIA <DIV>AUX. REGINA, JONATHAN, MARTA </DIV><DIV>TEMA: <B>A HISTÓRIA DE SANSÃO</B></DIV>",
-        "date": "2024-07-14T22:00:00.000Z",
-        "end": "2024-07-15T00:00:00.000Z",
-        "updated": "2024-06-15T19:09:32.937Z",
-        "gid": "26so2l6m3e6g5egbrms2deqlt1_20240714T220000Z",
-        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDA3MTRUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "RPC",
-        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-        "locale": "GOIÁS - CENTRAL",
         "desc": "RESP. ELIZÂNGELA\nPEDAGOGA: MIRNA\nAUX. ARTHUR, LUDY, HUMBERTO\nTEMA: <B>DEUS FALA COM SAMUEL</B>",
         "date": "2024-07-21T22:00:00.000Z",
         "end": "2024-07-22T00:00:00.000Z",
@@ -1878,6 +1826,19 @@
         "updated": "2024-06-15T19:09:32.937Z",
         "gid": "26so2l6m3e6g5egbrms2deqlt1_20241006T220000Z",
         "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDEwMDZUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "RESP. ELIZÂNGELA\nPEDAGOGA: MIRNA\nAUX. ARTHUR, LUDY, HUMBERTO\nTEMA:",
+        "date": "2024-10-13T22:00:00.000Z",
+        "end": "2024-10-14T00:00:00.000Z",
+        "updated": "2024-06-15T19:07:42.782Z",
+        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_20241013T220000Z",
+        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfMjAyNDEwMTNUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -2086,19 +2047,6 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o_20241008T190000Z",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDEwMDhUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "ITABERAÍ - LAR DOS IDOSOS SANTANA",
-        "desc": "Ir. ANTONIO BATISTA DE FARIA\nIr. DIVINO MODESTO",
-        "date": "2024-07-14T17:00:00.000Z",
-        "end": "2024-07-14T18:30:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20240714T170000Z",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDA3MTRUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2606,32 +2554,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0_20241012T180000Z",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDEwMTJUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Jonathan Lucas",
-        "date": "2024-07-14T12:00:00.000Z",
-        "end": "2024-07-14T15:00:00.000Z",
-        "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240714T120000Z",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA3MTRUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Benjamin",
-        "date": "2024-07-14T21:30:00.000Z",
-        "end": "2024-07-15T00:00:00.000Z",
-        "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20240714T213000Z",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDA3MTRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -3451,6 +3373,32 @@
         "updated": "2024-03-26T13:54:16.215Z",
         "gid": "7s4e48vk3qjuj87pls8na5qclr_20241012T213000Z",
         "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfMjAyNDEwMTJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Marcelo Pires",
+        "date": "2024-10-13T12:00:00.000Z",
+        "end": "2024-10-13T15:00:00.000Z",
+        "updated": "2024-06-11T11:29:17.089Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20241013T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDEwMTNUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Abel",
+        "date": "2024-10-13T21:30:00.000Z",
+        "end": "2024-10-14T00:00:00.000Z",
+        "updated": "2024-03-14T19:44:33.735Z",
+        "gid": "cl049nanq5uc4o7celhug74en0_20241013T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDEwMTNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
