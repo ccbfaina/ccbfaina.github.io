@@ -598,6 +598,32 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "NOVA CRIXÁS - CENTRAL",
+        "desc": "REUNIÃO FINANCEIRA<br><span>19h30 RA (REUNIÃO ADMINISTRATIVA COM COLABORADORES)</span>",
+        "date": "2024-10-14T22:00:00.000Z",
+        "end": "2024-10-14T23:30:00.000Z",
+        "updated": "2024-06-09T12:20:48.790Z",
+        "gid": "4184pudipcmi5016ag2ph1sdso_20241014T220000Z",
+        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fMjAyNDEwMTRUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ITABERAÍ - VILA PROGRESSO",
+        "desc": "RA (REUNIÃO ADMINISTRATIVA COM COLABORADORES)",
+        "date": "2024-10-14T22:30:00.000Z",
+        "end": "2024-10-15T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "5b796u7bouj2qh1c38krcdmsml_20241014T223000Z",
+        "maps": "NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfMjAyNDEwMTRUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "JUSSARA - CENTRAL ",
         "desc": "ATENDIMENTO OBRA DA PIEDADE",
@@ -905,6 +931,19 @@
         "updated": "2024-06-09T11:25:10.983Z",
         "gid": "kmc4misb451rb3svtbu2k10qhg_20240929T030000Z",
         "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGdfMjAyNDA5MjlUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "ITABERAÍ - VILA PROGRESSO",
+        "desc": "<b>RA: </b>ANC.: VAGNER GARCIA, DIÁCONO: SALMO SILVESTRE SOUZA",
+        "date": "2024-10-14T04:00:00.000Z",
+        "end": "2024-10-14T04:30:00.000Z",
+        "updated": "2024-04-15T13:34:56.379Z",
+        "gid": "g4399lkrou132g28aju77bco10_20241014T040000Z",
+        "maps": "ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNDEwMTRUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
