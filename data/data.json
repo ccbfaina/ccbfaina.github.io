@@ -2599,19 +2599,6 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
-        "locale": "GOIÁS - VILA LIONS",
-        "desc": "Adivair Gonçalves",
-        "date": "2024-07-17T21:30:00.000Z",
-        "end": "2024-07-18T00:00:00.000Z",
-        "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3_20240717T213000Z",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA3MTdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
         "locale": "GOIÁS - CENTRAL",
         "desc": "Wilson",
         "date": "2024-07-18T21:30:00.000Z",
@@ -3438,6 +3425,19 @@
         "updated": "2024-03-14T19:44:33.735Z",
         "gid": "cl049nanq5uc4o7celhug74en0_20241013T213000Z",
         "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDEwMTNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "MARCELO PIRES",
+        "date": "2024-10-16T21:30:00.000Z",
+        "end": "2024-10-17T00:00:00.000Z",
+        "updated": "2024-06-11T11:32:08.502Z",
+        "gid": "n8v20h6agmuonuharhqf9i2j16_20241016T213000Z",
+        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTZfMjAyNDEwMTZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
