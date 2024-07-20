@@ -1182,19 +1182,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - BOM SUCESSO",
-        "desc": "RESP. ADIVAIR",
-        "date": "2024-07-19T22:30:00.000Z",
-        "end": "2024-07-20T00:00:00.000Z",
-        "updated": "2024-06-15T19:18:57.802Z",
-        "gid": "gb6f0btfm42t7i1g7avf27hstc_20240719T223000Z",
-        "maps": "Z2I2ZjBidGZtNDJ0N2kxZzdhdmYyN2hzdGNfMjAyNDA3MTlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - BUENOLÂNDIA",
         "desc": "RESP. GILMAR LINO",
         "date": "2024-07-20T22:30:00.000Z",
@@ -1709,6 +1696,19 @@
         "updated": "2023-12-27T14:41:12.390Z",
         "gid": "179k39951t9pr8q6digrdli542_20241012T223000Z",
         "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDEwMTJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BOM SUCESSO",
+        "desc": "RESP. ADIVAIR",
+        "date": "2024-10-18T22:30:00.000Z",
+        "end": "2024-10-19T00:00:00.000Z",
+        "updated": "2024-06-15T19:18:57.802Z",
+        "gid": "gb6f0btfm42t7i1g7avf27hstc_20241018T223000Z",
+        "maps": "Z2I2ZjBidGZtNDJ0N2kxZzdhdmYyN2hzdGNfMjAyNDEwMThUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
