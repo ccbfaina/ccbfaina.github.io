@@ -68,12 +68,12 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "Mozarlândia - Central",
         "date": "2024-09-15T17:00:00.000Z",
-        "end": "2024-09-15T20:00:00.000Z",
-        "updated": "2024-07-29T19:18:17.222Z",
+        "end": "2024-09-15T19:00:00.000Z",
+        "updated": "2024-07-29T19:24:55.487Z",
         "gid": "44khlht51md9e0rd6b938llr9m_20240915T170000Z",
         "maps": "NDRraGxodDUxbWQ5ZTByZDZiOTM4bGxyOW1fMjAyNDA5MTVUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
