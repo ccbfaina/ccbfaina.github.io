@@ -16,6 +16,19 @@
       },
       {
         "id": 0,
+        "list": "RPC",
+        "title": "BATISMOS",
+        "locale": "URUANA - PERILÂNDIA",
+        "desc": "NAZARÉ ANTONIO DA SILVA",
+        "date": "2024-08-17T22:00:00.000Z",
+        "end": "2024-08-18T00:00:00.000Z",
+        "updated": "2024-07-29T16:25:10.599Z",
+        "gid": "n83075hbnf4rtjunf1am9riqg8",
+        "maps": "bjgzMDc1aGJuZjRydGp1bmYxYW05cmlxZzggNDc1ZTYyNzM2Mzk0NzM3OTFiMjhlNjkzOWFiYjNkNWE4Y2EwNmJlMGQ2YThkZTIyYTVlYjJmMjk0NjVkOThlM0Bn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "REGIONAL",
