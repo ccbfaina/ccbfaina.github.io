@@ -44,7 +44,7 @@
         },
         {
             "title": "Calendário",
-            "href": "#/agenda",
+            "href": "#/calendar",
             "icon": "img/calendario.png",
             "grupo": "PAGINAS"
         },
