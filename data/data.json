@@ -92,13 +92,13 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "ENSAIOS REGIONAIS",
         "locale": "URUANA - CENTRAL",
-        "desc": "ANC. <SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">CÍCERO NATAL COELHO</SPAN><DIV><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">ENC. </SPAN><SPAN STYLE=\"LETTER-SPACING: 0.1PX;\">VITOR VIEIRA RAMOS</SPAN><BR></DIV>",
+        "desc": "<div><div>Anc. Cícero Natal Coelho</div><div>Enc. Vitor Vieira Ramos</div></div>",
         "date": "2024-08-25T12:00:00.000Z",
         "end": "2024-08-25T14:00:00.000Z",
-        "updated": "2024-06-08T19:16:28.026Z",
+        "updated": "2024-07-29T19:20:11.242Z",
         "gid": "725qjc9rndajug9k4om9gc0k8p_20240825T120000Z",
         "maps": "NzI1cWpjOXJuZGFqdWc5azRvbTlnYzBrOHBfMjAyNDA4MjVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
