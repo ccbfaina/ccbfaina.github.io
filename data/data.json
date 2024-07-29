@@ -105,12 +105,12 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
+        "list": "REGIONAL",
         "title": "ENSAIOS REGIONAIS",
-        "locale": "MOZARLÂNDIA - CENTRAL",
+        "locale": "Mozarlândia - Central",
         "date": "2024-09-15T12:00:00.000Z",
-        "end": "2024-09-15T15:00:00.000Z",
-        "updated": "2024-03-20T02:34:26.231Z",
+        "end": "2024-09-15T14:00:00.000Z",
+        "updated": "2024-07-29T19:25:11.102Z",
         "gid": "ide35gcidm2tqa6ci6t8f62ltk_20240915T120000Z",
         "maps": "aWRlMzVnY2lkbTJ0cWE2Y2k2dDhmNjJsdGtfMjAyNDA5MTVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
