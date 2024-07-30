@@ -3,19 +3,6 @@
     "items": [
       {
         "id": 0,
-        "list": "LOCALIDADES",
-        "title": "Plantão",
-        "locale": "Tira-Dúvidas - TI",
-        "desc": "🚨Plantão de Tira-Dúvidas - TI - Informática 🚨<br><br>Prezados irmãos(ãs), A Paz de Deus!<br><br>Gostaríamos de convidá-los para o nosso 1º Plantão de Tira-Dúvidas, que acontecerá na primeira segunda-feira de cada mês às 19h30, com início em Agosto/2024.<br><br>Neste plantão será possível esclarecer dúvidas dos seguintes temas:<br><br>- Licenciamento de Software<br>- E-mail institucional<br>- Intranet (InfoCCB)<br>- Assuntos Diversos relacionados a TI<br><br>Detalhes do Plantão:<br><br>Data e Hora: Primeira segunda-feira de cada mês - às 19h30<br>Início: 05/Agosto/2024<br>Link: <a href=\"https://bit.ly/infoplantaoccb\">https://bit.ly/infoplantaoccb</a><br><br>Atenciosamente,<br>TI - Tecnologia da Informação<br>Administração São Paulo",
-        "date": "2024-08-01T15:00:00.000Z",
-        "end": "2024-08-01T16:00:00.000Z",
-        "updated": "2024-07-29T14:36:33.662Z",
-        "gid": "2pmf0slvo8f8k1kt71tedv9s17",
-        "maps": "MnBtZjBzbHZvOGY4azFrdDcxdGVkdjlzMTcgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
         "locale": "Uruana - Central",
