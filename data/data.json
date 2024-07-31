@@ -1742,19 +1742,6 @@
         "list": "DARPE",
         "title": "HOSPITAL",
         "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "IR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
-        "date": "2024-07-30T19:00:00.000Z",
-        "end": "2024-07-30T21:00:00.000Z",
-        "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o_20240730T190000Z",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA3MzBUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
         "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
         "date": "2024-08-06T19:00:00.000Z",
         "end": "2024-08-06T21:00:00.000Z",
@@ -1943,6 +1930,19 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "40udpbcvmvfek4a9m320cgch2g_20241028T180000Z",
         "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDEwMjhUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
+        "date": "2024-10-29T19:00:00.000Z",
+        "end": "2024-10-29T21:00:00.000Z",
+        "updated": "2024-04-23T13:36:19.749Z",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20241029T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDEwMjlUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
