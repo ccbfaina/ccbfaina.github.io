@@ -2899,6 +2899,19 @@
         "gid": "0o6pck9vdchp5v1ol35to3vada_R20240413T213000",
         "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfUjIwMjQwNDEzVDIxMzAwMF8yMDI0MTAxOVQyMTMwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzU",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Jonathan Lucas",
+        "date": "2024-10-20T12:00:00.000Z",
+        "end": "2024-10-20T15:00:00.000Z",
+        "updated": "2024-03-14T19:43:14.935Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDEwMjBUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1",
+        "recurring": "true"
       }
     ]
   }
