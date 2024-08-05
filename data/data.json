@@ -850,19 +850,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
-        "locale": "MOSSÂMEDES - CENTRAL",
-        "desc": "ENC. RESP. ÊNIO",
-        "date": "2024-08-04T20:00:00.000Z",
-        "end": "2024-08-04T21:30:00.000Z",
-        "updated": "2023-12-27T17:55:02.585Z",
-        "gid": "qf3b4aqni47hgs11klocrepsvc",
-        "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDA4MDRUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "ENSAIO LOCAL",
         "locale": "GOIÁS - CENTRAL",
         "desc": "RESP. ARTHOS MORAES VIEIRA",
         "date": "2024-08-11T20:00:00.000Z",
@@ -1234,19 +1221,6 @@
         "updated": "2024-04-16T11:45:00.057Z",
         "gid": "3bm557ljhp742chpajtf0jdvva",
         "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDEwMjJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "RPC",
-        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. HOSONA\nPEDAGOGA: MIRNA\nAUX. VALBER, ISABELA <DIV>TEMA: <B>O VALOR DO JEJUM NA VIDA ESPIRITUAL DO CRENTE.</B></DIV>",
-        "date": "2024-08-04T22:00:00.000Z",
-        "end": "2024-08-05T00:00:00.000Z",
-        "updated": "2024-06-15T19:08:44.342Z",
-        "gid": "0q99p3pa5hdhko0grm7eoo18ba_R20240707T220000",
-        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfUjIwMjQwNzA3VDIyMDAwMF8yMDI0MDgwNFQyMjAwMDBaIDQ3NWU2MjczNjM5NDczNzkxYjI4ZTY5MzlhYmIzZDVhOGNhMDZiZTBkNmE4ZGUyMmE1ZWIyZjI5NDY1ZDk4ZTM",
         "recurring": "true"
       },
       {
@@ -2007,32 +1981,6 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Marcelo Pires",
-        "date": "2024-08-04T12:00:00.000Z",
-        "end": "2024-08-04T15:00:00.000Z",
-        "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMF8yMDI0MDgwNFQxMjAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzU",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Abel",
-        "date": "2024-08-04T21:30:00.000Z",
-        "end": "2024-08-05T00:00:00.000Z",
-        "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDA4MDRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
         "locale": "GOIÁS - VILA LIONS",
         "desc": "Benjamin",
         "date": "2024-08-07T21:30:00.000Z",
@@ -2742,6 +2690,19 @@
         "updated": "2024-03-14T19:45:00.239Z",
         "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
         "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDEwMjBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Adivair Gonçalves",
+        "date": "2024-10-23T21:30:00.000Z",
+        "end": "2024-10-24T00:00:00.000Z",
+        "updated": "2024-03-14T17:38:28.398Z",
+        "gid": "pbogvkbp73un0qjpu53bo254r3",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDEwMjNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1",
         "recurring": "true"
       }
     ]
