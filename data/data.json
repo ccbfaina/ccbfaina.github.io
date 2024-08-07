@@ -563,6 +563,32 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Itaberaí - Central",
+        "desc": "",
+        "date": "2024-10-26T12:00:00.000Z",
+        "end": "2024-10-26T15:00:00.000Z",
+        "updated": "2024-08-01T22:56:33.447Z",
+        "gid": "4srct6h6348pvljt88bbh4e226_R20240824T120000",
+        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfUjIwMjQwODI0VDEyMDAwMF8yMDI0MTAyNlQxMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Nova Crixás - Central",
+        "desc": "",
+        "date": "2024-10-26T12:00:00.000Z",
+        "end": "2024-10-26T15:00:00.000Z",
+        "updated": "2024-08-01T22:57:55.206Z",
+        "gid": "342ma6boh8rnil5b6rpr5dr255_R20240824T120000",
+        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfUjIwMjQwODI0VDEyMDAwMF8yMDI0MTAyNlQxMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Itaberaí - Vila Progresso",
         "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
@@ -714,6 +740,19 @@
         "updated": "2024-07-29T19:50:31.919Z",
         "gid": "p958o4v1h0ptq08q5mqnp3lehe",
         "maps": "cDk1OG80djFoMHB0cTA4cTVtcW5wM2xlaGVfMjAyNDEwMTlUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZh",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Itaberaí - Central",
+        "desc": "<b>Obra da piedade: </b>Diac. Fernando Meneses, Adeilson Silva, Adeilson Junior, Salmo Silvestre",
+        "date": "2024-10-26T12:00:00.000Z",
+        "end": "2024-10-26T14:00:00.000Z",
+        "updated": "2024-08-01T05:27:34.791Z",
+        "gid": "ctne0em5pllhui63rjkajqj2so_R20240824T120000",
+        "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fUjIwMjQwODI0VDEyMDAwMF8yMDI0MTAyNlQxMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
         "recurring": "true"
       },
       {
