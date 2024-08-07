@@ -798,13 +798,13 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "GOIÁS  - COL. DE UVÁ",
-        "desc": "MARCO ANTÔNIO QUEIROZ",
+        "locale": "Goiás - Col. de Uvá",
+        "desc": "Marco Antônio Queiroz",
         "date": "2024-09-21T22:00:00.000Z",
         "end": "2024-09-22T00:00:00.000Z",
-        "updated": "2024-08-07T11:28:13.559Z",
-        "gid": "asqp31n9jcdihjendcia6efku0",
-        "maps": "YXNxcDMxbjlqY2RpaGplbmRjaWE2ZWZrdTBfMjAyNDA5MjFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZh",
+        "updated": "2024-08-07T11:43:01.479Z",
+        "gid": "asqp31n9jcdihjendcia6efku0_R20240921T220000",
+        "maps": "YXNxcDMxbjlqY2RpaGplbmRjaWE2ZWZrdTBfUjIwMjQwOTIxVDIyMDAwMF8yMDI0MDkyMVQyMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
         "recurring": "true"
       },
       {
