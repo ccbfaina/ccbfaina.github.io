@@ -915,19 +915,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - IR. SEMIR - TEMPO NOVO",
-        "desc": "PROX. POLICLÍNICA\nRESP.",
-        "date": "2024-08-06T22:30:00.000Z",
-        "end": "2024-08-07T00:00:00.000Z",
-        "updated": "2024-05-28T14:10:59.568Z",
-        "gid": "0ied03g19din9j6a3ad9ttv54u",
-        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHVfMjAyNDA4MDZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - BUENOLÂNDIA",
         "desc": "RESP. GILMAR LINO",
         "date": "2024-08-10T22:30:00.000Z",
@@ -1364,19 +1351,6 @@
         "updated": "2024-06-27T14:11:37.797Z",
         "gid": "33lu3optrqqesh3ohns5sfsflm_R20240922T220000",
         "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fUjIwMjQwOTIyVDIyMDAwMF8yMDI0MTAyMFQyMjAwMDBaIDQ3NWU2MjczNjM5NDczNzkxYjI4ZTY5MzlhYmIzZDVhOGNhMDZiZTBkNmE4ZGUyMmE1ZWIyZjI5NDY1ZDk4ZTM",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
-        "date": "2024-08-06T19:00:00.000Z",
-        "end": "2024-08-06T21:00:00.000Z",
-        "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA4MDZUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJm",
         "recurring": "true"
       },
       {
