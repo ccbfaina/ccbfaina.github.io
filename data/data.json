@@ -30,6 +30,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Aruanã - Setor Nova Aruanã",
+        "desc": "Itamar Ferreira de Menezes",
+        "date": "2024-09-15T22:00:00.000Z",
+        "end": "2024-09-15T23:30:00.000Z",
+        "updated": "2024-08-08T23:32:49.987Z",
+        "gid": "h4v4sm8p91n8h8pancomkbd83c",
+        "maps": "aDR2NHNtOHA5MW44aDhwYW5jb21rYmQ4M2MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YQ",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "Regional",
         "desc": "<b>COMUNICADO A IRMANDADE</b> - ELEIÇÕES – CARGOS POLÍTICOS<br><br>Quem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. <br>Quanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. <br>Não se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
@@ -97,13 +110,13 @@
         "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
         "locale": "Mozarlândia - Central",
-        "desc": "",
-        "date": "2024-09-15T12:00:00.000Z",
-        "end": "2024-09-15T14:00:00.000Z",
-        "updated": "2024-07-29T19:25:11.102Z",
-        "gid": "ide35gcidm2tqa6ci6t8f62ltk",
-        "maps": "aWRlMzVnY2lkbTJ0cWE2Y2k2dDhmNjJsdGtfMjAyNDA5MTVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZh",
-        "recurring": "true"
+        "desc": "Anc. \nEnc. Eurimar Modesto",
+        "date": "2024-09-22T12:00:00.000Z",
+        "end": "2024-09-22T13:30:00.000Z",
+        "updated": "2024-08-08T23:32:49.036Z",
+        "gid": "ps77eodc8l56sp3c1bimsmr000",
+        "maps": "cHM3N2VvZGM4bDU2c3AzYzFiaW1zbXIwMDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YQ",
+        "recurring": "false"
       },
       {
         "id": 0,
@@ -991,6 +1004,19 @@
       },
       {
         "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "SÃO MIGUEL DO ARAGUAIA - CENTRAL",
+        "desc": "JOILDO LIBERAL SILVA",
+        "date": "2024-10-27T22:00:00.000Z",
+        "end": "2024-10-28T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "dgg72mbqhgrn0g6nf6c97901r4",
+        "maps": "ZGdnNzJtYnFoZ3JuMGc2bmY2Yzk3OTAxcjRfMjAyNDEwMjdUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZh",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
         "locale": "GOIÁS - CENTRAL",
@@ -1368,6 +1394,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - SÃO CARLOS",
+        "desc": "Resp. Jonathan Lucas Gonçalves",
+        "date": "2024-10-27T17:00:00.000Z",
+        "end": "2024-10-27T18:30:00.000Z",
+        "updated": "2024-04-16T12:00:44.669Z",
+        "gid": "l83ume1okeklj7e9iqnsuandcc",
+        "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2NfMjAyNDEwMjdUMTcwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
@@ -1507,6 +1546,19 @@
         "updated": "2024-06-27T14:11:37.797Z",
         "gid": "33lu3optrqqesh3ohns5sfsflm_R20240922T220000",
         "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fUjIwMjQwOTIyVDIyMDAwMF8yMDI0MTAyMFQyMjAwMDBaIDQ3NWU2MjczNjM5NDczNzkxYjI4ZTY5MzlhYmIzZDVhOGNhMDZiZTBkNmE4ZGUyMmE1ZWIyZjI5NDY1ZDk4ZTM",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "RESP. HOSONA\nPEDAGOGA: MIRNA\nAUX. VALBER, ISABELA\nTEMA:",
+        "date": "2024-10-27T22:00:00.000Z",
+        "end": "2024-10-28T00:00:00.000Z",
+        "updated": "2024-06-15T19:08:44.342Z",
+        "gid": "0q99p3pa5hdhko0grm7eoo18ba_R20240707T220000",
+        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfUjIwMjQwNzA3VDIyMDAwMF8yMDI0MTAyN1QyMjAwMDBaIDQ3NWU2MjczNjM5NDczNzkxYjI4ZTY5MzlhYmIzZDVhOGNhMDZiZTBkNmE4ZGUyMmE1ZWIyZjI5NDY1ZDk4ZTM",
         "recurring": "true"
       },
       {
@@ -2898,6 +2950,19 @@
         "updated": "2024-06-11T11:29:17.089Z",
         "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
         "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMF8yMDI0MTAyN1QxMjAwMDBaIGE3ZjcwMzU4MTY3NTYxZWVjYTk5NGQ3YzU5OGQ5NjMzNzE3M2Y1NzZlODVkZThmZTVjYjg2NDk0YTFjNTc5YzU",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Abel",
+        "date": "2024-10-27T21:30:00.000Z",
+        "end": "2024-10-28T00:00:00.000Z",
+        "updated": "2024-03-14T19:44:33.735Z",
+        "gid": "cl049nanq5uc4o7celhug74en0",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDEwMjdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1",
         "recurring": "true"
       }
     ]
