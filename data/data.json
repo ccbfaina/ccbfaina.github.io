@@ -915,13 +915,13 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "Britânia - Vila Goiás",
+        "locale": "Britânia - Centro",
         "desc": "Ismael Alves Rangel Filho",
         "date": "2024-08-31T22:00:00.000Z",
-        "end": "2024-08-31T23:00:00.000Z",
-        "updated": "2024-08-01T05:21:52.845Z",
-        "gid": "chijecpm6soj8b9ncpijeb9kccoj2b9pcgq3gb9hcpi38c9g6tgjge3664",
-        "maps": "Y2hpamVjcG02c29qOGI5bmNwaWplYjlrY2NvajJiOXBjZ3EzZ2I5aGNwaTM4YzlnNnRnamdlMzY2NF8yMDI0MDgzMVQyMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
+        "end": "2024-09-01T00:00:00.000Z",
+        "updated": "2024-08-09T18:28:27.532Z",
+        "gid": "tv7bpcbhtla6qi8n9h7r2mqkhe",
+        "maps": "dHY3YnBjYmh0bGE2cWk4bjloN3IybXFraGVfMjAyNDA4MzFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZh",
         "recurring": "true"
       },
       {
@@ -967,13 +967,13 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "Britânia - Central",
-        "desc": "Ismael Alves Rangel Filho",
+        "locale": "Britânia - Vila Goiás (Central)",
+        "desc": "",
         "date": "2024-09-29T22:00:00.000Z",
-        "end": "2024-09-30T00:00:00.000Z",
-        "updated": "2024-08-01T05:22:50.618Z",
-        "gid": "47e8utlafkn2fsn2pqatcmqvee_R20240929T220000",
-        "maps": "NDdlOHV0bGFma24yZnNuMnBxYXRjbXF2ZWVfUjIwMjQwOTI5VDIyMDAwMF8yMDI0MDkyOVQyMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
+        "end": "2024-09-29T23:00:00.000Z",
+        "updated": "2024-08-09T18:27:15.681Z",
+        "gid": "chijecpm6soj8b9ncpijeb9kccoj2b9pcgq3gb9hcpi38c9g6tgjge3664",
+        "maps": "Y2hpamVjcG02c29qOGI5bmNwaWplYjlrY2NvajJiOXBjZ3EzZ2I5aGNwaTM4YzlnNnRnamdlMzY2NF8yMDI0MDkyOVQyMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
         "recurring": "true"
       },
       {
@@ -1741,6 +1741,19 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDEwMjJUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJm",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
+        "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
+        "date": "2024-10-28T18:00:00.000Z",
+        "end": "2024-10-28T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "40udpbcvmvfek4a9m320cgch2g",
+        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDEwMjhUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJm",
         "recurring": "true"
       },
       {
