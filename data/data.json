@@ -550,6 +550,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Itaberaí - Vila Progresso",
+        "desc": "Reunião Preventiva Trimestral",
+        "date": "2024-10-28T22:30:00.000Z",
+        "end": "2024-10-29T00:00:00.000Z",
+        "updated": "2024-07-29T19:38:44.985Z",
+        "gid": "7bbunv0gqgh66u60hp5vq7v6cj_R20240729T223000",
+        "maps": "N2JidW52MGdxZ2g2NnU2MGhwNXZxN3Y2Y2pfUjIwMjQwNzI5VDIyMzAwMF8yMDI0MTAyOFQyMjMwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmE",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Faina - Central",
         "desc": "",
