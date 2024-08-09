@@ -69,6 +69,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Britânia - Vila Goiás (Central)",
+        "desc": "",
+        "date": "2024-09-22T22:00:00.000Z",
+        "end": "2024-09-22T23:30:00.000Z",
+        "updated": "2024-08-09T18:31:37.916Z",
+        "gid": "80rusulg6mhjau2k14vga8ud98",
+        "maps": "ODBydXN1bGc2bWhqYXUyazE0dmdhOHVkOTggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YQ",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "Regional",
         "desc": "<b>COMUNICADO A IRMANDADE</b> - ELEIÇÕES – CARGOS POLÍTICOS<br><br>Quem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. <br>Quanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. <br>Não se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
@@ -200,11 +213,11 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "ORDENAÇÕES",
-        "locale": "Britânia - Central",
+        "locale": "Britânia - Vila Goiás (Central)",
         "desc": "Diácono Demilson Costa \nOrdenado por Edivaldo Damacena de Souza",
         "date": "2024-09-01T22:00:00.000Z",
         "end": "2024-09-01T23:30:00.000Z",
-        "updated": "2024-08-08T16:57:18.151Z",
+        "updated": "2024-08-09T18:31:37.485Z",
         "gid": "7avi331vl2rtb38pf5cfga7t5g",
         "maps": "N2F2aTMzMXZsMnJ0YjM4cGY1Y2ZnYTd0NWcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YQ",
         "recurring": "false"
