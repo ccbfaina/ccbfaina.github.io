@@ -1019,19 +1019,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "Mozarlândia - Central",
-        "desc": "Itamar Ferreira de Menezes",
-        "date": "2024-10-06T22:00:00.000Z",
-        "end": "2024-10-07T00:00:00.000Z",
-        "updated": "2024-08-01T16:19:41.296Z",
-        "gid": "5ea4fau47tvn88nfo7elgul6m8_R20241006T220000",
-        "maps": "NWVhNGZhdTQ3dHZuODhuZm83ZWxndWw2bThfUjIwMjQxMDA2VDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
         "locale": "Goiás - Vila Lions",
         "desc": "Marco Antônio Queiroz",
         "date": "2024-10-20T22:00:00.000Z",
@@ -1039,6 +1026,19 @@
         "updated": "2024-08-01T02:07:16.153Z",
         "gid": "7nkcc0eppc7go41li538ii90mh",
         "maps": "N25rY2MwZXBwYzdnbzQxbGk1MzhpaTkwbWggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "Mozarlândia - Central",
+        "desc": "Itamar Ferreira de Menezes",
+        "date": "2024-10-20T22:00:00.000Z",
+        "end": "2024-10-21T00:00:00.000Z",
+        "updated": "2024-08-09T23:04:46.199Z",
+        "gid": "pqfn9ec3qp2qivpo44h5cnp6g4",
+        "maps": "cHFmbjllYzNxcDJxaXZwbzQ0aDVjbnA2ZzQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
