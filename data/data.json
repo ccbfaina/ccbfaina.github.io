@@ -44,19 +44,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
-        "locale": "Araguapaz - Central",
-        "desc": "Paulo Silvano Santos",
-        "date": "2024-09-15T22:00:00.000Z",
-        "end": "2024-09-15T23:30:00.000Z",
-        "updated": "2024-08-08T23:47:05.521Z",
-        "gid": "8efvfqqbkgn7933cr8o7p0lql8",
-        "maps": "OGVmdmZxcWJrZ243OTMzY3I4bzdwMGxxbDggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
         "locale": "Aruanã - Setor Nova Aruanã",
         "desc": "Itamar Ferreira de Menezes",
         "date": "2024-09-15T22:00:00.000Z",
@@ -64,6 +51,19 @@
         "updated": "2024-08-08T23:32:49.987Z",
         "gid": "h4v4sm8p91n8h8pancomkbd83c",
         "maps": "aDR2NHNtOHA5MW44aDhwYW5jb21rYmQ4M2MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Araguapaz - Central",
+        "desc": "Paulo Silvano Santos",
+        "date": "2024-09-22T22:00:00.000Z",
+        "end": "2024-09-22T23:30:00.000Z",
+        "updated": "2024-08-10T01:35:38.016Z",
+        "gid": "8efvfqqbkgn7933cr8o7p0lql8",
+        "maps": "OGVmdmZxcWJrZ243OTMzY3I4bzdwMGxxbDggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "false"
       },
       {
