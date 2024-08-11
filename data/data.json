@@ -1173,19 +1173,6 @@
       },
       {
         "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "São Miguel do Araguaia - Central",
-        "desc": "Joildo Liberal Silva",
-        "date": "2024-10-27T22:00:00.000Z",
-        "end": "2024-10-28T00:00:00.000Z",
-        "updated": "2024-08-09T04:39:27.653Z",
-        "gid": "dgg72mbqhgrn0g6nf6c97901r4_R20241027T220000",
-        "maps": "ZGdnNzJtYnFoZ3JuMGc2bmY2Yzk3OTAxcjRfUjIwMjQxMDI3VDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
         "locale": "GOIÁS - CENTRAL",
