@@ -57,6 +57,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
+        "locale": "Itaberaí - Central",
+        "desc": "Etelvado",
+        "date": "2024-08-25T03:00:00.000Z",
+        "end": "2024-08-25T04:30:00.000Z",
+        "updated": "2024-08-11T11:35:03.807Z",
+        "gid": "e329hk9pj607qef4u9ovd2hmts",
+        "maps": "ZTMyOWhrOXBqNjA3cWVmNHU5b3ZkMmhtdHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
         "locale": "Santa Rita (Itaberaí)",
         "desc": "Flavio da Costa Matos",
         "date": "2024-08-25T22:00:00.000Z",
@@ -90,6 +103,19 @@
         "updated": "2024-08-10T01:35:38.016Z",
         "gid": "8efvfqqbkgn7933cr8o7p0lql8",
         "maps": "OGVmdmZxcWJrZ243OTMzY3I4bzdwMGxxbDggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Itaberaí - Central",
+        "desc": "Flavio da Costa Matos",
+        "date": "2024-09-29T03:00:00.000Z",
+        "end": "2024-09-29T04:30:00.000Z",
+        "updated": "2024-08-11T11:35:04.360Z",
+        "gid": "m34q73pm4ntd7gq5k5b599ps6g",
+        "maps": "bTM0cTczcG00bnRkN2dxNWs1YjU5OXBzNmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "false"
       },
       {
