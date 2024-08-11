@@ -161,6 +161,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
+        "locale": "Faina - Central",
+        "desc": "Altereção dos cultos de terças-feira para quartas-feiras",
+        "date": "2024-10-12T05:00:00.000Z",
+        "end": "2024-10-12T06:30:00.000Z",
+        "updated": "2024-08-11T12:29:38.772Z",
+        "gid": "0uefh3iuhirlr6rk56fcerpolo",
+        "maps": "MHVlZmgzaXVoaXJscjZyazU2ZmNlcnBvbG8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
         "locale": "Goiás - Central",
         "desc": "Até o fim da reforma acústica, os cultos de domingo serão transferidos para a Vila Lions, e os cultos de quinta-feira estarão suspensos.",
         "date": "2024-10-12T05:00:00.000Z",
@@ -168,6 +181,19 @@
         "updated": "2024-08-11T01:19:38.398Z",
         "gid": "02f9eafk4edp97cik1od31bidk",
         "maps": "MDJmOWVhZms0ZWRwOTdjaWsxb2QzMWJpZGsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Jussara - Central",
+        "desc": "O culto de Jussara Central de quarta-feira será transferido para a Antiga Central, às 19h30.",
+        "date": "2024-10-12T05:00:00.000Z",
+        "end": "2024-10-12T06:30:00.000Z",
+        "updated": "2024-08-11T12:29:39.335Z",
+        "gid": "e46u7ngsm5jdu87ilsm6g94s78",
+        "maps": "ZTQ2dTduZ3NtNWpkdTg3aWxzbTZnOTRzNzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "false"
       },
       {
@@ -403,6 +429,19 @@
         "gid": "cqe04tgtoo250ls7uvfbn3q5l0_R20240921T170000",
         "maps": "Y3FlMDR0Z3RvbzI1MGxzN3V2ZmJuM3E1bDBfUjIwMjQwOTIxVDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "Online",
+        "desc": "RAM - REUNIÃO PARA ACONSELHAMENTO DO MINISTÉRIO - on line - São Paulo \nNecessário presença de Anciãos, Diáconos, Cooperadores e Cooperadores de jovens",
+        "date": "2024-09-29T13:00:00.000Z",
+        "end": "2024-09-29T14:30:00.000Z",
+        "updated": "2024-08-11T12:29:39.728Z",
+        "gid": "89r5j50iacnenp026i0r1upjs8",
+        "maps": "ODlyNWo1MGlhY25lbnAwMjZpMHIxdXBqczggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
       },
       {
         "id": 0,
@@ -1014,6 +1053,19 @@
         "gid": "tv7bpcbhtla6qi8n9h7r2mqkhe",
         "maps": "dHY3YnBjYmh0bGE2cWk4bjloN3IybXFraGUgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "Mundo Novo - Central",
+        "desc": "Walter Borges Costa",
+        "date": "2024-09-01T22:30:00.000Z",
+        "end": "2024-09-02T00:00:00.000Z",
+        "updated": "2024-08-11T12:29:38.354Z",
+        "gid": "vqvqm00ngh76nfde6cnldm2fe4",
+        "maps": "dnF2cW0wMG5naDc2bmZkZTZjbmxkbTJmZTQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
       },
       {
         "id": 0,
