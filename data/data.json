@@ -98,12 +98,12 @@
         "title": "AVISOS À IRMANDADE",
         "locale": "Regional",
         "desc": "Coleta Única: para atendimento da obra da piedade, viagens, manutenção e construções",
-        "date": "2024-10-12T03:00:00.000Z",
-        "end": "2024-10-12T04:30:00.000Z",
-        "updated": "2024-08-11T01:19:40.773Z",
+        "date": "2024-10-06T03:00:00.000Z",
+        "end": "2024-10-06T04:30:00.000Z",
+        "updated": "2024-08-11T01:20:58.715Z",
         "gid": "1hvd98qp0hm119krtp162jijoc",
         "maps": "MWh2ZDk4cXAwaG0xMTlrcnRwMTYyamlqb2MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
+        "recurring": "true"
       },
       {
         "id": 0,
