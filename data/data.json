@@ -96,19 +96,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
-        "locale": "Regional",
-        "desc": "<b>COMUNICADO A IRMANDADE</b> - ELEIÇÕES – CARGOS POLÍTICOS<br><br>Quem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. <br>Quanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. <br>Não se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
-        "date": "2024-09-01T00:00:00.000Z",
-        "end": "2024-09-01T01:30:00.000Z",
-        "updated": "2024-07-31T22:50:11.269Z",
-        "gid": "cn5dughhseo50k9d4jia9ppduk",
-        "maps": "Y241ZHVnaGhzZW81MGs5ZDRqaWE5cHBkdWsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
         "locale": "Goiás - Central",
         "desc": "Até o fim da reforma acústica, os cultos de domingo serão transferidos para a Vila Lions, e os cultos de quinta-feira estarão suspensos.",
         "date": "2024-10-12T03:00:00.000Z",
@@ -116,6 +103,19 @@
         "updated": "2024-08-11T01:13:04.025Z",
         "gid": "b0uobuf7gnr5qcmqv7bs2i48d4",
         "maps": "YjB1b2J1ZjdnbnI1cWNtcXY3YnMyaTQ4ZDQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Regional",
+        "desc": "<b>COMUNICADO A IRMANDADE</b> - ELEIÇÕES – CARGOS POLÍTICOS\n\nQuem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. \nQuanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. \nNão se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
+        "date": "2024-10-13T00:00:00.000Z",
+        "end": "2024-10-13T01:30:00.000Z",
+        "updated": "2024-08-11T01:13:48.263Z",
+        "gid": "ivc2rvhlitji0uamptnmles6mk",
+        "maps": "aXZjMnJ2aGxpdGppMHVhbXB0bm1sZXM2bWsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "false"
       },
       {
