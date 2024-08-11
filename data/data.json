@@ -928,6 +928,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
+        "locale": "Jussara - São Sebastião do Araguaia (Gueroba)",
+        "desc": "Neide da Silva Pereira",
+        "date": "2024-08-17T22:00:00.000Z",
+        "end": "2024-08-18T00:00:00.000Z",
+        "updated": "2024-08-11T11:27:27.510Z",
+        "gid": "9115q7fdoakl6v3cfmq9ntj6bb",
+        "maps": "OTExNXE3ZmRvYWtsNnYzY2ZtcTludGo2YmIgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
         "locale": "Itaberaí - Vila Comunitária",
         "desc": "Flavio da Costa Matos",
         "date": "2024-08-18T22:00:00.000Z",
@@ -948,19 +961,6 @@
         "updated": "2024-08-01T16:23:09.313Z",
         "gid": "tdgb5sb53scnq5d7b66u6ddiq0",
         "maps": "dGRnYjVzYjUzc2NucTVkN2I2NnU2ZGRpcTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Jussara - São Sebastião do Araguaia (Gueroba)",
-        "desc": "Neide da Silva Pereira",
-        "date": "2024-08-18T22:00:00.000Z",
-        "end": "2024-08-19T00:00:00.000Z",
-        "updated": "2024-08-01T16:22:24.557Z",
-        "gid": "9115q7fdoakl6v3cfmq9ntj6bb",
-        "maps": "OTExNXE3ZmRvYWtsNnYzY2ZtcTludGo2YmIgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
