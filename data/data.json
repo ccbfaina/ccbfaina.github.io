@@ -109,11 +109,24 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
+        "locale": "Goiás - Central",
+        "desc": "Até o fim da reforma acústica, os cultos de domingo serão transferidos para a Vila Lions, e os cultos de quinta-feira estarão suspensos.",
+        "date": "2024-10-12T03:00:00.000Z",
+        "end": "2024-10-12T04:30:00.000Z",
+        "updated": "2024-08-11T01:13:04.025Z",
+        "gid": "b0uobuf7gnr5qcmqv7bs2i48d4",
+        "maps": "YjB1b2J1ZjdnbnI1cWNtcXY3YnMyaTQ4ZDQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
         "locale": "Regional",
         "desc": "Coleta Única: para atendimento da obra da piedade, viagens, manutenção e construções",
-        "date": "2024-09-01T00:00:00.000Z",
-        "end": "2024-09-01T02:00:00.000Z",
-        "updated": "2024-07-29T19:56:17.630Z",
+        "date": "2024-10-13T00:00:00.000Z",
+        "end": "2024-10-13T02:00:00.000Z",
+        "updated": "2024-08-11T01:12:51.279Z",
         "gid": "ccpm4d9j6gr3ebb361h6ab9kc8s30b9p71hm8b9lckqj8dhk6som8e3260",
         "maps": "Y2NwbTRkOWo2Z3IzZWJiMzYxaDZhYjlrYzhzMzBiOXA3MWhtOGI5bGNrcWo4ZGhrNnNvbThlMzI2MCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
@@ -169,19 +182,6 @@
         "gid": "ps77eodc8l56sp3c1bimsmr000",
         "maps": "cHM3N2VvZGM4bDU2c3AzYzFiaW1zbXIwMDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ORDENAÇÕES",
-        "locale": "Itapuranga - Central",
-        "desc": "Diácono Edvaldo Cesar da Silva\nOrdenado por Luiz Antonio Ferreira",
-        "date": "2024-08-10T22:00:00.000Z",
-        "end": "2024-08-10T23:30:00.000Z",
-        "updated": "2024-08-08T15:37:13.068Z",
-        "gid": "khqq0hf92k2vbm4f4f8i7f48ug",
-        "maps": "a2hxcTBoZjkyazJ2Ym00ZjRmOGk3ZjQ4dWcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
       },
       {
         "id": 0,
@@ -571,19 +571,6 @@
         "updated": "2024-07-29T19:38:44.985Z",
         "gid": "7bbunv0gqgh66u60hp5vq7v6cj_R20240729T223000",
         "maps": "N2JidW52MGdxZ2g2NnU2MGhwNXZxN3Y2Y2pfUjIwMjQwNzI5VDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "OBRA DA PIEDADE",
-        "locale": "Faina - Central",
-        "desc": "",
-        "date": "2024-08-10T12:00:00.000Z",
-        "end": "2024-08-10T15:00:00.000Z",
-        "updated": "2024-08-01T22:55:26.758Z",
-        "gid": "05dair5fh112bphao15l4ubpp5_R20240810T120000",
-        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfUjIwMjQwODEwVDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -1130,19 +1117,6 @@
         "updated": "2024-02-25T03:02:00.890Z",
         "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
         "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - BUENOLÂNDIA",
-        "desc": "RESP. GILMAR LINO",
-        "date": "2024-08-10T22:30:00.000Z",
-        "end": "2024-08-11T00:00:00.000Z",
-        "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -1798,14 +1772,14 @@
       {
         "id": 0,
         "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
-        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
-        "date": "2024-08-10T18:30:00.000Z",
-        "end": "2024-08-10T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
+        "date": "2024-10-29T19:00:00.000Z",
+        "end": "2024-10-29T21:00:00.000Z",
+        "updated": "2024-04-23T13:36:19.749Z",
+        "gid": "5fln97908qjka7trpgbg5uu0fa",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -2248,19 +2222,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - COL. DE UVÁ",
-        "desc": "Benedito",
-        "date": "2024-08-10T21:30:00.000Z",
-        "end": "2024-08-11T00:00:00.000Z",
-        "updated": "2024-03-26T13:54:16.215Z",
-        "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
-        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
