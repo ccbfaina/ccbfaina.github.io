@@ -2553,6 +2553,19 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Sebastiao Amilto da Silva<br><b>Ensaio Local</b>",
+        "date": "2024-09-08T19:00:00.000Z",
+        "end": "2024-09-08T22:00:00.000Z",
+        "updated": "2024-08-12T03:04:43.454Z",
+        "gid": "5c0qib2gq3ovb0qh4l2omcuspg",
+        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGcgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
         "locale": "GOIÁS - CENTRAL",
         "desc": "Benjamin",
         "date": "2024-09-08T21:30:00.000Z",
@@ -2872,6 +2885,19 @@
         "updated": "2024-06-11T11:29:17.089Z",
         "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
         "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Sebastiao Amilto da Silva<br><b>Ensaio Local</b>",
+        "date": "2024-10-13T19:00:00.000Z",
+        "end": "2024-10-13T22:00:00.000Z",
+        "updated": "2024-08-12T03:04:43.454Z",
+        "gid": "5c0qib2gq3ovb0qh4l2omcuspg",
+        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGcgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
