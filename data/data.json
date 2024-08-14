@@ -1188,19 +1188,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
-        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
-        "date": "2024-08-13T22:30:00.000Z",
-        "end": "2024-08-14T00:00:00.000Z",
-        "updated": "2024-04-16T11:45:00.057Z",
-        "gid": "3bm557ljhp742chpajtf0jdvva",
-        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - BUENOLÂNDIA",
         "desc": "RESP. GILMAR LINO",
         "date": "2024-08-17T22:30:00.000Z",
@@ -1498,6 +1485,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - REGIÃO BOM SUCESSO",
+        "desc": "Resp. Adivair Francelino Gonçalves",
+        "date": "2024-11-01T22:30:00.000Z",
+        "end": "2024-11-02T00:00:00.000Z",
+        "updated": "2023-12-27T14:43:58.874Z",
+        "gid": "56sdjgl9vihm0bpbs3tueaep0q",
+        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
@@ -1650,19 +1650,6 @@
         "updated": "2024-08-12T15:42:57.358Z",
         "gid": "0q99p3pa5hdhko0grm7eoo18ba_R20240929T220000",
         "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfUjIwMjQwOTI5VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "IR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
-        "date": "2024-08-13T19:00:00.000Z",
-        "end": "2024-08-13T21:00:00.000Z",
-        "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
