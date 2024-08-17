@@ -693,6 +693,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Itaberaí - Vila Progresso",
+        "desc": "Reunião Financeira",
+        "date": "2024-11-04T22:00:00.000Z",
+        "end": "2024-11-05T00:00:00.000Z",
+        "updated": "2024-07-29T19:37:09.147Z",
+        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_R20240902T220000",
+        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfUjIwMjQwOTAyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Jussara - Central",
         "desc": "",
@@ -1556,7 +1569,7 @@
         "desc": "<b>Reunião</b> RPC com toda equipe",
         "date": "2024-08-18T20:00:00.000Z",
         "end": "2024-08-18T22:00:00.000Z",
-        "updated": "2024-08-12T14:11:29.184Z",
+        "updated": "2024-08-16T19:34:35.288Z",
         "gid": "293cocrton1o0fqs2h44r9ff91",
         "maps": "MjkzY29jcnRvbjFvMGZxczJoNDRyOWZmOTEgNDc1ZTYyNzM2Mzk0NzM3OTFiMjhlNjkzOWFiYjNkNWE4Y2EwNmJlMGQ2YThkZTIyYTVlYjJmMjk0NjVkOThlM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "false"
