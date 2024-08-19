@@ -667,6 +667,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Faina - Central",
+        "desc": "Reunião Financeira (Online)",
+        "date": "2024-11-06T22:30:00.000Z",
+        "end": "2024-11-07T00:00:00.000Z",
+        "updated": "2024-07-29T19:26:10.025Z",
+        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_R20240807T223000",
+        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfUjIwMjQwODA3VDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Itaberaí - Central",
         "desc": "",
@@ -948,45 +961,6 @@
         "updated": "2024-07-29T19:47:19.069Z",
         "gid": "kmc4misb451rb3svtbu2k10qhg",
         "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Itaberaí - Vila Comunitária",
-        "desc": "Flavio da Costa Matos",
-        "date": "2024-08-18T22:00:00.000Z",
-        "end": "2024-08-19T00:00:00.000Z",
-        "updated": "2024-08-01T16:22:23.421Z",
-        "gid": "1tkdli5edhu39mhevcf8ad8ak4_R20240818T220000",
-        "maps": "MXRrZGxpNWVkaHUzOW1oZXZjZjhhZDhhazRfUjIwMjQwODE4VDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Itapirapuã - Central",
-        "desc": "Eclesiastes Araújo da Sousa",
-        "date": "2024-08-18T22:00:00.000Z",
-        "end": "2024-08-19T00:00:00.000Z",
-        "updated": "2024-08-01T16:23:09.313Z",
-        "gid": "tdgb5sb53scnq5d7b66u6ddiq0",
-        "maps": "dGRnYjVzYjUzc2NucTVkN2I2NnU2ZGRpcTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Jussara - São Sebastião do Rio Claro (Gueroba)",
-        "desc": "Neide da Silva Pereira",
-        "date": "2024-08-18T22:00:00.000Z",
-        "end": "2024-08-19T00:00:00.000Z",
-        "updated": "2024-08-11T13:30:50.535Z",
-        "gid": "9115q7fdoakl6v3cfmq9ntj6bb",
-        "maps": "OTExNXE3ZmRvYWtsNnYzY2ZtcTludGo2YmIgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -1494,32 +1468,6 @@
         "updated": "2024-05-28T14:10:59.568Z",
         "gid": "0ied03g19din9j6a3ad9ttv54u",
         "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHUgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "RPC",
-        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "<b>Reunião</b> RPC com toda equipe",
-        "date": "2024-08-18T20:00:00.000Z",
-        "end": "2024-08-18T22:00:00.000Z",
-        "updated": "2024-08-16T19:34:35.288Z",
-        "gid": "293cocrton1o0fqs2h44r9ff91",
-        "maps": "MjkzY29jcnRvbjFvMGZxczJoNDRyOWZmOTEgNDc1ZTYyNzM2Mzk0NzM3OTFiMjhlNjkzOWFiYjNkNWE4Y2EwNmJlMGQ2YThkZTIyYTVlYjJmMjk0NjVkOThlM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "RPC",
-        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. ELIZÂNGELA\nPEDAGOGA: MIRNA\nAUX. ARTHUR, LUDY, HUMBERTO <DIV>TEMA: <B>A UNIDADE DOS MEMBROS DO CORPO DE CRISTO.</B></DIV>",
-        "date": "2024-08-18T22:00:00.000Z",
-        "end": "2024-08-19T00:00:00.000Z",
-        "updated": "2024-08-12T17:25:25.804Z",
-        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_R20240623T220000",
-        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfUjIwMjQwNjIzVDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -2293,32 +2241,6 @@
         "id": 0,
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Marcelo Pires",
-        "date": "2024-08-18T12:00:00.000Z",
-        "end": "2024-08-18T15:00:00.000Z",
-        "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Abel",
-        "date": "2024-08-18T21:30:00.000Z",
-        "end": "2024-08-19T00:00:00.000Z",
-        "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
         "locale": "GOIÁS - VILA LIONS",
         "desc": "MARCELO PIRES",
         "date": "2024-08-21T21:30:00.000Z",
@@ -3054,6 +2976,19 @@
         "updated": "2024-03-14T19:45:00.239Z",
         "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
         "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Adivair Gonçalves",
+        "date": "2024-11-06T21:30:00.000Z",
+        "end": "2024-11-07T00:00:00.000Z",
+        "updated": "2024-03-14T17:38:28.398Z",
+        "gid": "pbogvkbp73un0qjpu53bo254r3",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
