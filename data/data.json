@@ -4,279 +4,6 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Faina - Caiçara",
-        "desc": "Vagner Garcia dos Reis",
-        "date": "2024-08-22T03:00:00.000Z",
-        "end": "2024-08-22T04:30:00.000Z",
-        "updated": "2024-08-11T11:26:28.895Z",
-        "gid": "54dbolb1od8qe1btfk7ldn6ba8",
-        "maps": "NTRkYm9sYjFvZDhxZTFidGZrN2xkbjZiYTggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Itaberaí - Central",
-        "desc": "Etelvado",
-        "date": "2024-08-25T03:00:00.000Z",
-        "end": "2024-08-25T04:30:00.000Z",
-        "updated": "2024-08-11T11:35:03.807Z",
-        "gid": "e329hk9pj607qef4u9ovd2hmts",
-        "maps": "ZTMyOWhrOXBqNjA3cWVmNHU5b3ZkMmhtdHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Santa Rita (Itaberaí)",
-        "desc": "Flavio da Costa Matos",
-        "date": "2024-08-25T22:00:00.000Z",
-        "end": "2024-08-25T23:30:00.000Z",
-        "updated": "2024-08-10T03:54:09.958Z",
-        "gid": "ud6grlnos75kp68pqgs3nldvsk",
-        "maps": "dWQ2Z3Jsbm9zNzVrcDY4cHFnczNubGR2c2sgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Jussara - Central",
-        "desc": "Neide da Silva Pereira",
-        "date": "2024-08-31T22:00:00.000Z",
-        "end": "2024-08-31T23:30:00.000Z",
-        "updated": "2024-08-11T13:27:41.570Z",
-        "gid": "pgv0fvkv6p2igce05cgbuvte2g",
-        "maps": "cGd2MGZ2a3Y2cDJpZ2NlMDVjZ2J1dnRlMmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Uruíta - Central",
-        "desc": "Nazaré Antonio da Silva",
-        "date": "2024-09-01T03:00:00.000Z",
-        "end": "2024-09-01T04:30:00.000Z",
-        "updated": "2024-08-11T13:35:25.990Z",
-        "gid": "gq4v1245lclofhbi5r3drgdao8",
-        "maps": "Z3E0djEyNDVsY2xvZmhiaTVyM2RyZ2RhbzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Aruanã - Setor Nova Aruanã",
-        "desc": "Itamar Ferreira de Menezes",
-        "date": "2024-09-15T22:00:00.000Z",
-        "end": "2024-09-15T23:30:00.000Z",
-        "updated": "2024-08-08T23:32:49.987Z",
-        "gid": "h4v4sm8p91n8h8pancomkbd83c",
-        "maps": "aDR2NHNtOHA5MW44aDhwYW5jb21rYmQ4M2MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Araguapaz - Central",
-        "desc": "Paulo Silvano Santos",
-        "date": "2024-09-22T22:00:00.000Z",
-        "end": "2024-09-22T23:30:00.000Z",
-        "updated": "2024-08-10T01:35:38.016Z",
-        "gid": "8efvfqqbkgn7933cr8o7p0lql8",
-        "maps": "OGVmdmZxcWJrZ243OTMzY3I4bzdwMGxxbDggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Itaberaí - Central",
-        "desc": "Flavio da Costa Matos",
-        "date": "2024-09-29T03:00:00.000Z",
-        "end": "2024-09-29T04:30:00.000Z",
-        "updated": "2024-08-11T11:35:04.360Z",
-        "gid": "m34q73pm4ntd7gq5k5b599ps6g",
-        "maps": "bTM0cTczcG00bnRkN2dxNWs1YjU5OXBzNmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Regional",
-        "desc": "Coleta Única: para atendimento da obra da piedade, viagens, manutenção e construções",
-        "date": "2024-10-06T03:00:00.000Z",
-        "end": "2024-10-06T04:30:00.000Z",
-        "updated": "2024-08-11T01:20:58.715Z",
-        "gid": "1hvd98qp0hm119krtp162jijoc",
-        "maps": "MWh2ZDk4cXAwaG0xMTlrcnRwMTYyamlqb2MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Regional",
-        "desc": "<b>COMUNICADO A IRMANDADE</b> - ELEIÇÕES – CARGOS POLÍTICOS\n\nQuem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. \nQuanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. \nNão se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
-        "date": "2024-10-12T03:10:00.000Z",
-        "end": "2024-10-12T04:40:00.000Z",
-        "updated": "2024-08-11T01:19:39.621Z",
-        "gid": "r7gcaa470fq2emeciktu9cerv8",
-        "maps": "cjdnY2FhNDcwZnEyZW1lY2lrdHU5Y2VydjggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Nova Crixás - Central",
-        "desc": "Suspensão da Reunião da Mocidade e Ensaio Regional de Nova Crixás",
-        "date": "2024-10-12T04:00:00.000Z",
-        "end": "2024-10-12T05:30:00.000Z",
-        "updated": "2024-08-11T12:42:31.906Z",
-        "gid": "f41kkohnuhfv8q9k41asrmnils",
-        "maps": "ZjQxa2tvaG51aGZ2OHE5azQxYXNybW5pbHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Faina - Central",
-        "desc": "Alteração dos cultos de terças-feira para quartas-feiras",
-        "date": "2024-10-12T05:00:00.000Z",
-        "end": "2024-10-12T06:30:00.000Z",
-        "updated": "2024-08-11T12:49:34.917Z",
-        "gid": "0uefh3iuhirlr6rk56fcerpolo",
-        "maps": "MHVlZmgzaXVoaXJscjZyazU2ZmNlcnBvbG8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Goiás - Central",
-        "desc": "Até o fim da reforma acústica, os cultos de domingo serão transferidos para a Vila Lions, e os cultos de quinta-feira estarão suspensos.",
-        "date": "2024-10-12T05:00:00.000Z",
-        "end": "2024-10-12T06:30:00.000Z",
-        "updated": "2024-08-11T01:19:38.398Z",
-        "gid": "02f9eafk4edp97cik1od31bidk",
-        "maps": "MDJmOWVhZms0ZWRwOTdjaWsxb2QzMWJpZGsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Jussara - Central",
-        "desc": "O culto de Jussara Central de quarta-feira será transferido para a Antiga Central, às 19h30.",
-        "date": "2024-10-12T05:00:00.000Z",
-        "end": "2024-10-12T06:30:00.000Z",
-        "updated": "2024-08-11T12:29:39.335Z",
-        "gid": "e46u7ngsm5jdu87ilsm6g94s78",
-        "maps": "ZTQ2dTduZ3NtNWpkdTg3aWxzbTZnOTRzNzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Faina - Jeroaquara (Santa Rita)",
-        "desc": "Os cultos de sábado serão transferidos para sexta-feira",
-        "date": "2024-10-13T00:00:00.000Z",
-        "end": "2024-10-13T01:30:00.000Z",
-        "updated": "2024-08-11T11:44:49.347Z",
-        "gid": "afp3930bqf3l88u8hfj4jnin7k",
-        "maps": "YWZwMzkzMGJxZjNsODh1OGhmajRqbmluN2sgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES PARA A MOCIDADE",
-        "locale": "Uruana - Central",
-        "desc": "Cícero Natal Coelho",
-        "date": "2024-08-25T17:00:00.000Z",
-        "end": "2024-08-25T19:00:00.000Z",
-        "updated": "2024-07-29T19:00:21.622Z",
-        "gid": "2bu6q3f6ed6oc7m8eau2kj1cd1",
-        "maps": "MmJ1NnEzZjZlZDZvYzdtOGVhdTJrajFjZDEgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES PARA A MOCIDADE",
-        "locale": "Mozarlândia - Central",
-        "desc": "Marco Antônio Queiroz",
-        "date": "2024-09-22T17:00:00.000Z",
-        "end": "2024-09-22T19:00:00.000Z",
-        "updated": "2024-08-09T23:12:46.186Z",
-        "gid": "44khlht51md9e0rd6b938llr9m",
-        "maps": "NDRraGxodDUxbWQ5ZTByZDZiOTM4bGxyOW0gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ENSAIOS REGIONAIS",
-        "locale": "Uruana - Central",
-        "desc": "<div><div>Anc. Cícero Natal Coelho</div><div>Enc. Vitor Vieira Ramos</div></div>",
-        "date": "2024-08-25T12:00:00.000Z",
-        "end": "2024-08-25T14:00:00.000Z",
-        "updated": "2024-07-29T19:20:47.661Z",
-        "gid": "725qjc9rndajug9k4om9gc0k8p",
-        "maps": "NzI1cWpjOXJuZGFqdWc5azRvbTlnYzBrOHAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ENSAIOS REGIONAIS",
-        "locale": "Mozarlândia - Central",
-        "desc": "Anc. Marco Antônio Queiroz\nEnc. Eurimar Modesto",
-        "date": "2024-09-22T12:00:00.000Z",
-        "end": "2024-09-22T14:30:00.000Z",
-        "updated": "2024-08-09T23:12:19.892Z",
-        "gid": "ps77eodc8l56sp3c1bimsmr000",
-        "maps": "cHM3N2VvZGM4bDU2c3AzYzFiaW1zbXIwMDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ENSAIOS REGIONAIS",
-        "locale": "NOVA CRIXÁS - CENTRAL",
-        "desc": "",
-        "date": "2024-11-03T12:00:00.000Z",
-        "end": "2024-11-03T15:00:00.000Z",
-        "updated": "2024-03-20T02:34:46.339Z",
-        "gid": "7vii88pfdlpmgvnshlap11lan1",
-        "maps": "N3ZpaTg4cGZkbHBtZ3Zuc2hsYXAxMWxhbjEgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ENSAIOS REGIONAIS",
-        "locale": "NOVO BRASIL - CENTRAL",
-        "desc": "",
-        "date": "2024-11-03T12:00:00.000Z",
-        "end": "2024-11-03T15:00:00.000Z",
-        "updated": "2024-03-20T02:34:56.709Z",
-        "gid": "7og8diid3e6cu2tepdja81o64q",
-        "maps": "N29nOGRpaWQzZTZjdTJ0ZXBkamE4MW82NHEgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
         "title": "ORDENAÇÕES",
         "locale": "Aruanã - Central",
         "desc": "Diácono Márcio Prado de Menezes\nOrdenado por Jonas Moraes Silva",
@@ -284,7 +11,7 @@
         "end": "2024-08-24T23:30:00.000Z",
         "updated": "2024-08-08T15:37:13.452Z",
         "gid": "mu1rdr0oss0joi0ht8364hi3hs",
-        "maps": "bXUxcmRyMG9zczBqb2kwaHQ4MzY0aGkzaHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "bXUxcmRyMG9zczBqb2kwaHQ4MzY0aGkzaHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
@@ -297,7 +24,7 @@
         "end": "2024-08-25T23:30:00.000Z",
         "updated": "2024-08-08T15:37:14.020Z",
         "gid": "6ki0on2cmrkj65k04i26lv1qlc",
-        "maps": "NmtpMG9uMmNtcmtqNjVrMDRpMjZsdjFxbGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "NmtpMG9uMmNtcmtqNjVrMDRpMjZsdjFxbGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
@@ -310,7 +37,7 @@
         "end": "2024-08-31T23:30:00.000Z",
         "updated": "2024-08-08T15:37:14.394Z",
         "gid": "su5af09s88hk2j8g1fdfs6450s",
-        "maps": "c3U1YWYwOXM4OGhrMmo4ZzFmZGZzNjQ1MHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "c3U1YWYwOXM4OGhrMmo4ZzFmZGZzNjQ1MHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
@@ -323,7 +50,7 @@
         "end": "2024-09-01T23:30:00.000Z",
         "updated": "2024-08-09T18:31:37.485Z",
         "gid": "7avi331vl2rtb38pf5cfga7t5g",
-        "maps": "N2F2aTMzMXZsMnJ0YjM4cGY1Y2ZnYTd0NWcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "N2F2aTMzMXZsMnJ0YjM4cGY1Y2ZnYTd0NWcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
@@ -336,7 +63,7 @@
         "end": "2024-09-05T23:30:00.000Z",
         "updated": "2024-08-08T15:37:14.983Z",
         "gid": "mcfkp9q8hd29rb1mcdo5qlm9fo",
-        "maps": "bWNma3A5cThoZDI5cmIxbWNkbzVxbG05Zm8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "bWNma3A5cThoZDI5cmIxbWNkbzVxbG05Zm8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
@@ -349,8 +76,329 @@
         "end": "2024-09-08T23:30:00.000Z",
         "updated": "2024-08-08T15:37:15.553Z",
         "gid": "gab88jmptjpvr5dmaj91jki9p0",
-        "maps": "Z2FiODhqbXB0anB2cjVkbWFqOTFqa2k5cDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "Z2FiODhqbXB0anB2cjVkbWFqOTFqa2k5cDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Faina - Caiçara",
+        "desc": "Vagner Garcia dos Reis",
+        "date": "2024-08-22T03:00:00.000Z",
+        "end": "2024-08-22T04:30:00.000Z",
+        "updated": "2024-08-11T11:26:28.895Z",
+        "gid": "54dbolb1od8qe1btfk7ldn6ba8",
+        "maps": "NTRkYm9sYjFvZDhxZTFidGZrN2xkbjZiYTggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Itaberaí - Central",
+        "desc": "Etelvado",
+        "date": "2024-08-25T03:00:00.000Z",
+        "end": "2024-08-25T04:30:00.000Z",
+        "updated": "2024-08-11T11:35:03.807Z",
+        "gid": "e329hk9pj607qef4u9ovd2hmts",
+        "maps": "ZTMyOWhrOXBqNjA3cWVmNHU5b3ZkMmhtdHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Santa Rita (Itaberaí)",
+        "desc": "Flavio da Costa Matos",
+        "date": "2024-08-25T22:00:00.000Z",
+        "end": "2024-08-25T23:30:00.000Z",
+        "updated": "2024-08-10T03:54:09.958Z",
+        "gid": "ud6grlnos75kp68pqgs3nldvsk",
+        "maps": "dWQ2Z3Jsbm9zNzVrcDY4cHFnczNubGR2c2sgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Jussara - Central",
+        "desc": "Neide da Silva Pereira",
+        "date": "2024-08-31T22:00:00.000Z",
+        "end": "2024-08-31T23:30:00.000Z",
+        "updated": "2024-08-11T13:27:41.570Z",
+        "gid": "pgv0fvkv6p2igce05cgbuvte2g",
+        "maps": "cGd2MGZ2a3Y2cDJpZ2NlMDVjZ2J1dnRlMmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Uruíta - Central",
+        "desc": "Nazaré Antonio da Silva",
+        "date": "2024-09-01T03:00:00.000Z",
+        "end": "2024-09-01T04:30:00.000Z",
+        "updated": "2024-08-11T13:35:25.990Z",
+        "gid": "gq4v1245lclofhbi5r3drgdao8",
+        "maps": "Z3E0djEyNDVsY2xvZmhiaTVyM2RyZ2RhbzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Aruanã - Setor Nova Aruanã",
+        "desc": "Itamar Ferreira de Menezes",
+        "date": "2024-09-15T22:00:00.000Z",
+        "end": "2024-09-15T23:30:00.000Z",
+        "updated": "2024-08-08T23:32:49.987Z",
+        "gid": "h4v4sm8p91n8h8pancomkbd83c",
+        "maps": "aDR2NHNtOHA5MW44aDhwYW5jb21rYmQ4M2MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Araguapaz - Central",
+        "desc": "Paulo Silvano Santos",
+        "date": "2024-09-22T22:00:00.000Z",
+        "end": "2024-09-22T23:30:00.000Z",
+        "updated": "2024-08-10T01:35:38.016Z",
+        "gid": "8efvfqqbkgn7933cr8o7p0lql8",
+        "maps": "OGVmdmZxcWJrZ243OTMzY3I4bzdwMGxxbDggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Itaberaí - Central",
+        "desc": "Flavio da Costa Matos",
+        "date": "2024-09-29T03:00:00.000Z",
+        "end": "2024-09-29T04:30:00.000Z",
+        "updated": "2024-08-11T11:35:04.360Z",
+        "gid": "m34q73pm4ntd7gq5k5b599ps6g",
+        "maps": "bTM0cTczcG00bnRkN2dxNWs1YjU5OXBzNmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Regional",
+        "desc": "Coleta Única: para atendimento da obra da piedade, viagens, manutenção e construções",
+        "date": "2024-10-06T03:00:00.000Z",
+        "end": "2024-10-06T04:30:00.000Z",
+        "updated": "2024-08-11T01:20:58.715Z",
+        "gid": "1hvd98qp0hm119krtp162jijoc_20241006T030000Z",
+        "maps": "MWh2ZDk4cXAwaG0xMTlrcnRwMTYyamlqb2NfMjAyNDEwMDZUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Regional",
+        "desc": "<b>COMUNICADO A IRMANDADE</b> - ELEIÇÕES – CARGOS POLÍTICOS\n\nQuem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. \nQuanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. \nNão se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
+        "date": "2024-10-12T03:10:00.000Z",
+        "end": "2024-10-12T04:40:00.000Z",
+        "updated": "2024-08-11T01:19:39.621Z",
+        "gid": "r7gcaa470fq2emeciktu9cerv8",
+        "maps": "cjdnY2FhNDcwZnEyZW1lY2lrdHU5Y2VydjggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Nova Crixás - Central",
+        "desc": "Suspensão da Reunião da Mocidade e Ensaio Regional de Nova Crixás",
+        "date": "2024-10-12T04:00:00.000Z",
+        "end": "2024-10-12T05:30:00.000Z",
+        "updated": "2024-08-11T12:42:31.906Z",
+        "gid": "f41kkohnuhfv8q9k41asrmnils",
+        "maps": "ZjQxa2tvaG51aGZ2OHE5azQxYXNybW5pbHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Faina - Central",
+        "desc": "Alteração dos cultos de terças-feira para quartas-feiras",
+        "date": "2024-10-12T05:00:00.000Z",
+        "end": "2024-10-12T06:30:00.000Z",
+        "updated": "2024-08-11T12:49:34.917Z",
+        "gid": "0uefh3iuhirlr6rk56fcerpolo",
+        "maps": "MHVlZmgzaXVoaXJscjZyazU2ZmNlcnBvbG8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Goiás - Central",
+        "desc": "Até o fim da reforma acústica, os cultos de domingo serão transferidos para a Vila Lions, e os cultos de quinta-feira estarão suspensos.",
+        "date": "2024-10-12T05:00:00.000Z",
+        "end": "2024-10-12T06:30:00.000Z",
+        "updated": "2024-08-11T01:19:38.398Z",
+        "gid": "02f9eafk4edp97cik1od31bidk",
+        "maps": "MDJmOWVhZms0ZWRwOTdjaWsxb2QzMWJpZGsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Jussara - Central",
+        "desc": "O culto de Jussara Central de quarta-feira será transferido para a Antiga Central, às 19h30.",
+        "date": "2024-10-12T05:00:00.000Z",
+        "end": "2024-10-12T06:30:00.000Z",
+        "updated": "2024-08-11T12:29:39.335Z",
+        "gid": "e46u7ngsm5jdu87ilsm6g94s78",
+        "maps": "ZTQ2dTduZ3NtNWpkdTg3aWxzbTZnOTRzNzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Faina - Jeroaquara (Santa Rita)",
+        "desc": "Os cultos de sábado serão transferidos para sexta-feira",
+        "date": "2024-10-13T00:00:00.000Z",
+        "end": "2024-10-13T01:30:00.000Z",
+        "updated": "2024-08-11T11:44:49.347Z",
+        "gid": "afp3930bqf3l88u8hfj4jnin7k",
+        "maps": "YWZwMzkzMGJxZjNsODh1OGhmajRqbmluN2sgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES PARA A MOCIDADE",
+        "locale": "Uruana - Central",
+        "desc": "Cícero Natal Coelho",
+        "date": "2024-08-25T17:00:00.000Z",
+        "end": "2024-08-25T19:00:00.000Z",
+        "updated": "2024-07-29T19:00:21.622Z",
+        "gid": "2bu6q3f6ed6oc7m8eau2kj1cd1_20240825T170000Z",
+        "maps": "MmJ1NnEzZjZlZDZvYzdtOGVhdTJrajFjZDFfMjAyNDA4MjVUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES PARA A MOCIDADE",
+        "locale": "Mozarlândia - Central",
+        "desc": "Marco Antônio Queiroz",
+        "date": "2024-09-22T17:00:00.000Z",
+        "end": "2024-09-22T19:00:00.000Z",
+        "updated": "2024-08-09T23:12:46.186Z",
+        "gid": "44khlht51md9e0rd6b938llr9m_20240922T170000Z",
+        "maps": "NDRraGxodDUxbWQ5ZTByZDZiOTM4bGxyOW1fMjAyNDA5MjJUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES PARA A MOCIDADE",
+        "locale": "NOVO BRASIL",
+        "date": "2024-11-17T17:00:00.000Z",
+        "end": "2024-11-17T20:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "086cr5q878mor7perapl9fbbdv_20241117T170000Z",
+        "maps": "MDg2Y3I1cTg3OG1vcjdwZXJhcGw5ZmJiZHZfMjAyNDExMTdUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES PARA A MOCIDADE",
+        "locale": "NOVO BRASIL",
+        "desc": "PAULO SILVANO SANTOS",
+        "date": "2024-11-17T17:00:00.000Z",
+        "end": "2024-11-17T19:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "48f3oa0i3ms9vboe3luqs7m82o_20241117T170000Z",
+        "maps": "NDhmM29hMGkzbXM5dmJvZTNsdXFzN204Mm9fMjAyNDExMTdUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "Uruana - Central",
+        "desc": "<div><div>Anc. Cícero Natal Coelho</div><div>Enc. Vitor Vieira Ramos</div></div>",
+        "date": "2024-08-25T12:00:00.000Z",
+        "end": "2024-08-25T14:00:00.000Z",
+        "updated": "2024-07-29T19:20:47.661Z",
+        "gid": "725qjc9rndajug9k4om9gc0k8p_20240825T120000Z",
+        "maps": "NzI1cWpjOXJuZGFqdWc5azRvbTlnYzBrOHBfMjAyNDA4MjVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "Mozarlândia - Central",
+        "desc": "Anc. Marco Antônio Queiroz\nEnc. Eurimar Modesto",
+        "date": "2024-09-22T12:00:00.000Z",
+        "end": "2024-09-22T14:30:00.000Z",
+        "updated": "2024-08-09T23:12:19.892Z",
+        "gid": "ps77eodc8l56sp3c1bimsmr000_20240922T120000Z",
+        "maps": "cHM3N2VvZGM4bDU2c3AzYzFiaW1zbXIwMDBfMjAyNDA5MjJUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "NOVA CRIXÁS - CENTRAL",
+        "date": "2024-11-03T12:00:00.000Z",
+        "end": "2024-11-03T15:00:00.000Z",
+        "updated": "2024-03-20T02:34:46.339Z",
+        "gid": "7vii88pfdlpmgvnshlap11lan1_20241103T120000Z",
+        "maps": "N3ZpaTg4cGZkbHBtZ3Zuc2hsYXAxMWxhbjFfMjAyNDExMDNUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "NOVO BRASIL - CENTRAL",
+        "date": "2024-11-03T12:00:00.000Z",
+        "end": "2024-11-03T15:00:00.000Z",
+        "updated": "2024-03-20T02:34:56.709Z",
+        "gid": "7og8diid3e6cu2tepdja81o64q_20241103T120000Z",
+        "maps": "N29nOGRpaWQzZTZjdTJ0ZXBkamE4MW82NHFfMjAyNDExMDNUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "NOVO BRASIL",
+        "desc": "ANC.",
+        "date": "2024-11-17T12:00:00.000Z",
+        "end": "2024-11-17T14:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "h66vpmrvio49oag2erucr5kkssr20241117T120000_20241117T120000Z",
+        "maps": "aDY2dnBtcnZpbzQ5b2FnMmVydWNyNWtrc3NyMjAyNDExMTdUMTIwMDAwXzIwMjQxMTE3VDEyMDAwMFogNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "NOVO BRASIL",
+        "date": "2024-11-17T12:00:00.000Z",
+        "end": "2024-11-17T15:00:00.000Z",
+        "updated": "2024-03-20T02:35:25.678Z",
+        "gid": "27vfnpjjlu5u5p0kc3mkjrpee6_20241117T120000Z",
+        "maps": "Mjd2Zm5wampsdTV1NXAwa2MzbWtqcnBlZTZfMjAyNDExMTdUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
       },
       {
         "id": 0,
@@ -361,8 +409,8 @@
         "date": "2024-09-08T12:30:00.000Z",
         "end": "2024-09-08T14:00:00.000Z",
         "updated": "2024-08-11T01:56:03.789Z",
-        "gid": "fsaj8ourgrdlk3j5k0svt18qbs_R20240512T123000",
-        "maps": "ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfUjIwMjQwNTEyVDEyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "fsaj8ourgrdlk3j5k0svt18qbs_20240908T123000Z",
+        "maps": "ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNDA5MDhUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -374,8 +422,8 @@
         "date": "2024-09-21T13:30:00.000Z",
         "end": "2024-09-21T15:00:00.000Z",
         "updated": "2024-08-01T16:19:37.876Z",
-        "gid": "tp586rhiv94qa71p8bf74iib2c_R20240518T133000",
-        "maps": "dHA1ODZyaGl2OTRxYTcxcDhiZjc0aWliMmNfUjIwMjQwNTE4VDEzMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "tp586rhiv94qa71p8bf74iib2c_20240921T133000Z",
+        "maps": "dHA1ODZyaGl2OTRxYTcxcDhiZjc0aWliMmNfMjAyNDA5MjFUMTMzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -388,8 +436,34 @@
         "end": "2024-09-21T18:30:00.000Z",
         "updated": "2024-08-12T00:42:09.073Z",
         "gid": "j57b7q7dmo1t9m95teeh49aoo8",
-        "maps": "ajU3YjdxN2RtbzF0OW05NXRlZWg0OWFvbzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "ajU3YjdxN2RtbzF0OW05NXRlZWg0OWFvbzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "PARTE MUSICAL",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Assuntos Musicais",
+        "date": "2024-11-10T12:30:00.000Z",
+        "end": "2024-11-10T14:00:00.000Z",
+        "updated": "2024-08-12T11:13:57.298Z",
+        "gid": "fsaj8ourgrdlk3j5k0svt18qbs_20241110T123000Z",
+        "maps": "ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNDExMTBUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "PARTE MUSICAL",
+        "locale": "Faina - Central",
+        "desc": "Reunião Assuntos Musicais",
+        "date": "2024-11-16T13:30:00.000Z",
+        "end": "2024-11-16T15:00:00.000Z",
+        "updated": "2024-08-01T16:16:14.582Z",
+        "gid": "tp586rhiv94qa71p8bf74iib2c_20241116T133000Z",
+        "maps": "dHA1ODZyaGl2OTRxYTcxcDhiZjc0aWliMmNfMjAyNDExMTZUMTMzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
       },
       {
         "id": 0,
@@ -400,8 +474,8 @@
         "date": "2024-09-15T12:00:00.000Z",
         "end": "2024-09-15T14:00:00.000Z",
         "updated": "2024-07-29T19:26:48.229Z",
-        "gid": "jcpcju449u4lshjv0nmcn9grb5",
-        "maps": "amNwY2p1NDQ5dTRsc2hqdjBubWNuOWdyYjUgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "jcpcju449u4lshjv0nmcn9grb5_20240915T120000Z",
+        "maps": "amNwY2p1NDQ5dTRsc2hqdjBubWNuOWdyYjVfMjAyNDA5MTVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -413,8 +487,8 @@
         "date": "2024-09-15T17:00:00.000Z",
         "end": "2024-09-15T19:00:00.000Z",
         "updated": "2024-07-29T19:27:55.809Z",
-        "gid": "2lgb1m6ktb582mjpcla5t2efli",
-        "maps": "MmxnYjFtNmt0YjU4Mm1qcGNsYTV0MmVmbGkgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "2lgb1m6ktb582mjpcla5t2efli_20240915T170000Z",
+        "maps": "MmxnYjFtNmt0YjU4Mm1qcGNsYTV0MmVmbGlfMjAyNDA5MTVUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -426,8 +500,8 @@
         "date": "2024-09-21T17:00:00.000Z",
         "end": "2024-09-21T19:00:00.000Z",
         "updated": "2024-08-01T16:19:39.481Z",
-        "gid": "cqe04tgtoo250ls7uvfbn3q5l0_R20240921T170000",
-        "maps": "Y3FlMDR0Z3RvbzI1MGxzN3V2ZmJuM3E1bDBfUjIwMjQwOTIxVDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "cqe04tgtoo250ls7uvfbn3q5l0_20240921T170000Z",
+        "maps": "Y3FlMDR0Z3RvbzI1MGxzN3V2ZmJuM3E1bDBfMjAyNDA5MjFUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -440,7 +514,7 @@
         "end": "2024-09-29T14:30:00.000Z",
         "updated": "2024-08-12T02:42:44.581Z",
         "gid": "89r5j50iacnenp026i0r1upjs8",
-        "maps": "ODlyNWo1MGlhY25lbnAwMjZpMHIxdXBqczggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "ODlyNWo1MGlhY25lbnAwMjZpMHIxdXBqczggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
@@ -452,8 +526,21 @@
         "date": "2024-10-13T13:00:00.000Z",
         "end": "2024-10-13T16:10:00.000Z",
         "updated": "2024-08-01T16:20:27.596Z",
-        "gid": "36attmogj75jnu3qqdlhfq4g35_R20240811T130000",
-        "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfUjIwMjQwODExVDEzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "36attmogj75jnu3qqdlhfq4g35_20241013T130000Z",
+        "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfMjAyNDEwMTNUMTMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "Faina - Central",
+        "desc": "<b>Reunião Regional Administrativa (RRA)</b>",
+        "date": "2024-11-16T17:00:00.000Z",
+        "end": "2024-11-16T19:00:00.000Z",
+        "updated": "2024-08-01T16:19:26.724Z",
+        "gid": "cqe04tgtoo250ls7uvfbn3q5l0_20241116T170000Z",
+        "maps": "Y3FlMDR0Z3RvbzI1MGxzN3V2ZmJuM3E1bDBfMjAyNDExMTZUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -465,8 +552,8 @@
         "date": "2024-09-02T22:00:00.000Z",
         "end": "2024-09-03T00:00:00.000Z",
         "updated": "2024-07-29T19:37:09.147Z",
-        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_R20240902T220000",
-        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfUjIwMjQwOTAyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_20240902T220000Z",
+        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfMjAyNDA5MDJUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -478,8 +565,8 @@
         "date": "2024-09-04T22:30:00.000Z",
         "end": "2024-09-05T00:00:00.000Z",
         "updated": "2024-07-29T19:26:10.025Z",
-        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_R20240807T223000",
-        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfUjIwMjQwODA3VDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_20240904T223000Z",
+        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfMjAyNDA5MDRUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -491,8 +578,8 @@
         "date": "2024-09-08T12:00:00.000Z",
         "end": "2024-09-08T16:00:00.000Z",
         "updated": "2024-07-29T19:33:41.081Z",
-        "gid": "u7rj3hcdj3usg0emrrgaboarm0_R20240908T120000",
-        "maps": "dTdyajNoY2RqM3VzZzBlbXJyZ2Fib2FybTBfUjIwMjQwOTA4VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "u7rj3hcdj3usg0emrrgaboarm0_20240908T120000Z",
+        "maps": "dTdyajNoY2RqM3VzZzBlbXJyZ2Fib2FybTBfMjAyNDA5MDhUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -504,8 +591,8 @@
         "date": "2024-09-08T17:00:00.000Z",
         "end": "2024-09-08T19:00:00.000Z",
         "updated": "2024-07-29T19:34:58.678Z",
-        "gid": "fpchv082hmd34pf3r5tun8k6nv_R20240908T170000",
-        "maps": "ZnBjaHYwODJobWQzNHBmM3I1dHVuOGs2bnZfUjIwMjQwOTA4VDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "fpchv082hmd34pf3r5tun8k6nv_20240908T170000Z",
+        "maps": "ZnBjaHYwODJobWQzNHBmM3I1dHVuOGs2bnZfMjAyNDA5MDhUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -517,8 +604,8 @@
         "date": "2024-09-09T22:00:00.000Z",
         "end": "2024-09-09T23:30:00.000Z",
         "updated": "2024-07-29T19:23:00.410Z",
-        "gid": "4184pudipcmi5016ag2ph1sdso_R20240812T220000",
-        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fUjIwMjQwODEyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "4184pudipcmi5016ag2ph1sdso_20240909T220000Z",
+        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fMjAyNDA5MDlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -530,8 +617,8 @@
         "date": "2024-09-10T22:30:00.000Z",
         "end": "2024-09-11T00:00:00.000Z",
         "updated": "2024-07-29T20:00:05.594Z",
-        "gid": "77ag1e7v1hlue4vvlqga8jbbsr_R20240910T223000",
-        "maps": "NzdhZzFlN3YxaGx1ZTR2dmxxZ2E4amJic3JfUjIwMjQwOTEwVDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "77ag1e7v1hlue4vvlqga8jbbsr_20240910T223000Z",
+        "maps": "NzdhZzFlN3YxaGx1ZTR2dmxxZ2E4amJic3JfMjAyNDA5MTBUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -543,8 +630,8 @@
         "date": "2024-09-14T11:00:00.000Z",
         "end": "2024-09-14T15:00:00.000Z",
         "updated": "2024-07-29T20:02:11.158Z",
-        "gid": "cep1mqum0r60poqu8pjkoa74pg_R20240914T110000",
-        "maps": "Y2VwMW1xdW0wcjYwcG9xdThwamtvYTc0cGdfUjIwMjQwOTE0VDExMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "cep1mqum0r60poqu8pjkoa74pg_20240914T110000Z",
+        "maps": "Y2VwMW1xdW0wcjYwcG9xdThwamtvYTc0cGdfMjAyNDA5MTRUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -556,8 +643,8 @@
         "date": "2024-09-21T11:00:00.000Z",
         "end": "2024-09-21T13:00:00.000Z",
         "updated": "2024-07-29T20:01:38.910Z",
-        "gid": "vv3oe7orp55i976397lll6h73g_R20240921T110000",
-        "maps": "dnYzb2U3b3JwNTVpOTc2Mzk3bGxsNmg3M2dfUjIwMjQwOTIxVDExMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "vv3oe7orp55i976397lll6h73g_20240921T110000Z",
+        "maps": "dnYzb2U3b3JwNTVpOTc2Mzk3bGxsNmg3M2dfMjAyNDA5MjFUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -569,8 +656,8 @@
         "date": "2024-09-21T17:00:00.000Z",
         "end": "2024-09-21T18:30:00.000Z",
         "updated": "2024-07-29T19:36:34.576Z",
-        "gid": "kcf8r18p2uueps6cg1crcl5s9c_R20240921T170000",
-        "maps": "a2NmOHIxOHAydXVlcHM2Y2cxY3JjbDVzOWNfUjIwMjQwOTIxVDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "kcf8r18p2uueps6cg1crcl5s9c_20240921T170000Z",
+        "maps": "a2NmOHIxOHAydXVlcHM2Y2cxY3JjbDVzOWNfMjAyNDA5MjFUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -582,8 +669,8 @@
         "date": "2024-10-02T22:30:00.000Z",
         "end": "2024-10-03T00:00:00.000Z",
         "updated": "2024-07-29T19:26:10.025Z",
-        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_R20240807T223000",
-        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfUjIwMjQwODA3VDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_20241002T223000Z",
+        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfMjAyNDEwMDJUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -595,8 +682,8 @@
         "date": "2024-10-06T17:00:00.000Z",
         "end": "2024-10-06T18:00:00.000Z",
         "updated": "2024-08-09T23:25:00.064Z",
-        "gid": "4foem4focgd7qb7am6lri562rh",
-        "maps": "NGZvZW00Zm9jZ2Q3cWI3YW02bHJpNTYycmggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4foem4focgd7qb7am6lri562rh_20241006T170000Z",
+        "maps": "NGZvZW00Zm9jZ2Q3cWI3YW02bHJpNTYycmhfMjAyNDEwMDZUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -608,8 +695,8 @@
         "date": "2024-10-07T22:00:00.000Z",
         "end": "2024-10-08T00:00:00.000Z",
         "updated": "2024-07-29T19:37:09.147Z",
-        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_R20240902T220000",
-        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfUjIwMjQwOTAyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_20241007T220000Z",
+        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfMjAyNDEwMDdUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -621,8 +708,8 @@
         "date": "2024-10-14T22:00:00.000Z",
         "end": "2024-10-14T23:30:00.000Z",
         "updated": "2024-07-29T19:23:00.410Z",
-        "gid": "4184pudipcmi5016ag2ph1sdso_R20240812T220000",
-        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fUjIwMjQwODEyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "4184pudipcmi5016ag2ph1sdso_20241014T220000Z",
+        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fMjAyNDEwMTRUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -634,8 +721,8 @@
         "date": "2024-10-14T22:30:00.000Z",
         "end": "2024-10-15T00:00:00.000Z",
         "updated": "2024-07-29T19:22:18.704Z",
-        "gid": "5b796u7bouj2qh1c38krcdmsml_R20240812T223000",
-        "maps": "NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfUjIwMjQwODEyVDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "5b796u7bouj2qh1c38krcdmsml_20241014T223000Z",
+        "maps": "NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfMjAyNDEwMTRUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -647,8 +734,8 @@
         "date": "2024-10-28T22:30:00.000Z",
         "end": "2024-10-29T00:00:00.000Z",
         "updated": "2024-07-29T19:38:44.985Z",
-        "gid": "7bbunv0gqgh66u60hp5vq7v6cj_R20240729T223000",
-        "maps": "N2JidW52MGdxZ2g2NnU2MGhwNXZxN3Y2Y2pfUjIwMjQwNzI5VDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "7bbunv0gqgh66u60hp5vq7v6cj_20241028T223000Z",
+        "maps": "N2JidW52MGdxZ2g2NnU2MGhwNXZxN3Y2Y2pfMjAyNDEwMjhUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -660,8 +747,8 @@
         "date": "2024-11-04T22:00:00.000Z",
         "end": "2024-11-05T00:00:00.000Z",
         "updated": "2024-07-29T19:37:09.147Z",
-        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_R20240902T220000",
-        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfUjIwMjQwOTAyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_20241104T220000Z",
+        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfMjAyNDExMDRUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -673,8 +760,112 @@
         "date": "2024-11-06T22:30:00.000Z",
         "end": "2024-11-07T00:00:00.000Z",
         "updated": "2024-07-29T19:26:10.025Z",
-        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_R20240807T223000",
-        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfUjIwMjQwODA3VDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_20241106T223000Z",
+        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfMjAyNDExMDZUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Jussara - Central",
+        "desc": "08h Anciães e diáconos\n08h RA (Reunião administrativa com colaboradores)\n10h RMA (Reunião ministerial administrativa)",
+        "date": "2024-11-09T11:00:00.000Z",
+        "end": "2024-11-09T15:00:00.000Z",
+        "updated": "2024-07-29T20:02:11.158Z",
+        "gid": "cep1mqum0r60poqu8pjkoa74pg_20241109T110000Z",
+        "maps": "Y2VwMW1xdW0wcjYwcG9xdThwamtvYTc0cGdfMjAyNDExMDlUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "08h Anciães e Diáconos\n08h RA (Reunião Administração com Colaboradores)\n10h Rma (Reunião Ministerial Administrativa)",
+        "date": "2024-11-10T12:00:00.000Z",
+        "end": "2024-11-10T16:00:00.000Z",
+        "updated": "2024-07-29T19:33:41.081Z",
+        "gid": "u7rj3hcdj3usg0emrrgaboarm0_20241110T120000Z",
+        "maps": "dTdyajNoY2RqM3VzZzBlbXJyZ2Fib2FybTBfMjAyNDExMTBUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "DARPE (Departamento de Assistência Religiosa para Evangelização)",
+        "date": "2024-11-10T17:00:00.000Z",
+        "end": "2024-11-10T19:00:00.000Z",
+        "updated": "2024-07-29T19:34:58.678Z",
+        "gid": "fpchv082hmd34pf3r5tun8k6nv_20241110T170000Z",
+        "maps": "ZnBjaHYwODJobWQzNHBmM3I1dHVuOGs2bnZfMjAyNDExMTBUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Financeira\n19h30 RA (Reunião Administrativa com Colaboradores)",
+        "date": "2024-11-11T22:00:00.000Z",
+        "end": "2024-11-11T23:30:00.000Z",
+        "updated": "2024-07-29T19:23:00.410Z",
+        "gid": "4184pudipcmi5016ag2ph1sdso_20241111T220000Z",
+        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fMjAyNDExMTFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Itaberaí - Vila Progresso",
+        "desc": "RMA (Reunião Ministerial Administrativa)",
+        "date": "2024-11-12T22:30:00.000Z",
+        "end": "2024-11-13T00:00:00.000Z",
+        "updated": "2024-07-29T20:00:05.594Z",
+        "gid": "77ag1e7v1hlue4vvlqga8jbbsr_20241112T223000Z",
+        "maps": "NzdhZzFlN3YxaGx1ZTR2dmxxZ2E4amJic3JfMjAyNDExMTJUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ON-LINE",
+        "desc": "DARPE: TRANSMISSÃO NACIONAL COM TODOS COLABORADORES",
+        "date": "2024-11-14T22:00:00.000Z",
+        "end": "2024-11-15T00:00:00.000Z",
+        "updated": "2024-02-23T20:28:50.198Z",
+        "gid": "4liuh1ck3289hh0fra7afdm4bo",
+        "maps": "NGxpdWgxY2szMjg5aGgwZnJhN2FmZG00Ym8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Faina - Central",
+        "desc": "08h Anciães e diáconos\n08h RA (Reunião administrativa com colaboradores)\n10h RMA (Reunião ministerial administrativa)",
+        "date": "2024-11-16T11:00:00.000Z",
+        "end": "2024-11-16T13:00:00.000Z",
+        "updated": "2024-07-29T20:01:38.910Z",
+        "gid": "vv3oe7orp55i976397lll6h73g_20241116T110000Z",
+        "maps": "dnYzb2U3b3JwNTVpOTc2Mzk3bGxsNmg3M2dfMjAyNDExMTZUMTEwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Faina - Central",
+        "desc": "DARPE (Departamento de Assistência Religiosa para Evangelização)",
+        "date": "2024-11-16T17:00:00.000Z",
+        "end": "2024-11-16T18:30:00.000Z",
+        "updated": "2024-07-29T19:36:34.576Z",
+        "gid": "kcf8r18p2uueps6cg1crcl5s9c_20241116T170000Z",
+        "maps": "a2NmOHIxOHAydXVlcHM2Y2cxY3JjbDVzOWNfMjAyNDExMTZUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -682,12 +873,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Itaberaí - Central",
-        "desc": "",
         "date": "2024-08-24T12:00:00.000Z",
         "end": "2024-08-24T15:00:00.000Z",
         "updated": "2024-08-01T23:05:00.171Z",
-        "gid": "4srct6h6348pvljt88bbh4e226_R20240824T120000",
-        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "4srct6h6348pvljt88bbh4e226_20240824T120000Z",
+        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfMjAyNDA4MjRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -695,12 +885,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Nova Crixás - Central",
-        "desc": "",
         "date": "2024-08-24T12:00:00.000Z",
         "end": "2024-08-24T15:00:00.000Z",
         "updated": "2024-08-01T22:57:55.206Z",
-        "gid": "342ma6boh8rnil5b6rpr5dr255_R20240824T120000",
-        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "342ma6boh8rnil5b6rpr5dr255_20240824T120000Z",
+        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfMjAyNDA4MjRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -708,12 +897,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Faina - Central",
-        "desc": "",
         "date": "2024-09-14T12:00:00.000Z",
         "end": "2024-09-14T15:00:00.000Z",
         "updated": "2024-08-01T22:55:26.758Z",
-        "gid": "05dair5fh112bphao15l4ubpp5_R20240810T120000",
-        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfUjIwMjQwODEwVDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "05dair5fh112bphao15l4ubpp5_20240914T120000Z",
+        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfMjAyNDA5MTRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -721,12 +909,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Jussara - Central",
-        "desc": "",
         "date": "2024-09-21T12:00:00.000Z",
         "end": "2024-09-21T15:00:00.000Z",
         "updated": "2024-08-01T22:56:40.830Z",
-        "gid": "lgh422ohg2p9g7rb732j51o93c_R20240817T120000",
-        "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfUjIwMjQwODE3VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "lgh422ohg2p9g7rb732j51o93c_20240921T120000Z",
+        "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfMjAyNDA5MjFUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -734,12 +921,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Itaberaí - Central",
-        "desc": "",
         "date": "2024-09-28T12:00:00.000Z",
         "end": "2024-09-28T15:00:00.000Z",
         "updated": "2024-08-01T22:56:33.447Z",
-        "gid": "4srct6h6348pvljt88bbh4e226_R20240824T120000",
-        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "4srct6h6348pvljt88bbh4e226_20240928T120000Z",
+        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfMjAyNDA5MjhUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -747,12 +933,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Nova Crixás - Central",
-        "desc": "",
         "date": "2024-09-28T12:00:00.000Z",
         "end": "2024-09-28T15:00:00.000Z",
         "updated": "2024-08-01T22:57:55.206Z",
-        "gid": "342ma6boh8rnil5b6rpr5dr255_R20240824T120000",
-        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "342ma6boh8rnil5b6rpr5dr255_20240928T120000Z",
+        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfMjAyNDA5MjhUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -760,12 +945,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Faina - Central",
-        "desc": "",
         "date": "2024-10-12T12:00:00.000Z",
         "end": "2024-10-12T15:00:00.000Z",
         "updated": "2024-08-01T22:55:26.758Z",
-        "gid": "05dair5fh112bphao15l4ubpp5_R20240810T120000",
-        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfUjIwMjQwODEwVDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "05dair5fh112bphao15l4ubpp5_20241012T120000Z",
+        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfMjAyNDEwMTJUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -773,12 +957,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Jussara - Central",
-        "desc": "",
         "date": "2024-10-19T12:00:00.000Z",
         "end": "2024-10-19T15:00:00.000Z",
         "updated": "2024-08-01T22:56:40.830Z",
-        "gid": "lgh422ohg2p9g7rb732j51o93c_R20240817T120000",
-        "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfUjIwMjQwODE3VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "lgh422ohg2p9g7rb732j51o93c_20241019T120000Z",
+        "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfMjAyNDEwMTlUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -786,12 +969,11 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Itaberaí - Central",
-        "desc": "",
         "date": "2024-10-26T12:00:00.000Z",
         "end": "2024-10-26T15:00:00.000Z",
         "updated": "2024-08-01T22:56:33.447Z",
-        "gid": "4srct6h6348pvljt88bbh4e226_R20240824T120000",
-        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "4srct6h6348pvljt88bbh4e226_20241026T120000Z",
+        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfMjAyNDEwMjZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -799,12 +981,35 @@
         "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Nova Crixás - Central",
-        "desc": "",
         "date": "2024-10-26T12:00:00.000Z",
         "end": "2024-10-26T15:00:00.000Z",
         "updated": "2024-08-01T22:57:55.206Z",
-        "gid": "342ma6boh8rnil5b6rpr5dr255_R20240824T120000",
-        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "342ma6boh8rnil5b6rpr5dr255_20241026T120000Z",
+        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfMjAyNDEwMjZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Faina - Central",
+        "date": "2024-11-09T12:00:00.000Z",
+        "end": "2024-11-09T15:00:00.000Z",
+        "updated": "2024-08-01T22:55:26.758Z",
+        "gid": "05dair5fh112bphao15l4ubpp5_20241109T120000Z",
+        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfMjAyNDExMDlUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Jussara - Central",
+        "date": "2024-11-16T12:00:00.000Z",
+        "end": "2024-11-16T15:00:00.000Z",
+        "updated": "2024-08-01T22:56:40.830Z",
+        "gid": "lgh422ohg2p9g7rb732j51o93c_20241116T120000Z",
+        "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfMjAyNDExMTZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -816,8 +1021,8 @@
         "date": "2024-08-24T12:00:00.000Z",
         "end": "2024-08-24T14:00:00.000Z",
         "updated": "2024-08-01T05:27:34.791Z",
-        "gid": "ctne0em5pllhui63rjkajqj2so_R20240824T120000",
-        "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "ctne0em5pllhui63rjkajqj2so_20240824T120000Z",
+        "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fMjAyNDA4MjRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -829,8 +1034,8 @@
         "date": "2024-08-25T03:00:00.000Z",
         "end": "2024-08-25T05:00:00.000Z",
         "updated": "2024-07-29T19:47:19.069Z",
-        "gid": "kmc4misb451rb3svtbu2k10qhg",
-        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "kmc4misb451rb3svtbu2k10qhg_20240825T030000Z",
+        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGdfMjAyNDA4MjVUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -842,8 +1047,8 @@
         "date": "2024-09-08T04:00:00.000Z",
         "end": "2024-09-08T06:00:00.000Z",
         "updated": "2024-07-29T20:10:38.452Z",
-        "gid": "m4tk4su2vaph2cl3s1b0vtrji8_R20240908T040000",
-        "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfUjIwMjQwOTA4VDA0MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "m4tk4su2vaph2cl3s1b0vtrji8_20240908T040000Z",
+        "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfMjAyNDA5MDhUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -855,8 +1060,8 @@
         "date": "2024-09-10T03:00:00.000Z",
         "end": "2024-09-10T04:30:00.000Z",
         "updated": "2024-07-29T20:11:16.022Z",
-        "gid": "dt81j7tuq224f4kjk6e5hhpmq8_R20240910T030000",
-        "maps": "ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfUjIwMjQwOTEwVDAzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "dt81j7tuq224f4kjk6e5hhpmq8_20240910T030000Z",
+        "maps": "ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfMjAyNDA5MTBUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -868,8 +1073,8 @@
         "date": "2024-09-14T04:00:00.000Z",
         "end": "2024-09-14T06:00:00.000Z",
         "updated": "2024-07-29T20:13:16.809Z",
-        "gid": "0gr10qmma42s51c64uebft89ror20240113T040000_R20240914T040000",
-        "maps": "MGdyMTBxbW1hNDJzNTFjNjR1ZWJmdDg5cm9yMjAyNDAxMTNUMDQwMDAwX1IyMDI0MDkxNFQwNDAwMDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0gr10qmma42s51c64uebft89ror20240113T040000_20240914T040000Z",
+        "maps": "MGdyMTBxbW1hNDJzNTFjNjR1ZWJmdDg5cm9yMjAyNDAxMTNUMDQwMDAwXzIwMjQwOTE0VDA0MDAwMFogNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "true"
       },
       {
@@ -881,8 +1086,8 @@
         "date": "2024-09-28T12:00:00.000Z",
         "end": "2024-09-28T14:00:00.000Z",
         "updated": "2024-07-29T19:45:29.678Z",
-        "gid": "qtogargrqep3fs0i4001jhipdg_R20240928T120000",
-        "maps": "cXRvZ2FyZ3JxZXAzZnMwaTQwMDFqaGlwZGdfUjIwMjQwOTI4VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "qtogargrqep3fs0i4001jhipdg_20240928T120000Z",
+        "maps": "cXRvZ2FyZ3JxZXAzZnMwaTQwMDFqaGlwZGdfMjAyNDA5MjhUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -894,8 +1099,8 @@
         "date": "2024-09-29T03:00:00.000Z",
         "end": "2024-09-29T05:00:00.000Z",
         "updated": "2024-07-29T19:47:19.069Z",
-        "gid": "kmc4misb451rb3svtbu2k10qhg",
-        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "kmc4misb451rb3svtbu2k10qhg_20240929T030000Z",
+        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGdfMjAyNDA5MjlUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -907,8 +1112,8 @@
         "date": "2024-10-06T04:00:00.000Z",
         "end": "2024-10-06T06:00:00.000Z",
         "updated": "2024-08-09T23:25:40.934Z",
-        "gid": "ihq8nnugj1mb5kds4eud8tpgmi",
-        "maps": "aWhxOG5udWdqMW1iNWtkczRldWQ4dHBnbWkgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "ihq8nnugj1mb5kds4eud8tpgmi_20241006T040000Z",
+        "maps": "aWhxOG5udWdqMW1iNWtkczRldWQ4dHBnbWlfMjAyNDEwMDZUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -920,8 +1125,8 @@
         "date": "2024-10-14T04:00:00.000Z",
         "end": "2024-10-14T04:30:00.000Z",
         "updated": "2024-07-29T20:08:20.962Z",
-        "gid": "g4399lkrou132g28aju77bco10_R20240812T040000",
-        "maps": "ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfUjIwMjQwODEyVDA0MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "g4399lkrou132g28aju77bco10_20241014T040000Z",
+        "maps": "ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNDEwMTRUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -933,8 +1138,8 @@
         "date": "2024-10-19T03:00:00.000Z",
         "end": "2024-10-19T05:00:00.000Z",
         "updated": "2024-07-29T19:50:31.919Z",
-        "gid": "p958o4v1h0ptq08q5mqnp3lehe",
-        "maps": "cDk1OG80djFoMHB0cTA4cTVtcW5wM2xlaGUgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "p958o4v1h0ptq08q5mqnp3lehe_20241019T030000Z",
+        "maps": "cDk1OG80djFoMHB0cTA4cTVtcW5wM2xlaGVfMjAyNDEwMTlUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -946,8 +1151,8 @@
         "date": "2024-10-26T12:00:00.000Z",
         "end": "2024-10-26T14:00:00.000Z",
         "updated": "2024-08-01T05:27:34.791Z",
-        "gid": "ctne0em5pllhui63rjkajqj2so_R20240824T120000",
-        "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "ctne0em5pllhui63rjkajqj2so_20241026T120000Z",
+        "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fMjAyNDEwMjZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -959,8 +1164,47 @@
         "date": "2024-10-27T03:00:00.000Z",
         "end": "2024-10-27T05:00:00.000Z",
         "updated": "2024-07-29T19:47:19.069Z",
-        "gid": "kmc4misb451rb3svtbu2k10qhg",
-        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "kmc4misb451rb3svtbu2k10qhg_20241027T030000Z",
+        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGdfMjAyNDEwMjdUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Jussara - Central",
+        "desc": "<b>RMA</b>: Adm Faina, Anc. Vagner Garcia",
+        "date": "2024-11-09T04:00:00.000Z",
+        "end": "2024-11-09T06:00:00.000Z",
+        "updated": "2024-07-29T20:13:16.809Z",
+        "gid": "0gr10qmma42s51c64uebft89ror20240113T040000_20241109T040000Z",
+        "maps": "MGdyMTBxbW1hNDJzNTFjNjR1ZWJmdDg5cm9yMjAyNDAxMTNUMDQwMDAwXzIwMjQxMTA5VDA0MDAwMFogNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "<b>RMA</b>: Administração Faina<br>Anc: Itamar Menezes, Vagner Garcia, Paulo Silvano.",
+        "date": "2024-11-10T04:00:00.000Z",
+        "end": "2024-11-10T06:00:00.000Z",
+        "updated": "2024-07-29T20:10:38.452Z",
+        "gid": "m4tk4su2vaph2cl3s1b0vtrji8_20241110T040000Z",
+        "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfMjAyNDExMTBUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Itaberaí - Vila Progresso",
+        "desc": "<b>RMA: </b>Vagner Garcia, Itamar Menezes, Paulo Silvano",
+        "date": "2024-11-12T03:00:00.000Z",
+        "end": "2024-11-12T04:30:00.000Z",
+        "updated": "2024-07-29T20:11:16.022Z",
+        "gid": "dt81j7tuq224f4kjk6e5hhpmq8_20241112T030000Z",
+        "maps": "ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfMjAyNDExMTJUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -972,8 +1216,8 @@
         "date": "2024-08-31T22:00:00.000Z",
         "end": "2024-09-01T00:00:00.000Z",
         "updated": "2024-08-09T18:28:27.532Z",
-        "gid": "tv7bpcbhtla6qi8n9h7r2mqkhe",
-        "maps": "dHY3YnBjYmh0bGE2cWk4bjloN3IybXFraGUgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "tv7bpcbhtla6qi8n9h7r2mqkhe_20240831T220000Z",
+        "maps": "dHY3YnBjYmh0bGE2cWk4bjloN3IybXFraGVfMjAyNDA4MzFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -986,7 +1230,7 @@
         "end": "2024-09-02T00:00:00.000Z",
         "updated": "2024-08-11T12:29:38.354Z",
         "gid": "vqvqm00ngh76nfde6cnldm2fe4",
-        "maps": "dnF2cW0wMG5naDc2bmZkZTZjbmxkbTJmZTQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "maps": "dnF2cW0wMG5naDc2bmZkZTZjbmxkbTJmZTQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "false"
       },
       {
@@ -998,8 +1242,8 @@
         "date": "2024-09-15T22:00:00.000Z",
         "end": "2024-09-16T00:00:00.000Z",
         "updated": "2024-08-11T11:30:39.132Z",
-        "gid": "5s7oj24ra68a6qncm0rkbog40q",
-        "maps": "NXM3b2oyNHJhNjhhNnFuY20wcmtib2c0MHEgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5s7oj24ra68a6qncm0rkbog40q_20240915T220000Z",
+        "maps": "NXM3b2oyNHJhNjhhNnFuY20wcmtib2c0MHFfMjAyNDA5MTVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1011,8 +1255,8 @@
         "date": "2024-09-15T22:00:00.000Z",
         "end": "2024-09-16T00:00:00.000Z",
         "updated": "2024-08-01T16:19:36.489Z",
-        "gid": "4qfhffhtfnf701ih4vv8lubaio_R20240915T220000",
-        "maps": "NHFmaGZmaHRmbmY3MDFpaDR2djhsdWJhaW9fUjIwMjQwOTE1VDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "4qfhffhtfnf701ih4vv8lubaio_20240915T220000Z",
+        "maps": "NHFmaGZmaHRmbmY3MDFpaDR2djhsdWJhaW9fMjAyNDA5MTVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1024,8 +1268,8 @@
         "date": "2024-09-28T22:00:00.000Z",
         "end": "2024-09-29T00:00:00.000Z",
         "updated": "2024-08-10T03:56:35.867Z",
-        "gid": "asqp31n9jcdihjendcia6efku0_R20240921T220000",
-        "maps": "YXNxcDMxbjlqY2RpaGplbmRjaWE2ZWZrdTBfUjIwMjQwOTIxVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "asqp31n9jcdihjendcia6efku0_20240921T220000Z",
+        "maps": "YXNxcDMxbjlqY2RpaGplbmRjaWE2ZWZrdTBfMjAyNDA5MjFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1037,8 +1281,8 @@
         "date": "2024-09-29T22:00:00.000Z",
         "end": "2024-09-29T23:00:00.000Z",
         "updated": "2024-08-09T23:14:55.331Z",
-        "gid": "chijecpm6soj8b9ncpijeb9kccoj2b9pcgq3gb9hcpi38c9g6tgjge3664",
-        "maps": "Y2hpamVjcG02c29qOGI5bmNwaWplYjlrY2NvajJiOXBjZ3EzZ2I5aGNwaTM4YzlnNnRnamdlMzY2NCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "chijecpm6soj8b9ncpijeb9kccoj2b9pcgq3gb9hcpi38c9g6tgjge3664_20240929T220000Z",
+        "maps": "Y2hpamVjcG02c29qOGI5bmNwaWplYjlrY2NvajJiOXBjZ3EzZ2I5aGNwaTM4YzlnNnRnamdlMzY2NF8yMDI0MDkyOVQyMjAwMDBaIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmFAZw",
         "recurring": "true"
       },
       {
@@ -1050,8 +1294,8 @@
         "date": "2024-10-06T22:00:00.000Z",
         "end": "2024-10-07T00:00:00.000Z",
         "updated": "2024-08-01T16:21:00.539Z",
-        "gid": "h6fhec3donujc2n2vim8tckh78",
-        "maps": "aDZmaGVjM2RvbnVqYzJuMnZpbTh0Y2toNzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "h6fhec3donujc2n2vim8tckh78_20241006T220000Z",
+        "maps": "aDZmaGVjM2RvbnVqYzJuMnZpbTh0Y2toNzhfMjAyNDEwMDZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1063,8 +1307,8 @@
         "date": "2024-10-20T22:00:00.000Z",
         "end": "2024-10-21T00:00:00.000Z",
         "updated": "2024-08-01T02:07:16.153Z",
-        "gid": "7nkcc0eppc7go41li538ii90mh",
-        "maps": "N25rY2MwZXBwYzdnbzQxbGk1MzhpaTkwbWggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "7nkcc0eppc7go41li538ii90mh_20241020T220000Z",
+        "maps": "N25rY2MwZXBwYzdnbzQxbGk1MzhpaTkwbWhfMjAyNDEwMjBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1076,8 +1320,34 @@
         "date": "2024-10-20T22:00:00.000Z",
         "end": "2024-10-21T00:00:00.000Z",
         "updated": "2024-08-09T23:04:46.199Z",
-        "gid": "pqfn9ec3qp2qivpo44h5cnp6g4",
-        "maps": "cHFmbjllYzNxcDJxaXZwbzQ0aDVjbnA2ZzQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "pqfn9ec3qp2qivpo44h5cnp6g4_20241020T220000Z",
+        "maps": "cHFmbjllYzNxcDJxaXZwbzQ0aDVjbnA2ZzRfMjAyNDEwMjBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "GOIÁS - POVOADO DE AREIAS",
+        "desc": "ARLINDO BARBOSA GOMES",
+        "date": "2024-11-09T22:00:00.000Z",
+        "end": "2024-11-10T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "7u0tv258sdgvgj4d4gtqlv0e7k_20241109T220000Z",
+        "maps": "N3UwdHYyNThzZGd2Z2o0ZDRndHFsdjBlN2tfMjAyNDExMDlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "MUNDO NOVO - CENTRAL",
+        "desc": "WALTER BORGES COSTA",
+        "date": "2024-11-17T22:00:00.000Z",
+        "end": "2024-11-18T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "j5gmvnfbe4131lol794lnphhi0_20241117T220000Z",
+        "maps": "ajVnbXZuZmJlNDEzMWxvbDc5NGxucGhoaTBfMjAyNDExMTdUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "true"
       },
       {
@@ -1089,8 +1359,8 @@
         "date": "2024-09-01T20:00:00.000Z",
         "end": "2024-09-01T21:30:00.000Z",
         "updated": "2023-12-27T17:55:02.585Z",
-        "gid": "qf3b4aqni47hgs11klocrepsvc",
-        "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmMgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qf3b4aqni47hgs11klocrepsvc_20240901T200000Z",
+        "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDA5MDFUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1102,8 +1372,8 @@
         "date": "2024-09-08T20:00:00.000Z",
         "end": "2024-09-08T22:00:00.000Z",
         "updated": "2024-02-25T03:02:00.890Z",
-        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
-        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_20240908T200000Z",
+        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfMjAyNDA5MDhUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1115,8 +1385,8 @@
         "date": "2024-10-06T20:00:00.000Z",
         "end": "2024-10-06T21:30:00.000Z",
         "updated": "2023-12-27T17:55:02.585Z",
-        "gid": "qf3b4aqni47hgs11klocrepsvc",
-        "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmMgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qf3b4aqni47hgs11klocrepsvc_20241006T200000Z",
+        "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDEwMDZUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1128,8 +1398,8 @@
         "date": "2024-10-13T20:00:00.000Z",
         "end": "2024-10-13T22:00:00.000Z",
         "updated": "2024-02-25T03:02:00.890Z",
-        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
-        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_20241013T200000Z",
+        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfMjAyNDEwMTNUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1141,8 +1411,21 @@
         "date": "2024-11-03T20:00:00.000Z",
         "end": "2024-11-03T21:30:00.000Z",
         "updated": "2023-12-27T17:55:02.585Z",
-        "gid": "qf3b4aqni47hgs11klocrepsvc",
-        "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmMgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qf3b4aqni47hgs11klocrepsvc_20241103T200000Z",
+        "maps": "cWYzYjRhcW5pNDdoZ3MxMWtsb2NyZXBzdmNfMjAyNDExMDNUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "ENSAIO LOCAL",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "RESP. ARTHOS MORAES VIEIRA",
+        "date": "2024-11-10T20:00:00.000Z",
+        "end": "2024-11-10T22:00:00.000Z",
+        "updated": "2024-02-25T03:02:00.890Z",
+        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_20241110T200000Z",
+        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfMjAyNDExMTBUMjAwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1154,8 +1437,8 @@
         "date": "2024-08-24T22:30:00.000Z",
         "end": "2024-08-25T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20240824T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA4MjRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1167,8 +1450,8 @@
         "date": "2024-08-25T17:00:00.000Z",
         "end": "2024-08-25T18:30:00.000Z",
         "updated": "2024-04-16T12:00:44.669Z",
-        "gid": "l83ume1okeklj7e9iqnsuandcc",
-        "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "l83ume1okeklj7e9iqnsuandcc_20240825T170000Z",
+        "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2NfMjAyNDA4MjVUMTcwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1180,8 +1463,8 @@
         "date": "2024-08-27T22:30:00.000Z",
         "end": "2024-08-28T00:00:00.000Z",
         "updated": "2024-04-16T11:45:00.057Z",
-        "gid": "3bm557ljhp742chpajtf0jdvva",
-        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "3bm557ljhp742chpajtf0jdvva_20240827T223000Z",
+        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDA4MjdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1193,8 +1476,8 @@
         "date": "2024-08-31T22:30:00.000Z",
         "end": "2024-09-01T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20240831T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA4MzFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1206,8 +1489,8 @@
         "date": "2024-09-03T22:30:00.000Z",
         "end": "2024-09-04T00:00:00.000Z",
         "updated": "2024-05-28T14:10:59.568Z",
-        "gid": "0ied03g19din9j6a3ad9ttv54u",
-        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHUgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0ied03g19din9j6a3ad9ttv54u_20240903T223000Z",
+        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHVfMjAyNDA5MDNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1219,8 +1502,8 @@
         "date": "2024-09-06T22:30:00.000Z",
         "end": "2024-09-07T00:00:00.000Z",
         "updated": "2023-12-27T14:43:58.874Z",
-        "gid": "56sdjgl9vihm0bpbs3tueaep0q",
-        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "56sdjgl9vihm0bpbs3tueaep0q_20240906T223000Z",
+        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHFfMjAyNDA5MDZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1232,8 +1515,8 @@
         "date": "2024-09-07T22:30:00.000Z",
         "end": "2024-09-08T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20240907T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA5MDdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1245,8 +1528,8 @@
         "date": "2024-09-10T22:30:00.000Z",
         "end": "2024-09-11T00:00:00.000Z",
         "updated": "2024-04-16T11:45:00.057Z",
-        "gid": "3bm557ljhp742chpajtf0jdvva",
-        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "3bm557ljhp742chpajtf0jdvva_20240910T223000Z",
+        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDA5MTBUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1258,8 +1541,8 @@
         "date": "2024-09-14T22:30:00.000Z",
         "end": "2024-09-15T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20240914T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA5MTRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1271,8 +1554,8 @@
         "date": "2024-09-21T22:30:00.000Z",
         "end": "2024-09-22T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20240921T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA5MjFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1284,8 +1567,8 @@
         "date": "2024-09-24T22:30:00.000Z",
         "end": "2024-09-25T00:00:00.000Z",
         "updated": "2024-04-16T11:45:00.057Z",
-        "gid": "3bm557ljhp742chpajtf0jdvva",
-        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "3bm557ljhp742chpajtf0jdvva_20240924T223000Z",
+        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDA5MjRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1297,8 +1580,8 @@
         "date": "2024-09-28T22:30:00.000Z",
         "end": "2024-09-29T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20240928T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDA5MjhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1310,8 +1593,8 @@
         "date": "2024-09-29T17:00:00.000Z",
         "end": "2024-09-29T18:30:00.000Z",
         "updated": "2024-04-16T12:00:44.669Z",
-        "gid": "l83ume1okeklj7e9iqnsuandcc",
-        "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "l83ume1okeklj7e9iqnsuandcc_20240929T170000Z",
+        "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2NfMjAyNDA5MjlUMTcwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1323,8 +1606,8 @@
         "date": "2024-10-01T22:30:00.000Z",
         "end": "2024-10-02T00:00:00.000Z",
         "updated": "2024-05-28T14:10:59.568Z",
-        "gid": "0ied03g19din9j6a3ad9ttv54u",
-        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHUgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0ied03g19din9j6a3ad9ttv54u_20241001T223000Z",
+        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHVfMjAyNDEwMDFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1336,8 +1619,8 @@
         "date": "2024-10-04T22:30:00.000Z",
         "end": "2024-10-05T00:00:00.000Z",
         "updated": "2023-12-27T14:43:58.874Z",
-        "gid": "56sdjgl9vihm0bpbs3tueaep0q",
-        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "56sdjgl9vihm0bpbs3tueaep0q_20241004T223000Z",
+        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHFfMjAyNDEwMDRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1349,8 +1632,8 @@
         "date": "2024-10-05T22:30:00.000Z",
         "end": "2024-10-06T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20241005T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDEwMDVUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1362,8 +1645,8 @@
         "date": "2024-10-08T22:30:00.000Z",
         "end": "2024-10-09T00:00:00.000Z",
         "updated": "2024-04-16T11:45:00.057Z",
-        "gid": "3bm557ljhp742chpajtf0jdvva",
-        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "3bm557ljhp742chpajtf0jdvva_20241008T223000Z",
+        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDEwMDhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1375,8 +1658,8 @@
         "date": "2024-10-12T22:30:00.000Z",
         "end": "2024-10-13T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20241012T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDEwMTJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1388,8 +1671,8 @@
         "date": "2024-10-19T22:30:00.000Z",
         "end": "2024-10-20T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20241019T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDEwMTlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1401,8 +1684,8 @@
         "date": "2024-10-22T22:30:00.000Z",
         "end": "2024-10-23T00:00:00.000Z",
         "updated": "2024-04-16T11:45:00.057Z",
-        "gid": "3bm557ljhp742chpajtf0jdvva",
-        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "3bm557ljhp742chpajtf0jdvva_20241022T223000Z",
+        "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmFfMjAyNDEwMjJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1414,8 +1697,8 @@
         "date": "2024-10-26T22:30:00.000Z",
         "end": "2024-10-27T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20241026T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDEwMjZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1427,8 +1710,8 @@
         "date": "2024-10-27T17:00:00.000Z",
         "end": "2024-10-27T18:30:00.000Z",
         "updated": "2024-04-16T12:00:44.669Z",
-        "gid": "l83ume1okeklj7e9iqnsuandcc",
-        "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "l83ume1okeklj7e9iqnsuandcc_20241027T170000Z",
+        "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2NfMjAyNDEwMjdUMTcwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1440,8 +1723,8 @@
         "date": "2024-11-01T22:30:00.000Z",
         "end": "2024-11-02T00:00:00.000Z",
         "updated": "2023-12-27T14:43:58.874Z",
-        "gid": "56sdjgl9vihm0bpbs3tueaep0q",
-        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "56sdjgl9vihm0bpbs3tueaep0q_20241101T223000Z",
+        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHFfMjAyNDExMDFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1453,8 +1736,8 @@
         "date": "2024-11-02T22:30:00.000Z",
         "end": "2024-11-03T00:00:00.000Z",
         "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "179k39951t9pr8q6digrdli542_20241102T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDExMDJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1466,8 +1749,47 @@
         "date": "2024-11-05T22:30:00.000Z",
         "end": "2024-11-06T00:00:00.000Z",
         "updated": "2024-05-28T14:10:59.568Z",
-        "gid": "0ied03g19din9j6a3ad9ttv54u",
-        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHUgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0ied03g19din9j6a3ad9ttv54u_20241105T223000Z",
+        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHVfMjAyNDExMDVUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BUENOLÂNDIA",
+        "desc": "RESP. GILMAR LINO",
+        "date": "2024-11-09T22:30:00.000Z",
+        "end": "2024-11-10T00:00:00.000Z",
+        "updated": "2024-07-24T17:50:18.934Z",
+        "gid": "179k39951t9pr8q6digrdli542_20241109T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDExMDlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
+        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
+        "date": "2024-11-12T22:30:00.000Z",
+        "end": "2024-11-13T00:00:00.000Z",
+        "updated": "2024-04-16T11:45:16.650Z",
+        "gid": "boimh9l1fb6vocuke78mn8of4s_20241112T223000Z",
+        "maps": "Ym9pbWg5bDFmYjZ2b2N1a2U3OG1uOG9mNHNfMjAyNDExMTJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BUENOLÂNDIA",
+        "desc": "RESP. GILMAR LINO",
+        "date": "2024-11-16T22:30:00.000Z",
+        "end": "2024-11-17T00:00:00.000Z",
+        "updated": "2024-07-24T17:50:18.934Z",
+        "gid": "179k39951t9pr8q6digrdli542_20241116T223000Z",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDJfMjAyNDExMTZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "true"
       },
       {
@@ -1479,8 +1801,8 @@
         "date": "2024-08-25T22:00:00.000Z",
         "end": "2024-08-26T00:00:00.000Z",
         "updated": "2024-08-12T15:45:46.952Z",
-        "gid": "33lu3optrqqesh3ohns5sfsflm_R20240630T220000",
-        "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fUjIwMjQwNjMwVDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "33lu3optrqqesh3ohns5sfsflm_20240825T220000Z",
+        "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fMjAyNDA4MjVUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1492,8 +1814,8 @@
         "date": "2024-09-01T22:00:00.000Z",
         "end": "2024-09-02T00:00:00.000Z",
         "updated": "2024-08-12T15:42:57.358Z",
-        "gid": "0q99p3pa5hdhko0grm7eoo18ba_R20240707T220000",
-        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfUjIwMjQwNzA3VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "0q99p3pa5hdhko0grm7eoo18ba_20240901T220000Z",
+        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfMjAyNDA5MDFUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1505,8 +1827,8 @@
         "date": "2024-09-08T22:00:00.000Z",
         "end": "2024-09-09T00:00:00.000Z",
         "updated": "2024-08-12T13:31:13.531Z",
-        "gid": "26so2l6m3e6g5egbrms2deqlt1_R20240714T220000",
-        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfUjIwMjQwNzE0VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "26so2l6m3e6g5egbrms2deqlt1_20240908T220000Z",
+        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDA5MDhUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1518,8 +1840,8 @@
         "date": "2024-09-15T22:00:00.000Z",
         "end": "2024-09-16T00:00:00.000Z",
         "updated": "2024-08-12T17:25:25.804Z",
-        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_R20240915T220000",
-        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfUjIwMjQwOTE1VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_20240915T220000Z",
+        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfMjAyNDA5MTVUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1531,8 +1853,8 @@
         "date": "2024-09-22T22:00:00.000Z",
         "end": "2024-09-23T00:00:00.000Z",
         "updated": "2024-08-12T15:45:46.952Z",
-        "gid": "33lu3optrqqesh3ohns5sfsflm_R20240922T220000",
-        "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fUjIwMjQwOTIyVDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "33lu3optrqqesh3ohns5sfsflm_20240922T220000Z",
+        "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fMjAyNDA5MjJUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1544,8 +1866,8 @@
         "date": "2024-09-29T22:00:00.000Z",
         "end": "2024-09-30T00:00:00.000Z",
         "updated": "2024-08-12T15:42:57.358Z",
-        "gid": "0q99p3pa5hdhko0grm7eoo18ba_R20240929T220000",
-        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfUjIwMjQwOTI5VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "0q99p3pa5hdhko0grm7eoo18ba_20240929T220000Z",
+        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfMjAyNDA5MjlUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1557,8 +1879,8 @@
         "date": "2024-10-06T22:00:00.000Z",
         "end": "2024-10-07T00:00:00.000Z",
         "updated": "2024-08-12T13:31:13.531Z",
-        "gid": "26so2l6m3e6g5egbrms2deqlt1_R20241006T220000",
-        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfUjIwMjQxMDA2VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "26so2l6m3e6g5egbrms2deqlt1_20241006T220000Z",
+        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDEwMDZUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1570,8 +1892,8 @@
         "date": "2024-10-13T22:00:00.000Z",
         "end": "2024-10-14T00:00:00.000Z",
         "updated": "2024-08-12T17:25:25.804Z",
-        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_R20240915T220000",
-        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfUjIwMjQwOTE1VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_20241013T220000Z",
+        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfMjAyNDEwMTNUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1583,8 +1905,8 @@
         "date": "2024-10-20T22:00:00.000Z",
         "end": "2024-10-21T00:00:00.000Z",
         "updated": "2024-08-12T15:45:46.952Z",
-        "gid": "33lu3optrqqesh3ohns5sfsflm_R20240922T220000",
-        "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fUjIwMjQwOTIyVDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "33lu3optrqqesh3ohns5sfsflm_20241020T220000Z",
+        "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fMjAyNDEwMjBUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1596,8 +1918,8 @@
         "date": "2024-10-27T22:00:00.000Z",
         "end": "2024-10-28T00:00:00.000Z",
         "updated": "2024-08-12T15:42:57.358Z",
-        "gid": "0q99p3pa5hdhko0grm7eoo18ba_R20240929T220000",
-        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfUjIwMjQwOTI5VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "0q99p3pa5hdhko0grm7eoo18ba_20241027T220000Z",
+        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfMjAyNDEwMjdUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1609,8 +1931,34 @@
         "date": "2024-11-03T22:00:00.000Z",
         "end": "2024-11-04T00:00:00.000Z",
         "updated": "2024-08-12T13:31:13.531Z",
-        "gid": "26so2l6m3e6g5egbrms2deqlt1_R20241006T220000",
-        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfUjIwMjQxMDA2VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "26so2l6m3e6g5egbrms2deqlt1_20241103T220000Z",
+        "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfMjAyNDExMDNUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Resp. História: Elizângela\nPedagoga: Mirna\nAuxiliares: Humberto, Marta, Artur\nTema:",
+        "date": "2024-11-10T22:00:00.000Z",
+        "end": "2024-11-11T00:00:00.000Z",
+        "updated": "2024-08-12T17:25:25.804Z",
+        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_20241110T220000Z",
+        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfMjAyNDExMTBUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Resp. História: Victoria Eva\nPedagoga: Lívia\nAuxiliares: Estevão, Ludymilla\nTema:",
+        "date": "2024-11-17T22:00:00.000Z",
+        "end": "2024-11-18T00:00:00.000Z",
+        "updated": "2024-08-12T15:45:46.952Z",
+        "gid": "33lu3optrqqesh3ohns5sfsflm_20241117T220000Z",
+        "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fMjAyNDExMTdUMjIwMDAwWiA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGc",
         "recurring": "true"
       },
       {
@@ -1622,8 +1970,8 @@
         "date": "2024-08-20T19:00:00.000Z",
         "end": "2024-08-20T21:00:00.000Z",
         "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20240820T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA4MjBUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1635,8 +1983,8 @@
         "date": "2024-08-26T18:00:00.000Z",
         "end": "2024-08-26T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "40udpbcvmvfek4a9m320cgch2g",
-        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmcgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "40udpbcvmvfek4a9m320cgch2g_20240826T180000Z",
+        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDA4MjZUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1648,8 +1996,8 @@
         "date": "2024-08-27T19:00:00.000Z",
         "end": "2024-08-27T21:00:00.000Z",
         "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4p511c6c41mio6f52ltvlb6j4o_20240827T190000Z",
+        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA4MjdUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1661,8 +2009,8 @@
         "date": "2024-09-03T19:00:00.000Z",
         "end": "2024-09-03T21:00:00.000Z",
         "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20240903T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA5MDNUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1674,8 +2022,8 @@
         "date": "2024-09-10T19:00:00.000Z",
         "end": "2024-09-10T21:00:00.000Z",
         "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4p511c6c41mio6f52ltvlb6j4o_20240910T190000Z",
+        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA5MTBUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1687,8 +2035,8 @@
         "date": "2024-09-17T19:00:00.000Z",
         "end": "2024-09-17T21:00:00.000Z",
         "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20240917T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDA5MTdUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1700,8 +2048,8 @@
         "date": "2024-09-24T19:00:00.000Z",
         "end": "2024-09-24T21:00:00.000Z",
         "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4p511c6c41mio6f52ltvlb6j4o_20240924T190000Z",
+        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDA5MjRUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1713,8 +2061,8 @@
         "date": "2024-09-30T18:00:00.000Z",
         "end": "2024-09-30T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "40udpbcvmvfek4a9m320cgch2g",
-        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmcgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "40udpbcvmvfek4a9m320cgch2g_20240930T180000Z",
+        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDA5MzBUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1726,8 +2074,8 @@
         "date": "2024-10-01T19:00:00.000Z",
         "end": "2024-10-01T21:00:00.000Z",
         "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20241001T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDEwMDFUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1739,8 +2087,8 @@
         "date": "2024-10-08T19:00:00.000Z",
         "end": "2024-10-08T21:00:00.000Z",
         "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4p511c6c41mio6f52ltvlb6j4o_20241008T190000Z",
+        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDEwMDhUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1752,8 +2100,8 @@
         "date": "2024-10-15T19:00:00.000Z",
         "end": "2024-10-15T21:00:00.000Z",
         "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20241015T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDEwMTVUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1765,8 +2113,8 @@
         "date": "2024-10-22T19:00:00.000Z",
         "end": "2024-10-22T21:00:00.000Z",
         "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4p511c6c41mio6f52ltvlb6j4o_20241022T190000Z",
+        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDEwMjJUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1778,8 +2126,8 @@
         "date": "2024-10-28T18:00:00.000Z",
         "end": "2024-10-28T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "40udpbcvmvfek4a9m320cgch2g",
-        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmcgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "40udpbcvmvfek4a9m320cgch2g_20241028T180000Z",
+        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmdfMjAyNDEwMjhUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1791,8 +2139,8 @@
         "date": "2024-10-29T19:00:00.000Z",
         "end": "2024-10-29T21:00:00.000Z",
         "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20241029T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDEwMjlUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1804,8 +2152,21 @@
         "date": "2024-11-05T19:00:00.000Z",
         "end": "2024-11-05T21:00:00.000Z",
         "updated": "2024-04-23T13:35:59.284Z",
-        "gid": "4p511c6c41mio6f52ltvlb6j4o",
-        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4p511c6c41mio6f52ltvlb6j4o_20241105T190000Z",
+        "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG9fMjAyNDExMDVUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
+        "date": "2024-11-12T19:00:00.000Z",
+        "end": "2024-11-12T21:00:00.000Z",
+        "updated": "2024-04-23T13:36:19.749Z",
+        "gid": "5fln97908qjka7trpgbg5uu0fa_20241112T190000Z",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfMjAyNDExMTJUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1817,8 +2178,8 @@
         "date": "2024-08-22T22:00:00.000Z",
         "end": "2024-08-23T00:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20240822T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDA4MjJUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1830,8 +2191,8 @@
         "date": "2024-08-24T18:30:00.000Z",
         "end": "2024-08-24T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240824T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA4MjRUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1843,8 +2204,8 @@
         "date": "2024-08-25T17:00:00.000Z",
         "end": "2024-08-25T18:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2UgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20240825T170000Z",
+        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDA4MjVUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1856,8 +2217,8 @@
         "date": "2024-08-31T18:30:00.000Z",
         "end": "2024-08-31T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240831T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA4MzFUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1869,8 +2230,8 @@
         "date": "2024-08-31T19:00:00.000Z",
         "end": "2024-08-31T20:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
-        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq_20240831T190000Z",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3FfMjAyNDA4MzFUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1882,8 +2243,8 @@
         "date": "2024-09-05T22:00:00.000Z",
         "end": "2024-09-06T00:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20240905T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDA5MDVUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1895,8 +2256,8 @@
         "date": "2024-09-07T18:30:00.000Z",
         "end": "2024-09-07T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240907T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA5MDdUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1908,8 +2269,8 @@
         "date": "2024-09-08T17:00:00.000Z",
         "end": "2024-09-08T18:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2UgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20240908T170000Z",
+        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDA5MDhUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1921,8 +2282,8 @@
         "date": "2024-09-14T18:30:00.000Z",
         "end": "2024-09-14T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240914T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA5MTRUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1934,8 +2295,8 @@
         "date": "2024-09-14T19:00:00.000Z",
         "end": "2024-09-14T20:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
-        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq_20240914T190000Z",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3FfMjAyNDA5MTRUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1947,8 +2308,8 @@
         "date": "2024-09-19T22:00:00.000Z",
         "end": "2024-09-20T00:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20240919T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDA5MTlUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1960,8 +2321,8 @@
         "date": "2024-09-21T18:30:00.000Z",
         "end": "2024-09-21T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240921T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA5MjFUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1973,8 +2334,8 @@
         "date": "2024-09-22T17:00:00.000Z",
         "end": "2024-09-22T18:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2UgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20240922T170000Z",
+        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDA5MjJUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1986,8 +2347,8 @@
         "date": "2024-09-28T18:30:00.000Z",
         "end": "2024-09-28T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20240928T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDA5MjhUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -1999,8 +2360,8 @@
         "date": "2024-09-28T19:00:00.000Z",
         "end": "2024-09-28T20:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
-        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq_20240928T190000Z",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3FfMjAyNDA5MjhUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2012,8 +2373,8 @@
         "date": "2024-10-03T22:00:00.000Z",
         "end": "2024-10-04T00:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20241003T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDEwMDNUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2025,8 +2386,8 @@
         "date": "2024-10-05T18:30:00.000Z",
         "end": "2024-10-05T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20241005T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDEwMDVUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2038,8 +2399,8 @@
         "date": "2024-10-06T17:00:00.000Z",
         "end": "2024-10-06T18:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2UgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20241006T170000Z",
+        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDEwMDZUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2051,8 +2412,8 @@
         "date": "2024-10-12T18:30:00.000Z",
         "end": "2024-10-12T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20241012T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDEwMTJUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2064,8 +2425,8 @@
         "date": "2024-10-12T19:00:00.000Z",
         "end": "2024-10-12T20:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
-        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq_20241012T190000Z",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3FfMjAyNDEwMTJUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2077,8 +2438,8 @@
         "date": "2024-10-17T22:00:00.000Z",
         "end": "2024-10-18T00:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20241017T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDEwMTdUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2090,8 +2451,8 @@
         "date": "2024-10-19T18:30:00.000Z",
         "end": "2024-10-19T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20241019T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDEwMTlUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2103,8 +2464,8 @@
         "date": "2024-10-20T17:00:00.000Z",
         "end": "2024-10-20T18:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2UgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20241020T170000Z",
+        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDEwMjBUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2116,8 +2477,8 @@
         "date": "2024-10-26T18:30:00.000Z",
         "end": "2024-10-26T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20241026T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDEwMjZUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2129,8 +2490,8 @@
         "date": "2024-10-26T19:00:00.000Z",
         "end": "2024-10-26T20:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
-        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq_20241026T190000Z",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3FfMjAyNDEwMjZUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2142,8 +2503,8 @@
         "date": "2024-10-31T22:00:00.000Z",
         "end": "2024-11-01T00:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20241031T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDEwMzFUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2155,8 +2516,8 @@
         "date": "2024-11-02T18:30:00.000Z",
         "end": "2024-11-02T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20241102T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDExMDJUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2168,8 +2529,73 @@
         "date": "2024-11-03T17:00:00.000Z",
         "end": "2024-11-03T18:30:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "j3gbq7e2i7j1dsohhspu235i3e",
-        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2UgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20241103T170000Z",
+        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDExMDNUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
+        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
+        "date": "2024-11-09T18:30:00.000Z",
+        "end": "2024-11-09T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20241109T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDExMDlUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "ITAPIRAPUÃ - ABRIGO VEREADOR HELLENO RODRIGUES PAES",
+        "desc": "IR. JONAS DOMINGUES VIEIRA\nIR. MARILZO HONÓRIO DA SILVA",
+        "date": "2024-11-09T19:00:00.000Z",
+        "end": "2024-11-09T20:30:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq_20241109T190000Z",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3FfMjAyNDExMDlUMTkwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "FAINA - LAR DO IDOSO DONA LEONTINA GOBBE CUNHA",
+        "desc": "Ir. Maciel Antônio de Oliveira\nIR. PAULO VINICIOS SALES DE ARAUJO",
+        "date": "2024-11-14T22:00:00.000Z",
+        "end": "2024-11-15T00:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4_20241114T220000Z",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzRfMjAyNDExMTRUMjIwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
+        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
+        "date": "2024-11-16T18:30:00.000Z",
+        "end": "2024-11-16T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "0tv71284hi57adkao29mi7g4ee_20241116T183000Z",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfMjAyNDExMTZUMTgzMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "ITABERAÍ - LAR DOS IDOSOS SANTANA",
+        "desc": "Ir. ANTONIO BATISTA DE FARIA\nIr. DIVINO MODESTO",
+        "date": "2024-11-17T17:00:00.000Z",
+        "end": "2024-11-17T18:30:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "j3gbq7e2i7j1dsohhspu235i3e_20241117T170000Z",
+        "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2VfMjAyNDExMTdUMTcwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2181,8 +2607,8 @@
         "date": "2024-08-31T18:00:00.000Z",
         "end": "2024-08-31T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "dkgs2c3v8aeamfso44ne4428h0",
-        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0_20240831T180000Z",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA4MzFUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2194,8 +2620,8 @@
         "date": "2024-09-14T18:00:00.000Z",
         "end": "2024-09-14T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "dkgs2c3v8aeamfso44ne4428h0",
-        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0_20240914T180000Z",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA5MTRUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2207,8 +2633,8 @@
         "date": "2024-09-28T18:00:00.000Z",
         "end": "2024-09-28T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "dkgs2c3v8aeamfso44ne4428h0",
-        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0_20240928T180000Z",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDA5MjhUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2220,8 +2646,8 @@
         "date": "2024-10-12T18:00:00.000Z",
         "end": "2024-10-12T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "dkgs2c3v8aeamfso44ne4428h0",
-        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0_20241012T180000Z",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDEwMTJUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2233,8 +2659,21 @@
         "date": "2024-10-26T18:00:00.000Z",
         "end": "2024-10-26T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "dkgs2c3v8aeamfso44ne4428h0",
-        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0_20241026T180000Z",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDEwMjZUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "CASA DE RECUPERAÇÃO",
+        "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
+        "desc": "Ir. Hedyone Campos",
+        "date": "2024-11-09T18:00:00.000Z",
+        "end": "2024-11-09T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0_20241109T180000Z",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDBfMjAyNDExMDlUMTgwMDAwWiBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGc",
         "recurring": "true"
       },
       {
@@ -2246,8 +2685,8 @@
         "date": "2024-08-21T21:30:00.000Z",
         "end": "2024-08-22T00:00:00.000Z",
         "updated": "2024-06-11T11:32:08.502Z",
-        "gid": "n8v20h6agmuonuharhqf9i2j16",
-        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTYgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "n8v20h6agmuonuharhqf9i2j16_20240821T213000Z",
+        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTZfMjAyNDA4MjFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2259,8 +2698,8 @@
         "date": "2024-08-22T21:30:00.000Z",
         "end": "2024-08-23T00:00:00.000Z",
         "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20240822T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDA4MjJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2272,8 +2711,8 @@
         "date": "2024-08-24T21:30:00.000Z",
         "end": "2024-08-25T00:00:00.000Z",
         "updated": "2024-03-26T13:53:01.847Z",
-        "gid": "4cv5pdlrit4fif79k8p4uehk9n",
-        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4cv5pdlrit4fif79k8p4uehk9n_20240824T213000Z",
+        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW5fMjAyNDA4MjRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2285,8 +2724,8 @@
         "date": "2024-08-25T12:00:00.000Z",
         "end": "2024-08-25T15:00:00.000Z",
         "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWwgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240825T120000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA4MjVUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2298,8 +2737,8 @@
         "date": "2024-08-25T21:30:00.000Z",
         "end": "2024-08-26T00:00:00.000Z",
         "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20240825T213000Z",
+        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDA4MjVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2311,8 +2750,8 @@
         "date": "2024-08-28T21:30:00.000Z",
         "end": "2024-08-29T00:00:00.000Z",
         "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "pbogvkbp73un0qjpu53bo254r3_20240828T213000Z",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA4MjhUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2324,8 +2763,8 @@
         "date": "2024-08-29T21:30:00.000Z",
         "end": "2024-08-30T00:00:00.000Z",
         "updated": "2024-06-11T11:28:07.042Z",
-        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
-        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn_20240829T213000Z",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam5fMjAyNDA4MjlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2337,8 +2776,8 @@
         "date": "2024-08-31T21:30:00.000Z",
         "end": "2024-09-01T00:00:00.000Z",
         "updated": "2024-03-26T13:54:16.215Z",
-        "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
-        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "7s4e48vk3qjuj87pls8na5qclr_20240831T213000Z",
+        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfMjAyNDA4MzFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2350,8 +2789,8 @@
         "date": "2024-09-01T12:00:00.000Z",
         "end": "2024-09-01T15:00:00.000Z",
         "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240901T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA5MDFUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2363,8 +2802,8 @@
         "date": "2024-09-01T21:30:00.000Z",
         "end": "2024-09-02T00:00:00.000Z",
         "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "cl049nanq5uc4o7celhug74en0_20240901T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDA5MDFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2376,8 +2815,8 @@
         "date": "2024-09-04T21:30:00.000Z",
         "end": "2024-09-05T00:00:00.000Z",
         "updated": "2024-06-11T11:31:54.303Z",
-        "gid": "41p7c9m1ltvfvn1a0r7uppmit0_R20240612T213000",
-        "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfUjIwMjQwNjEyVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "41p7c9m1ltvfvn1a0r7uppmit0_20240904T213000Z",
+        "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfMjAyNDA5MDRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2389,8 +2828,8 @@
         "date": "2024-09-05T21:30:00.000Z",
         "end": "2024-09-06T00:00:00.000Z",
         "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20240905T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDA5MDVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2402,8 +2841,8 @@
         "date": "2024-09-07T21:30:00.000Z",
         "end": "2024-09-08T00:00:00.000Z",
         "updated": "2024-04-08T16:43:56.375Z",
-        "gid": "0o6pck9vdchp5v1ol35to3vada_R20240413T213000",
-        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfUjIwMjQwNDEzVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "0o6pck9vdchp5v1ol35to3vada_20240907T213000Z",
+        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfMjAyNDA5MDdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2415,8 +2854,8 @@
         "date": "2024-09-08T12:00:00.000Z",
         "end": "2024-09-08T15:00:00.000Z",
         "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWwgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240908T120000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA5MDhUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2428,8 +2867,8 @@
         "date": "2024-09-08T19:00:00.000Z",
         "end": "2024-09-08T22:00:00.000Z",
         "updated": "2024-08-12T03:04:43.454Z",
-        "gid": "5c0qib2gq3ovb0qh4l2omcuspg",
-        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGcgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5c0qib2gq3ovb0qh4l2omcuspg_20240908T190000Z",
+        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGdfMjAyNDA5MDhUMTkwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2441,8 +2880,8 @@
         "date": "2024-09-08T21:30:00.000Z",
         "end": "2024-09-09T00:00:00.000Z",
         "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20240908T213000Z",
+        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDA5MDhUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2454,8 +2893,8 @@
         "date": "2024-09-11T21:30:00.000Z",
         "end": "2024-09-12T00:00:00.000Z",
         "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "pbogvkbp73un0qjpu53bo254r3_20240911T213000Z",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA5MTFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2467,8 +2906,8 @@
         "date": "2024-09-12T21:30:00.000Z",
         "end": "2024-09-13T00:00:00.000Z",
         "updated": "2024-06-11T11:28:07.042Z",
-        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
-        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn_20240912T213000Z",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam5fMjAyNDA5MTJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2480,8 +2919,8 @@
         "date": "2024-09-14T21:30:00.000Z",
         "end": "2024-09-15T00:00:00.000Z",
         "updated": "2024-03-26T13:53:01.847Z",
-        "gid": "4cv5pdlrit4fif79k8p4uehk9n",
-        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4cv5pdlrit4fif79k8p4uehk9n_20240914T213000Z",
+        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW5fMjAyNDA5MTRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2493,8 +2932,8 @@
         "date": "2024-09-15T12:00:00.000Z",
         "end": "2024-09-15T15:00:00.000Z",
         "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240915T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA5MTVUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2506,8 +2945,8 @@
         "date": "2024-09-15T21:30:00.000Z",
         "end": "2024-09-16T00:00:00.000Z",
         "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "cl049nanq5uc4o7celhug74en0_20240915T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDA5MTVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2519,8 +2958,8 @@
         "date": "2024-09-18T21:30:00.000Z",
         "end": "2024-09-19T00:00:00.000Z",
         "updated": "2024-06-11T11:32:08.502Z",
-        "gid": "n8v20h6agmuonuharhqf9i2j16",
-        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTYgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "n8v20h6agmuonuharhqf9i2j16_20240918T213000Z",
+        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTZfMjAyNDA5MThUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2532,8 +2971,8 @@
         "date": "2024-09-19T21:30:00.000Z",
         "end": "2024-09-20T00:00:00.000Z",
         "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20240919T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDA5MTlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2545,8 +2984,8 @@
         "date": "2024-09-21T21:30:00.000Z",
         "end": "2024-09-22T00:00:00.000Z",
         "updated": "2024-03-26T13:54:16.215Z",
-        "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
-        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "7s4e48vk3qjuj87pls8na5qclr_20240921T213000Z",
+        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfMjAyNDA5MjFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2558,8 +2997,8 @@
         "date": "2024-09-22T12:00:00.000Z",
         "end": "2024-09-22T15:00:00.000Z",
         "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWwgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20240922T120000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDA5MjJUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2571,8 +3010,8 @@
         "date": "2024-09-22T21:30:00.000Z",
         "end": "2024-09-23T00:00:00.000Z",
         "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20240922T213000Z",
+        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDA5MjJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2584,8 +3023,8 @@
         "date": "2024-09-25T21:30:00.000Z",
         "end": "2024-09-26T00:00:00.000Z",
         "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "pbogvkbp73un0qjpu53bo254r3_20240925T213000Z",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDA5MjVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2597,8 +3036,8 @@
         "date": "2024-09-26T21:30:00.000Z",
         "end": "2024-09-27T00:00:00.000Z",
         "updated": "2024-06-11T11:28:07.042Z",
-        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
-        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn_20240926T213000Z",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam5fMjAyNDA5MjZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2610,8 +3049,8 @@
         "date": "2024-09-28T21:30:00.000Z",
         "end": "2024-09-29T00:00:00.000Z",
         "updated": "2024-04-08T16:43:56.375Z",
-        "gid": "0o6pck9vdchp5v1ol35to3vada_R20240413T213000",
-        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfUjIwMjQwNDEzVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "0o6pck9vdchp5v1ol35to3vada_20240928T213000Z",
+        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfMjAyNDA5MjhUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2623,8 +3062,8 @@
         "date": "2024-09-29T12:00:00.000Z",
         "end": "2024-09-29T15:00:00.000Z",
         "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20240929T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDA5MjlUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2636,8 +3075,8 @@
         "date": "2024-09-29T21:30:00.000Z",
         "end": "2024-09-30T00:00:00.000Z",
         "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "cl049nanq5uc4o7celhug74en0_20240929T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDA5MjlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2649,8 +3088,8 @@
         "date": "2024-10-02T21:30:00.000Z",
         "end": "2024-10-03T00:00:00.000Z",
         "updated": "2024-06-11T11:31:54.303Z",
-        "gid": "41p7c9m1ltvfvn1a0r7uppmit0_R20240612T213000",
-        "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfUjIwMjQwNjEyVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "41p7c9m1ltvfvn1a0r7uppmit0_20241002T213000Z",
+        "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfMjAyNDEwMDJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2662,8 +3101,8 @@
         "date": "2024-10-03T21:30:00.000Z",
         "end": "2024-10-04T00:00:00.000Z",
         "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20241003T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDEwMDNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2675,8 +3114,8 @@
         "date": "2024-10-05T21:30:00.000Z",
         "end": "2024-10-06T00:00:00.000Z",
         "updated": "2024-03-26T13:53:01.847Z",
-        "gid": "4cv5pdlrit4fif79k8p4uehk9n",
-        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4cv5pdlrit4fif79k8p4uehk9n_20241005T213000Z",
+        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW5fMjAyNDEwMDVUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2688,8 +3127,8 @@
         "date": "2024-10-06T12:00:00.000Z",
         "end": "2024-10-06T15:00:00.000Z",
         "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWwgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20241006T120000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDEwMDZUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2701,8 +3140,8 @@
         "date": "2024-10-06T21:30:00.000Z",
         "end": "2024-10-07T00:00:00.000Z",
         "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20241006T213000Z",
+        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDEwMDZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2714,8 +3153,8 @@
         "date": "2024-10-09T21:30:00.000Z",
         "end": "2024-10-10T00:00:00.000Z",
         "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "pbogvkbp73un0qjpu53bo254r3_20241009T213000Z",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDEwMDlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2727,8 +3166,8 @@
         "date": "2024-10-10T21:30:00.000Z",
         "end": "2024-10-11T00:00:00.000Z",
         "updated": "2024-06-11T11:28:07.042Z",
-        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
-        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn_20241010T213000Z",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam5fMjAyNDEwMTBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2740,8 +3179,8 @@
         "date": "2024-10-12T21:30:00.000Z",
         "end": "2024-10-13T00:00:00.000Z",
         "updated": "2024-03-26T13:54:16.215Z",
-        "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
-        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "7s4e48vk3qjuj87pls8na5qclr_20241012T213000Z",
+        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfMjAyNDEwMTJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2753,8 +3192,8 @@
         "date": "2024-10-13T12:00:00.000Z",
         "end": "2024-10-13T15:00:00.000Z",
         "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20241013T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDEwMTNUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2766,8 +3205,8 @@
         "date": "2024-10-13T19:00:00.000Z",
         "end": "2024-10-13T22:00:00.000Z",
         "updated": "2024-08-12T03:04:43.454Z",
-        "gid": "5c0qib2gq3ovb0qh4l2omcuspg",
-        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGcgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "5c0qib2gq3ovb0qh4l2omcuspg_20241013T190000Z",
+        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGdfMjAyNDEwMTNUMTkwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2779,8 +3218,8 @@
         "date": "2024-10-13T21:30:00.000Z",
         "end": "2024-10-14T00:00:00.000Z",
         "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "cl049nanq5uc4o7celhug74en0_20241013T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDEwMTNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2792,8 +3231,8 @@
         "date": "2024-10-16T21:30:00.000Z",
         "end": "2024-10-17T00:00:00.000Z",
         "updated": "2024-06-11T11:32:08.502Z",
-        "gid": "n8v20h6agmuonuharhqf9i2j16",
-        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTYgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "n8v20h6agmuonuharhqf9i2j16_20241016T213000Z",
+        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTZfMjAyNDEwMTZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2805,8 +3244,8 @@
         "date": "2024-10-17T21:30:00.000Z",
         "end": "2024-10-18T00:00:00.000Z",
         "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20241017T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDEwMTdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2818,8 +3257,8 @@
         "date": "2024-10-19T21:30:00.000Z",
         "end": "2024-10-20T00:00:00.000Z",
         "updated": "2024-04-08T16:43:56.375Z",
-        "gid": "0o6pck9vdchp5v1ol35to3vada_R20240413T213000",
-        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfUjIwMjQwNDEzVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "0o6pck9vdchp5v1ol35to3vada_20241019T213000Z",
+        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfMjAyNDEwMTlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2831,8 +3270,8 @@
         "date": "2024-10-20T12:00:00.000Z",
         "end": "2024-10-20T15:00:00.000Z",
         "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWwgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20241020T120000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDEwMjBUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2844,8 +3283,8 @@
         "date": "2024-10-20T21:30:00.000Z",
         "end": "2024-10-21T00:00:00.000Z",
         "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20241020T213000Z",
+        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDEwMjBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2857,8 +3296,8 @@
         "date": "2024-10-23T21:30:00.000Z",
         "end": "2024-10-24T00:00:00.000Z",
         "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "pbogvkbp73un0qjpu53bo254r3_20241023T213000Z",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDEwMjNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2870,8 +3309,8 @@
         "date": "2024-10-24T21:30:00.000Z",
         "end": "2024-10-25T00:00:00.000Z",
         "updated": "2024-06-11T11:28:07.042Z",
-        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
-        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn_20241024T213000Z",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam5fMjAyNDEwMjRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2883,8 +3322,8 @@
         "date": "2024-10-26T21:30:00.000Z",
         "end": "2024-10-27T00:00:00.000Z",
         "updated": "2024-03-26T13:53:01.847Z",
-        "gid": "4cv5pdlrit4fif79k8p4uehk9n",
-        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "4cv5pdlrit4fif79k8p4uehk9n_20241026T213000Z",
+        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW5fMjAyNDEwMjZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2896,8 +3335,8 @@
         "date": "2024-10-27T12:00:00.000Z",
         "end": "2024-10-27T15:00:00.000Z",
         "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20241027T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDEwMjdUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2909,8 +3348,8 @@
         "date": "2024-10-27T21:30:00.000Z",
         "end": "2024-10-28T00:00:00.000Z",
         "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "cl049nanq5uc4o7celhug74en0_20241027T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDEwMjdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2922,8 +3361,8 @@
         "date": "2024-10-30T21:30:00.000Z",
         "end": "2024-10-31T00:00:00.000Z",
         "updated": "2024-06-11T11:31:54.303Z",
-        "gid": "41p7c9m1ltvfvn1a0r7uppmit0_R20240612T213000",
-        "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfUjIwMjQwNjEyVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "41p7c9m1ltvfvn1a0r7uppmit0_20241030T213000Z",
+        "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfMjAyNDEwMzBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2935,8 +3374,8 @@
         "date": "2024-10-31T21:30:00.000Z",
         "end": "2024-11-01T00:00:00.000Z",
         "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20241031T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDEwMzFUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2948,8 +3387,8 @@
         "date": "2024-11-02T21:30:00.000Z",
         "end": "2024-11-03T00:00:00.000Z",
         "updated": "2024-03-26T13:54:16.215Z",
-        "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
-        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "gid": "7s4e48vk3qjuj87pls8na5qclr_20241102T213000Z",
+        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfMjAyNDExMDJUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2961,8 +3400,8 @@
         "date": "2024-11-03T12:00:00.000Z",
         "end": "2024-11-03T15:00:00.000Z",
         "updated": "2024-03-14T19:43:14.935Z",
-        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
-        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWwgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20241103T120000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDExMDNUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2974,8 +3413,8 @@
         "date": "2024-11-03T21:30:00.000Z",
         "end": "2024-11-04T00:00:00.000Z",
         "updated": "2024-03-14T19:45:00.239Z",
-        "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
-        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20241103T213000Z",
+        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDExMDNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -2987,8 +3426,8 @@
         "date": "2024-11-06T21:30:00.000Z",
         "end": "2024-11-07T00:00:00.000Z",
         "updated": "2024-03-14T17:38:28.398Z",
-        "gid": "pbogvkbp73un0qjpu53bo254r3",
-        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "pbogvkbp73un0qjpu53bo254r3_20241106T213000Z",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjNfMjAyNDExMDZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       },
       {
@@ -3000,8 +3439,125 @@
         "date": "2024-11-07T21:30:00.000Z",
         "end": "2024-11-08T00:00:00.000Z",
         "updated": "2024-06-11T11:28:07.042Z",
-        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
-        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn_20241107T213000Z",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam5fMjAyNDExMDdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - COL. DE UVÁ",
+        "desc": "Ir. Sebastião Ferreira da Silva",
+        "date": "2024-11-09T21:30:00.000Z",
+        "end": "2024-11-10T00:00:00.000Z",
+        "updated": "2024-04-08T16:43:56.375Z",
+        "gid": "0o6pck9vdchp5v1ol35to3vada_20241109T213000Z",
+        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfMjAyNDExMDlUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Marcelo Pires",
+        "date": "2024-11-10T12:00:00.000Z",
+        "end": "2024-11-10T15:00:00.000Z",
+        "updated": "2024-06-11T11:29:17.089Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_20241110T120000Z",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfMjAyNDExMTBUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Sebastiao Amilto da Silva<br><b>Ensaio Local</b>",
+        "date": "2024-11-10T19:00:00.000Z",
+        "end": "2024-11-10T22:00:00.000Z",
+        "updated": "2024-08-12T03:04:43.454Z",
+        "gid": "5c0qib2gq3ovb0qh4l2omcuspg_20241110T190000Z",
+        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGdfMjAyNDExMTBUMTkwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Abel",
+        "date": "2024-11-10T21:30:00.000Z",
+        "end": "2024-11-11T00:00:00.000Z",
+        "updated": "2024-03-14T19:44:33.735Z",
+        "gid": "cl049nanq5uc4o7celhug74en0_20241110T213000Z",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjBfMjAyNDExMTBUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "MARCELO PIRES",
+        "date": "2024-11-13T21:30:00.000Z",
+        "end": "2024-11-14T00:00:00.000Z",
+        "updated": "2024-06-11T11:32:08.502Z",
+        "gid": "n8v20h6agmuonuharhqf9i2j16_20241113T213000Z",
+        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTZfMjAyNDExMTNUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Sebastiao Amilto da Silva",
+        "date": "2024-11-14T21:30:00.000Z",
+        "end": "2024-11-15T00:00:00.000Z",
+        "updated": "2024-06-11T11:27:26.572Z",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h_20241114T213000Z",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGhfMjAyNDExMTRUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - COL. DE UVÁ",
+        "desc": "Valdemar",
+        "date": "2024-11-16T21:30:00.000Z",
+        "end": "2024-11-17T00:00:00.000Z",
+        "updated": "2024-03-26T13:53:01.847Z",
+        "gid": "4cv5pdlrit4fif79k8p4uehk9n_20241116T213000Z",
+        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW5fMjAyNDExMTZUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Jonathan Lucas",
+        "date": "2024-11-17T12:00:00.000Z",
+        "end": "2024-11-17T15:00:00.000Z",
+        "updated": "2024-03-14T19:43:14.935Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial_20241117T120000Z",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWxfMjAyNDExMTdUMTIwMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Benjamin",
+        "date": "2024-11-17T21:30:00.000Z",
+        "end": "2024-11-18T00:00:00.000Z",
+        "updated": "2024-03-14T19:45:00.239Z",
+        "gid": "u5nhmlqj5tupf4i2rm1413gvhi_20241117T213000Z",
+        "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGlfMjAyNDExMTdUMjEzMDAwWiBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGc",
         "recurring": "true"
       }
     ]
