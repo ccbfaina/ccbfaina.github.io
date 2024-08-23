@@ -706,6 +706,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "DARPE (Departamento de Assistência Religiosa para Evangelização)",
+        "date": "2024-11-10T17:00:00.000Z",
+        "end": "2024-11-10T19:00:00.000Z",
+        "updated": "2024-07-29T19:34:58.678Z",
+        "gid": "fpchv082hmd34pf3r5tun8k6nv_R20240908T170000",
+        "maps": "ZnBjaHYwODJobWQzNHBmM3I1dHVuOGs2bnZfUjIwMjQwOTA4VDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Itaberaí - Central",
         "desc": "",
@@ -1226,6 +1239,19 @@
       {
         "id": 0,
         "list": "LOCALIDADES",
+        "title": "ENSAIO LOCAL",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "RESP. ARTHOS MORAES VIEIRA",
+        "date": "2024-11-10T20:00:00.000Z",
+        "end": "2024-11-10T22:00:00.000Z",
+        "updated": "2024-02-25T03:02:00.890Z",
+        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
+        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - BUENOLÂNDIA",
         "desc": "RESP. GILMAR LINO",
@@ -1261,6 +1287,19 @@
         "gid": "3bm557ljhp742chpajtf0jdvva",
         "maps": "M2JtNTU3bGpocDc0MmNocGFqdGYwamR2dmEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - Vila Lions",
+        "desc": "Ir. Brasil & Ir. Geralda\nResp.",
+        "date": "2024-08-30T22:30:00.000Z",
+        "end": "2024-08-31T00:00:00.000Z",
+        "updated": "2024-08-22T23:46:17.097Z",
+        "gid": "1pea70jjq0bn60nce46448jfs1",
+        "maps": "MXBlYTcwampxMGJuNjBuY2U0NjQ0OGpmczEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
       },
       {
         "id": 0,
@@ -1706,6 +1745,19 @@
       },
       {
         "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Resp. História: Elizângela\nPedagoga: Mirna\nAuxiliares: Humberto, Marta, Artur\nTema:",
+        "date": "2024-11-10T22:00:00.000Z",
+        "end": "2024-11-11T00:00:00.000Z",
+        "updated": "2024-08-12T17:25:25.804Z",
+        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_R20240915T220000",
+        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfUjIwMjQwOTE1VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "DARPE",
         "title": "HOSPITAL",
         "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
@@ -1884,19 +1936,6 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "FAINA - LAR DO IDOSO DONA LEONTINA GOBBE CUNHA",
-        "desc": "Ir. Maciel Antônio de Oliveira\nIR. PAULO VINICIOS SALES DE ARAUJO",
-        "date": "2024-08-22T22:00:00.000Z",
-        "end": "2024-08-23T00:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -2352,19 +2391,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Sebastiao Amilto da Silva",
-        "date": "2024-08-22T21:30:00.000Z",
-        "end": "2024-08-23T00:00:00.000Z",
-        "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -3132,6 +3158,32 @@
         "updated": "2024-06-11T11:29:17.089Z",
         "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
         "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Sebastiao Amilto da Silva<br><b>Ensaio Local</b>",
+        "date": "2024-11-10T19:00:00.000Z",
+        "end": "2024-11-10T22:00:00.000Z",
+        "updated": "2024-08-12T03:04:43.454Z",
+        "gid": "5c0qib2gq3ovb0qh4l2omcuspg",
+        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGcgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Abel",
+        "date": "2024-11-10T21:30:00.000Z",
+        "end": "2024-11-11T00:00:00.000Z",
+        "updated": "2024-03-14T19:44:33.735Z",
+        "gid": "cl049nanq5uc4o7celhug74en0",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
