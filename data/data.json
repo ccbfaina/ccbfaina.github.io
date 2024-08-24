@@ -719,6 +719,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Financeira\n19h30 RA (Reunião Administrativa com Colaboradores)",
+        "date": "2024-11-11T22:00:00.000Z",
+        "end": "2024-11-11T23:30:00.000Z",
+        "updated": "2024-07-29T19:23:00.410Z",
+        "gid": "4184pudipcmi5016ag2ph1sdso_R20240812T220000",
+        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fUjIwMjQwODEyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Itaberaí - Central",
         "desc": "",
@@ -1039,6 +1052,19 @@
         "updated": "2024-07-29T20:10:38.452Z",
         "gid": "m4tk4su2vaph2cl3s1b0vtrji8_R20240908T040000",
         "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfUjIwMjQwOTA4VDA0MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Itaberaí - Vila Progresso",
+        "desc": "<b>RMA: </b>Vagner Garcia, Itamar Menezes, Paulo Silvano",
+        "date": "2024-11-12T03:00:00.000Z",
+        "end": "2024-11-12T04:30:00.000Z",
+        "updated": "2024-07-29T20:11:16.022Z",
+        "gid": "dt81j7tuq224f4kjk6e5hhpmq8_R20240910T030000",
+        "maps": "ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfUjIwMjQwOTEwVDAzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
