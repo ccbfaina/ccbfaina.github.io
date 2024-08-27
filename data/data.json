@@ -667,6 +667,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "ON-LINE",
+        "desc": "DARPE: TRANSMISSÃO NACIONAL COM TODOS COLABORADORES",
+        "date": "2024-11-14T22:00:00.000Z",
+        "end": "2024-11-15T00:00:00.000Z",
+        "updated": "2024-02-23T20:28:50.198Z",
+        "gid": "4liuh1ck3289hh0fra7afdm4bo",
+        "maps": "NGxpdWgxY2szMjg5aGgwZnJhN2FmZG00Ym8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Faina - Central",
         "desc": "",
@@ -1643,19 +1656,6 @@
         "id": 0,
         "list": "DARPE",
         "title": "HOSPITAL",
-        "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
-        "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
-        "date": "2024-08-26T18:00:00.000Z",
-        "end": "2024-08-26T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "40udpbcvmvfek4a9m320cgch2g",
-        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmcgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
         "locale": "GOIÁS - Hospital São Pedro",
         "desc": "IR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
         "date": "2024-08-27T19:00:00.000Z",
@@ -2183,6 +2183,19 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
         "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "FAINA - LAR DO IDOSO DONA LEONTINA GOBBE CUNHA",
+        "desc": "Ir. Maciel Antônio de Oliveira\nIR. PAULO VINICIOS SALES DE ARAUJO",
+        "date": "2024-11-14T22:00:00.000Z",
+        "end": "2024-11-15T00:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -3028,6 +3041,19 @@
         "updated": "2024-06-11T11:32:08.502Z",
         "gid": "n8v20h6agmuonuharhqf9i2j16",
         "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTYgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Sebastiao Amilto da Silva",
+        "date": "2024-11-14T21:30:00.000Z",
+        "end": "2024-11-15T00:00:00.000Z",
+        "updated": "2024-06-11T11:27:26.572Z",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
