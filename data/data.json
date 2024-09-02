@@ -292,12 +292,12 @@
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "NOVO BRASIL",
-        "desc": "",
+        "desc": "ANC.",
         "date": "2024-11-17T17:00:00.000Z",
-        "end": "2024-11-17T20:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "086cr5q878mor7perapl9fbbdv",
-        "maps": "MDg2Y3I1cTg3OG1vcjdwZXJhcGw5ZmJiZHYgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "end": "2024-11-17T19:00:00.000Z",
+        "updated": "2024-09-02T16:23:43.208Z",
+        "gid": "48f3oa0i3ms9vboe3luqs7m82o_R20241117T170000",
+        "maps": "NDhmM29hMGkzbXM5dmJvZTNsdXFzN204Mm9fUjIwMjQxMTE3VDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -305,12 +305,12 @@
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "NOVO BRASIL",
-        "desc": "PAULO SILVANO SANTOS",
+        "desc": "",
         "date": "2024-11-17T17:00:00.000Z",
-        "end": "2024-11-17T19:00:00.000Z",
+        "end": "2024-11-17T20:00:00.000Z",
         "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "48f3oa0i3ms9vboe3luqs7m82o",
-        "maps": "NDhmM29hMGkzbXM5dmJvZTNsdXFzN204Mm8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "gid": "086cr5q878mor7perapl9fbbdv",
+        "maps": "MDg2Y3I1cTg3OG1vcjdwZXJhcGw5ZmJiZHYgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -350,19 +350,6 @@
         "updated": "2024-03-20T02:34:56.709Z",
         "gid": "7og8diid3e6cu2tepdja81o64q",
         "maps": "N29nOGRpaWQzZTZjdTJ0ZXBkamE4MW82NHEgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "ENSAIOS REGIONAIS",
-        "locale": "NOVO BRASIL",
-        "desc": "",
-        "date": "2024-11-17T12:00:00.000Z",
-        "end": "2024-11-17T15:00:00.000Z",
-        "updated": "2024-03-20T02:35:25.678Z",
-        "gid": "27vfnpjjlu5u5p0kc3mkjrpee6_R20241117T120000",
-        "maps": "Mjd2Zm5wampsdTV1NXAwa2MzbWtqcnBlZTZfUjIwMjQxMTE3VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
