@@ -525,19 +525,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "Reunião Financeira",
-        "date": "2024-09-02T22:00:00.000Z",
-        "end": "2024-09-03T00:00:00.000Z",
-        "updated": "2024-07-29T19:37:09.147Z",
-        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_R20240902T220000",
-        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfUjIwMjQwOTAyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "Faina - Central",
         "desc": "Reunião Financeira (Online)",
         "date": "2024-09-04T22:30:00.000Z",
@@ -3158,6 +3145,19 @@
         "updated": "2024-03-14T17:38:28.398Z",
         "gid": "pbogvkbp73un0qjpu53bo254r3",
         "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Wilson",
+        "date": "2024-11-21T21:30:00.000Z",
+        "end": "2024-11-22T00:00:00.000Z",
+        "updated": "2024-06-11T11:28:07.042Z",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
