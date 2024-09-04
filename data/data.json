@@ -146,6 +146,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "Atendimento Col. Uvá",
+        "locale": "Goiás - Col. de Uvá",
+        "desc": "Dinailton José dos Santos",
+        "date": "2024-11-23T13:00:00.000Z",
+        "end": "2024-11-23T13:30:00.000Z",
+        "updated": "2024-08-30T15:45:53.945Z",
+        "gid": "7nd1891jce7ujcbhapq6sp348f",
+        "maps": "N25kMTg5MWpjZTd1amNiaGFwcTZzcDM0OGYgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
         "locale": "Aruanã - Setor Nova Aruanã",
@@ -966,6 +979,32 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Itaberaí - Central",
+        "desc": "",
+        "date": "2024-11-23T12:00:00.000Z",
+        "end": "2024-11-23T15:00:00.000Z",
+        "updated": "2024-08-01T22:56:33.447Z",
+        "gid": "4srct6h6348pvljt88bbh4e226_R20240824T120000",
+        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Nova Crixás - Central",
+        "desc": "",
+        "date": "2024-11-23T12:00:00.000Z",
+        "end": "2024-11-23T15:00:00.000Z",
+        "updated": "2024-08-01T22:57:55.206Z",
+        "gid": "342ma6boh8rnil5b6rpr5dr255_R20240824T120000",
+        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Nova Crixás - Central",
         "desc": "<b>RMA</b>: Administração Faina<br>Anc: Itamar Menezes, Vagner Garcia, Paulo Silvano.",
@@ -1130,6 +1169,19 @@
         "updated": "2024-07-29T20:11:16.022Z",
         "gid": "dt81j7tuq224f4kjk6e5hhpmq8_R20240910T030000",
         "maps": "ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfUjIwMjQwOTEwVDAzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Atendimento Obra da Piedade\nDiac. Fernando Ferreira de Meneses\nDiac. Adeilson Silva, Adeilson Junior, Salmo Silvestre",
+        "date": "2024-11-23T12:00:00.000Z",
+        "end": "2024-11-23T14:00:00.000Z",
+        "updated": "2024-07-29T19:45:29.678Z",
+        "gid": "qtogargrqep3fs0i4001jhipdg_R20240928T120000",
+        "maps": "cXRvZ2FyZ3JxZXAzZnMwaTQwMDFqaGlwZGdfUjIwMjQwOTI4VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
