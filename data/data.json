@@ -368,6 +368,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "ENSAIOS REGIONAIS",
+        "locale": "NOVA CRIXÁS",
+        "desc": "<b>TESTE DE OFICIALIZAÇÃO</b>",
+        "date": "2024-11-24T12:00:00.000Z",
+        "end": "2024-11-24T14:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "8atgr9pa11ljpss6cur1h6f6asr20241124T120000",
+        "maps": "OGF0Z3I5cGExMWxqcHNzNmN1cjFoNmY2YXNyMjAyNDExMjRUMTIwMDAwIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmFAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ==",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "ORDENAÇÕES",
         "locale": "Jussara - Central",
         "desc": "Ancião Maycon Marques Guerra\nAncião Robson Luiz Batista Gonzaga \nOrdenado por Valdir Batista da Silveira Filho",
@@ -3236,6 +3249,19 @@
         "updated": "2024-03-26T13:54:16.215Z",
         "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
         "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Marcelo Pires",
+        "date": "2024-11-24T12:00:00.000Z",
+        "end": "2024-11-24T15:00:00.000Z",
+        "updated": "2024-06-11T11:29:17.089Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       }
     ]
