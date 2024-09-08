@@ -408,19 +408,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "PARTE MUSICAL",
-        "locale": "Nova Crixás - Central",
-        "desc": "Reunião Assuntos Musicais",
-        "date": "2024-09-08T12:30:00.000Z",
-        "end": "2024-09-08T14:00:00.000Z",
-        "updated": "2024-08-11T01:56:03.789Z",
-        "gid": "fsaj8ourgrdlk3j5k0svt18qbs_R20240512T123000",
-        "maps": "ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfUjIwMjQwNTEyVDEyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "PARTE MUSICAL",
         "locale": "Faina - Central",
         "desc": "Reunião Assuntos Musicais",
         "date": "2024-09-21T13:30:00.000Z",
@@ -1000,19 +987,6 @@
         "updated": "2024-08-01T22:57:55.206Z",
         "gid": "342ma6boh8rnil5b6rpr5dr255_R20240824T120000",
         "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Nova Crixás - Central",
-        "desc": "<b>RMA</b>: Administração Faina<br>Anc: Itamar Menezes, Vagner Garcia, Paulo Silvano.",
-        "date": "2024-09-08T04:00:00.000Z",
-        "end": "2024-09-08T06:00:00.000Z",
-        "updated": "2024-07-29T20:10:38.452Z",
-        "gid": "m4tk4su2vaph2cl3s1b0vtrji8_R20240908T040000",
-        "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfUjIwMjQwOTA4VDA0MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
