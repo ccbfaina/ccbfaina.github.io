@@ -6,19 +6,6 @@
         "list": "LOCALIDADES",
         "title": "Atendimento Col. Uvá",
         "locale": "Goiás - Col. de Uvá",
-        "desc": "Everson",
-        "date": "2024-09-07T22:00:00.000Z",
-        "end": "2024-09-08T00:00:00.000Z",
-        "updated": "2024-08-30T15:42:45.299Z",
-        "gid": "5pe15kqdddoskr3tv6oe8iihoq",
-        "maps": "NXBlMTVrcWRkZG9za3IzdHY2b2U4aWlob3EgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "Atendimento Col. Uvá",
-        "locale": "Goiás - Col. de Uvá",
         "desc": "José Martins",
         "date": "2024-09-14T22:00:00.000Z",
         "end": "2024-09-15T00:00:00.000Z",
@@ -1342,6 +1329,19 @@
       },
       {
         "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "ARUANÃ - CENTRAL",
+        "desc": "ITAMAR FERREIRA DE MENEZES",
+        "date": "2024-11-26T22:00:00.000Z",
+        "end": "2024-11-27T00:00:00.000Z",
+        "updated": "2023-12-26T01:46:58.187Z",
+        "gid": "vhup76bhqufritdi7ai3ml6fbc",
+        "maps": "dmh1cDc2YmhxdWZyaXRkaTdhaTNtbDZmYmMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
         "locale": "GOIÁS - CENTRAL",
@@ -1403,19 +1403,6 @@
         "updated": "2024-02-25T03:02:00.890Z",
         "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
         "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - BUENOLÂNDIA",
-        "desc": "RESP. GILMAR LINO",
-        "date": "2024-09-07T22:30:00.000Z",
-        "end": "2024-09-08T00:00:00.000Z",
-        "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -1728,6 +1715,19 @@
         "updated": "2024-04-16T12:00:44.669Z",
         "gid": "l83ume1okeklj7e9iqnsuandcc",
         "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
+        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
+        "date": "2024-11-26T22:30:00.000Z",
+        "end": "2024-11-27T00:00:00.000Z",
+        "updated": "2024-04-16T11:45:16.650Z",
+        "gid": "boimh9l1fb6vocuke78mn8of4s",
+        "maps": "Ym9pbWg5bDFmYjZ2b2N1a2U3OG1uOG9mNHMgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -2071,14 +2071,14 @@
       {
         "id": 0,
         "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
-        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
-        "date": "2024-09-07T18:30:00.000Z",
-        "end": "2024-09-07T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
+        "date": "2024-11-26T19:00:00.000Z",
+        "end": "2024-11-26T21:00:00.000Z",
+        "updated": "2024-04-23T13:36:19.749Z",
+        "gid": "5fln97908qjka7trpgbg5uu0fa",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -2521,19 +2521,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - COL. DE UVÁ",
-        "desc": "Ir. Sebastião Ferreira da Silva",
-        "date": "2024-09-07T21:30:00.000Z",
-        "end": "2024-09-08T00:00:00.000Z",
-        "updated": "2024-04-08T16:43:56.375Z",
-        "gid": "0o6pck9vdchp5v1ol35to3vada_R20240413T213000",
-        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfUjIwMjQwNDEzVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
