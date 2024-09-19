@@ -524,6 +524,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "Faina - Central",
+        "desc": "<b>Reunião Regional Ministerial (RRM)</b>",
+        "date": "2024-12-08T13:00:00.000Z",
+        "end": "2024-12-08T16:10:00.000Z",
+        "updated": "2024-08-01T16:20:27.596Z",
+        "gid": "36attmogj75jnu3qqdlhfq4g35_R20240811T130000",
+        "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfUjIwMjQwODExVDEzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
         "locale": "Faina - Central",
         "desc": "08h Anciães e diáconos\n08h RA (Reunião administrativa com colaboradores)\n10h RMA (Reunião ministerial administrativa)",
@@ -3210,6 +3223,19 @@
         "updated": "2024-03-26T13:53:01.847Z",
         "gid": "4cv5pdlrit4fif79k8p4uehk9n",
         "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Marcelo Pires",
+        "date": "2024-12-08T12:00:00.000Z",
+        "end": "2024-12-08T15:00:00.000Z",
+        "updated": "2024-06-11T11:29:17.089Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       }
     ]
