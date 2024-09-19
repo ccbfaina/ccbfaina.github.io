@@ -146,6 +146,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "Atendimento Col. Uvá",
+        "locale": "Goiás - Col. de Uvá",
+        "desc": "Everson",
+        "date": "2024-12-07T22:00:00.000Z",
+        "end": "2024-12-08T00:00:00.000Z",
+        "updated": "2024-08-30T15:42:45.299Z",
+        "gid": "5pe15kqdddoskr3tv6oe8iihoq",
+        "maps": "NXBlMTVrcWRkZG9za3IzdHY2b2U4aWlob3EgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
         "locale": "Araguapaz - Central",
@@ -1628,6 +1641,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - BUENOLÂNDIA",
+        "desc": "RESP. GILMAR LINO",
+        "date": "2024-12-07T22:30:00.000Z",
+        "end": "2024-12-08T00:00:00.000Z",
+        "updated": "2024-07-24T17:50:18.934Z",
+        "gid": "179k39951t9pr8q6digrdli542",
+        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
@@ -2318,6 +2344,32 @@
       {
         "id": 0,
         "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "JUSSARA - Lar Beneficiente Bom Jesus",
+        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
+        "date": "2024-12-07T18:30:00.000Z",
+        "end": "2024-12-07T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "0tv71284hi57adkao29mi7g4ee",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWUgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "ITAPIRAPUÃ - ABRIGO VEREADOR HELLENO RODRIGUES PAES",
+        "desc": "IR. JONAS DOMINGUES VIEIRA\nIR. MARILZO HONÓRIO DA SILVA",
+        "date": "2024-12-07T19:00:00.000Z",
+        "end": "2024-12-07T20:30:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
         "title": "CASA DE RECUPERAÇÃO",
         "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
         "desc": "Ir. Hedyone Campos",
@@ -2382,15 +2434,15 @@
       },
       {
         "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - VILA LIONS",
-        "desc": "MARCELO PIRES",
-        "date": "2024-09-18T21:30:00.000Z",
-        "end": "2024-09-19T00:00:00.000Z",
-        "updated": "2024-06-11T11:32:08.502Z",
-        "gid": "n8v20h6agmuonuharhqf9i2j16",
-        "maps": "bjh2MjBoNmFnbXVvbnVoYXJocWY5aTJqMTYgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "list": "DARPE",
+        "title": "CASA DE RECUPERAÇÃO",
+        "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
+        "desc": "Ir. Hedyone Campos",
+        "date": "2024-12-07T18:00:00.000Z",
+        "end": "2024-12-07T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -3145,6 +3197,19 @@
         "updated": "2024-06-11T11:28:07.042Z",
         "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
         "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - COL. DE UVÁ",
+        "desc": "Valdemar",
+        "date": "2024-12-07T21:30:00.000Z",
+        "end": "2024-12-08T00:00:00.000Z",
+        "updated": "2024-03-26T13:53:01.847Z",
+        "gid": "4cv5pdlrit4fif79k8p4uehk9n",
+        "maps": "NGN2NXBkbHJpdDRmaWY3OWs4cDR1ZWhrOW4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
