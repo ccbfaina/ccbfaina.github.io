@@ -1122,6 +1122,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Itaberaí - Vila Progresso",
+        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
+        "date": "2024-12-09T04:00:00.000Z",
+        "end": "2024-12-09T04:30:00.000Z",
+        "updated": "2024-07-29T20:08:20.962Z",
+        "gid": "g4399lkrou132g28aju77bco10_R20240812T040000",
+        "maps": "ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfUjIwMjQwODEyVDA0MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Goiás - Col. de Uvá",
         "desc": "Marco Antônio Queiroz",
