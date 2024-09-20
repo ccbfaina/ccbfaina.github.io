@@ -77,6 +77,12 @@
             "href": "#/lista/ITABERAÍ - ",
             "icon": "img/lista.png",
             "grupo": "LOCALIDADES"
+        },
+        {
+            "title": "Jussara",
+            "href": "#/lista/Jussara - ",
+            "icon": "img/lista.png",
+            "grupo": "LOCALIDADES"
         }
     ]
 }
