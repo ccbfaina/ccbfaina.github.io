@@ -810,6 +810,32 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Financeira\n19h30 RA (Reunião Administrativa com Colaboradores)",
+        "date": "2024-12-09T22:00:00.000Z",
+        "end": "2024-12-09T23:30:00.000Z",
+        "updated": "2024-07-29T19:23:00.410Z",
+        "gid": "4184pudipcmi5016ag2ph1sdso_R20240812T220000",
+        "maps": "NDE4NHB1ZGlwY21pNTAxNmFnMnBoMXNkc29fUjIwMjQwODEyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Itaberaí - Central",
+        "desc": "RA (Reunião Administrativa Com Colaboradores)",
+        "date": "2024-12-09T22:30:00.000Z",
+        "end": "2024-12-10T00:00:00.000Z",
+        "updated": "2024-07-29T19:22:18.704Z",
+        "gid": "5b796u7bouj2qh1c38krcdmsml_R20240812T223000",
+        "maps": "NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfUjIwMjQwODEyVDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "OBRA DA PIEDADE",
         "locale": "Jussara - Central",
         "desc": "",
