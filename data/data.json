@@ -6,19 +6,6 @@
         "list": "LOCALIDADES",
         "title": "Atendimento Col. Uvá",
         "locale": "Goiás - Col. de Uvá",
-        "desc": "Osmar dos Reis",
-        "date": "2024-09-21T22:00:00.000Z",
-        "end": "2024-09-22T00:00:00.000Z",
-        "updated": "2024-08-30T15:43:13.771Z",
-        "gid": "5dknrdjsln963gg2bdgr3gbsk9",
-        "maps": "NWRrbnJkanNsbjk2M2dnMmJkZ3IzZ2JzazkgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "Atendimento Col. Uvá",
-        "locale": "Goiás - Col. de Uvá",
         "desc": "Riele Garcia",
         "date": "2024-09-28T22:00:00.000Z",
         "end": "2024-09-29T00:00:00.000Z",
@@ -382,32 +369,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "PARTE MUSICAL",
-        "locale": "Faina - Central",
-        "desc": "Reunião Assuntos Musicais",
-        "date": "2024-09-21T13:30:00.000Z",
-        "end": "2024-09-21T15:00:00.000Z",
-        "updated": "2024-08-01T16:19:37.876Z",
-        "gid": "tp586rhiv94qa71p8bf74iib2c_R20240518T133000",
-        "maps": "dHA1ODZyaGl2OTRxYTcxcDhiZjc0aWliMmNfUjIwMjQwNTE4VDEzMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "PARTE MUSICAL",
-        "locale": "Regional",
-        "desc": "<b>Aula Técnica<b/> com todos os encarregados regionais, locais e examinadoras.",
-        "date": "2024-09-21T17:00:00.000Z",
-        "end": "2024-09-21T18:30:00.000Z",
-        "updated": "2024-08-12T00:42:09.073Z",
-        "gid": "j57b7q7dmo1t9m95teeh49aoo8",
-        "maps": "ajU3YjdxN2RtbzF0OW05NXRlZWg0OWFvbzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "PARTE MUSICAL",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Assuntos Musicais",
         "date": "2024-11-10T12:30:00.000Z",
@@ -428,19 +389,6 @@
         "updated": "2024-08-01T16:16:14.582Z",
         "gid": "tp586rhiv94qa71p8bf74iib2c_R20240518T133000",
         "maps": "dHA1ODZyaGl2OTRxYTcxcDhiZjc0aWliMmNfUjIwMjQwNTE4VDEzMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES REGIONAIS",
-        "locale": "Faina - Central",
-        "desc": "Reunião Regional Administrativa (RRA)",
-        "date": "2024-09-21T17:00:00.000Z",
-        "end": "2024-09-21T19:00:00.000Z",
-        "updated": "2024-08-01T16:19:39.481Z",
-        "gid": "cqe04tgtoo250ls7uvfbn3q5l0_R20240921T170000",
-        "maps": "Y3FlMDR0Z3RvbzI1MGxzN3V2ZmJuM3E1bDBfUjIwMjQwOTIxVDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -532,19 +480,6 @@
         "updated": "2024-09-20T00:31:22.124Z",
         "gid": "36attmogj75jnu3qqdlhfq4g35_R20240811T130000",
         "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfUjIwMjQwODExVDEzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "Faina - Central",
-        "desc": "DARPE (Departamento de Assistência Religiosa para Evangelização)",
-        "date": "2024-09-21T17:00:00.000Z",
-        "end": "2024-09-21T18:30:00.000Z",
-        "updated": "2024-07-29T19:36:34.576Z",
-        "gid": "kcf8r18p2uueps6cg1crcl5s9c_R20240921T170000",
-        "maps": "a2NmOHIxOHAydXVlcHM2Y2cxY3JjbDVzOWNfUjIwMjQwOTIxVDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -818,19 +753,6 @@
         "updated": "2024-07-29T19:22:18.704Z",
         "gid": "5b796u7bouj2qh1c38krcdmsml_R20240812T223000",
         "maps": "NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfUjIwMjQwODEyVDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "OBRA DA PIEDADE",
-        "locale": "Jussara - Central",
-        "desc": "",
-        "date": "2024-09-21T12:00:00.000Z",
-        "end": "2024-09-21T15:00:00.000Z",
-        "updated": "2024-08-01T22:56:40.830Z",
-        "gid": "lgh422ohg2p9g7rb732j51o93c_R20240817T120000",
-        "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfUjIwMjQwODE3VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -1396,19 +1318,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - BUENOLÂNDIA",
-        "desc": "RESP. GILMAR LINO",
-        "date": "2024-09-21T22:30:00.000Z",
-        "end": "2024-09-22T00:00:00.000Z",
-        "updated": "2024-07-24T17:50:18.934Z",
-        "gid": "179k39951t9pr8q6digrdli542",
-        "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
         "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
         "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
         "date": "2024-09-24T22:30:00.000Z",
@@ -1728,6 +1637,19 @@
         "updated": "2024-07-24T17:50:18.934Z",
         "gid": "179k39951t9pr8q6digrdli542",
         "maps": "MTc5azM5OTUxdDlwcjhxNmRpZ3JkbGk1NDIgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - IR. FRANCISCO & IR. MARIA  - ST. PAPYRUS",
+        "desc": "RUA MARIA DIVINA BOTELHO\nRESP.",
+        "date": "2024-12-10T22:30:00.000Z",
+        "end": "2024-12-11T00:00:00.000Z",
+        "updated": "2024-04-16T11:45:16.650Z",
+        "gid": "boimh9l1fb6vocuke78mn8of4s",
+        "maps": "Ym9pbWg5bDFmYjZ2b2N1a2U3OG1uOG9mNHMgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -2071,14 +1993,14 @@
       {
         "id": 0,
         "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "Jussara - Lar Beneficiente Bom Jesus",
-        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
-        "date": "2024-09-21T18:30:00.000Z",
-        "end": "2024-09-21T20:00:00.000Z",
-        "updated": "2024-09-20T00:27:27.958Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee_R20240921T183000",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfUjIwMjQwOTIxVDE4MzAwMCBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "title": "HOSPITAL",
+        "locale": "GOIÁS - Hospital São Pedro",
+        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
+        "date": "2024-12-10T19:00:00.000Z",
+        "end": "2024-12-10T21:00:00.000Z",
+        "updated": "2024-04-23T13:36:19.749Z",
+        "gid": "5fln97908qjka7trpgbg5uu0fa",
+        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -2521,19 +2443,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - COL. DE UVÁ",
-        "desc": "Benedito",
-        "date": "2024-09-21T21:30:00.000Z",
-        "end": "2024-09-22T00:00:00.000Z",
-        "updated": "2024-03-26T13:54:16.215Z",
-        "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
-        "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
