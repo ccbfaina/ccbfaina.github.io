@@ -823,6 +823,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Faina - Central",
+        "desc": "",
+        "date": "2024-12-14T12:00:00.000Z",
+        "end": "2024-12-14T15:00:00.000Z",
+        "updated": "2024-08-01T22:55:26.758Z",
+        "gid": "05dair5fh112bphao15l4ubpp5_R20240810T120000",
+        "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfUjIwMjQwODEwVDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Nova Crixás - Central",
         "desc": "Atendimento Obra da Piedade\nDiac. Fernando Ferreira de Meneses\nDiac. Adeilson Silva, Adeilson Junior, Salmo Silvestre",
