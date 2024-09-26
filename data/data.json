@@ -433,6 +433,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "Faina - Central",
+        "desc": "Grupo de Estudo Libras (GEL)",
+        "date": "2024-12-15T11:00:00.000Z",
+        "end": "2024-12-15T15:30:00.000Z",
+        "updated": "2024-09-24T15:12:28.175Z",
+        "gid": "6pgmcor4cksm4b9mc9hj2b9k61i36b9pcgs3abb369j3co9i64r32d31c8",
+        "maps": "NnBnbWNvcjRja3NtNGI5bWM5aGoyYjlrNjFpMzZiOXBjZ3MzYWJiMzY5ajNjbzlpNjRyMzJkMzFjOCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
         "locale": "Faina - Central",
         "desc": "Reunião Financeira (Online)",
@@ -3158,6 +3171,19 @@
         "updated": "2024-03-26T13:54:16.215Z",
         "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
         "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Jonathan Lucas",
+        "date": "2024-12-15T12:00:00.000Z",
+        "end": "2024-12-15T15:00:00.000Z",
+        "updated": "2024-03-14T19:43:14.935Z",
+        "gid": "qlaqt1ft5gvb3pjlkknq276ial",
+        "maps": "cWxhcXQxZnQ1Z3ZiM3BqbGtrbnEyNzZpYWwgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
