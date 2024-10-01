@@ -1643,19 +1643,6 @@
         "id": 0,
         "list": "DARPE",
         "title": "HOSPITAL",
-        "locale": "FAINA - HOSPITAL GERAL MATERNO INFANTIL",
-        "desc": "IR. PAULO VINICIOS SALES DE ARAUJO",
-        "date": "2024-09-30T18:00:00.000Z",
-        "end": "2024-09-30T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "40udpbcvmvfek4a9m320cgch2g",
-        "maps": "NDB1ZHBiY3ZtdmZlazRhOW0zMjBjZ2NoMmcgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
         "locale": "GOIÁS - Hospital São Pedro",
         "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
         "date": "2024-10-01T19:00:00.000Z",
@@ -3028,6 +3015,19 @@
         "updated": "2024-03-14T17:38:28.398Z",
         "gid": "pbogvkbp73un0qjpu53bo254r3",
         "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Wilson",
+        "date": "2024-12-19T21:30:00.000Z",
+        "end": "2024-12-20T00:00:00.000Z",
+        "updated": "2024-06-11T11:28:07.042Z",
+        "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
+        "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
