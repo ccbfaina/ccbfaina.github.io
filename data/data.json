@@ -953,6 +953,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Jussara - Central",
+        "desc": "<b>Obra da piedade: </b>Diac. Fernando Meneses, Adeilson Silva, Adeilson Junior, Salmo Silvestre",
+        "date": "2024-12-21T03:00:00.000Z",
+        "end": "2024-12-21T05:00:00.000Z",
+        "updated": "2024-07-29T19:50:31.919Z",
+        "gid": "p958o4v1h0ptq08q5mqnp3lehe",
+        "maps": "cDk1OG80djFoMHB0cTA4cTVtcW5wM2xlaGUgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Araguapaz - Central",
         "desc": "Paulo Silvano Santos",
@@ -1182,19 +1195,6 @@
         "updated": "2024-02-25T03:02:00.890Z",
         "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
         "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "REUNIÃO DE EVANGELIZAÇÃO",
-        "locale": "GOIÁS - IR. SEMIR - TEMPO NOVO",
-        "desc": "PROX. POLICLÍNICA\nRESP.",
-        "date": "2024-10-01T22:30:00.000Z",
-        "end": "2024-10-02T00:00:00.000Z",
-        "updated": "2024-05-28T14:10:59.568Z",
-        "gid": "0ied03g19din9j6a3ad9ttv54u",
-        "maps": "MGllZDAzZzE5ZGluOWo2YTNhZDl0dHY1NHUgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -1637,19 +1637,6 @@
         "updated": "2024-09-02T15:52:42.566Z",
         "gid": "33lu3optrqqesh3ohns5sfsflm_R20240922T220000",
         "maps": "MzNsdTNvcHRycXFlc2gzb2huczVzZnNmbG1fUjIwMjQwOTIyVDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "IR. ARTHOS MORAES\nIR. Osmar Alves Nascimento\nIR. MARCO ANTÔNIO",
-        "date": "2024-10-01T19:00:00.000Z",
-        "end": "2024-10-01T21:00:00.000Z",
-        "updated": "2024-04-23T13:36:19.749Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmEgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
