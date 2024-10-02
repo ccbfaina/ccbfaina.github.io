@@ -356,19 +356,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES REGIONAIS",
-        "locale": "Faina - Central",
-        "desc": "Grupo de Estudo Libras (GEL)",
-        "date": "2024-10-20T10:00:00.000Z",
-        "end": "2024-10-20T15:00:00.000Z",
-        "updated": "2024-10-02T22:24:48.951Z",
-        "gid": "7srpu69p5pl31cbg6q3mskh7mp",
-        "maps": "N3NycHU2OXA1cGwzMWNiZzZxM21za2g3bXAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES REGIONAIS",
         "locale": "Goiânia - Parque Amazônia",
         "desc": "Reunião Estadual do DARPE Goias\n*Convocado todos Darpes do Estado*",
         "date": "2024-10-26T11:00:00.000Z",
@@ -402,19 +389,6 @@
         "updated": "2024-09-20T00:31:22.124Z",
         "gid": "36attmogj75jnu3qqdlhfq4g35_R20240811T130000",
         "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfUjIwMjQwODExVDEzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES REGIONAIS",
-        "locale": "Faina - Central",
-        "desc": "Grupo de Estudo Libras (GEL)",
-        "date": "2024-12-15T10:00:00.000Z",
-        "end": "2024-12-15T15:00:00.000Z",
-        "updated": "2024-10-02T22:24:48.951Z",
-        "gid": "7srpu69p5pl31cbg6q3mskh7mp",
-        "maps": "N3NycHU2OXA1cGwzMWNiZzZxM21za2g3bXAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -1130,19 +1104,6 @@
         "updated": "2024-09-24T15:24:17.907Z",
         "gid": "6dcdfdg6g9cneu6pe38eqlput4",
         "maps": "NmRjZGZkZzZnOWNuZXU2cGUzOGVxbHB1dDQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "",
-        "date": "2024-12-15T22:00:00.000Z",
-        "end": "2024-12-16T00:00:00.000Z",
-        "updated": "2023-12-26T01:46:58.187Z",
-        "gid": "0vt6am7j8agqqj1q146gtkj3vr",
-        "maps": "MHZ0NmFtN2o4YWdxcWoxcTE0Nmd0a2ozdnIgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
