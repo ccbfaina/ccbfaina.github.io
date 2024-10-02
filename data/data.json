@@ -407,6 +407,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "REUNIÕES REGIONAIS",
+        "locale": "Faina - Central",
+        "desc": "Grupo de Estudo Libras (GEL)",
+        "date": "2024-12-21T11:00:00.000Z",
+        "end": "2024-12-21T20:30:00.000Z",
+        "updated": "2024-09-24T15:11:55.946Z",
+        "gid": "71h34cr3ccpj8b9mcli6ab9kcopm8bb26di3ab9k6kom8d3468pjie9o64",
+        "maps": "NzFoMzRjcjNjY3BqOGI5bWNsaTZhYjlrY29wbThiYjI2ZGkzYWI5azZrb204ZDM0NjhwamllOW82NCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
         "locale": "Faina - Central",
         "desc": "Reunião Financeira (Online)",
@@ -792,6 +805,19 @@
         "updated": "2024-08-01T22:55:26.758Z",
         "gid": "05dair5fh112bphao15l4ubpp5_R20240810T120000",
         "maps": "MDVkYWlyNWZoMTEyYnBoYW8xNWw0dWJwcDVfUjIwMjQwODEwVDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Jussara - Central",
+        "desc": "",
+        "date": "2024-12-21T12:00:00.000Z",
+        "end": "2024-12-21T15:00:00.000Z",
+        "updated": "2024-08-01T22:56:40.830Z",
+        "gid": "lgh422ohg2p9g7rb732j51o93c_R20240817T120000",
+        "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfUjIwMjQwODE3VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
