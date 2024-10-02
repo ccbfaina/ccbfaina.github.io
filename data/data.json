@@ -146,6 +146,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "Atendimento Col. Uvá",
+        "locale": "Goiás - Col. de Uvá",
+        "desc": "Osmar dos Reis",
+        "date": "2024-12-21T22:00:00.000Z",
+        "end": "2024-12-22T00:00:00.000Z",
+        "updated": "2024-08-30T15:43:13.771Z",
+        "gid": "5dknrdjsln963gg2bdgr3gbsk9",
+        "maps": "NWRrbnJkanNsbjk2M2dnMmJkZ3IzZ2JzazkgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "Regional",
@@ -2201,6 +2214,32 @@
       {
         "id": 0,
         "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "Jussara - Lar Beneficiente Bom Jesus",
+        "desc": "Ir. Lucélio Rosa dos Santos\nIr. Valter Junior Vieira da Silva",
+        "date": "2024-12-21T18:30:00.000Z",
+        "end": "2024-12-21T20:00:00.000Z",
+        "updated": "2024-09-20T00:27:27.958Z",
+        "gid": "0tv71284hi57adkao29mi7g4ee_R20240921T183000",
+        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfUjIwMjQwOTIxVDE4MzAwMCBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "ITAPIRAPUÃ - ABRIGO VEREADOR HELLENO RODRIGUES PAES",
+        "desc": "IR. JONAS DOMINGUES VIEIRA\nIR. MARILZO HONÓRIO DA SILVA",
+        "date": "2024-12-21T19:00:00.000Z",
+        "end": "2024-12-21T20:30:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "lafva87rmd6qk7nk5fb4jvkbcq",
+        "maps": "bGFmdmE4N3JtZDZxazduazVmYjRqdmtiY3EgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
         "title": "CASA DE RECUPERAÇÃO",
         "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
         "desc": "Ir. Hedyone Campos",
@@ -2258,6 +2297,19 @@
         "desc": "Ir. Hedyone Campos",
         "date": "2024-12-07T18:00:00.000Z",
         "end": "2024-12-07T20:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "dkgs2c3v8aeamfso44ne4428h0",
+        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
+        "title": "CASA DE RECUPERAÇÃO",
+        "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
+        "desc": "Ir. Hedyone Campos",
+        "date": "2024-12-21T18:00:00.000Z",
+        "end": "2024-12-21T20:00:00.000Z",
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
@@ -3041,6 +3093,19 @@
         "updated": "2024-06-11T11:28:07.042Z",
         "gid": "0pbgp8qb1mbf8ap0moqlajoijn",
         "maps": "MHBiZ3A4cWIxbWJmOGFwMG1vcWxham9pam4gYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - COL. DE UVÁ",
+        "desc": "Ir. Sebastião Ferreira da Silva",
+        "date": "2024-12-21T21:30:00.000Z",
+        "end": "2024-12-22T00:00:00.000Z",
+        "updated": "2024-04-08T16:43:56.375Z",
+        "gid": "0o6pck9vdchp5v1ol35to3vada_R20240413T213000",
+        "maps": "MG82cGNrOXZkY2hwNXYxb2wzNXRvM3ZhZGFfUjIwMjQwNDEzVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       }
     ]
