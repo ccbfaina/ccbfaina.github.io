@@ -1641,6 +1641,19 @@
       },
       {
         "id": 0,
+        "list": "RPC",
+        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Resp. História: Hosana\nPedagoga: Mirna\nAuxiliares: Marta, Valber\nTema:",
+        "date": "2024-12-22T22:00:00.000Z",
+        "end": "2024-12-23T00:00:00.000Z",
+        "updated": "2024-09-02T15:52:36.334Z",
+        "gid": "0q99p3pa5hdhko0grm7eoo18ba_R20240929T220000",
+        "maps": "MHE5OXAzcGE1aGRoa28wZ3JtN2VvbzE4YmFfUjIwMjQwOTI5VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "DARPE",
         "title": "HOSPITAL",
         "locale": "GOIÁS - Hospital São Pedro",
@@ -1806,19 +1819,6 @@
         "updated": "2024-04-23T13:35:59.284Z",
         "gid": "4p511c6c41mio6f52ltvlb6j4o",
         "maps": "NHA1MTFjNmM0MW1pbzZmNTJsdHZsYjZqNG8gYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
-        "locale": "FAINA - LAR DO IDOSO DONA LEONTINA GOBBE CUNHA",
-        "desc": "Ir. Maciel Antônio de Oliveira\nIR. PAULO VINICIOS SALES DE ARAUJO",
-        "date": "2024-10-03T22:00:00.000Z",
-        "end": "2024-10-04T00:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "4hpv6vkb9khueiudf2o5s787c4",
-        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -2274,19 +2274,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Sebastiao Amilto da Silva",
-        "date": "2024-10-03T21:30:00.000Z",
-        "end": "2024-10-04T00:00:00.000Z",
-        "updated": "2024-06-11T11:27:26.572Z",
-        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
-        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -3067,6 +3054,19 @@
         "updated": "2024-06-11T11:29:17.089Z",
         "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
         "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Abel",
+        "date": "2024-12-22T21:30:00.000Z",
+        "end": "2024-12-23T00:00:00.000Z",
+        "updated": "2024-03-14T19:44:33.735Z",
+        "gid": "cl049nanq5uc4o7celhug74en0",
+        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
