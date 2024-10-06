@@ -149,19 +149,6 @@
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "Regional",
-        "desc": "Coleta Única: para atendimento da obra da piedade, viagens, manutenção e construções",
-        "date": "2024-10-06T03:00:00.000Z",
-        "end": "2024-10-06T04:30:00.000Z",
-        "updated": "2024-08-11T01:20:58.715Z",
-        "gid": "1hvd98qp0hm119krtp162jijoc",
-        "maps": "MWh2ZDk4cXAwaG0xMTlrcnRwMTYyamlqb2MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Regional",
         "desc": "<b>COMUNICADO A IRMANDADE</b> - ELEIÇÕES – CARGOS POLÍTICOS\n\nQuem exerce cargo ou ministério na Congregação, caso se envolva em política partidária ou se candidate a algum cargo político, perderá a condição de continuar no cargo ou ministério e poderá não mais retornar, ganhando ou perdendo a eleição. Não deverá influenciar a irmandade e nem fazer qualquer pronunciamento ou comentário político nas Congregações. \nQuanto ao compromisso legal, somos livres para cumprir o nosso dever de votar. Todavia, não devemos votar em candidato ou partido que negue a existência de Deus ou seja contrário aos valores e princípios cristãos ou proponham a desconstrução das famílias no modelo instruído na palavra de Deus, isto é, casamento entre homem e mulher. \nNão se deve permitir que candidatos a cargos políticos venham fazer propaganda ou manifestações políticas nas casas de oração.",
         "date": "2024-10-12T03:10:00.000Z",
         "end": "2024-10-12T04:40:00.000Z",
@@ -779,19 +766,6 @@
         "updated": "2024-08-01T22:56:40.830Z",
         "gid": "lgh422ohg2p9g7rb732j51o93c_R20240817T120000",
         "maps": "bGdoNDIyb2hnMnA5ZzdyYjczMmo1MW85M2NfUjIwMjQwODE3VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "<b>RA</b>: ADM Faina<br>Anc. Itamar Menezes<br>Diac. Adeilson, Fernando, Salmo Silvestre, Silva Junior.",
-        "date": "2024-10-06T04:00:00.000Z",
-        "end": "2024-10-06T06:00:00.000Z",
-        "updated": "2024-08-09T23:25:40.934Z",
-        "gid": "ihq8nnugj1mb5kds4eud8tpgmi",
-        "maps": "aWhxOG5udWdqMW1iNWtkczRldWQ4dHBnbWkgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
