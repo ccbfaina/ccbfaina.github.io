@@ -382,19 +382,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "Reunião Financeira",
-        "date": "2024-10-07T22:00:00.000Z",
-        "end": "2024-10-08T00:00:00.000Z",
-        "updated": "2024-07-29T19:37:09.147Z",
-        "gid": "fh15rqprg75ibl0l2vuvgtvtjk_R20240902T220000",
-        "maps": "ZmgxNXJxcHJnNzVpYmwwbDJ2dXZndHZ0amtfUjIwMjQwOTAyVDIyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Financeira\n19h30 RA (Reunião Administrativa com Colaboradores)",
         "date": "2024-10-14T22:00:00.000Z",
@@ -2084,6 +2071,19 @@
       {
         "id": 0,
         "list": "DARPE",
+        "title": "LAR DE IDOSOS",
+        "locale": "FAINA - LAR DO IDOSO DONA LEONTINA GOBBE CUNHA",
+        "desc": "Ir. Maciel Antônio de Oliveira\nIR. PAULO VINICIOS SALES DE ARAUJO",
+        "date": "2024-12-26T22:00:00.000Z",
+        "end": "2024-12-27T00:00:00.000Z",
+        "updated": "2023-12-26T01:48:09.340Z",
+        "gid": "4hpv6vkb9khueiudf2o5s787c4",
+        "maps": "NGhwdjZ2a2I5a2h1ZWl1ZGYybzVzNzg3YzQgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "DARPE",
         "title": "CASA DE RECUPERAÇÃO",
         "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
         "desc": "Ir. Hedyone Campos",
@@ -2924,6 +2924,19 @@
         "updated": "2024-06-11T11:31:54.303Z",
         "gid": "41p7c9m1ltvfvn1a0r7uppmit0_R20240612T213000",
         "maps": "NDFwN2M5bTFsdHZmdm4xYTByN3VwcG1pdDBfUjIwMjQwNjEyVDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - CENTRAL",
+        "desc": "Sebastiao Amilto da Silva",
+        "date": "2024-12-26T21:30:00.000Z",
+        "end": "2024-12-27T00:00:00.000Z",
+        "updated": "2024-06-11T11:27:26.572Z",
+        "gid": "ltri6vvcjfq8dli9ftgoeqqb0h",
+        "maps": "bHRyaTZ2dmNqZnE4ZGxpOWZ0Z29lcXFiMGggYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
