@@ -745,6 +745,32 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Itaberaí - Central",
+        "desc": "",
+        "date": "2024-12-28T12:00:00.000Z",
+        "end": "2024-12-28T15:00:00.000Z",
+        "updated": "2024-08-01T22:56:33.447Z",
+        "gid": "4srct6h6348pvljt88bbh4e226_R20240824T120000",
+        "maps": "NHNyY3Q2aDYzNDhwdmxqdDg4YmJoNGUyMjZfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "OBRA DA PIEDADE",
+        "locale": "Nova Crixás - Central",
+        "desc": "",
+        "date": "2024-12-28T12:00:00.000Z",
+        "end": "2024-12-28T15:00:00.000Z",
+        "updated": "2024-08-01T22:57:55.206Z",
+        "gid": "342ma6boh8rnil5b6rpr5dr255_R20240824T120000",
+        "maps": "MzQybWE2Ym9oOHJuaWw1YjZycHI1ZHIyNTVfUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Itaberaí - Vila Progresso",
         "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
@@ -901,6 +927,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Itaberaí - Central",
+        "desc": "<b>Obra da piedade: </b>Diac. Fernando Meneses, Adeilson Silva, Adeilson Junior, Salmo Silvestre",
+        "date": "2024-12-28T12:00:00.000Z",
+        "end": "2024-12-28T14:00:00.000Z",
+        "updated": "2024-08-01T05:27:34.791Z",
+        "gid": "ctne0em5pllhui63rjkajqj2so_R20240824T120000",
+        "maps": "Y3RuZTBlbTVwbGxodWk2M3Jqa2FqcWoyc29fUjIwMjQwODI0VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Goiás - Vila Lions",
         "desc": "Marco Antônio Queiroz",
@@ -984,7 +1023,7 @@
         "desc": "Marco Antônio Queiroz",
         "date": "2024-12-01T22:00:00.000Z",
         "end": "2024-12-02T00:00:00.000Z",
-        "updated": "2024-09-24T15:24:15.924Z",
+        "updated": "2024-10-09T14:18:45.307Z",
         "gid": "ovfvjs3tcug3hvh5u0cigfi0j8",
         "maps": "b3ZmdmpzM3RjdWczaHZoNXUwY2lnZmkwajggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
