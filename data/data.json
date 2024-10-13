@@ -447,6 +447,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
+        "locale": "Uruana - Central",
+        "desc": "RA (Reunião Administrativa com Colaboradores)",
+        "date": "2024-11-03T17:30:00.000Z",
+        "end": "2024-11-03T18:30:00.000Z",
+        "updated": "2024-10-13T01:17:55.269Z",
+        "gid": "1iogivmi9gr0c89h9vc9c2cm82",
+        "maps": "MWlvZ2l2bWk5Z3IwYzg5aDl2YzljMmNtODIgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
         "locale": "Itaberaí - Vila Progresso",
         "desc": "Reunião Financeira",
         "date": "2024-11-04T22:00:00.000Z",
@@ -571,19 +584,6 @@
         "updated": "2024-07-29T19:36:34.576Z",
         "gid": "kcf8r18p2uueps6cg1crcl5s9c_R20240921T170000",
         "maps": "a2NmOHIxOHAydXVlcHM2Y2cxY3JjbDVzOWNfUjIwMjQwOTIxVDE3MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "Uruana - Central",
-        "desc": "RMA (Reunião Ministerial Administrativa)\n15h RA (Reunião Administrativa com Colaboradores)",
-        "date": "2024-12-01T17:00:00.000Z",
-        "end": "2024-12-01T18:00:00.000Z",
-        "updated": "2024-08-09T23:25:00.064Z",
-        "gid": "4foem4focgd7qb7am6lri562rh",
-        "maps": "NGZvZW00Zm9jZ2Q3cWI3YW02bHJpNTYycmggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -837,6 +837,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Uruana - Central",
+        "desc": "<b>RA</b>: ADM Faina<br>Anc. Itamar Menezes<br>Diac. Adeilson, Fernando, Salmo Silvestre, Silva Junior.",
+        "date": "2024-11-03T04:00:00.000Z",
+        "end": "2024-11-03T06:00:00.000Z",
+        "updated": "2024-10-13T01:18:35.005Z",
+        "gid": "54gia9g5qgcvtovumor763jj00",
+        "maps": "NTRnaWE5ZzVxZ2N2dG92dW1vcjc2M2pqMDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Jussara - Central",
         "desc": "<b>RMA</b>: Adm Faina, Anc. Vagner Garcia",
         "date": "2024-11-09T04:00:00.000Z",
@@ -896,19 +909,6 @@
         "updated": "2024-07-29T19:47:19.069Z",
         "gid": "kmc4misb451rb3svtbu2k10qhg",
         "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "<b>RA</b>: ADM Faina<br>Anc. Itamar Menezes<br>Diac. Adeilson, Fernando, Salmo Silvestre, Silva Junior.",
-        "date": "2024-12-01T04:00:00.000Z",
-        "end": "2024-12-01T06:00:00.000Z",
-        "updated": "2024-08-09T23:25:40.934Z",
-        "gid": "ihq8nnugj1mb5kds4eud8tpgmi",
-        "maps": "aWhxOG5udWdqMW1iNWtkczRldWQ4dHBnbWkgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -981,10 +981,10 @@
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Mozarlândia - Central",
-        "desc": "Rubem da Pinho Belarmino",
+        "desc": "Itamar Ferreira da Menezes",
         "date": "2024-10-20T22:00:00.000Z",
         "end": "2024-10-21T00:00:00.000Z",
-        "updated": "2024-10-12T20:36:40.281Z",
+        "updated": "2024-10-13T01:11:11.792Z",
         "gid": "pqfn9ec3qp2qivpo44h5cnp6g4",
         "maps": "cHFmbjllYzNxcDJxaXZwbzQ0aDVjbnA2ZzQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
