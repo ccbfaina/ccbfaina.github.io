@@ -902,19 +902,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "São José dos Bandeirantes",
-        "desc": "José Pereira Gomes",
-        "date": "2024-10-24T04:00:00.000Z",
-        "end": "2024-10-24T05:30:00.000Z",
-        "updated": "2024-10-13T18:04:28.954Z",
-        "gid": "bn1kfbcqj0eif1jsopl7isv7p0",
-        "maps": "Ym4xa2ZiY3FqMGVpZjFqc29wbDdpc3Y3cDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Itaberaí - Central",
         "desc": "<b>Obra da piedade: </b>Diac. Fernando Meneses, Adeilson Silva, Adeilson Junior, Salmo Silvestre",
         "date": "2024-10-26T12:00:00.000Z",
@@ -975,19 +962,6 @@
         "gid": "m4tk4su2vaph2cl3s1b0vtrji8_R20240908T040000",
         "maps": "bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfUjIwMjQwOTA4VDA0MDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "São José dos Bandeirantes",
-        "desc": "José Pereira Gomes",
-        "date": "2024-11-10T04:00:00.000Z",
-        "end": "2024-11-10T05:30:00.000Z",
-        "updated": "2024-10-13T18:04:29.451Z",
-        "gid": "0piq7kiku3gn1m605tu85b9cf8",
-        "maps": "MHBpcTdraWt1M2duMW02MDV0dTg1YjljZjggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "false"
       },
       {
         "id": 0,
