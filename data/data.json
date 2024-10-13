@@ -1149,6 +1149,19 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
+        "locale": "Novo Brasil - Central",
+        "desc": "Neide da Silva Pereira",
+        "date": "2024-11-24T22:00:00.000Z",
+        "end": "2024-11-24T23:30:00.000Z",
+        "updated": "2024-10-13T11:21:29.066Z",
+        "gid": "ahv0jm6qrjneaoan94nk1pthi4",
+        "maps": "YWh2MGptNnFyam5lYW9hbjk0bmsxcHRoaTQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
         "locale": "São Miguel do Araguaia - Central",
         "desc": "Joildo Liberal Silva",
         "date": "2024-11-24T22:00:00.000Z",
@@ -1169,19 +1182,6 @@
         "updated": "2024-10-09T14:18:45.307Z",
         "gid": "ovfvjs3tcug3hvh5u0cigfi0j8",
         "maps": "b3ZmdmpzM3RjdWczaHZoNXUwY2lnZmkwajggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Novo Brasil - Central",
-        "desc": "Neide da Silva Pereira",
-        "date": "2024-12-01T22:00:00.000Z",
-        "end": "2024-12-02T00:00:00.000Z",
-        "updated": "2024-10-11T20:15:43.356Z",
-        "gid": "fb7muvecls8negq8uep66rdd2j",
-        "maps": "ZmI3bXV2ZWNsczhuZWdxOHVlcDY2cmRkMmogNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
