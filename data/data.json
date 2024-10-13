@@ -277,6 +277,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Matrinchã - Central",
+        "desc": "Eclesiastes Araújo da Sousa",
+        "date": "2024-11-10T22:00:00.000Z",
+        "end": "2024-11-11T00:00:00.000Z",
+        "updated": "2024-10-13T11:23:50.101Z",
+        "gid": "0ah9t6u5j98gopoesudeps43nk",
+        "maps": "MGFoOXQ2dTVqOThnb3BvZXN1ZGVwczQzbmsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "Goiás - Central",
         "desc": "Até o fim da reforma acústica, os cultos de domingo serão transferidos para a Vila Lions, e os cultos de quinta-feira estarão suspensos.",
@@ -364,6 +377,19 @@
         "gid": "tp586rhiv94qa71p8bf74iib2c_R20240518T133000",
         "maps": "dHA1ODZyaGl2OTRxYTcxcDhiZjc0aWliMmNfUjIwMjQwNTE4VDEzMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "PARTE MUSICAL",
+        "locale": "Faina - Central",
+        "desc": "Aula técnica para organistas, instrutores e encarregados regionais e locais",
+        "date": "2024-11-16T17:00:00.000Z",
+        "end": "2024-11-16T19:00:00.000Z",
+        "updated": "2024-10-13T11:26:25.620Z",
+        "gid": "4ol6lf20q2k4mtghhmv8072dkg",
+        "maps": "NG9sNmxmMjBxMms0bXRnaGhtdjgwNzJka2cgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
       },
       {
         "id": 0,
