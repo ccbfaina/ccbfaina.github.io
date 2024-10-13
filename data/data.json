@@ -278,19 +278,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
-        "locale": "Regional",
-        "desc": "Coleta Única: para atendimento da obra da piedade, viagens, manutenção e construções",
-        "date": "2024-10-13T03:00:00.000Z",
-        "end": "2024-10-13T04:30:00.000Z",
-        "updated": "2024-10-11T20:40:42.280Z",
-        "gid": "bdibvcufonjr86ihfb3vbh4qru",
-        "maps": "YmRpYnZjdWZvbmpyODZpaGZiM3ZiaDRxcnUgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
         "locale": "Goiás - Central",
         "desc": "Até o fim da reforma acústica, os cultos de domingo serão transferidos para a Vila Lions, e os cultos de quinta-feira estarão suspensos.",
         "date": "2024-12-01T05:00:00.000Z",
@@ -871,6 +858,19 @@
         "gid": "p958o4v1h0ptq08q5mqnp3lehe",
         "maps": "cDk1OG80djFoMHB0cTA4cTVtcW5wM2xlaGUgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "São José dos Bandeirantes",
+        "desc": "José Pereira Gomes",
+        "date": "2024-10-24T03:00:00.000Z",
+        "end": "2024-10-24T04:30:00.000Z",
+        "updated": "2024-10-13T11:13:06.988Z",
+        "gid": "02dhn840t7mlj78ms97o0fsso4",
+        "maps": "MDJkaG44NDB0N21sajc4bXM5N28wZnNzbzQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
       },
       {
         "id": 0,
