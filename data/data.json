@@ -4,6 +4,32 @@
       {
         "id": 0,
         "list": "LOCALIDADES",
+        "title": "Cozinha Regional Faina",
+        "locale": "Faina - Central",
+        "desc": "RRM - Aruanã",
+        "date": "2024-10-13T09:00:00.000Z",
+        "end": "2024-10-13T11:00:00.000Z",
+        "updated": "2024-10-13T02:39:19.752Z",
+        "gid": "lvq2ghc3ejrgkbhpvtc3pmh0gc",
+        "maps": "bHZxMmdoYzNlanJna2JocHZ0YzNwbWgwZ2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "Cozinha Regional Faina",
+        "locale": "Faina - Central",
+        "desc": "GEL<br>Sábado: <b>Itapirapuã</b><br>Domingo:<b> Faina</b>",
+        "date": "2024-10-19T09:00:00.000Z",
+        "end": "2024-10-19T11:00:00.000Z",
+        "updated": "2024-10-13T03:07:33.913Z",
+        "gid": "898iritme8781vvdoaf3vqf02k",
+        "maps": "ODk4aXJpdG1lODc4MXZ2ZG9hZjN2cWYwMmsgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
         "title": "Atendimento Col. Uvá",
         "locale": "Goiás - Col. de Uvá",
         "desc": "Osmar dos Reis",
@@ -51,6 +77,19 @@
         "updated": "2024-08-30T15:42:55.538Z",
         "gid": "7ovh0vl84n9cjh9nog82hectf4",
         "maps": "N292aDB2bDg0bjljamg5bm9nODJoZWN0ZjQgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "Cozinha Regional Faina",
+        "locale": "Faina - Central",
+        "desc": "RMA - Heitorai",
+        "date": "2024-11-16T09:00:00.000Z",
+        "end": "2024-11-16T11:00:00.000Z",
+        "updated": "2024-10-13T02:45:18.575Z",
+        "gid": "075c0v6ef3luo7cko6rbpsqs00",
+        "maps": "MDc1YzB2NmVmM2x1bzdja282cmJwc3FzMDAgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -108,6 +147,19 @@
       {
         "id": 0,
         "list": "LOCALIDADES",
+        "title": "Cozinha Regional Faina",
+        "locale": "Faina - Central",
+        "desc": "RRM - Mossâmedes",
+        "date": "2024-12-08T09:00:00.000Z",
+        "end": "2024-12-08T11:00:00.000Z",
+        "updated": "2024-10-13T02:40:21.062Z",
+        "gid": "9h99j6fhtmab5mr5uhm783o1ns",
+        "maps": "OWg5OWo2Zmh0bWFiNW1yNXVobTc4M28xbnMgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
         "title": "Atendimento Col. Uvá",
         "locale": "Goiás - Col. de Uvá",
         "desc": "José Martins",
@@ -116,6 +168,19 @@
         "updated": "2024-08-30T15:42:55.538Z",
         "gid": "7ovh0vl84n9cjh9nog82hectf4",
         "maps": "N292aDB2bDg0bjljamg5bm9nODJoZWN0ZjQgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "LOCALIDADES",
+        "title": "Cozinha Regional Faina",
+        "locale": "Faina - Central",
+        "desc": "GEL<br>Sábado: <b>Goiás</b><br>Domingo:<b> Faina</b>",
+        "date": "2024-12-21T09:00:00.000Z",
+        "end": "2024-12-21T11:00:00.000Z",
+        "updated": "2024-10-13T03:10:29.882Z",
+        "gid": "mu3gsra03hc147e7rbdbrchfh4",
+        "maps": "bXUzZ3NyYTAzaGMxNDdlN3JiZGJyY2hmaDQgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
