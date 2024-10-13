@@ -409,19 +409,6 @@
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES REGIONAIS",
         "locale": "Faina - Central",
-        "desc": "8h Anciães e Diáconos <br><b>10h Reunião Regional Ministerial (RRM)</b>",
-        "date": "2024-10-13T13:00:00.000Z",
-        "end": "2024-10-13T16:10:00.000Z",
-        "updated": "2024-09-20T00:31:22.124Z",
-        "gid": "36attmogj75jnu3qqdlhfq4g35_R20240811T130000",
-        "maps": "MzZhdHRtb2dqNzVqbnUzcXFkbGhmcTRnMzVfUjIwMjQwODExVDEzMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES REGIONAIS",
-        "locale": "Faina - Central",
         "desc": "Grupo de Estudo de Libras (GEL)\nSábado: 8h às 17h\nDomingo: 7h30 às 12h",
         "date": "2024-10-19T11:00:00.000Z",
         "end": "2024-10-20T20:30:00.000Z",
@@ -2391,19 +2378,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIAS - CENTRAL",
-        "desc": "Marcelo Pires",
-        "date": "2024-10-13T12:00:00.000Z",
-        "end": "2024-10-13T15:00:00.000Z",
-        "updated": "2024-06-11T11:29:17.089Z",
-        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
-        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
