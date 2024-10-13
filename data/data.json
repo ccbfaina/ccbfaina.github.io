@@ -928,19 +928,6 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "São José dos Bandeirantes",
-        "desc": "José Pereira Gomes",
-        "date": "2024-10-27T03:00:00.000Z",
-        "end": "2024-10-27T05:00:00.000Z",
-        "updated": "2024-10-13T11:30:02.495Z",
-        "gid": "kmc4misb451rb3svtbu2k10qhg",
-        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Uruana - Central",
         "desc": "<b>RA</b>: ADM Faina<br>Anc. Itamar Menezes<br>Diac. Adeilson, Fernando, Salmo Silvestre, Silva Junior.",
         "date": "2024-11-03T04:00:00.000Z",
@@ -961,6 +948,19 @@
         "updated": "2024-07-29T20:13:16.809Z",
         "gid": "0gr10qmma42s51c64uebft89ror20240113T040000_R20240914T040000",
         "maps": "MGdyMTBxbW1hNDJzNTFjNjR1ZWJmdDg5cm9yMjAyNDAxMTNUMDQwMDAwX1IyMDI0MDkxNFQwNDAwMDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "São José dos Bandeirantes",
+        "desc": "José Pereira Gomes",
+        "date": "2024-11-10T03:00:00.000Z",
+        "end": "2024-11-10T05:00:00.000Z",
+        "updated": "2024-10-13T15:35:12.018Z",
+        "gid": "kmc4misb451rb3svtbu2k10qhg",
+        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
@@ -1000,19 +1000,6 @@
         "updated": "2024-07-29T19:45:29.678Z",
         "gid": "qtogargrqep3fs0i4001jhipdg_R20240928T120000",
         "maps": "cXRvZ2FyZ3JxZXAzZnMwaTQwMDFqaGlwZGdfUjIwMjQwOTI4VDEyMDAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "São José dos Bandeirantes",
-        "desc": "José Pereira Gomes",
-        "date": "2024-11-24T03:00:00.000Z",
-        "end": "2024-11-24T05:00:00.000Z",
-        "updated": "2024-10-13T11:30:02.495Z",
-        "gid": "kmc4misb451rb3svtbu2k10qhg",
-        "maps": "a21jNG1pc2I0NTFyYjNzdnRidTJrMTBxaGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
