@@ -343,14 +343,14 @@
         "id": 0,
         "list": "REGIONAL FAINA",
         "title": "ENSAIOS REGIONAIS",
-        "locale": "Faina - Central",
-        "desc": "Anc. Daniel Baptista Martinez <div>Enc. Vinícius </div>",
-        "date": "2024-12-01T17:00:00.000Z",
-        "end": "2024-12-01T19:00:00.000Z",
-        "updated": "2024-10-13T00:38:33.946Z",
-        "gid": "ul92pq6k9uqekp1e0kpno1otn0r20241201T170000",
-        "maps": "dWw5MnBxNms5dXFla3AxZTBrcG5vMW90bjByMjAyNDEyMDFUMTcwMDAwIDQ3Y2FmYzE4ZjI3OTJjNTcxMDgwOWFhZTU3MzA1MmFmOTQwZWQwYjhkNmE2NWRjMjUyN2YyYzAwNjM0NjBjNmFAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ==",
-        "recurring": "true"
+        "locale": "",
+        "desc": " Anc. Daniel Baptista Martinez<div>Enc. Vinícius</div>",
+        "date": "2024-12-01T12:00:00.000Z",
+        "end": "2024-12-01T14:00:00.000Z",
+        "updated": "2024-10-14T01:17:34.853Z",
+        "gid": "iadhsp7gcuvmiutmssllc6ua0o",
+        "maps": "aWFkaHNwN2djdXZtaXV0bXNzbGxjNnVhMG8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
       },
       {
         "id": 0,
@@ -714,6 +714,19 @@
         "updated": "2024-09-24T15:21:04.860Z",
         "gid": "5b796u7bouj2qh1c38krcdmsml_R20240812T223000",
         "maps": "NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfUjIwMjQwODEyVDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Faina - Central",
+        "desc": "Reunião Financeira (Online)",
+        "date": "2025-01-01T22:30:00.000Z",
+        "end": "2025-01-02T00:00:00.000Z",
+        "updated": "2024-07-29T19:26:10.025Z",
+        "gid": "a1tllmf9t9mdcbma3kcvcak5q0_R20240807T223000",
+        "maps": "YTF0bGxtZjl0OW1kY2JtYTNrY3ZjYWs1cTBfUjIwMjQwODA3VDIyMzAwMCA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -1240,19 +1253,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. ARTHOS MORAES VIEIRA",
-        "date": "2024-10-13T20:00:00.000Z",
-        "end": "2024-10-13T22:00:00.000Z",
-        "updated": "2024-02-25T03:02:00.890Z",
-        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
-        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "ENSAIO LOCAL",
         "locale": "MOSSÂMEDES - CENTRAL",
         "desc": "ENC. RESP. ÊNIO",
         "date": "2024-11-03T20:00:00.000Z",
@@ -1598,19 +1598,6 @@
         "updated": "2024-04-16T12:00:44.669Z",
         "gid": "l83ume1okeklj7e9iqnsuandcc",
         "maps": "bDgzdW1lMW9rZWtsajdlOWlxbnN1YW5kY2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "RPC",
-        "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Resp. História: Elizângela\nPedagoga: Mirna\nAuxiliares: Humberto, Marta, Artur\nTema: A porta estreita e a porta larga.",
-        "date": "2024-10-13T22:00:00.000Z",
-        "end": "2024-10-14T00:00:00.000Z",
-        "updated": "2024-09-02T15:52:40.430Z",
-        "gid": "2q9r2gmnj51a1ffa4r5if2gv64_R20240915T220000",
-        "maps": "MnE5cjJnbW5qNTFhMWZmYTRyNWlmMmd2NjRfUjIwMjQwOTE1VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
@@ -2385,32 +2372,6 @@
         "list": "PORTEIROS ",
         "title": "PORTEIRO",
         "locale": "GOIÁS - VILA LIONS",
-        "desc": "Sebastiao Amilto da Silva<br><b>Ensaio Local</b>",
-        "date": "2024-10-13T19:00:00.000Z",
-        "end": "2024-10-13T22:00:00.000Z",
-        "updated": "2024-08-12T03:04:43.454Z",
-        "gid": "5c0qib2gq3ovb0qh4l2omcuspg",
-        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGcgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "Abel",
-        "date": "2024-10-13T21:30:00.000Z",
-        "end": "2024-10-14T00:00:00.000Z",
-        "updated": "2024-03-14T19:44:33.735Z",
-        "gid": "cl049nanq5uc4o7celhug74en0",
-        "maps": "Y2wwNDluYW5xNXVjNG83Y2VsaHVnNzRlbjAgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "PORTEIROS ",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - VILA LIONS",
         "desc": "MARCELO PIRES",
         "date": "2024-10-16T21:30:00.000Z",
         "end": "2024-10-17T00:00:00.000Z",
@@ -3145,6 +3106,19 @@
         "updated": "2024-03-14T19:45:00.239Z",
         "gid": "u5nhmlqj5tupf4i2rm1413gvhi",
         "maps": "dTVuaG1scWo1dHVwZjRpMnJtMTQxM2d2aGkgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIÁS - VILA LIONS",
+        "desc": "Adivair Gonçalves",
+        "date": "2025-01-01T21:30:00.000Z",
+        "end": "2025-01-02T00:00:00.000Z",
+        "updated": "2024-03-14T17:38:28.398Z",
+        "gid": "pbogvkbp73un0qjpu53bo254r3",
+        "maps": "cGJvZ3ZrYnA3M3VuMHFqcHU1M2JvMjU0cjMgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       }
     ]
