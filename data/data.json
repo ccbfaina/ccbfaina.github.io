@@ -1420,6 +1420,19 @@
       },
       {
         "id": 0,
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "GOIÁS - REGIÃO BOM SUCESSO",
+        "desc": "Resp. Adivair Francelino Gonçalves",
+        "date": "2025-01-03T22:30:00.000Z",
+        "end": "2025-01-04T00:00:00.000Z",
+        "updated": "2023-12-27T14:43:58.874Z",
+        "gid": "56sdjgl9vihm0bpbs3tueaep0q",
+        "maps": "NTZzZGpnbDl2aWhtMGJwYnMzdHVlYWVwMHEgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
         "list": "RPC",
         "title": "REUNIÃO PARA CRIANÇAS (RPC)",
         "locale": "GOIÁS - CENTRAL",
@@ -1559,19 +1572,6 @@
         "updated": "2024-09-02T15:52:38.226Z",
         "gid": "26so2l6m3e6g5egbrms2deqlt1_R20241006T220000",
         "maps": "MjZzbzJsNm0zZTZnNWVnYnJtczJkZXFsdDFfUjIwMjQxMDA2VDIyMDAwMCA0NzVlNjI3MzYzOTQ3Mzc5MWIyOGU2OTM5YWJiM2Q1YThjYTA2YmUwZDZhOGRlMjJhNWViMmYyOTQ2NWQ5OGUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "HOSPITAL",
-        "locale": "GOIÁS - Hospital São Pedro",
-        "desc": "Ir. Arthos moraes\nIr. Osmar Alves Nascimento \nIr. Marco Antônio Queiroz",
-        "date": "2024-10-15T19:00:00.000Z",
-        "end": "2024-10-15T21:00:00.000Z",
-        "updated": "2024-10-15T04:09:33.083Z",
-        "gid": "5fln97908qjka7trpgbg5uu0fa_R20241015T190000",
-        "maps": "NWZsbjk3OTA4cWprYTd0cnBnYmc1dXUwZmFfUjIwMjQxMDE1VDE5MDAwMCBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       },
       {
