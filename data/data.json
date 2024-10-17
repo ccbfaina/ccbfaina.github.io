@@ -875,6 +875,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Uruana - Central",
+        "desc": "<b>RA</b>: ADM Faina<br>Anc. Itamar Menezes<br>Diac. Adeilson, Fernando, Salmo Silvestre, Silva Junior.",
+        "date": "2025-01-05T04:00:00.000Z",
+        "end": "2025-01-05T06:00:00.000Z",
+        "updated": "2024-10-13T01:18:35.005Z",
+        "gid": "54gia9g5qgcvtovumor763jj00",
+        "maps": "NTRnaWE5ZzVxZ2N2dG92dW1vcjc2M2pqMDAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Goiás - Vila Lions",
         "desc": "Marco Antônio Queiroz",
@@ -3002,6 +3015,19 @@
         "updated": "2024-03-26T13:54:16.215Z",
         "gid": "7s4e48vk3qjuj87pls8na5qclr_R20240427T213000",
         "maps": "N3M0ZTQ4dmszcWp1ajg3cGxzOG5hNXFjbHJfUjIwMjQwNDI3VDIxMzAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
+        "recurring": "true"
+      },
+      {
+        "id": 0,
+        "list": "PORTEIROS ",
+        "title": "PORTEIRO",
+        "locale": "GOIAS - CENTRAL",
+        "desc": "Marcelo Pires",
+        "date": "2025-01-05T12:00:00.000Z",
+        "end": "2025-01-05T15:00:00.000Z",
+        "updated": "2024-06-11T11:29:17.089Z",
+        "gid": "ttohpn4sngkn7nnedi7ht4a8h6_R20240623T120000",
+        "maps": "dHRvaHBuNHNuZ2tuN25uZWRpN2h0NGE4aDZfUjIwMjQwNjIzVDEyMDAwMCBhN2Y3MDM1ODE2NzU2MWVlY2E5OTRkN2M1OThkOTYzMzcxNzNmNTc2ZTg1ZGU4ZmU1Y2I4NjQ5NGExYzU3OWM1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
         "recurring": "true"
       }
     ]
