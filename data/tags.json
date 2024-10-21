@@ -1,6 +1,14 @@
 {
   "defaultTags": [
     {
+      "href": "#/lista/?pesquisar=*",
+      "title": "Lista Completa",
+      "description": "Lista Completa",
+      "group": "listas",
+      "icon": "",
+      "autoSave": false
+    },
+    {
       "href": "https://listagoiania.ccbgo.org.br/",
       "title": "Regional Goiânia",
       "description": "Lista de Atendimento da regional Faina",
