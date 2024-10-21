@@ -1,1 +1,0 @@
-class i{constructor({href:t="",icon:e="",title:r="",description:s="",group:a=""}={}){this.href=t,this.icon=e,this.title=r,this.description=s,this.group=a,this.validate()}validate(){if(!this.title)throw new Error("T\xEDtulo da tag n\xE3o pode estar vazio.")}static create(t={}){return new i(t)}}export{i as T};

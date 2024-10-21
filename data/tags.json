@@ -19,6 +19,14 @@
   ],
   "suggestionsTags": [
     {
+      "href": "#/lista/?pesquisar=Departamento Acessibilidade GEL",
+      "title": "GEL",
+      "description": "GEL, Grupo de Estudo Libras, DEPAC",
+      "group": "listas",
+      "icon": "",
+      "autoSave": true
+    },
+    {
       "href": "#/lista/GOIAS -",
       "title": "Cidade de Goiás",
       "description": "Lista Cid. Goiás",
