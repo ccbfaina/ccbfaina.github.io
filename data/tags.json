@@ -1,6 +1,22 @@
 {
   "defaultTags": [
     {
+      "href": "#/sobre",
+      "title": "Sobre Nós",
+      "description": "Informações sobre nós.",
+      "group": "pages",
+      "icon": "",
+      "autoSave": true
+    },
+    {
+      "href": "#/depac",
+      "title": "DEPAC",
+      "description": "DEPAC.",
+      "group": "pages",
+      "icon": "",
+      "autoSave": true
+    },
+    {
       "href": "#/lista/?pesquisar=*",
       "title": "Lista Completa",
       "description": "Lista Completa",
