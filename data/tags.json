@@ -1,10 +1,10 @@
 {
   "defaultTags": [
     {
-      "href": "#/sobre",
-      "title": "Sobre Nós",
-      "description": "Informações sobre nós.",
-      "group": "pages",
+      "href": "#/lista/REGIONAL FAINA",
+      "title": "Regional Faina",
+      "description": "Lista de Atendimento da regional Faina",
+      "group": "listas",
       "icon": "",
       "autoSave": true
     },
@@ -14,36 +14,36 @@
       "description": "DEPAC.",
       "group": "pages",
       "icon": "",
-      "autoSave": true
+      "autoSave": false
     },
     {
-      "href": "#/lista/?pesquisar=*",
-      "title": "Lista Completa",
-      "description": "Lista Completa",
-      "group": "listas",
+      "href": "#/sobre",
+      "title": "Sobre Nós",
+      "description": "Informações sobre nós.",
+      "group": "pages",
       "icon": "",
       "autoSave": false
     },
     {
-      "href": "https://listagoiania.ccbgo.org.br/",
-      "title": "Regional Goiânia",
-      "description": "Lista de Atendimento da regional Faina",
-      "group": "listas",
+      "href": "#/outras",
+      "title": "Outras Listas",
+      "description": "Outras Listas de Atendimentos",
+      "group": "pages",
       "icon": "",
-      "autoSave": true
+      "autoSave": false
     },
     {
-      "href": "#/lista/REGIONAL FAINA",
-      "title": "Regional Faina",
-      "description": "Lista de Atendimento da regional Faina",
-      "group": "listas",
+      "href": "/calendar/2025?filters=Lista: REGIONAL FAINA",
+      "title": "Calendário 2025",
+      "description": "Calendário 2025",
+      "group": "pages",
       "icon": "",
-      "autoSave": true
+      "autoSave": false
     }
   ],
   "suggestionsTags": [
     {
-      "href": "#/lista/?pesquisar=Departamento Acessibilidade GEL",
+      "href": "#/lista/?pesquisar=Departamento%20Acessibilidade%20GEL",
       "title": "GEL",
       "description": "GEL, Grupo de Estudo Libras, DEPAC",
       "group": "listas",
