@@ -1,61 +1,50 @@
 {
-  "defaultTags": [
+  "tags": [
     {
       "href": "#/lista/REGIONAL FAINA",
       "title": "Regional Faina",
       "description": "Lista de Atendimento da regional Faina",
-      "group": "listas",
-      "icon": "",
-      "autoSave": true
+      "group": "Lista",
+      "fixed": true
     },
     {
-      "href": "#/depac",
-      "title": "DEPAC",
-      "description": "DEPAC.",
-      "group": "pages",
-      "icon": "",
-      "autoSave": false
-    },
-    {
-      "href": "#/sobre",
-      "title": "Sobre Nós",
-      "description": "Informações sobre nós.",
-      "group": "pages",
-      "icon": "",
-      "autoSave": false
+      "href": "#/calendar/2025?filters=Lista: REGIONAL FAINA",
+      "title": "Calendário Faina 2025",
+      "description": "Calendário Regional Faina 2025",
+      "group": "Página",
+      "fixed": true
     },
     {
       "href": "#/outras",
       "title": "Outras Listas",
       "description": "Outras Listas de Atendimentos",
-      "group": "pages",
-      "icon": "",
-      "autoSave": false
+      "group": "Página",
+      "fixed": true
     },
     {
-      "href": "#/calendar/2025?filters=Lista: REGIONAL FAINA",
-      "title": "Calendário 2025",
-      "description": "Calendário 2025",
-      "group": "pages",
-      "icon": "",
-      "autoSave": false
-    }
-  ],
-  "suggestionsTags": [
+      "href": "#/sobre",
+      "title": "Sobre",
+      "description": "Informações sobre",
+      "group": "Página"
+    },
+    {
+      "href": "#/depac",
+      "title": "DEPAC",
+      "description": "DEPAC",
+      "group": "Página"
+    },
     {
       "href": "#/lista/?pesquisar=Departamento%20Acessibilidade%20GEL",
       "title": "GEL",
       "description": "GEL, Grupo de Estudo Libras, DEPAC",
-      "group": "listas",
-      "icon": "",
+      "group": "Lista",
       "autoSave": true
     },
     {
       "href": "#/lista/GOIAS -",
       "title": "Cidade de Goiás",
       "description": "Lista Cid. Goiás",
-      "group": "listas",
-      "icon": "",
+      "group": "Lista",
       "autoSave": true
     },
     {
@@ -63,7 +52,6 @@
       "title": "Araguapaz",
       "description": "Cidade Araguapaz",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -71,7 +59,6 @@
       "title": "Aruanã",
       "description": "Cidade Aruanã",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -79,7 +66,6 @@
       "title": "Britânia",
       "description": "Cidade Britânia",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -87,7 +73,6 @@
       "title": "Carmo do Rio Verde",
       "description": "Cidade Carmo do Rio Verde",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -95,7 +80,6 @@
       "title": "Faina",
       "description": "Cidade Faina",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -103,7 +87,6 @@
       "title": "Goiânia",
       "description": "Cidade Goiânia",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -111,7 +94,6 @@
       "title": "Guaraíta",
       "description": "Cidade Guaraíta",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -119,7 +101,6 @@
       "title": "Heitoraí",
       "description": "Cidade Heitoraí",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -127,7 +108,6 @@
       "title": "Itaberaí",
       "description": "Cidade Itaberaí",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -135,7 +115,6 @@
       "title": "Itapirapuã",
       "description": "Cidade Itapirapuã",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -143,7 +122,6 @@
       "title": "Itapuranga",
       "description": "Cidade Itapuranga",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -151,7 +129,6 @@
       "title": "Jussara",
       "description": "Cidade Jussara",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -159,7 +136,6 @@
       "title": "Matrinchã",
       "description": "Cidade Matrinchã",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -167,7 +143,6 @@
       "title": "Morro Agudo de Goiás",
       "description": "Cidade Morro Agudo de Goiás",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -175,7 +150,6 @@
       "title": "Mossâmedes",
       "description": "Cidade Mossâmedes",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -183,7 +157,6 @@
       "title": "Mozarlândia",
       "description": "Cidade Mozarlândia",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -191,7 +164,6 @@
       "title": "Mundo Novo",
       "description": "Cidade Mundo Novo",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -199,7 +171,6 @@
       "title": "Nova Crixás",
       "description": "Cidade Nova Crixás",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -207,7 +178,6 @@
       "title": "Novo Brasil",
       "description": "Cidade Novo Brasil",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -215,7 +185,6 @@
       "title": "Santa Fé de Goiás",
       "description": "Cidade Santa Fé de Goiás",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -223,7 +192,6 @@
       "title": "Santa Rita (Itaberaí)",
       "description": "Cidade Santa Rita (Itaberaí)",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -231,7 +199,6 @@
       "title": "São José dos Bandeirantes",
       "description": "Cidade São José dos Bandeirantes",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -239,7 +206,6 @@
       "title": "São Miguel do Araguaia",
       "description": "Cidade São Miguel do Araguaia",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -247,7 +213,6 @@
       "title": "São Patrício",
       "description": "Cidade São Patrício",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -255,7 +220,6 @@
       "title": "Uruana",
       "description": "Cidade Uruana",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -263,7 +227,6 @@
       "title": "Uruíta",
       "description": "Cidade Uruíta",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -271,7 +234,6 @@
       "title": "Americano do Brasil",
       "description": "Cidade Americano do Brasil",
       "group": "Localidade",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -279,7 +241,6 @@
       "title": "BATISMOS",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -287,7 +248,6 @@
       "title": "Avisos à irmandade",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -295,7 +255,6 @@
       "title": "Culto para a mocidade",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -303,7 +262,6 @@
       "title": "Culto para a mocidade com participação da irmandade",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -311,7 +269,6 @@
       "title": "Reuniões para a mocidade",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -319,7 +276,6 @@
       "title": "Ensaios regionais",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -327,7 +283,6 @@
       "title": "ABERTURA DE IGREJA",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -335,7 +290,6 @@
       "title": "Assuntos musicais",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -343,7 +297,6 @@
       "title": "PARTE MUSICAL",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -351,7 +304,6 @@
       "title": "REUNIÕES REGIONAIS",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -359,7 +311,6 @@
       "title": "REUNIÕES DIVERSAS",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -367,7 +318,6 @@
       "title": "CULTO PARA JOVENS",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -375,7 +325,6 @@
       "title": "OBRA DA PIEDADE",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -383,7 +332,6 @@
       "title": "VIAGENS MISSIONÁRIAS",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -391,7 +339,6 @@
       "title": "SANTAS CEIAS",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -399,7 +346,6 @@
       "title": "CULTO ESPECIAL",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -407,7 +353,6 @@
       "title": "ENSAIO COM A IRMANDADE",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -415,7 +360,6 @@
       "title": "ENSAIO LOCAL",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -423,7 +367,6 @@
       "title": "REUNIÃO DE EVANGELIZAÇÃO",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -431,7 +374,6 @@
       "title": "REUNIÃO PARA CRIANÇAS (RPC)",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -439,7 +381,6 @@
       "title": "HOSPITAL",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -447,7 +388,6 @@
       "title": "LAR DE IDOSOS",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -455,7 +395,6 @@
       "title": "CASA DE RECUPERAÇÃO",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -463,7 +402,6 @@
       "title": "ESCOLA",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -471,7 +409,6 @@
       "title": "PORTEIRO",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -479,7 +416,6 @@
       "title": "GRUPO DE ESTUDOS MUSICAIS (GEM)",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -487,7 +423,6 @@
       "title": "Cozinha Regional Faina",
       "description": "",
       "group": "Atendimento",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -495,7 +430,6 @@
       "title": "Ismael Alves Rangel Filho",
       "description": "Lista Ismael Alves Rangel Filho",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -503,7 +437,6 @@
       "title": "Adão Vicente da Santana",
       "description": "Lista Adão Vicente da Santana",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -511,7 +444,6 @@
       "title": "Adeilson José da Silva",
       "description": "Lista Adeilson José da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -519,7 +451,6 @@
       "title": "Adivair Nunes da Costa",
       "description": "Lista Adivair Nunes da Costa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -527,7 +458,6 @@
       "title": "ADM Faina",
       "description": "Lista ADM Faina",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -535,7 +465,6 @@
       "title": "Franciano Ferreira",
       "description": "Lista Franciano Ferreira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -543,7 +472,6 @@
       "title": "Ueder Silvestre Souza",
       "description": "Lista Ueder Silvestre Souza",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -551,7 +479,6 @@
       "title": "Cleidison",
       "description": "Lista Cleidison",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -559,7 +486,6 @@
       "title": "Anciães e Diáconos",
       "description": "Lista Anciães e Diáconos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -567,7 +493,6 @@
       "title": "Antenor José Ferreira",
       "description": "Lista Antenor José Ferreira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -575,7 +500,6 @@
       "title": "Antônio Damasceno Monteiro",
       "description": "Lista Antônio Damasceno Monteiro",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -583,7 +507,6 @@
       "title": "Antônio Modesto da Souza",
       "description": "Lista Antônio Modesto da Souza",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -591,7 +514,6 @@
       "title": "Antônio Otaviano Vieira",
       "description": "Lista Antônio Otaviano Vieira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -599,7 +521,6 @@
       "title": "Arão Boa Vista da Silva",
       "description": "Lista Arão Boa Vista da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -607,7 +528,6 @@
       "title": "Arlindo Barbosa Gomes",
       "description": "Lista Arlindo Barbosa Gomes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -615,7 +535,6 @@
       "title": "Atendimento Obra da Piedade",
       "description": "Lista Atendimento Obra da Piedade",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -623,7 +542,6 @@
       "title": "Cacildo dos Reis da Sá",
       "description": "Lista Cacildo dos Reis da Sá",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -631,7 +549,6 @@
       "title": "Carlos Antônio da Sousa",
       "description": "Lista Carlos Antônio da Sousa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -639,7 +556,6 @@
       "title": "Carlos Antonio Pereira da Silva",
       "description": "Lista Carlos Antonio Pereira da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -647,7 +563,6 @@
       "title": "Daniel Saulo Silva Alves",
       "description": "Lista Daniel Saulo Silva Alves",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -655,7 +570,6 @@
       "title": "Davi dos Santos",
       "description": "Lista Davi dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -663,7 +577,6 @@
       "title": "Dinailton José dos Santos",
       "description": "Lista Dinailton José dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -671,7 +584,6 @@
       "title": "Divino Antônio da Andrade",
       "description": "Lista Divino Antônio da Andrade",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -679,7 +591,6 @@
       "title": "Divino Bento da Oliveira",
       "description": "Lista Divino Bento da Oliveira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -687,7 +598,6 @@
       "title": "Divino Cordeiro da Conceição",
       "description": "Lista Divino Cordeiro da Conceição",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -695,7 +605,6 @@
       "title": "Divino Francisco Lopes",
       "description": "Lista Divino Francisco Lopes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -703,7 +612,6 @@
       "title": "Divino Rodrigues da Silva",
       "description": "Lista Divino Rodrigues da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -711,7 +619,6 @@
       "title": "Divino Silva Rosa",
       "description": "Lista Divino Silva Rosa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -719,7 +626,6 @@
       "title": "Douglas Vieira",
       "description": "Lista Douglas Vieira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -727,7 +633,6 @@
       "title": "Eclesiastes Araújo da Sousa",
       "description": "Lista Eclesiastes Araújo da Sousa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -735,7 +640,6 @@
       "title": "Edgar Alves Filho",
       "description": "Lista Edgar Alves Filho",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -743,7 +647,6 @@
       "title": "Eduardo Barros da Silva",
       "description": "Lista Eduardo Barros da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -751,7 +654,6 @@
       "title": "Elias Vieira",
       "description": "Lista Elias Vieira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -759,7 +661,6 @@
       "title": "Emival Divino Fernandes",
       "description": "Lista Emival Divino Fernandes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -767,7 +668,6 @@
       "title": "Ensaio Local",
       "description": "Lista Ensaio Local",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -775,7 +675,6 @@
       "title": "Eudice Ferraz da Maia",
       "description": "Lista Eudice Ferraz da Maia",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -783,7 +682,6 @@
       "title": "Eurimar Macedo Modesto",
       "description": "Lista Eurimar Macedo Modesto",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -791,7 +689,6 @@
       "title": "Eurípedes Alves Teixeira",
       "description": "Lista Eurípedes Alves Teixeira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -799,7 +696,6 @@
       "title": "Everson Gomes da Lima",
       "description": "Lista Everson Gomes da Lima",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -807,7 +703,6 @@
       "title": "Fabio Junior Neres Jardim",
       "description": "Lista Fabio Junior Neres Jardim",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -815,7 +710,6 @@
       "title": "Fernando Do Carmo Godinho",
       "description": "Lista Fernando Do Carmo Godinho",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -823,7 +717,6 @@
       "title": "Fernando Ferreira da Menezes",
       "description": "Lista Fernando Ferreira da Menezes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -831,7 +724,6 @@
       "title": "Flavio da Costa Matos",
       "description": "Lista Flavio da Costa Matos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -839,7 +731,6 @@
       "title": "Gaspar Soares da Oliveira",
       "description": "Lista Gaspar Soares da Oliveira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -847,7 +738,6 @@
       "title": "Gilmar Aparecido Martins",
       "description": "Lista Gilmar Aparecido Martins",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -855,7 +745,6 @@
       "title": "Hedyone Campos da Silva",
       "description": "Lista Hedyone Campos da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -863,7 +752,6 @@
       "title": "Hélio Machado dos Santos",
       "description": "Lista Hélio Machado dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -871,7 +759,6 @@
       "title": "Hellyel Modesto da Souza",
       "description": "Lista Hellyel Modesto da Souza",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -879,7 +766,6 @@
       "title": "Arthos Moraes",
       "description": "Lista Arthos Moraes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -887,7 +773,6 @@
       "title": "Lucélio Rosa dos Santos",
       "description": "Lista Lucélio Rosa dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -895,7 +780,6 @@
       "title": "Valter Junior Vieira da Silva",
       "description": "Lista Valter Junior Vieira da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -903,7 +787,6 @@
       "title": "Enc. Paulo Vinicius",
       "description": "Lista Enc. Paulo Vinicius",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -911,7 +794,6 @@
       "title": "Irom Alves da Silva",
       "description": "Lista Irom Alves da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -919,7 +801,6 @@
       "title": "Israel Barbosa Euzébio da Silva",
       "description": "Lista Israel Barbosa Euzébio da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -927,7 +808,6 @@
       "title": "Itamar Ferreira da Menezes",
       "description": "Lista Itamar Ferreira da Menezes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -935,7 +815,6 @@
       "title": "Jairo José da Silva",
       "description": "Lista Jairo José da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -943,7 +822,6 @@
       "title": "João Bispo Damasceno Filho",
       "description": "Lista João Bispo Damasceno Filho",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -951,7 +829,6 @@
       "title": "João da Oliveira Rocha",
       "description": "Lista João da Oliveira Rocha",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -959,7 +836,6 @@
       "title": "João Rosa Dias",
       "description": "Lista João Rosa Dias",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -967,7 +843,6 @@
       "title": "João Tavares Bento",
       "description": "Lista João Tavares Bento",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -975,7 +850,6 @@
       "title": "Joce Albino da Silva",
       "description": "Lista Joce Albino da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -983,7 +857,6 @@
       "title": "Joel Mauro Euzébio da Silva",
       "description": "Lista Joel Mauro Euzébio da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -991,7 +864,6 @@
       "title": "Joildo Liberal Silva",
       "description": "Lista Joildo Liberal Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -999,7 +871,6 @@
       "title": "Jorge Fernando da Rocha",
       "description": "Lista Jorge Fernando da Rocha",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1007,7 +878,6 @@
       "title": "José Correia Guimarães",
       "description": "Lista José Correia Guimarães",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1015,7 +885,6 @@
       "title": "José da Paula Fernandes",
       "description": "Lista José da Paula Fernandes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1023,7 +892,6 @@
       "title": "José Luiz Alves",
       "description": "Lista José Luiz Alves",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1031,7 +899,6 @@
       "title": "José Martins da Almeida",
       "description": "Lista José Martins da Almeida",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1039,7 +906,6 @@
       "title": "José Modesto da Souza",
       "description": "Lista José Modesto da Souza",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1047,7 +913,6 @@
       "title": "José Neto da Sousa",
       "description": "Lista José Neto da Sousa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1055,7 +920,6 @@
       "title": "José Pereira Gomes",
       "description": "Lista José Pereira Gomes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1063,7 +927,6 @@
       "title": "José Raimundo dos Santos",
       "description": "Lista José Raimundo dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1071,7 +934,6 @@
       "title": "José Ribeiro Filho",
       "description": "Lista José Ribeiro Filho",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1079,7 +941,6 @@
       "title": "José Valdison da Silva",
       "description": "Lista José Valdison da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1087,7 +948,6 @@
       "title": "Julio Cesar Siqueira da Ávila",
       "description": "Lista Julio Cesar Siqueira da Ávila",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1095,7 +955,6 @@
       "title": "Lázaro Alves Camargo",
       "description": "Lista Lázaro Alves Camargo",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1103,7 +962,6 @@
       "title": "Lázaro Marcelino da Souza",
       "description": "Lista Lázaro Marcelino da Souza",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1111,7 +969,6 @@
       "title": "Leandro Braga da Ávila",
       "description": "Lista Leandro Braga da Ávila",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1119,7 +976,6 @@
       "title": "Luís César Paula Silva",
       "description": "Lista Luís César Paula Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1127,7 +983,6 @@
       "title": "Luiz Antônio Garcia dos Reis",
       "description": "Lista Luiz Antônio Garcia dos Reis",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1135,7 +990,6 @@
       "title": "Luiz Augusto Rabelo Silva",
       "description": "Lista Luiz Augusto Rabelo Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1143,7 +997,6 @@
       "title": "Maciel Antônio da Oliveira",
       "description": "Lista Maciel Antônio da Oliveira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1151,7 +1004,6 @@
       "title": "Macionil Rodrigues da Silva",
       "description": "Lista Macionil Rodrigues da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1159,7 +1011,6 @@
       "title": "Marco Antônio Queiroz",
       "description": "Lista Marco Antônio Queiroz",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1167,7 +1018,6 @@
       "title": "Mauricio Paulo Dias",
       "description": "Lista Mauricio Paulo Dias",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1175,7 +1025,6 @@
       "title": "Mauro Bispo Damaceno",
       "description": "Lista Mauro Bispo Damaceno",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1183,7 +1032,6 @@
       "title": "Maycon Marques Guerra",
       "description": "Lista Maycon Marques Guerra",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1191,7 +1039,6 @@
       "title": "Milton Benjamin Machado",
       "description": "Lista Milton Benjamin Machado",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1199,7 +1046,6 @@
       "title": "Nalberto Carlos Neris",
       "description": "Lista Nalberto Carlos Neris",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1207,7 +1053,6 @@
       "title": "Nazaré Antonio da Silva",
       "description": "Lista Nazaré Antonio da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1215,7 +1060,6 @@
       "title": "Neide da Silva Pereira",
       "description": "Lista Neide da Silva Pereira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1223,7 +1067,6 @@
       "title": "Nelson Pereira Dourado",
       "description": "Lista Nelson Pereira Dourado",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1231,7 +1074,6 @@
       "title": "Nickson Costa e Silva",
       "description": "Lista Nickson Costa e Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1239,7 +1081,6 @@
       "title": "Osmar Bispo Damasceno",
       "description": "Lista Osmar Bispo Damasceno",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1247,7 +1088,6 @@
       "title": "Osvaldo Fonseca Costa",
       "description": "Lista Osvaldo Fonseca Costa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1255,7 +1095,6 @@
       "title": "Osvaldo Pereira Neris",
       "description": "Lista Osvaldo Pereira Neris",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1263,7 +1102,6 @@
       "title": "Paulo Bento Ferreira Camelo",
       "description": "Lista Paulo Bento Ferreira Camelo",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1271,7 +1109,6 @@
       "title": "Paulo Silvano Santos",
       "description": "Lista Paulo Silvano Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1279,7 +1116,6 @@
       "title": "Pedro Maciel da Cerqueira",
       "description": "Lista Pedro Maciel da Cerqueira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1287,7 +1123,6 @@
       "title": "Raimundo Ferreira Pereira",
       "description": "Lista Raimundo Ferreira Pereira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1295,7 +1130,6 @@
       "title": "Região Bom Sucesso",
       "description": "Lista Região Bom Sucesso",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1303,7 +1137,6 @@
       "title": "Região Buenolândia (Barra)",
       "description": "Lista Região Buenolândia (Barra)",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1311,7 +1144,6 @@
       "title": "Região São Carlos",
       "description": "Lista Região São Carlos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1319,7 +1151,6 @@
       "title": "Reis José dos Santos",
       "description": "Lista Reis José dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1327,7 +1158,6 @@
       "title": "Reunião Anciães e Diáconos Região",
       "description": "Lista Reunião Anciães e Diáconos Região",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1335,7 +1165,6 @@
       "title": "Reunião Assuntos Musicais",
       "description": "Lista Reunião Assuntos Musicais",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1343,7 +1172,6 @@
       "title": "Reunião DARPE (Departamento da Assistência Religiosa para Evangelização)",
       "description": "Lista Reunião DARPE (Departamento da Assistência Religiosa para Evangelização)",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1351,7 +1179,6 @@
       "title": "Reunião Financeira",
       "description": "Lista Reunião Financeira",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1359,7 +1186,6 @@
       "title": "Reunião Financeira (Online)",
       "description": "Lista Reunião Financeira (Online)",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1367,7 +1193,6 @@
       "title": "Reunião Preventiva Trimestral",
       "description": "Lista Reunião Preventiva Trimestral",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1375,7 +1200,6 @@
       "title": "RGE - Reunião Geral da Ensinamento",
       "description": "Lista RGE - Reunião Geral da Ensinamento",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1383,7 +1207,6 @@
       "title": "Ricardo Alexandre Dias dos Santos",
       "description": "Lista Ricardo Alexandre Dias dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1391,7 +1214,6 @@
       "title": "Riele Garcia dos Santos",
       "description": "Lista Riele Garcia dos Santos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1399,7 +1221,6 @@
       "title": "Rma (Reunião Ministerial Administrativa)",
       "description": "Lista Rma (Reunião Ministerial Administrativa)",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1407,7 +1228,6 @@
       "title": "Roberto Matos da Costa",
       "description": "Lista Roberto Matos da Costa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1415,7 +1235,6 @@
       "title": "Rogério da Oliveira Marques",
       "description": "Lista Rogério da Oliveira Marques",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1423,7 +1242,6 @@
       "title": "Ronaldo Martins Correa Moraes",
       "description": "Lista Ronaldo Martins Correa Moraes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1431,7 +1249,6 @@
       "title": "Ronaldo Ruas Soares",
       "description": "Lista Ronaldo Ruas Soares",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1439,7 +1256,6 @@
       "title": "Rosalvo Nolasco da Assis",
       "description": "Lista Rosalvo Nolasco da Assis",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1447,7 +1263,6 @@
       "title": "RRM Anciães e Diáconos",
       "description": "Lista RRM Anciães e Diáconos",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1455,7 +1270,6 @@
       "title": "RRM - (Reunião Regional Ministerial)",
       "description": "Lista RRM - (Reunião Regional Ministerial)",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1463,7 +1277,6 @@
       "title": "Rubem da Pinho Belarmino",
       "description": "Lista Rubem da Pinho Belarmino",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1471,7 +1284,6 @@
       "title": "Sebastião Coutinho Dias da Silva",
       "description": "Lista Sebastião Coutinho Dias da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1479,7 +1291,6 @@
       "title": "Sebastião Inácio Teodoro",
       "description": "Lista Sebastião Inácio Teodoro",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1487,7 +1298,6 @@
       "title": "Sebastião Pereira da Lucena",
       "description": "Lista Sebastião Pereira da Lucena",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1495,7 +1305,6 @@
       "title": "Supressão de Culto",
       "description": "Lista Supressão de Culto",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1503,7 +1312,6 @@
       "title": "Vagner Garcia dos Reis",
       "description": "Lista Vagner Garcia dos Reis",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1511,7 +1319,6 @@
       "title": "Valdir Souto da Lima",
       "description": "Lista Valdir Souto da Lima",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1519,7 +1326,6 @@
       "title": "Valdisney Aparecido Pires da Souza",
       "description": "Lista Valdisney Aparecido Pires da Souza",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1527,7 +1333,6 @@
       "title": "Valdomiro Leandro dos Santos Junior Cardoso",
       "description": "Lista Valdomiro Leandro dos Santos Junior Cardoso",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1535,7 +1340,6 @@
       "title": "Valdomiro Vieira da Silva",
       "description": "Lista Valdomiro Vieira da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1543,7 +1347,6 @@
       "title": "Vicente Francisco da Paulo",
       "description": "Lista Vicente Francisco da Paulo",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1551,7 +1354,6 @@
       "title": "Waldino Ferreira Tavares",
       "description": "Lista Waldino Ferreira Tavares",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1559,7 +1361,6 @@
       "title": "Walter Borges Costa",
       "description": "Lista Walter Borges Costa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1567,7 +1368,6 @@
       "title": "Wander Souza Porfirio",
       "description": "Lista Wander Souza Porfirio",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1575,7 +1375,6 @@
       "title": "Wellington Mateus da Silva",
       "description": "Lista Wellington Mateus da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1583,7 +1382,6 @@
       "title": "Welton Marques da Silva",
       "description": "Lista Welton Marques da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1591,7 +1389,6 @@
       "title": "Wilton da Silva Costa",
       "description": "Lista Wilton da Silva Costa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1599,7 +1396,6 @@
       "title": "Wueriston Oliveira Cabral Santana",
       "description": "Lista Wueriston Oliveira Cabral Santana",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1607,7 +1403,6 @@
       "title": "Assembleia Geral Ordinária",
       "description": "Lista Assembleia Geral Ordinária",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1615,7 +1410,6 @@
       "title": "On-Line",
       "description": "Lista On-Line",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1623,7 +1417,6 @@
       "title": "Edvaldo Cesar da Silva",
       "description": "Lista Edvaldo Cesar da Silva",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1631,7 +1424,6 @@
       "title": "Márcio Prado de Menezes",
       "description": "Lista Márcio Prado de Menezes",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1639,7 +1431,6 @@
       "title": "João Onésimo Bueno Neto",
       "description": "Lista João Onésimo Bueno Neto",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1647,7 +1438,6 @@
       "title": "Demilson Costa",
       "description": "Lista Demilson Costa",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1655,7 +1445,6 @@
       "title": "Robson Luiz Batista Gonzaga",
       "description": "Lista Robson Luiz Batista Gonzaga",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1663,7 +1452,6 @@
       "title": "Rubem de Pinho Belarmino",
       "description": "Lista Rubem de Pinho Belarmino",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     },
     {
@@ -1671,8 +1459,9 @@
       "title": "Exame de oficialização",
       "description": "Lista Exame de oficialização",
       "group": "Descrições",
-      "icon": "",
       "autoSave": true
     }
-  ]
+  ],
+  "defaultTags": [],
+  "suggestionsTags": []
 }
