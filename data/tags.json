@@ -15,6 +15,13 @@
       "fixed": true
     },
     {
+      "href": "#/hinos",
+      "title": "Hinos",
+      "description": "Hinos de Louvores a Deus",
+      "group": "Página",
+      "fixed": true
+    },
+    {
       "href": "#/outras",
       "title": "Outras Listas",
       "description": "Outras Listas de Atendimentos",
@@ -797,14 +804,14 @@
       "autoSave": true
     },
     {
-      "href": "#/lista/?pesquisar=Israel Barbosa Euzébio da Silva",
+      "href": "#/lista/?pesquisar=Israel Barbosa Euzébio",
       "title": "Israel Barbosa Euzébio da Silva",
       "description": "Lista Israel Barbosa Euzébio da Silva",
       "group": "Descrições",
       "autoSave": true
     },
     {
-      "href": "#/lista/?pesquisar=Itamar Ferreira da Menezes",
+      "href": "#/lista/?pesquisar=Itamar Menezes",
       "title": "Itamar Ferreira da Menezes",
       "description": "Lista Itamar Ferreira da Menezes",
       "group": "Descrições",
@@ -1308,7 +1315,7 @@
       "autoSave": true
     },
     {
-      "href": "#/lista/?pesquisar=Vagner Garcia dos Reis",
+      "href": "#/lista/?pesquisar=Vagner Garcia",
       "title": "Vagner Garcia dos Reis",
       "description": "Lista Vagner Garcia dos Reis",
       "group": "Descrições",
