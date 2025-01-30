@@ -38,16 +38,16 @@
      id="title2">arte-512x512</title>
   <style
      id="style4">
-		tspan { white-space:pre } 
-		.s0 { fill: #dddddd } 
-		.t1 { font-size: 200px;fill: #000000;font-weight: 400;font-family: &quot;DejaVuSans&quot;, &quot;DejaVu Sans&quot; } 
+		tspan { white-space:pre }
+		.s0 { fill: #dddddd }
+		.t1 { font-size: 200px;fill: #000000;font-weight: 400;font-family: &quot;DejaVuSans&quot;, &quot;DejaVu Sans&quot; }
 	</style>
   <path
      id="Forma 1"
      class="s0"
      d="m0 0h512v512h-512z" />
   <text
-     id="CCB"
+     id="AGENDA"
      x="49.212967"
      y="179.33542"
      style="font-size:11.8px;stroke-width:0.983338"><tspan
@@ -55,15 +55,15 @@
        y="328.80267"
        class="t1"
        id="tspan7"
-       style="stroke-width:0.983338">C</tspan><tspan
+       style="stroke-width:0.983338">A</tspan><tspan
        y="328.80267"
        class="t1"
        id="tspan9"
-       style="stroke-width:0.983338">C</tspan><tspan
+       style="stroke-width:0.983338">G</tspan><tspan
        y="328.80267"
        class="t1"
        id="tspan11"
-       style="stroke-width:0.983338">B
+       style="stroke-width:0.983338">E
 </tspan></text>
   <metadata
      id="metadata46">
