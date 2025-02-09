@@ -240,6 +240,20 @@
         "recurring": "0e1io5evt95o60cgao1ss5kmne"
       },
       {
+        "id": "92a4k1458cp1a5dh02h1ahbbdg",
+        "list": "REGIONAL FAINA",
+        "title": "AGO",
+        "locale": "Faina - Central",
+        "desc": "",
+        "date": "2025-03-23T22:00:00.000Z",
+        "end": "2025-03-24T00:00:00.000Z",
+        "updated": "2025-02-09T12:26:34.389Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=OTJhNGsxNDU4Y3AxYTVkaDAyaDFhaGJiZGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
         "id": "p8oq3f1ca1osemft51sqr1hhhs_20250327T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
