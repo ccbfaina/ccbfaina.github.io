@@ -1000,10 +1000,10 @@
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
         "locale": "Goiás - Central",
-        "desc": "<br>",
+        "desc": "Vagner Garcia dos Reis",
         "date": "2025-03-16T22:00:00.000Z",
         "end": "2025-03-17T00:00:00.000Z",
-        "updated": "2025-02-09T12:32:25.244Z",
+        "updated": "2025-02-09T12:49:13.709Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=a2VyaW5uNTJtNG1kY2FnNGI0M2hlMmtpcHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
@@ -1049,6 +1049,20 @@
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=cTBibDJjNzQzcmRsdWM4dWx2MjVqazIzcG8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "qjhj4f8i8ohnlmpif1mtup0s88",
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Itaberaí - Central",
+        "desc": "Israel Barbosa Euzébio da Silva",
+        "date": "2025-03-30T22:00:00.000Z",
+        "end": "2025-03-31T00:00:00.000Z",
+        "updated": "2025-02-09T13:01:52.099Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=cWpoajRmOGk4b2hubG1waWYxbXR1cDBzODggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
