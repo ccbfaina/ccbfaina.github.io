@@ -1080,14 +1080,28 @@
         "recurring": ""
       },
       {
+        "id": "4js9q8nfm4m68g8akvikpoc5h6",
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Regional Faina",
+        "desc": "<b>Coleta Única</b>: para atendimento da obra da piedade, viagens, manutenção e construções",
+        "date": "2025-04-05T08:00:00.000Z",
+        "end": "2025-04-05T10:00:00.000Z",
+        "updated": "2025-02-19T12:24:21.293Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Regional%20Faina",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGpzOXE4bmZtNG02OGc4YWt2aWtwb2M1aDYgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
         "id": "8b2jnkk930d5pa8pilhfp6ek2g",
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
         "locale": "Faina - Central",
-        "desc": "<div><b>Alteração dos dias de cultos</b>: <span style=\"letter-spacing: 0.1px;\">terça, sexta e domingo</span><br></div>",
+        "desc": "<div><b>Alteração dos dias de cultos</b>: <span style=\"letter-spacing: 0.1px;\">terça, sexta e domingo às 19h</span><br></div>",
         "date": "2025-04-06T08:00:00.000Z",
         "end": "2025-04-06T10:00:00.000Z",
-        "updated": "2025-02-09T15:42:38.249Z",
+        "updated": "2025-02-19T12:23:48.723Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=OGIyam5razkzMGQ1cGE4cGlsaGZwNmVrMmcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
@@ -1105,20 +1119,6 @@
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Jeroaquara%20(Santa%20Rita)",
         "htmlLink": "https://www.google.com/calendar/event?eid=Zm5uNDBsMXZicDdiZDVqZnNpcTRiN3JtazggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
-        "id": "4js9q8nfm4m68g8akvikpoc5h6",
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Regional Faina",
-        "desc": "<b>Coleta Única</b>: para atendimento da obra da piedade, viagens, manutenção e construções",
-        "date": "2025-04-06T08:00:00.000Z",
-        "end": "2025-04-06T10:00:00.000Z",
-        "updated": "2025-02-09T13:16:16.571Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Regional%20Faina",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGpzOXE4bmZtNG02OGc4YWt2aWtwb2M1aDYgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
@@ -3362,6 +3362,20 @@
         "recurring": "iargevm8bbflhf5meie6nfm4tg"
       },
       {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20250227T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2025-02-27T20:00:00.000Z",
+        "end": "2025-02-27T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNTAyMjdUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
+      },
+      {
         "id": "10b48gkfipic919lmgtqgmr5j4_20250227T200000Z",
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
@@ -3824,6 +3838,20 @@
         "recurring": "nkacipe5o0cs3ah8nn609njn0k"
       },
       {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20250522T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2025-05-22T20:00:00.000Z",
+        "end": "2025-05-22T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNTA1MjJUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
+      },
+      {
         "id": "fh15rqprg75ibl0l2vuvgtvtjk_20250602T220000Z",
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
@@ -4172,6 +4200,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfMjAyNTA4MTFUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "5b796u7bouj2qh1c38krcdmsml_R20240812T223000"
+      },
+      {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20250828T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2025-08-28T20:00:00.000Z",
+        "end": "2025-08-28T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNTA4MjhUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
       },
       {
         "id": "cpoesol2o65h1od403f127vqfc_20250829T220000Z",
@@ -4636,6 +4678,20 @@
         "recurring": "nkacipe5o0cs3ah8nn609njn0k"
       },
       {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20251127T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2025-11-27T20:00:00.000Z",
+        "end": "2025-11-27T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNTExMjdUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
+      },
+      {
         "id": "fh15rqprg75ibl0l2vuvgtvtjk_20251201T220000Z",
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
@@ -4970,6 +5026,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Online%20-%20Br%C3%A1s",
         "htmlLink": "https://www.google.com/calendar/event?eid=NTFlNml2cG5uOHVtbHZrbG5lcjdrY2JqZDRfMjAyNjAyMTRUMTEzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "51e6ivpnn8umlvklner7kcbjd4"
+      },
+      {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20260226T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2026-02-26T20:00:00.000Z",
+        "end": "2026-02-26T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNjAyMjZUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
       },
       {
         "id": "10b48gkfipic919lmgtqgmr5j4_20260226T200000Z",
@@ -5434,6 +5504,20 @@
         "recurring": "nkacipe5o0cs3ah8nn609njn0k"
       },
       {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20260528T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2026-05-28T20:00:00.000Z",
+        "end": "2026-05-28T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNjA1MjhUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
+      },
+      {
         "id": "fh15rqprg75ibl0l2vuvgtvtjk_20260601T220000Z",
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
@@ -5782,6 +5866,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NWI3OTZ1N2JvdWoycWgxYzM4a3JjZG1zbWxfMjAyNjA4MTBUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "5b796u7bouj2qh1c38krcdmsml_R20240812T223000"
+      },
+      {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20260827T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2026-08-27T20:00:00.000Z",
+        "end": "2026-08-27T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNjA4MjdUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
       },
       {
         "id": "cpoesol2o65h1od403f127vqfc_20260828T220000Z",
@@ -6244,6 +6342,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação S%C3%A3o%20Paulo%20-%20SP",
         "htmlLink": "https://www.google.com/calendar/event?eid=bmthY2lwZTVvMGNzM2FoOG5uNjA5bmpuMGtfMjAyNjExMjZUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "nkacipe5o0cs3ah8nn609njn0k"
+      },
+      {
+        "id": "209f6mu1th4fftif1vp8iqc6v9_20261126T200000Z",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "",
+        "desc": "DEPAC - REUNIÃO TRIMESTRAL\nOnline à partir do Brás: Área Restrita Congregação",
+        "date": "2026-11-26T20:00:00.000Z",
+        "end": "2026-11-26T23:00:00.000Z",
+        "updated": "2025-02-18T19:41:29.227Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação ",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA5ZjZtdTF0aDRmZnRpZjF2cDhpcWM2djlfMjAyNjExMjZUMjAwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "209f6mu1th4fftif1vp8iqc6v9"
       },
       {
         "id": "a1tllmf9t9mdcbma3kcvcak5q0_20261202T223000Z",
