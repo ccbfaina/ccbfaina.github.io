@@ -160,14 +160,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Itaberaí",
+        "desc": "RMA - <b>Itaberaí</b>",
         "date": "2025-03-15T09:00:00.000Z",
         "end": "2025-03-15T11:00:00.000Z",
-        "updated": "2024-10-13T02:43:13.650Z",
+        "updated": "2025-03-17T22:48:30.013Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NXVsaDlraHNwaXZmNWRrbjRucjBydDJzbThfMjAyNTAzMTVUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8"
+        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8_R20250315T090000"
       },
       {
         "id": "rsi1cjs7cjt41b1hg0g6nt5j0g_20250316T223000Z",
@@ -300,14 +300,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Uruana",
+        "desc": "RMA - <b>Uruana</b>",
         "date": "2025-05-17T09:00:00.000Z",
         "end": "2025-05-17T11:00:00.000Z",
-        "updated": "2024-10-13T02:43:50.792Z",
+        "updated": "2025-03-17T22:48:17.330Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NTE1NzNuanZldWwzZG5xa2dwbHIwNWdicWtfMjAyNTA1MTdUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "51573njveul3dnqkgplr05gbqk"
+        "recurring": "51573njveul3dnqkgplr05gbqk_R20250517T090000"
       },
       {
         "id": "5r5m96rserlj6g4o5br98pp05t_20250524T090000Z",
@@ -328,10 +328,10 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RRM - Cid. <span>Goiás</span>",
+        "desc": "RRM - <b>Cid. <span>Goiás</span></b>",
         "date": "2025-06-21T09:00:00.000Z",
         "end": "2025-06-21T11:00:00.000Z",
-        "updated": "2025-02-10T16:52:13.476Z",
+        "updated": "2025-03-17T22:48:39.628Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=bWdjdmpnOGN0MnRhY25uNWV2NzJiYXRhdXFfMjAyNTA2MjFUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
@@ -356,14 +356,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Araguapaz",
+        "desc": "RMA - <b>Araguapaz</b>",
         "date": "2025-07-19T09:00:00.000Z",
         "end": "2025-07-19T11:00:00.000Z",
-        "updated": "2024-10-13T02:44:42.086Z",
+        "updated": "2025-03-17T22:47:57.168Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=aWMzb203amp1a3NlNmNpY20xOWhnOTNpanNfMjAyNTA3MTlUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "ic3om7jjukse6cicm19hg93ijs"
+        "recurring": "ic3om7jjukse6cicm19hg93ijs_R20250719T090000"
       },
       {
         "id": "ar75bt2cjbgphdeb4qt09froio_20250816T090000Z",
@@ -398,14 +398,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Itaberaí",
+        "desc": "RMA - <b>Itaberaí</b>",
         "date": "2025-09-20T09:00:00.000Z",
         "end": "2025-09-20T11:00:00.000Z",
-        "updated": "2024-10-13T02:43:13.650Z",
+        "updated": "2025-03-17T22:48:30.013Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NXVsaDlraHNwaXZmNWRrbjRucjBydDJzbThfMjAyNTA5MjBUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8"
+        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8_R20250315T090000"
       },
       {
         "id": "e8nac9rd7hnhgfcrndpgaan80c_20250921T090000Z",
@@ -566,14 +566,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Itaberaí",
+        "desc": "RMA - <b>Itaberaí</b>",
         "date": "2026-03-21T09:00:00.000Z",
         "end": "2026-03-21T11:00:00.000Z",
-        "updated": "2024-10-13T02:43:13.650Z",
+        "updated": "2025-03-17T22:48:30.013Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NXVsaDlraHNwaXZmNWRrbjRucjBydDJzbThfMjAyNjAzMjFUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8"
+        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8_R20250315T090000"
       },
       {
         "id": "d3lp0mmaq0mb27ulr45i95ef60_20260328T090000Z",
@@ -622,14 +622,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Uruana",
+        "desc": "RMA - <b>Uruana</b>",
         "date": "2026-05-16T09:00:00.000Z",
         "end": "2026-05-16T11:00:00.000Z",
-        "updated": "2024-10-13T02:43:50.792Z",
+        "updated": "2025-03-17T22:48:17.330Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NTE1NzNuanZldWwzZG5xa2dwbHIwNWdicWtfMjAyNjA1MTZUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "51573njveul3dnqkgplr05gbqk"
+        "recurring": "51573njveul3dnqkgplr05gbqk_R20250517T090000"
       },
       {
         "id": "0e1io5evt95o60cgao1ss5kmne_20260523T090000Z",
@@ -650,10 +650,10 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RRM - Cid. <span>Goiás</span>",
+        "desc": "RRM - <b>Cid. <span>Goiás</span></b>",
         "date": "2026-06-20T09:00:00.000Z",
         "end": "2026-06-20T11:00:00.000Z",
-        "updated": "2025-02-10T16:52:13.476Z",
+        "updated": "2025-03-17T22:48:39.628Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=bWdjdmpnOGN0MnRhY25uNWV2NzJiYXRhdXFfMjAyNjA2MjBUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
@@ -678,14 +678,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Araguapaz",
+        "desc": "RMA - <b>Araguapaz</b>",
         "date": "2026-07-18T09:00:00.000Z",
         "end": "2026-07-18T11:00:00.000Z",
-        "updated": "2024-10-13T02:44:42.086Z",
+        "updated": "2025-03-17T22:47:57.168Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=aWMzb203amp1a3NlNmNpY20xOWhnOTNpanNfMjAyNjA3MThUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "ic3om7jjukse6cicm19hg93ijs"
+        "recurring": "ic3om7jjukse6cicm19hg93ijs_R20250719T090000"
       },
       {
         "id": "5r5m96rserlj6g4o5br98pp05t_20260725T090000Z",
@@ -734,14 +734,14 @@
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "RMA - Itaberaí",
+        "desc": "RMA - <b>Itaberaí</b>",
         "date": "2026-09-19T09:00:00.000Z",
         "end": "2026-09-19T11:00:00.000Z",
-        "updated": "2024-10-13T02:43:13.650Z",
+        "updated": "2025-03-17T22:48:30.013Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NXVsaDlraHNwaXZmNWRrbjRucjBydDJzbThfMjAyNjA5MTlUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8"
+        "recurring": "5ulh9khspivf5dkn4nr0rt2sm8_R20250315T090000"
       },
       {
         "id": "e8nac9rd7hnhgfcrndpgaan80c_20260920T090000Z",
