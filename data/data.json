@@ -191,7 +191,7 @@
         "desc": "GEL<br>Sábado: <b>Jussara </b>(a confirmar)<br>Domingo:<b> Faina</b>",
         "date": "2025-03-22T09:00:00.000Z",
         "end": "2025-03-22T11:00:00.000Z",
-        "updated": "2025-03-17T23:57:40.280Z",
+        "updated": "2025-03-17T23:59:15.832Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MGUxaW81ZXZ0OTVvNjBjZ2FvMXNzNWttbmVfMjAyNTAzMjJUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
@@ -464,18 +464,18 @@
         "recurring": "qpgjianc0k8g3pfc5hts9jgobp"
       },
       {
-        "id": "0e1io5evt95o60cgao1ss5kmne_20251025T090000Z",
+        "id": "ki5coa5ehfjn6c55mdan9dps28_20251025T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
         "locale": "Faina - Central",
-        "desc": "GEL<br>Sábado: <b>Jussara </b>(a confirmar)<br>Domingo:<b> Faina</b>",
+        "desc": "GEL<br>Sábado: <b>Itaberaí</b><br>Domingo:<b> Faina</b>",
         "date": "2025-10-25T09:00:00.000Z",
         "end": "2025-10-25T11:00:00.000Z",
-        "updated": "2025-03-17T23:57:40.280Z",
+        "updated": "2025-03-17T23:59:22.480Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGUxaW81ZXZ0OTVvNjBjZ2FvMXNzNWttbmVfMjAyNTEwMjVUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "0e1io5evt95o60cgao1ss5kmne"
+        "htmlLink": "https://www.google.com/calendar/event?eid=a2k1Y29hNWVoZmpuNmM1NW1kYW45ZHBzMjhfMjAyNTEwMjVUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "ki5coa5ehfjn6c55mdan9dps28"
       },
       {
         "id": "075c0v6ef3luo7cko6rbpsqs00_20251115T090000Z",
@@ -639,11 +639,25 @@
         "desc": "GEL<br>Sábado: <b>Jussara </b>(a confirmar)<br>Domingo:<b> Faina</b>",
         "date": "2026-05-23T09:00:00.000Z",
         "end": "2026-05-23T11:00:00.000Z",
-        "updated": "2025-03-17T23:57:40.280Z",
+        "updated": "2025-03-17T23:59:15.832Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MGUxaW81ZXZ0OTVvNjBjZ2FvMXNzNWttbmVfMjAyNjA1MjNUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "0e1io5evt95o60cgao1ss5kmne"
+      },
+      {
+        "id": "ki5coa5ehfjn6c55mdan9dps28_20260523T090000Z",
+        "list": "LOCALIDADES",
+        "title": "Cozinha Regional Faina",
+        "locale": "Faina - Central",
+        "desc": "GEL<br>Sábado: <b>Itaberaí</b><br>Domingo:<b> Faina</b>",
+        "date": "2026-05-23T09:00:00.000Z",
+        "end": "2026-05-23T11:00:00.000Z",
+        "updated": "2025-03-17T23:59:22.480Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=a2k1Y29hNWVoZmpuNmM1NW1kYW45ZHBzMjhfMjAyNjA1MjNUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "ki5coa5ehfjn6c55mdan9dps28"
       },
       {
         "id": "mgcvjg8ct2tacnn5ev72batauq_20260620T090000Z",
@@ -812,6 +826,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=YTJ1dDYzYzlmM2c5M3VwdDc5bTI5bjgxdWtfMjAyNjEyMTlUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "a2ut63c9f3g93upt79m29n81uk"
+      },
+      {
+        "id": "ki5coa5ehfjn6c55mdan9dps28_20261226T090000Z",
+        "list": "LOCALIDADES",
+        "title": "Cozinha Regional Faina",
+        "locale": "Faina - Central",
+        "desc": "GEL<br>Sábado: <b>Itaberaí</b><br>Domingo:<b> Faina</b>",
+        "date": "2026-12-26T09:00:00.000Z",
+        "end": "2026-12-26T11:00:00.000Z",
+        "updated": "2025-03-17T23:59:22.480Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=a2k1Y29hNWVoZmpuNmM1NW1kYW45ZHBzMjhfMjAyNjEyMjZUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "ki5coa5ehfjn6c55mdan9dps28"
       },
       {
         "id": "m4fvfe41aq6qp7m6nt5cka14j8",
