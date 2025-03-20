@@ -10208,20 +10208,6 @@
         "recurring": "fd8s078bpm0hlv7bo2kk02qkil"
       },
       {
-        "id": "0kbrhs941k1n5s5e2nu6vnkq7j_20250525T220000Z",
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Britânia - Centro",
-        "desc": "Ismael Alves Rangel Filho",
-        "date": "2025-05-25T22:00:00.000Z",
-        "end": "2025-05-26T00:00:00.000Z",
-        "updated": "2024-12-08T11:10:11.653Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Centro",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGticmhzOTQxazFuNXM1ZTJudTZ2bmtxN2pfMjAyNTA1MjVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "0kbrhs941k1n5s5e2nu6vnkq7j"
-      },
-      {
         "id": "udd0qffmvc46fcjq8vkm2i684s_20250525T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
@@ -10234,6 +10220,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Olho%20D'%C3%A1gua%20de%20S%C3%A3o%20Benedito",
         "htmlLink": "https://www.google.com/calendar/event?eid=dWRkMHFmZm12YzQ2ZmNqcTh2a20yaTY4NHNfMjAyNTA1MjVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "udd0qffmvc46fcjq8vkm2i684s_R20250525T220000"
+      },
+      {
+        "id": "0kbrhs941k1n5s5e2nu6vnkq7j_20250531T220000Z",
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "Britânia - Centro",
+        "desc": "Ismael Alves Rangel Filho",
+        "date": "2025-05-31T22:00:00.000Z",
+        "end": "2025-06-01T00:00:00.000Z",
+        "updated": "2025-03-20T12:49:20.551Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Centro",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGticmhzOTQxazFuNXM1ZTJudTZ2bmtxN2pfMjAyNTA1MzFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "0kbrhs941k1n5s5e2nu6vnkq7j"
       },
       {
         "id": "6cgudl5017lt4h8837t66tplu2_20250531T220000Z",
@@ -10365,13 +10365,13 @@
         "id": "qf0fss6onf1v2hmd8tpacmtgnk_20250629T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "Britânia - Central",
+        "locale": "Britânia - Vila Goiás (Central)",
         "desc": "Ismael Alves Rangel Filho",
         "date": "2025-06-29T22:00:00.000Z",
         "end": "2025-06-30T00:00:00.000Z",
-        "updated": "2024-12-08T11:07:55.188Z",
+        "updated": "2025-03-20T12:50:03.558Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Central",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Vila%20Goi%C3%A1s%20(Central)",
         "htmlLink": "https://www.google.com/calendar/event?eid=cWYwZnNzNm9uZjF2MmhtZDh0cGFjbXRnbmtfMjAyNTA2MjlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "qf0fss6onf1v2hmd8tpacmtgnk"
       },
@@ -11048,6 +11048,20 @@
         "recurring": "udd0qffmvc46fcjq8vkm2i684s_R20250525T220000"
       },
       {
+        "id": "0kbrhs941k1n5s5e2nu6vnkq7j_20260530T220000Z",
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "Britânia - Centro",
+        "desc": "Ismael Alves Rangel Filho",
+        "date": "2026-05-30T22:00:00.000Z",
+        "end": "2026-05-31T00:00:00.000Z",
+        "updated": "2025-03-20T12:49:20.551Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Centro",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGticmhzOTQxazFuNXM1ZTJudTZ2bmtxN2pfMjAyNjA1MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "0kbrhs941k1n5s5e2nu6vnkq7j"
+      },
+      {
         "id": "6cgudl5017lt4h8837t66tplu2_20260530T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
@@ -11060,20 +11074,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Assentamento%20Florestan%20Fernandes",
         "htmlLink": "https://www.google.com/calendar/event?eid=NmNndWRsNTAxN2x0NGg4ODM3dDY2dHBsdTJfMjAyNjA1MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "6cgudl5017lt4h8837t66tplu2"
-      },
-      {
-        "id": "0kbrhs941k1n5s5e2nu6vnkq7j_20260531T220000Z",
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Britânia - Centro",
-        "desc": "Ismael Alves Rangel Filho",
-        "date": "2026-05-31T22:00:00.000Z",
-        "end": "2026-06-01T00:00:00.000Z",
-        "updated": "2024-12-08T11:10:11.653Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Centro",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGticmhzOTQxazFuNXM1ZTJudTZ2bmtxN2pfMjAyNjA1MzFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "0kbrhs941k1n5s5e2nu6vnkq7j"
       },
       {
         "id": "keltn9m7e0qs50rl5un4dm9pnk_20260606T220000Z",
@@ -11191,13 +11191,13 @@
         "id": "qf0fss6onf1v2hmd8tpacmtgnk_20260628T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
-        "locale": "Britânia - Central",
+        "locale": "Britânia - Vila Goiás (Central)",
         "desc": "Ismael Alves Rangel Filho",
         "date": "2026-06-28T22:00:00.000Z",
         "end": "2026-06-29T00:00:00.000Z",
-        "updated": "2024-12-08T11:07:55.188Z",
+        "updated": "2025-03-20T12:50:03.558Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Central",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Brit%C3%A2nia%20-%20Vila%20Goi%C3%A1s%20(Central)",
         "htmlLink": "https://www.google.com/calendar/event?eid=cWYwZnNzNm9uZjF2MmhtZDh0cGFjbXRnbmtfMjAyNjA2MjhUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "qf0fss6onf1v2hmd8tpacmtgnk"
       },
