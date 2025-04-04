@@ -8276,17 +8276,17 @@
         "recurring": ""
       },
       {
-        "id": "k6o3e6r9ie36ts78kdhs1b2tds",
-        "list": "",
+        "id": "jjv8i1pvpjfi9ag4h727n0l0qk",
+        "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Jussara - Central",
-        "desc": "<b>DEPAC</b>: Vagner Garcia, Marco Antônio",
-        "date": "2025-05-10T04:00:00.000Z",
-        "end": "2025-05-10T06:00:00.000Z",
-        "updated": "2025-04-04T16:24:18.895Z",
+        "locale": "Nova Crixás - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">DEPAC</b><span style=\"letter-spacing: 0.1px;\">: Vagner Garcia, Marco Antônio</span>",
+        "date": "2025-05-11T04:00:00.000Z",
+        "end": "2025-05-11T06:00:00.000Z",
+        "updated": "2025-04-04T16:24:57.857Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=azZvM2U2cjlpZTM2dHM3OGtkaHMxYjJ0ZHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=amp2OGkxcHZwamZpOWFnNGg3MjduMGwwcWsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
@@ -8302,6 +8302,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=bTR0azRzdTJ2YXBoMmNsM3MxYjB2dHJqaThfMjAyNTA1MTFUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "m4tk4su2vaph2cl3s1b0vtrji8_R20250112T040000"
+      },
+      {
+        "id": "jjv8i1pvpjfi9ag4h727n0l0qk",
+        "list": "",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">DEPAC</b><span style=\"letter-spacing: 0.1px;\">: Vagner Garcia, Marco Antônio</span>",
+        "date": "2025-05-11T04:00:00.000Z",
+        "end": "2025-05-11T06:00:00.000Z",
+        "updated": "2025-04-04T16:24:57.857Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=amp2OGkxcHZwamZpOWFnNGg3MjduMGwwcWsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
       },
       {
         "id": "dt81j7tuq224f4kjk6e5hhpmq8_20250513T030000Z",
