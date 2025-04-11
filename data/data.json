@@ -8255,7 +8255,7 @@
         "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
         "date": "2025-02-10T04:00:00.000Z",
         "end": "2025-02-10T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "updated": "2025-04-11T12:19:03.906Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNTAyMTBUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -8386,20 +8386,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=czdxNmJ2b2k4M201bXVnZnFra3J2cnMwcnRfMjAyNTAzMjJUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "s7q6bvoi83m5mugfqkkrvrs0rt"
-      },
-      {
-        "id": "g4399lkrou132g28aju77bco10_20250414T040000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2025-04-14T04:00:00.000Z",
-        "end": "2025-04-14T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNTA0MTRUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20250419T030000Z",
@@ -8556,18 +8542,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20250609T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20250610T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2025-06-09T04:00:00.000Z",
-        "end": "2025-06-09T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2025-06-10T22:30:00.000Z",
+        "end": "2025-06-11T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNTA2MDlUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNTA2MTBUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20250621T030000Z",
@@ -8696,18 +8682,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20250811T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20250812T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2025-08-11T04:00:00.000Z",
-        "end": "2025-08-11T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2025-08-12T22:30:00.000Z",
+        "end": "2025-08-13T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNTA4MTFUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNTA4MTJUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20250816T030000Z",
@@ -8836,18 +8822,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20251013T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20251014T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2025-10-13T04:00:00.000Z",
-        "end": "2025-10-13T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2025-10-14T22:30:00.000Z",
+        "end": "2025-10-15T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNTEwMTNUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNTEwMTRUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20251018T030000Z",
@@ -8976,18 +8962,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20251208T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20251209T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2025-12-08T04:00:00.000Z",
-        "end": "2025-12-08T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2025-12-09T22:30:00.000Z",
+        "end": "2025-12-10T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNTEyMDhUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNTEyMDlUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20251220T030000Z",
@@ -9116,18 +9102,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20260209T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20260210T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2026-02-09T04:00:00.000Z",
-        "end": "2026-02-09T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2026-02-10T22:30:00.000Z",
+        "end": "2026-02-11T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNjAyMDlUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNjAyMTBUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20260221T030000Z",
@@ -9256,18 +9242,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20260413T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20260414T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2026-04-13T04:00:00.000Z",
-        "end": "2026-04-13T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2026-04-14T22:30:00.000Z",
+        "end": "2026-04-15T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNjA0MTNUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNjA0MTRUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20260418T030000Z",
@@ -9396,18 +9382,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20260608T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20260609T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2026-06-08T04:00:00.000Z",
-        "end": "2026-06-08T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2026-06-09T22:30:00.000Z",
+        "end": "2026-06-10T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNjA2MDhUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNjA2MDlUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20260620T030000Z",
@@ -9522,18 +9508,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20260810T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20260811T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2026-08-10T04:00:00.000Z",
-        "end": "2026-08-10T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2026-08-11T22:30:00.000Z",
+        "end": "2026-08-12T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNjA4MTBUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNjA4MTFUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20260815T030000Z",
@@ -9634,18 +9620,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20261012T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20261013T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2026-10-12T04:00:00.000Z",
-        "end": "2026-10-12T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2026-10-13T22:30:00.000Z",
+        "end": "2026-10-14T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNjEwMTJUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNjEwMTNUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20261017T030000Z",
@@ -9746,18 +9732,18 @@
         "recurring": "kmc4misb451rb3svtbu2k10qhg"
       },
       {
-        "id": "g4399lkrou132g28aju77bco10_20261214T040000Z",
+        "id": "nl4k72r83aukj3gaug27upergo_20261208T223000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Itaberaí - Vila Progresso",
-        "desc": "<b>RA</b>: Anc. Vagner Garcia, Diácono: Salmo Silvestre",
-        "date": "2026-12-14T04:00:00.000Z",
-        "end": "2026-12-14T04:30:00.000Z",
-        "updated": "2024-09-24T15:21:01.657Z",
+        "locale": "Itaberaí - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">RA</b><span style=\"letter-spacing: 0.1px;\">: Anc. Vagner Garcia, Diácono: Salmo Silvestre</span>",
+        "date": "2026-12-08T22:30:00.000Z",
+        "end": "2026-12-09T00:00:00.000Z",
+        "updated": "2025-04-11T12:21:31.507Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZzQzOTlsa3JvdTEzMmcyOGFqdTc3YmNvMTBfMjAyNjEyMTRUMDQwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "g4399lkrou132g28aju77bco10_R20240812T040000"
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmw0azcycjgzYXVrajNnYXVnMjd1cGVyZ29fMjAyNjEyMDhUMjIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "nl4k72r83aukj3gaug27upergo"
       },
       {
         "id": "p958o4v1h0ptq08q5mqnp3lehe_20261219T030000Z",
