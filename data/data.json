@@ -1164,20 +1164,6 @@
         "recurring": ""
       },
       {
-        "id": "flmgco0o46nb9dnul4vvegjfrc",
-        "list": "",
-        "title": "BATISMOS",
-        "locale": "Mozarlândia - Central",
-        "desc": "Ismael Alves Rangel Filho",
-        "date": "2025-05-04T22:00:00.000Z",
-        "end": "2025-05-05T00:00:00.000Z",
-        "updated": "2025-04-16T15:23:21.557Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mozarl%C3%A2ndia%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZmxtZ2NvMG80Nm5iOWRudWw0dnZlZ2pmcmMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
         "id": "lbglqnlljqdeiq6kbj9h221rgk",
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
@@ -13008,6 +12994,20 @@
         "recurring": ""
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250416T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-04-16T22:00:00.000Z",
+        "end": "2025-04-17T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA0MTZUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250420T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13062,6 +13062,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTA0MjdUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250430T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-04-30T22:00:00.000Z",
+        "end": "2025-05-01T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA0MzBUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20250502T223000Z",
@@ -13120,6 +13134,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250514T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-05-14T22:00:00.000Z",
+        "end": "2025-05-15T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA1MTRUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250518T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13174,6 +13202,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTA1MjVUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250528T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-05-28T22:00:00.000Z",
+        "end": "2025-05-29T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA1MjhUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250601T180000Z",
@@ -13232,6 +13274,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250611T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-06-11T22:00:00.000Z",
+        "end": "2025-06-12T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA2MTFUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250615T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13272,6 +13328,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTA2MjJUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250625T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-06-25T22:00:00.000Z",
+        "end": "2025-06-26T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA2MjVUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20250629T170000Z",
@@ -13344,6 +13414,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250709T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-07-09T22:00:00.000Z",
+        "end": "2025-07-10T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA3MDlUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250713T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13384,6 +13468,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTA3MjBUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250723T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-07-23T22:00:00.000Z",
+        "end": "2025-07-24T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA3MjNUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20250727T170000Z",
@@ -13456,6 +13554,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250806T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-08-06T22:00:00.000Z",
+        "end": "2025-08-07T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA4MDZUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250810T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13496,6 +13608,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTA4MTdUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250820T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-08-20T22:00:00.000Z",
+        "end": "2025-08-21T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA4MjBUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250824T180000Z",
@@ -13554,6 +13680,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250903T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-09-03T22:00:00.000Z",
+        "end": "2025-09-04T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA5MDNUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20250905T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13608,6 +13748,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTA5MTRUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20250917T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-09-17T22:00:00.000Z",
+        "end": "2025-09-18T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTA5MTdUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20250921T180000Z",
@@ -13666,6 +13820,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20251001T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-10-01T22:00:00.000Z",
+        "end": "2025-10-02T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTEwMDFUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20251003T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13720,6 +13888,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTEwMTJUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20251015T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-10-15T22:00:00.000Z",
+        "end": "2025-10-16T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTEwMTVUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20251019T180000Z",
@@ -13778,6 +13960,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20251029T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-10-29T22:00:00.000Z",
+        "end": "2025-10-30T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTEwMjlUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20251102T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13834,6 +14030,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20251112T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-11-12T22:00:00.000Z",
+        "end": "2025-11-13T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTExMTJUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20251116T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13874,6 +14084,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTExMjNUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20251126T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-11-26T22:00:00.000Z",
+        "end": "2025-11-27T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTExMjZUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20251130T170000Z",
@@ -13946,6 +14170,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20251210T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-12-10T22:00:00.000Z",
+        "end": "2025-12-11T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTEyMTBUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20251214T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -13986,6 +14224,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNTEyMjFUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20251224T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2025-12-24T22:00:00.000Z",
+        "end": "2025-12-25T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNTEyMjRUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20251228T170000Z",
@@ -14058,6 +14310,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260107T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-01-07T22:00:00.000Z",
+        "end": "2026-01-08T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjAxMDdUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260111T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14098,6 +14364,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjAxMThUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260121T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-01-21T22:00:00.000Z",
+        "end": "2026-01-22T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjAxMjFUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20260125T170000Z",
@@ -14156,6 +14436,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260204T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-02-04T22:00:00.000Z",
+        "end": "2026-02-05T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjAyMDRUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20260206T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14210,6 +14504,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjAyMTVUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260218T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-02-18T22:00:00.000Z",
+        "end": "2026-02-19T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjAyMThUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20260222T170000Z",
@@ -14268,6 +14576,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260304T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-03-04T22:00:00.000Z",
+        "end": "2026-03-05T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjAzMDRUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20260306T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14322,6 +14644,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjAzMTVUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260318T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-03-18T22:00:00.000Z",
+        "end": "2026-03-19T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjAzMThUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260322T180000Z",
@@ -14380,6 +14716,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260401T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-04-01T22:00:00.000Z",
+        "end": "2026-04-02T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA0MDFUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20260403T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14434,6 +14784,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjA0MTJUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260415T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-04-15T22:00:00.000Z",
+        "end": "2026-04-16T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA0MTVUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260419T180000Z",
@@ -14492,6 +14856,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260429T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-04-29T22:00:00.000Z",
+        "end": "2026-04-30T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA0MjlUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20260501T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14548,6 +14926,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260513T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-05-13T22:00:00.000Z",
+        "end": "2026-05-14T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA1MTNUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260517T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14588,6 +14980,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjA1MjRUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260527T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-05-27T22:00:00.000Z",
+        "end": "2026-05-28T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA1MjdUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20260531T170000Z",
@@ -14660,6 +15066,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260610T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-06-10T22:00:00.000Z",
+        "end": "2026-06-11T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA2MTBUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260614T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14700,6 +15120,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjA2MjFUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260624T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-06-24T22:00:00.000Z",
+        "end": "2026-06-25T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA2MjRUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20260628T170000Z",
@@ -14772,6 +15206,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260708T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-07-08T22:00:00.000Z",
+        "end": "2026-07-09T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA3MDhUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260712T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14812,6 +15260,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjA3MTlUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260722T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-07-22T22:00:00.000Z",
+        "end": "2026-07-23T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA3MjJUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20260726T170000Z",
@@ -14870,6 +15332,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260805T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-08-05T22:00:00.000Z",
+        "end": "2026-08-06T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA4MDVUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20260807T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -14924,6 +15400,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjA4MTZUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260819T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-08-19T22:00:00.000Z",
+        "end": "2026-08-20T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA4MTlUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260823T180000Z",
@@ -14982,6 +15472,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260902T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-09-02T22:00:00.000Z",
+        "end": "2026-09-03T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA5MDJUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20260904T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -15036,6 +15540,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjA5MTNUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260916T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-09-16T22:00:00.000Z",
+        "end": "2026-09-17T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA5MTZUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20260920T180000Z",
@@ -15094,6 +15612,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20260930T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-09-30T22:00:00.000Z",
+        "end": "2026-10-01T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjA5MzBUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "56sdjgl9vihm0bpbs3tueaep0q_20261002T223000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -15148,6 +15680,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjEwMTFUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20261014T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-10-14T22:00:00.000Z",
+        "end": "2026-10-15T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjEwMTRUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "skd52jb5cohvpl8diraqqqkhit_20261018T180000Z",
@@ -15206,6 +15752,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20261028T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-10-28T22:00:00.000Z",
+        "end": "2026-10-29T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjEwMjhUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20261101T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -15262,6 +15822,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20261111T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-11-11T22:00:00.000Z",
+        "end": "2026-11-12T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjExMTFUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20261115T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -15302,6 +15876,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjExMjJUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20261125T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-11-25T22:00:00.000Z",
+        "end": "2026-11-26T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjExMjVUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20261129T170000Z",
@@ -15374,6 +15962,20 @@
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
       },
       {
+        "id": "25ri3hp808ptiodo0j43j90dic_20261209T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-12-09T22:00:00.000Z",
+        "end": "2026-12-10T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjEyMDlUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
+      },
+      {
         "id": "skd52jb5cohvpl8diraqqqkhit_20261213T180000Z",
         "list": "LOCALIDADES",
         "title": "REUNIÃO DE EVANGELIZAÇÃO",
@@ -15414,6 +16016,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Goi%C3%A1s%20-%20Buenol%C3%A2ndia",
         "htmlLink": "https://www.google.com/calendar/event?eid=c2tkNTJqYjVjb2h2cGw4ZGlyYXFxcWtoaXRfMjAyNjEyMjBUMTgwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "skd52jb5cohvpl8diraqqqkhit"
+      },
+      {
+        "id": "25ri3hp808ptiodo0j43j90dic_20261223T220000Z",
+        "list": "LOCALIDADES",
+        "title": "REUNIÃO DE EVANGELIZAÇÃO",
+        "locale": "Itaberaí - Lobeira",
+        "desc": "Resp. ",
+        "date": "2026-12-23T22:00:00.000Z",
+        "end": "2026-12-24T00:00:00.000Z",
+        "updated": "2025-04-16T15:47:53.582Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Lobeira",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjVyaTNocDgwOHB0aW9kbzBqNDNqOTBkaWNfMjAyNjEyMjNUMjIwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "25ri3hp808ptiodo0j43j90dic"
       },
       {
         "id": "l83ume1okeklj7e9iqnsuandcc_20261227T170000Z",
