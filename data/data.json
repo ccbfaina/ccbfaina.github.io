@@ -324,20 +324,6 @@
         "recurring": ""
       },
       {
-        "id": "qf8q7pse6q3qbfpio0qb4h9v2k",
-        "list": "",
-        "title": "Reunião de Conselhos para a Mocidade (RCM)",
-        "locale": "Faina - Central",
-        "desc": "Com Conselhos doutrinários e de valores pessoais",
-        "date": "2025-05-01T12:00:00.000Z",
-        "end": "2025-05-01T14:00:00.000Z",
-        "updated": "2025-04-19T18:19:47.554Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cWY4cTdwc2U2cTNxYmZwaW8wcWI0aDl2MmsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
         "id": "bgd0jfcjjl5uq4odv9d705h2go",
         "list": "REGIONAL FAINA",
         "title": "Reunião de Conselhos para a Mocidade (RCM)",
@@ -349,6 +335,34 @@
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=YmdkMGpmY2pqbDV1cTRvZHY5ZDcwNWgyZ28gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "nb9t9in56d1frfvghi462qds1s",
+        "list": "REGIONAL FAINA",
+        "title": "Reunião de Conselhos para a Mocidade (RCM)",
+        "locale": "Nova Crixás - Central",
+        "desc": "Com Conselhos doutrinários e de valores pessoais",
+        "date": "2025-05-01T12:00:00.000Z",
+        "end": "2025-05-01T14:00:00.000Z",
+        "updated": "2025-04-19T18:20:12.521Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmI5dDlpbjU2ZDFmcmZ2Z2hpNDYycWRzMXMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "nb9t9in56d1frfvghi462qds1s",
+        "list": "",
+        "title": "Reunião de Conselhos para a Mocidade (RCM)",
+        "locale": "Nova Crixás - Central",
+        "desc": "Com Conselhos doutrinários e de valores pessoais",
+        "date": "2025-05-01T12:00:00.000Z",
+        "end": "2025-05-01T14:00:00.000Z",
+        "updated": "2025-04-19T18:20:12.521Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bmI5dDlpbjU2ZDFmcmZ2Z2hpNDYycWRzMXMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
