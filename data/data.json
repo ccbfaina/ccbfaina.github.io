@@ -1192,20 +1192,6 @@
         "recurring": ""
       },
       {
-        "id": "voaj2olm2urb1e0djq3cqubn28",
-        "list": "",
-        "title": "BATISMOS",
-        "locale": "Faina - Jeroaquara (Santa Rita)",
-        "desc": "Vagner Garcia dos Reis",
-        "date": "2025-04-26T22:00:00.000Z",
-        "end": "2025-04-27T00:00:00.000Z",
-        "updated": "2025-04-19T18:36:36.207Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Jeroaquara%20(Santa%20Rita)",
-        "htmlLink": "https://www.google.com/calendar/event?eid=dm9hajJvbG0ydXJiMWUwZGpxM2NxdWJuMjggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
         "id": "9t0sspf8c235ttvppes0ab58qk",
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
@@ -9802,17 +9788,17 @@
         "recurring": "k1icms5llsv6sfgchrg3v42rjt"
       },
       {
-        "id": "oh215jk05kek7bms9pbgcrjo6p_20250426T220000Z",
+        "id": "oh215jk05kek7bms9pbgcrjo6p_20250405T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Faina - Jeroaquara (Santa Rita)",
         "desc": "Vagner Garcia dos Reis",
-        "date": "2025-04-26T22:00:00.000Z",
-        "end": "2025-04-27T00:00:00.000Z",
-        "updated": "2025-04-19T15:16:39.398Z",
+        "date": "2025-04-05T22:00:00.000Z",
+        "end": "2025-04-06T00:00:00.000Z",
+        "updated": "2025-04-19T18:38:29.727Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Jeroaquara%20(Santa%20Rita)",
-        "htmlLink": "https://www.google.com/calendar/event?eid=b2gyMTVqazA1a2VrN2JtczlwYmdjcmpvNnBfMjAyNTA0MjZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "htmlLink": "https://www.google.com/calendar/event?eid=b2gyMTVqazA1a2VrN2JtczlwYmdjcmpvNnBfMjAyNTA0MDVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "oh215jk05kek7bms9pbgcrjo6p"
       },
       {
@@ -10628,17 +10614,17 @@
         "recurring": "k1icms5llsv6sfgchrg3v42rjt"
       },
       {
-        "id": "oh215jk05kek7bms9pbgcrjo6p_20260425T220000Z",
+        "id": "oh215jk05kek7bms9pbgcrjo6p_20260404T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Faina - Jeroaquara (Santa Rita)",
         "desc": "Vagner Garcia dos Reis",
-        "date": "2026-04-25T22:00:00.000Z",
-        "end": "2026-04-26T00:00:00.000Z",
-        "updated": "2025-04-19T15:16:39.398Z",
+        "date": "2026-04-04T22:00:00.000Z",
+        "end": "2026-04-05T00:00:00.000Z",
+        "updated": "2025-04-19T18:38:29.727Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Jeroaquara%20(Santa%20Rita)",
-        "htmlLink": "https://www.google.com/calendar/event?eid=b2gyMTVqazA1a2VrN2JtczlwYmdjcmpvNnBfMjAyNjA0MjVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "htmlLink": "https://www.google.com/calendar/event?eid=b2gyMTVqazA1a2VrN2JtczlwYmdjcmpvNnBfMjAyNjA0MDRUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "oh215jk05kek7bms9pbgcrjo6p"
       },
       {
