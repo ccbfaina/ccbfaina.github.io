@@ -1169,9 +1169,9 @@
         "title": "BATISMOS",
         "locale": "Itapirapuã - Central",
         "desc": "Eclesiastes Araújo da Sousa",
-        "date": "2025-04-20T22:00:00.000Z",
+        "date": "2025-04-20T22:30:00.000Z",
         "end": "2025-04-21T00:00:00.000Z",
-        "updated": "2025-04-16T15:10:59.539Z",
+        "updated": "2025-04-19T21:04:41.941Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itapirapu%C3%A3%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=bHVtMTU4bDg2cWRsbWppajhwcm1sNGs4b2cgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
@@ -1220,6 +1220,20 @@
         "recurring": "6mh22vf0jlvtd113ldqdm9uv1k"
       },
       {
+        "id": "54raskdknfgru3q08jiokp03eo",
+        "list": "REGIONAL FAINA",
+        "title": "BATISMOS",
+        "locale": "Matrinchã - Central",
+        "desc": "Paulo Silvano Santos",
+        "date": "2025-04-27T22:30:00.000Z",
+        "end": "2025-04-28T00:00:00.000Z",
+        "updated": "2025-04-19T21:03:29.305Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Matrinch%C3%A3%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTRyYXNrZGtuZmdydTNxMDhqaW9rcDAzZW8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
         "id": "flmgco0o46nb9dnul4vvegjfrc",
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
@@ -1234,17 +1248,17 @@
         "recurring": ""
       },
       {
-        "id": "54raskdknfgru3q08jiokp03eo",
+        "id": "4gaktfrig6e1ebb5phtoff7rv8",
         "list": "REGIONAL FAINA",
         "title": "BATISMOS",
-        "locale": "Matrinchã - Central",
-        "desc": "Paulo Silvano Santos",
-        "date": "2025-05-04T22:30:00.000Z",
-        "end": "2025-05-05T00:00:00.000Z",
-        "updated": "2025-04-16T19:52:31.313Z",
+        "locale": "Mossâmedes - Mirandópolis",
+        "desc": "Arlindo Barbosa Gomes",
+        "date": "2025-05-09T22:00:00.000Z",
+        "end": "2025-05-10T00:00:00.000Z",
+        "updated": "2025-04-19T21:04:02.181Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Matrinch%C3%A3%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTRyYXNrZGtuZmdydTNxMDhqaW9rcDAzZW8gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Moss%C3%A2medes%20-%20Mirand%C3%B3polis",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGdha3RmcmlnNmUxZWJiNXBodG9mZjdydjggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
@@ -1273,20 +1287,6 @@
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=Z2dwcDU1ZDJ0dmkzaHRoYzY1bms4NmZkZWsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
-        "id": "4gaktfrig6e1ebb5phtoff7rv8",
-        "list": "REGIONAL FAINA",
-        "title": "BATISMOS",
-        "locale": "Mossâmedes - Mirandópolis",
-        "desc": "Arlindo Barbosa Gomes",
-        "date": "2025-05-23T22:00:00.000Z",
-        "end": "2025-05-24T00:00:00.000Z",
-        "updated": "2025-04-19T16:43:35.760Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Moss%C3%A2medes%20-%20Mirand%C3%B3polis",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGdha3RmcmlnNmUxZWJiNXBodG9mZjdydjggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
@@ -1511,6 +1511,34 @@
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Regional%20Faina",
         "htmlLink": "https://www.google.com/calendar/event?eid=Z2tmN2IyNWE0aXFzZ2U4NTBvcXZudXIzMzQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "r3dbbqbn116r1iv8f21smsp78k",
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Itapirapuã - Central",
+        "desc": "Apresentação Cooperador Jonas Domingues Vieira",
+        "date": "2025-05-01T22:30:00.000Z",
+        "end": "2025-05-02T00:00:00.000Z",
+        "updated": "2025-04-19T21:06:08.571Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itapirapu%C3%A3%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=cjNkYmJxYm4xMTZyMWl2OGYyMXNtc3A3OGsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "r3dbbqbn116r1iv8f21smsp78k",
+        "list": "",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Itapirapuã - Central",
+        "desc": "Apresentação Cooperador Jonas Domingues Vieira",
+        "date": "2025-05-01T22:30:00.000Z",
+        "end": "2025-05-02T00:00:00.000Z",
+        "updated": "2025-04-19T21:06:08.571Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itapirapu%C3%A3%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=cjNkYmJxYm4xMTZyMWl2OGYyMXNtc3A3OGsgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
