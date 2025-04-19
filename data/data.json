@@ -7982,20 +7982,6 @@
         "recurring": ""
       },
       {
-        "id": "1cfa8mid4juttkn5vm6eaj8go8",
-        "list": "",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Beleza do Araguaia",
-        "desc": "<div>Anc. Walter Borges e <span style=\"background-color: var(--darkreader-background-ffffff, #181a1b); color: var(--darkreader-text-000000, #e8e6e3); letter-spacing: 0.1px; --darkreader-inline-bgcolor: var(--darkreader-bg--darkreader-background-ffffff, var(--darkreader-background-181a1b, #131516)); --darkreader-inline-color: var(--darkreader-text--darkreader-text-000000, var(--darkreader-text-e8e6e3, #d8d4cf));\" data-darkreader-inline-bgcolor=\"\" data-darkreader-inline-color=\"\">Diac. Wilton Silva</span></div><div><br></div>",
-        "date": "2025-05-01T08:00:00.000Z",
-        "end": "2025-05-01T10:00:00.000Z",
-        "updated": "2025-04-19T17:45:09.013Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Beleza%20do%20Araguaia",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWNmYThtaWQ0anV0dGtuNXZtNmVhajhnbzggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
         "id": "0gr10qmma42s51c64uebft89ror20240113T040000_20250510T040000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
@@ -8021,6 +8007,34 @@
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=azZvM2U2cjlpZTM2dHM3OGtkaHMxYjJ0ZHMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "iesqhluna3gq40l201b0rihpko",
+        "list": "REGIONAL FAINA",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Mundo Novo - Assentamento Santa Marta",
+        "desc": "<span style=\"letter-spacing: 0.1px;\">Anc. Walter Borges e Diac. Eurimar Modesto</span>",
+        "date": "2025-05-10T08:00:00.000Z",
+        "end": "2025-05-10T10:00:00.000Z",
+        "updated": "2025-04-19T17:46:29.160Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Assentamento%20Santa%20Marta",
+        "htmlLink": "https://www.google.com/calendar/event?eid=aWVzcWhsdW5hM2dxNDBsMjAxYjByaWhwa28gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "iesqhluna3gq40l201b0rihpko",
+        "list": "",
+        "title": "VIAGENS MISSIONÁRIAS",
+        "locale": "Mundo Novo - Assentamento Santa Marta",
+        "desc": "<span style=\"letter-spacing: 0.1px;\">Anc. Walter Borges e Diac. Eurimar Modesto</span>",
+        "date": "2025-05-10T08:00:00.000Z",
+        "end": "2025-05-10T10:00:00.000Z",
+        "updated": "2025-04-19T17:46:29.160Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Assentamento%20Santa%20Marta",
+        "htmlLink": "https://www.google.com/calendar/event?eid=aWVzcWhsdW5hM2dxNDBsMjAxYjByaWhwa28gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
