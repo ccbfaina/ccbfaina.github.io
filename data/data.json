@@ -1472,20 +1472,6 @@
         "recurring": ""
       },
       {
-        "id": "4js9q8nfm4m68g8akvikpoc5h6",
-        "list": "REGIONAL FAINA",
-        "title": "AVISOS À IRMANDADE",
-        "locale": "Regional Faina",
-        "desc": "<b>Coleta Única</b>: para atendimento da obra da piedade, viagens, manutenção e construções",
-        "date": "2025-04-05T08:00:00.000Z",
-        "end": "2025-04-05T10:00:00.000Z",
-        "updated": "2025-02-19T12:24:21.293Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Regional%20Faina",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGpzOXE4bmZtNG02OGc4YWt2aWtwb2M1aDYgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
         "id": "8b2jnkk930d5pa8pilhfp6ek2g",
         "list": "REGIONAL FAINA",
         "title": "AVISOS À IRMANDADE",
@@ -1525,6 +1511,20 @@
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Regional%20Faina",
         "htmlLink": "https://www.google.com/calendar/event?eid=Z2tmN2IyNWE0aXFzZ2U4NTBvcXZudXIzMzQgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "4js9q8nfm4m68g8akvikpoc5h6",
+        "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Regional Faina",
+        "desc": "<b>Coleta Única</b>: para atendimento da obra da piedade, viagens, manutenção e construções",
+        "date": "2025-06-13T08:00:00.000Z",
+        "end": "2025-06-13T10:00:00.000Z",
+        "updated": "2025-04-19T20:14:27.481Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Regional%20Faina",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGpzOXE4bmZtNG02OGc4YWt2aWtwb2M1aDYgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
