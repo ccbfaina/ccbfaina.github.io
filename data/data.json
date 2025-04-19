@@ -9690,20 +9690,6 @@
         "recurring": "7iaffti0juct2jh7igl9b6l6i0_R20250223T220000"
       },
       {
-        "id": "q3f22jafm34h146ugqn8kat4nj_20250308T220000Z",
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Mundo Novo - Assentamento Santa Marta",
-        "desc": "Walter Borges Costa",
-        "date": "2025-03-08T22:00:00.000Z",
-        "end": "2025-03-09T00:00:00.000Z",
-        "updated": "2024-10-18T00:30:02.801Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Assentamento%20Santa%20Marta",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cTNmMjJqYWZtMzRoMTQ2dWdxbjhrYXQ0bmpfMjAyNTAzMDhUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "q3f22jafm34h146ugqn8kat4nj_R20250308T220000"
-      },
-      {
         "id": "782kf0gjpnl6unkui6krv9vb0l_20250308T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
@@ -9842,6 +9828,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Guara%C3%ADta%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=OWJmOGtpcTgzZ2toamJpazZ1YzdsZWxlbzVfMjAyNTA1MTBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "9bf8kiq83gkhjbik6uc7leleo5"
+      },
+      {
+        "id": "8mos0kameiisq66b8rbq9qb101_20250510T220000Z",
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "Mundo Novo - Assentamento Santa Marta",
+        "desc": "Walter Borges Costa",
+        "date": "2025-05-10T22:00:00.000Z",
+        "end": "2025-05-11T00:00:00.000Z",
+        "updated": "2025-04-19T18:43:37.314Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Assentamento%20Santa%20Marta",
+        "htmlLink": "https://www.google.com/calendar/event?eid=OG1vczBrYW1laWlzcTY2YjhyYnE5cWIxMDFfMjAyNTA1MTBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "8mos0kameiisq66b8rbq9qb101"
       },
       {
         "id": "f8sf0jiaqcligtscco5gcelk2o_20250511T220000Z",
@@ -10044,10 +10044,10 @@
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
         "locale": "Novo Brasil - Novo Goiás",
-        "desc": "Maycon Marques Guerra",
+        "desc": "Neide da Silva Pereira",
         "date": "2025-06-27T22:00:00.000Z",
         "end": "2025-06-28T00:00:00.000Z",
-        "updated": "2025-04-19T18:40:32.552Z",
+        "updated": "2025-04-19T18:41:09.173Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Novo%20Brasil%20-%20Novo%20Goi%C3%A1s",
         "htmlLink": "https://www.google.com/calendar/event?eid=OGdrMXNuYXJoNmFmNjhrZ2c3NmVoOTRjMG9fMjAyNTA2MjdUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -10530,20 +10530,6 @@
         "recurring": "9errt8jo1nuuh22h3p047je1le"
       },
       {
-        "id": "q3f22jafm34h146ugqn8kat4nj_20260314T220000Z",
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "Mundo Novo - Assentamento Santa Marta",
-        "desc": "Walter Borges Costa",
-        "date": "2026-03-14T22:00:00.000Z",
-        "end": "2026-03-15T00:00:00.000Z",
-        "updated": "2024-10-18T00:30:02.801Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Assentamento%20Santa%20Marta",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cTNmMjJqYWZtMzRoMTQ2dWdxbjhrYXQ0bmpfMjAyNjAzMTRUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "q3f22jafm34h146ugqn8kat4nj_R20250308T220000"
-      },
-      {
         "id": "782kf0gjpnl6unkui6krv9vb0l_20260314T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
@@ -10668,6 +10654,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Guara%C3%ADta%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=OWJmOGtpcTgzZ2toamJpazZ1YzdsZWxlbzVfMjAyNjA1MDlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "9bf8kiq83gkhjbik6uc7leleo5"
+      },
+      {
+        "id": "8mos0kameiisq66b8rbq9qb101_20260509T220000Z",
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "Mundo Novo - Assentamento Santa Marta",
+        "desc": "Walter Borges Costa",
+        "date": "2026-05-09T22:00:00.000Z",
+        "end": "2026-05-10T00:00:00.000Z",
+        "updated": "2025-04-19T18:43:37.314Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Assentamento%20Santa%20Marta",
+        "htmlLink": "https://www.google.com/calendar/event?eid=OG1vczBrYW1laWlzcTY2YjhyYnE5cWIxMDFfMjAyNjA1MDlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "8mos0kameiisq66b8rbq9qb101"
       },
       {
         "id": "f8sf0jiaqcligtscco5gcelk2o_20260510T220000Z",
@@ -10887,7 +10887,7 @@
         "desc": "Maycon Marques Guerra",
         "date": "2026-06-26T22:00:00.000Z",
         "end": "2026-06-27T00:00:00.000Z",
-        "updated": "2025-04-19T18:40:32.552Z",
+        "updated": "2025-04-19T18:41:09.173Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Novo%20Brasil%20-%20Novo%20Goi%C3%A1s",
         "htmlLink": "https://www.google.com/calendar/event?eid=OGdrMXNuYXJoNmFmNjhrZ2c3NmVoOTRjMG9fMjAyNjA2MjZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
