@@ -4052,27 +4052,13 @@
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
         "locale": "Jussara - Central",
-        "desc": "<b>DEPAC: </b>Reunião de Conscientização e Orientações",
+        "desc": "<b>DEPAC: </b>Reunião de Conscientização e Orientações<div>com ministérios, porteiros, auxiliar da porta, operadores de som, auxiliares dos banheiros e da cozinha</div>",
         "date": "2025-05-10T14:00:00.000Z",
         "end": "2025-05-10T16:00:00.000Z",
-        "updated": "2025-04-04T16:26:21.174Z",
+        "updated": "2025-04-19T17:51:11.046Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=aGx1aGNtYTBxajc2MDFwM2RuM3M5bDJ2dWMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
-        "id": "t2d67iro9a9n5809mtq4egcupc",
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "Nova Crixás - Central",
-        "desc": "<b>DEPAC: </b>Reunião de Conscientização e Orientações",
-        "date": "2025-05-11T14:00:00.000Z",
-        "end": "2025-05-11T16:00:00.000Z",
-        "updated": "2025-04-04T16:26:52.089Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=dDJkNjdpcm85YTluNTgwOW10cTRlZ2N1cGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
@@ -4158,6 +4144,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=aDVzOHFkb3NkaTUwazZ2MGF1MXRpczZiYnZfMjAyNTA1MjRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "h5s8qdosdi50k6v0au1tis6bbv"
+      },
+      {
+        "id": "t2d67iro9a9n5809mtq4egcupc",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">DEPAC: </b><span style=\"letter-spacing: 0.1px;\">Reunião de Conscientização e Orientações</span><div style=\"letter-spacing: 0.1px;\"><span style=\"letter-spacing: 0.1px; --darkreader-inline-color: var(--darkreader-text--darkreader-text-000000, var(--darkreader-text-e8e6e3, #d8d4cf));\">com ministérios, porteiros, auxiliar da porta, operadores de som, auxiliares dos banheiros e da cozinha</span></div>",
+        "date": "2025-05-24T14:00:00.000Z",
+        "end": "2025-05-24T16:00:00.000Z",
+        "updated": "2025-04-19T17:50:38.589Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dDJkNjdpcm85YTluNTgwOW10cTRlZ2N1cGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
       },
       {
         "id": "fh15rqprg75ibl0l2vuvgtvtjk_20250602T220000Z",
@@ -8012,20 +8012,6 @@
       {
         "id": "iesqhluna3gq40l201b0rihpko",
         "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Mundo Novo - Assentamento Santa Marta",
-        "desc": "<span style=\"letter-spacing: 0.1px;\">Anc. Walter Borges e Diac. Eurimar Modesto</span>",
-        "date": "2025-05-10T08:00:00.000Z",
-        "end": "2025-05-10T10:00:00.000Z",
-        "updated": "2025-04-19T17:46:29.160Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mundo%20Novo%20-%20Assentamento%20Santa%20Marta",
-        "htmlLink": "https://www.google.com/calendar/event?eid=aWVzcWhsdW5hM2dxNDBsMjAxYjByaWhwa28gNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
-        "id": "iesqhluna3gq40l201b0rihpko",
-        "list": "",
         "title": "VIAGENS MISSIONÁRIAS",
         "locale": "Mundo Novo - Assentamento Santa Marta",
         "desc": "<span style=\"letter-spacing: 0.1px;\">Anc. Walter Borges e Diac. Eurimar Modesto</span>",
