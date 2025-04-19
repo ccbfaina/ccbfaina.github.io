@@ -9863,9 +9863,9 @@
         "title": "SANTAS CEIAS",
         "locale": "Nova Crixás - Assentamento Florestan Fernandes",
         "desc": "Walter Borges Costa",
-        "date": "2025-05-31T22:00:00.000Z",
+        "date": "2025-05-31T22:30:00.000Z",
         "end": "2025-06-01T00:00:00.000Z",
-        "updated": "2024-12-04T13:21:57.545Z",
+        "updated": "2025-04-19T17:55:50.400Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Assentamento%20Florestan%20Fernandes",
         "htmlLink": "https://www.google.com/calendar/event?eid=NmNndWRsNTAxN2x0NGg4ODM3dDY2dHBsdTJfMjAyNTA1MzFUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -10040,6 +10040,20 @@
         "recurring": "9u0662hok2vi5o36gcugnq4qof_R20250727T220000"
       },
       {
+        "id": "jpbg26lbldt552ofa7601omaqo_20250728T220000Z",
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "São Miguel do Araguaia - Setor Oeste ",
+        "desc": "José Pereira Gomes",
+        "date": "2025-07-28T22:00:00.000Z",
+        "end": "2025-07-29T00:00:00.000Z",
+        "updated": "2025-04-19T17:58:40.919Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação S%C3%A3o%20Miguel%20do%20Araguaia%20-%20Setor%20Oeste%20",
+        "htmlLink": "https://www.google.com/calendar/event?eid=anBiZzI2bGJsZHQ1NTJvZmE3NjAxb21hcW9fMjAyNTA3MjhUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "jpbg26lbldt552ofa7601omaqo"
+      },
+      {
         "id": "1tkdli5edhu39mhevcf8ad8ak4_20250817T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
@@ -10178,20 +10192,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mozarl%C3%A2ndia%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=cHFmbjllYzNxcDJxaXZwbzQ0aDVjbnA2ZzRfMjAyNTEwMTlUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "pqfn9ec3qp2qivpo44h5cnp6g4_R20251019T220000"
-      },
-      {
-        "id": "dgg72mbqhgrn0g6nf6c97901r4_20251026T220000Z",
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "São Miguel do Araguaia - Central",
-        "desc": "Joildo Liberal Silva",
-        "date": "2025-10-26T22:00:00.000Z",
-        "end": "2025-10-27T00:00:00.000Z",
-        "updated": "2024-08-09T04:39:27.653Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação S%C3%A3o%20Miguel%20do%20Araguaia%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZGdnNzJtYnFoZ3JuMGc2bmY2Yzk3OTAxcjRfMjAyNTEwMjZUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "dgg72mbqhgrn0g6nf6c97901r4_R20241027T220000"
       },
       {
         "id": "7u0tv258sdgvgj4d4gtqlv0e7k_20251108T220000Z",
@@ -10705,7 +10705,7 @@
         "desc": "Walter Borges Costa",
         "date": "2026-05-30T22:00:00.000Z",
         "end": "2026-05-31T00:00:00.000Z",
-        "updated": "2024-12-04T13:21:57.545Z",
+        "updated": "2025-04-19T17:55:50.400Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Assentamento%20Florestan%20Fernandes",
         "htmlLink": "https://www.google.com/calendar/event?eid=NmNndWRsNTAxN2x0NGg4ODM3dDY2dHBsdTJfMjAyNjA1MzBUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -10880,6 +10880,20 @@
         "recurring": "9u0662hok2vi5o36gcugnq4qof_R20250727T220000"
       },
       {
+        "id": "jpbg26lbldt552ofa7601omaqo_20260727T220000Z",
+        "list": "REGIONAL FAINA",
+        "title": "SANTAS CEIAS",
+        "locale": "São Miguel do Araguaia - Setor Oeste ",
+        "desc": "José Pereira Gomes",
+        "date": "2026-07-27T22:00:00.000Z",
+        "end": "2026-07-28T00:00:00.000Z",
+        "updated": "2025-04-19T17:58:40.919Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação S%C3%A3o%20Miguel%20do%20Araguaia%20-%20Setor%20Oeste%20",
+        "htmlLink": "https://www.google.com/calendar/event?eid=anBiZzI2bGJsZHQ1NTJvZmE3NjAxb21hcW9fMjAyNjA3MjdUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "jpbg26lbldt552ofa7601omaqo"
+      },
+      {
         "id": "1tkdli5edhu39mhevcf8ad8ak4_20260816T220000Z",
         "list": "REGIONAL FAINA",
         "title": "SANTAS CEIAS",
@@ -11018,20 +11032,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Mozarl%C3%A2ndia%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=cHFmbjllYzNxcDJxaXZwbzQ0aDVjbnA2ZzRfMjAyNjEwMThUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "pqfn9ec3qp2qivpo44h5cnp6g4_R20251019T220000"
-      },
-      {
-        "id": "dgg72mbqhgrn0g6nf6c97901r4_20261025T220000Z",
-        "list": "REGIONAL FAINA",
-        "title": "SANTAS CEIAS",
-        "locale": "São Miguel do Araguaia - Central",
-        "desc": "Joildo Liberal Silva",
-        "date": "2026-10-25T22:00:00.000Z",
-        "end": "2026-10-26T00:00:00.000Z",
-        "updated": "2024-08-09T04:39:27.653Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação S%C3%A3o%20Miguel%20do%20Araguaia%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZGdnNzJtYnFoZ3JuMGc2bmY2Yzk3OTAxcjRfMjAyNjEwMjVUMjIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "dgg72mbqhgrn0g6nf6c97901r4_R20241027T220000"
       },
       {
         "id": "equlb1vdqq1hrpfkqoiqen3u58_20261108T220000Z",
