@@ -8059,7 +8059,7 @@
         "desc": "Itamar Ferreira da Menezes",
         "date": "2025-01-18T07:00:00.000Z",
         "end": "2025-01-18T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
+        "updated": "2025-04-20T11:14:18.096Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNTAxMThUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -8213,7 +8213,7 @@
         "desc": "Itamar Ferreira da Menezes",
         "date": "2025-03-15T07:00:00.000Z",
         "end": "2025-03-15T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
+        "updated": "2025-04-20T11:14:18.096Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNTAzMTVUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -8374,20 +8374,6 @@
         "recurring": "dt81j7tuq224f4kjk6e5hhpmq8_R20250114T030000"
       },
       {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20250517T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2025-05-17T07:00:00.000Z",
-        "end": "2025-05-17T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNTA1MTdUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
-      },
-      {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20250524T040000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
@@ -8528,20 +8514,6 @@
         "recurring": "0gr10qmma42s51c64uebft89ror20240113T040000_R20250111T040000"
       },
       {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20250719T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2025-07-19T07:00:00.000Z",
-        "end": "2025-07-19T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNTA3MTlUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
-      },
-      {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20250726T040000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
@@ -8666,20 +8638,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MGdyMTBxbW1hNDJzNTFjNjR1ZWJmdDg5cm9yMjAyNDAxMTNUMDQwMDAwXzIwMjUwOTEzVDA0MDAwMFogNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "0gr10qmma42s51c64uebft89ror20240113T040000_R20250111T040000"
-      },
-      {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20250920T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2025-09-20T07:00:00.000Z",
-        "end": "2025-09-20T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNTA5MjBUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
       },
       {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20250927T040000Z",
@@ -8808,20 +8766,6 @@
         "recurring": "dt81j7tuq224f4kjk6e5hhpmq8_R20250114T030000"
       },
       {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20251115T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2025-11-15T07:00:00.000Z",
-        "end": "2025-11-15T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNTExMTVUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
-      },
-      {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20251122T040000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
@@ -8946,20 +8890,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfMjAyNjAxMTNUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "dt81j7tuq224f4kjk6e5hhpmq8_R20250114T030000"
-      },
-      {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20260117T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2026-01-17T07:00:00.000Z",
-        "end": "2026-01-17T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNjAxMTdUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
       },
       {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20260124T040000Z",
@@ -9088,20 +9018,6 @@
         "recurring": "0gr10qmma42s51c64uebft89ror20240113T040000_R20250111T040000"
       },
       {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20260321T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2026-03-21T07:00:00.000Z",
-        "end": "2026-03-21T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNjAzMjFUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
-      },
-      {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20260328T040000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
@@ -9226,20 +9142,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Vila%20Progresso",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZHQ4MWo3dHVxMjI0ZjRrams2ZTVoaHBtcThfMjAyNjA1MTJUMDMwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "dt81j7tuq224f4kjk6e5hhpmq8_R20250114T030000"
-      },
-      {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20260516T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2026-05-16T07:00:00.000Z",
-        "end": "2026-05-16T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNjA1MTZUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
       },
       {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20260523T040000Z",
@@ -9368,20 +9270,6 @@
         "recurring": "dt81j7tuq224f4kjk6e5hhpmq8_R20250114T030000"
       },
       {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20260718T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2026-07-18T07:00:00.000Z",
-        "end": "2026-07-18T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNjA3MThUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
-      },
-      {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20260725T040000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
@@ -9480,20 +9368,6 @@
         "recurring": "0gr10qmma42s51c64uebft89ror20240113T040000_R20250111T040000"
       },
       {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20260919T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2026-09-19T07:00:00.000Z",
-        "end": "2026-09-19T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNjA5MTlUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
-      },
-      {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20260926T040000Z",
         "list": "REGIONAL FAINA",
         "title": "VIAGENS MISSIONÁRIAS",
@@ -9590,20 +9464,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MGdyMTBxbW1hNDJzNTFjNjR1ZWJmdDg5cm9yMjAyNDAxMTNUMDQwMDAwXzIwMjYxMTE0VDA0MDAwMFogNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": "0gr10qmma42s51c64uebft89ror20240113T040000_R20250111T040000"
-      },
-      {
-        "id": "qvpgvlllcglunvqq95vlu4dp9k_20261121T070000Z",
-        "list": "REGIONAL FAINA",
-        "title": "VIAGENS MISSIONÁRIAS",
-        "locale": "Uruana - Central",
-        "desc": "Itamar Ferreira da Menezes",
-        "date": "2026-11-21T07:00:00.000Z",
-        "end": "2026-11-21T09:00:00.000Z",
-        "updated": "2024-12-07T20:09:05.673Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=cXZwZ3ZsbGxjZ2x1bnZxcTk1dmx1NGRwOWtfMjAyNjExMjFUMDcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "qvpgvlllcglunvqq95vlu4dp9k"
       },
       {
         "id": "ka94ailsnn2deh438nf1iv4r8t_20261128T040000Z",
