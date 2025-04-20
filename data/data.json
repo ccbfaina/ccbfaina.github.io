@@ -366,20 +366,6 @@
         "recurring": ""
       },
       {
-        "id": "o0k4blgpsjs2d47phs5i2pvg30",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Coleta Especial Goiás",
-        "locale": "AMERICANO DO BRASIL - SETOR CENTRAL",
-        "desc": "",
-        "date": "2025-05-01T22:30:00.000Z",
-        "end": "2025-05-02T00:00:00.000Z",
-        "updated": "2025-04-20T00:41:14.899Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação AMERICANO%20DO%20BRASIL%20-%20SETOR%20CENTRAL",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bzBrNGJsZ3BzanMyZDQ3cGhzNWkycHZnMzAgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": ""
-      },
-      {
         "id": "l1537c14ookjdp188k67cnqudg",
         "list": "LOCALIDADES",
         "title": "Rodizio Coleta Especial Goiás",
@@ -520,20 +506,6 @@
         "recurring": ""
       },
       {
-        "id": "ah0akuojj3fom3n34nupj8mqgg",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Coleta Especial Goiás",
-        "locale": "POVOADO SANTA RITA",
-        "desc": "",
-        "date": "2025-05-04T22:30:00.000Z",
-        "end": "2025-05-05T00:00:00.000Z",
-        "updated": "2025-04-20T00:41:13.376Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação POVOADO%20SANTA%20RITA",
-        "htmlLink": "https://www.google.com/calendar/event?eid=YWgwYWt1b2pqM2ZvbTNuMzRudXBqOG1xZ2cgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": ""
-      },
-      {
         "id": "994shmh3rinplfjc4ftheavkbg",
         "list": "LOCALIDADES",
         "title": "Rodizio Coleta Especial Goiás",
@@ -573,6 +545,34 @@
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação GOI%C3%81S%20-%20VILA%20LIONS",
         "htmlLink": "https://www.google.com/calendar/event?eid=Mm4wbWVucWM3NDBkcTIwYmd0b25tNjd1NjQgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "recurring": ""
+      },
+      {
+        "id": "ah0akuojj3fom3n34nupj8mqgg",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Coleta Especial Goiás",
+        "locale": "POVOADO SANTA RITA",
+        "desc": "",
+        "date": "2025-05-07T22:30:00.000Z",
+        "end": "2025-05-08T00:00:00.000Z",
+        "updated": "2025-04-20T02:57:58.176Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação POVOADO%20SANTA%20RITA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWgwYWt1b2pqM2ZvbTNuMzRudXBqOG1xZ2cgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "recurring": ""
+      },
+      {
+        "id": "o0k4blgpsjs2d47phs5i2pvg30",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Coleta Especial Goiás",
+        "locale": "AMERICANO DO BRASIL - SETOR CENTRAL",
+        "desc": "Marco Antônio Queiroz",
+        "date": "2025-05-08T22:30:00.000Z",
+        "end": "2025-05-09T00:00:00.000Z",
+        "updated": "2025-04-20T03:01:10.461Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação AMERICANO%20DO%20BRASIL%20-%20SETOR%20CENTRAL",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bzBrNGJsZ3BzanMyZDQ3cGhzNWkycHZnMzAgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
         "recurring": ""
       },
       {
