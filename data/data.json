@@ -380,34 +380,6 @@
         "recurring": ""
       },
       {
-        "id": "vhplva4c9uoljgsqe5as80v1oc",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Coleta Especial Goiás",
-        "locale": "GOIÁS - CENTRO",
-        "desc": "",
-        "date": "2025-05-01T22:30:00.000Z",
-        "end": "2025-05-02T00:00:00.000Z",
-        "updated": "2025-04-20T00:41:12.251Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação GOI%C3%81S%20-%20CENTRO",
-        "htmlLink": "https://www.google.com/calendar/event?eid=dmhwbHZhNGM5dW9samdzcWU1YXM4MHYxb2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": ""
-      },
-      {
-        "id": "994shmh3rinplfjc4ftheavkbg",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Coleta Especial Goiás",
-        "locale": "VILA LEONOR",
-        "desc": "Vagner Garcia",
-        "date": "2025-05-01T22:30:00.000Z",
-        "end": "2025-05-02T00:00:00.000Z",
-        "updated": "2025-04-20T00:41:12.644Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação VILA%20LEONOR",
-        "htmlLink": "https://www.google.com/calendar/event?eid=OTk0c2htaDNyaW5wbGZqYzRmdGhlYXZrYmcgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": ""
-      },
-      {
         "id": "l1537c14ookjdp188k67cnqudg",
         "list": "LOCALIDADES",
         "title": "Rodizio Coleta Especial Goiás",
@@ -457,24 +429,10 @@
         "desc": "",
         "date": "2025-05-03T22:30:00.000Z",
         "end": "2025-05-04T00:00:00.000Z",
-        "updated": "2025-04-20T00:41:13.010Z",
+        "updated": "2025-04-20T00:45:02.166Z",
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação FAZENDA%20SOBRADINHO",
         "htmlLink": "https://www.google.com/calendar/event?eid=YTlrMzlwM2xobTB2dWJkb2dsb3RybTNiZWMgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
-        "recurring": ""
-      },
-      {
-        "id": "4fj8d6nbt9hq4rnh57eldic6o0",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Coleta Especial Goiás",
-        "locale": "GOIÁS - POVOADO COLÔNIA DE UVÁ",
-        "desc": "",
-        "date": "2025-05-03T22:30:00.000Z",
-        "end": "2025-05-04T00:00:00.000Z",
-        "updated": "2025-04-20T00:41:15.908Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação GOI%C3%81S%20-%20POVOADO%20COL%C3%94NIA%20DE%20UV%C3%81",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGZqOGQ2bmJ0OWhxNHJuaDU3ZWxkaWM2bzAgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
         "recurring": ""
       },
       {
@@ -503,6 +461,20 @@
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação JARDIM%20CRISTINA",
         "htmlLink": "https://www.google.com/calendar/event?eid=czlvOHFlMWlvZmMyaWNhdWhwdGJmZ2s3dWsgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "recurring": ""
+      },
+      {
+        "id": "vhplva4c9uoljgsqe5as80v1oc",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Coleta Especial Goiás",
+        "locale": "GOIÁS - CENTRO",
+        "desc": "",
+        "date": "2025-05-04T22:30:00.000Z",
+        "end": "2025-05-05T00:00:00.000Z",
+        "updated": "2025-04-20T00:47:02.605Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação GOI%C3%81S%20-%20CENTRO",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dmhwbHZhNGM5dW9samdzcWU1YXM4MHYxb2MgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
         "recurring": ""
       },
       {
@@ -562,6 +534,20 @@
         "recurring": ""
       },
       {
+        "id": "994shmh3rinplfjc4ftheavkbg",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Coleta Especial Goiás",
+        "locale": "VILA LEONOR",
+        "desc": "Vagner Garcia",
+        "date": "2025-05-04T22:30:00.000Z",
+        "end": "2025-05-05T00:00:00.000Z",
+        "updated": "2025-04-20T00:45:22.919Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação VILA%20LEONOR",
+        "htmlLink": "https://www.google.com/calendar/event?eid=OTk0c2htaDNyaW5wbGZqYzRmdGhlYXZrYmcgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "recurring": ""
+      },
+      {
         "id": "imfv0lup56aggd5o59aiafd2nk",
         "list": "LOCALIDADES",
         "title": "Rodizio Coleta Especial Goiás",
@@ -587,6 +573,20 @@
         "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação GOI%C3%81S%20-%20VILA%20LIONS",
         "htmlLink": "https://www.google.com/calendar/event?eid=Mm4wbWVucWM3NDBkcTIwYmd0b25tNjd1NjQgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
+        "recurring": ""
+      },
+      {
+        "id": "4fj8d6nbt9hq4rnh57eldic6o0",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Coleta Especial Goiás",
+        "locale": "GOIÁS - POVOADO COLÔNIA DE UVÁ",
+        "desc": "",
+        "date": "2025-05-09T22:30:00.000Z",
+        "end": "2025-05-10T00:00:00.000Z",
+        "updated": "2025-04-20T00:43:19.221Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação GOI%C3%81S%20-%20POVOADO%20COL%C3%94NIA%20DE%20UV%C3%81",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGZqOGQ2bmJ0OWhxNHJuaDU3ZWxkaWM2bzAgM2UzMTg4YWIyZjMyNjA3NTlhNmQ4YzgyYjc3YmRkNzY5ODI0YjM1MTZmMzlhMjA3OGMwZDY2YmIxZjM5ODQyNUBn",
         "recurring": ""
       },
       {
