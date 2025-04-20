@@ -4454,20 +4454,6 @@
         "recurring": "h5s8qdosdi50k6v0au1tis6bbv"
       },
       {
-        "id": "t2d67iro9a9n5809mtq4egcupc",
-        "list": "REGIONAL FAINA",
-        "title": "REUNIÕES DIVERSAS",
-        "locale": "Nova Crixás - Central",
-        "desc": "<b style=\"letter-spacing: 0.1px;\">DEPAC: </b><span style=\"letter-spacing: 0.1px;\">Reunião de Conscientização e Orientações</span><div style=\"letter-spacing: 0.1px;\"><span style=\"letter-spacing: 0.1px; --darkreader-inline-color: var(--darkreader-text--darkreader-text-000000, var(--darkreader-text-e8e6e3, #d8d4cf));\">com ministérios, porteiros, auxiliar da porta, operadores de som, auxiliares dos banheiros e da cozinha</span></div>",
-        "date": "2025-05-24T14:00:00.000Z",
-        "end": "2025-05-24T16:00:00.000Z",
-        "updated": "2025-04-19T17:50:38.589Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=dDJkNjdpcm85YTluNTgwOW10cTRlZ2N1cGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
-        "recurring": ""
-      },
-      {
         "id": "fpchv082hmd34pf3r5tun8k6nv_20250511T170000Z",
         "list": "REGIONAL FAINA",
         "title": "REUNIÕES DIVERSAS",
@@ -4480,6 +4466,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZnBjaHYwODJobWQzNHBmM3I1dHVuOGs2bnZfMjAyNTA1MTFUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "fpchv082hmd34pf3r5tun8k6nv_R20240908T170000"
+      },
+      {
+        "id": "t2d67iro9a9n5809mtq4egcupc",
+        "list": "REGIONAL FAINA",
+        "title": "REUNIÕES DIVERSAS",
+        "locale": "Nova Crixás - Central",
+        "desc": "<b style=\"letter-spacing: 0.1px;\">DEPAC: </b><span style=\"letter-spacing: 0.1px;\">Reunião de Conscientização e Orientações</span><div style=\"letter-spacing: 0.1px;\"><span style=\"letter-spacing: 0.1px; --darkreader-inline-color: var(--darkreader-text--darkreader-text-000000, var(--darkreader-text-e8e6e3, #d8d4cf));\">com ministérios, porteiros, auxiliar da porta, operadores de som, auxiliares dos banheiros e da cozinha</span></div>",
+        "date": "2025-05-24T19:00:00.000Z",
+        "end": "2025-05-24T21:00:00.000Z",
+        "updated": "2025-04-20T13:20:51.321Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dDJkNjdpcm85YTluNTgwOW10cTRlZ2N1cGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
       },
       {
         "id": "fh15rqprg75ibl0l2vuvgtvtjk_20250602T220000Z",
