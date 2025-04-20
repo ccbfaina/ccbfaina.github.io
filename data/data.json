@@ -2599,7 +2599,7 @@
         "desc": "Reunião Assuntos Musicais",
         "date": "2025-01-12T12:30:00.000Z",
         "end": "2025-01-12T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNTAxMTJUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -2641,7 +2641,7 @@
         "desc": "Reunião Assuntos Musicais",
         "date": "2025-03-09T12:30:00.000Z",
         "end": "2025-03-09T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNTAzMDlUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
@@ -2676,20 +2676,6 @@
         "recurring": ""
       },
       {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20250511T123000Z",
-        "list": "REGIONAL FAINA",
-        "title": "ASSUNTOS MUSICAIS",
-        "locale": "Nova Crixás - Central",
-        "desc": "Reunião Assuntos Musicais",
-        "date": "2025-05-11T12:30:00.000Z",
-        "end": "2025-05-11T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNTA1MTFUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
-      },
-      {
         "id": "tp586rhiv94qa71p8bf74iib2c_20250517T133000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
@@ -2704,18 +2690,18 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20250713T123000Z",
+        "id": "n1ch820acqv9uh6t34r1v84lea_20250524T123000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Assuntos Musicais",
-        "date": "2025-07-13T12:30:00.000Z",
-        "end": "2025-07-13T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "date": "2025-05-24T12:30:00.000Z",
+        "end": "2025-05-24T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNTA3MTNUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNTA1MjRUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20250719T133000Z",
@@ -2732,18 +2718,18 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20250914T123000Z",
+        "id": "n1ch820acqv9uh6t34r1v84lea_20250726T123000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Assuntos Musicais",
-        "date": "2025-09-14T12:30:00.000Z",
-        "end": "2025-09-14T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "date": "2025-07-26T12:30:00.000Z",
+        "end": "2025-07-26T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNTA5MTRUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNTA3MjZUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20250920T133000Z",
@@ -2760,6 +2746,20 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
+        "id": "n1ch820acqv9uh6t34r1v84lea_20250927T123000Z",
+        "list": "REGIONAL FAINA",
+        "title": "ASSUNTOS MUSICAIS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Assuntos Musicais",
+        "date": "2025-09-27T12:30:00.000Z",
+        "end": "2025-09-27T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNTA5MjdUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
+      },
+      {
         "id": "jcck7k58vucl8sgiolbjaksr7c_20251005T120000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
@@ -2772,20 +2772,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Online%20-%20Br%C3%A1s",
         "htmlLink": "https://www.google.com/calendar/event?eid=amNjazdrNTh2dWNsOHNnaW9sYmpha3NyN2NfMjAyNTEwMDVUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "jcck7k58vucl8sgiolbjaksr7c"
-      },
-      {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20251109T123000Z",
-        "list": "REGIONAL FAINA",
-        "title": "ASSUNTOS MUSICAIS",
-        "locale": "Nova Crixás - Central",
-        "desc": "Reunião Assuntos Musicais",
-        "date": "2025-11-09T12:30:00.000Z",
-        "end": "2025-11-09T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNTExMDlUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20251115T133000Z",
@@ -2816,18 +2802,18 @@
         "recurring": "4ol6lf20q2k4mtghhmv8072dkg_R20251115T170000"
       },
       {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20260111T123000Z",
+        "id": "n1ch820acqv9uh6t34r1v84lea_20251122T123000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Assuntos Musicais",
-        "date": "2026-01-11T12:30:00.000Z",
-        "end": "2026-01-11T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "date": "2025-11-22T12:30:00.000Z",
+        "end": "2025-11-22T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNjAxMTFUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNTExMjJUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20260117T133000Z",
@@ -2844,6 +2830,20 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
+        "id": "n1ch820acqv9uh6t34r1v84lea_20260124T123000Z",
+        "list": "REGIONAL FAINA",
+        "title": "ASSUNTOS MUSICAIS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Assuntos Musicais",
+        "date": "2026-01-24T12:30:00.000Z",
+        "end": "2026-01-24T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNjAxMjRUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
+      },
+      {
         "id": "evch87j5e8sqlmtraan8qate22_20260208T170000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
@@ -2856,20 +2856,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZXZjaDg3ajVlOHNxbG10cmFhbjhxYXRlMjJfMjAyNjAyMDhUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "evch87j5e8sqlmtraan8qate22"
-      },
-      {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20260308T123000Z",
-        "list": "REGIONAL FAINA",
-        "title": "ASSUNTOS MUSICAIS",
-        "locale": "Nova Crixás - Central",
-        "desc": "Reunião Assuntos Musicais",
-        "date": "2026-03-08T12:30:00.000Z",
-        "end": "2026-03-08T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNjAzMDhUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20260321T133000Z",
@@ -2886,18 +2872,18 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20260510T123000Z",
+        "id": "n1ch820acqv9uh6t34r1v84lea_20260328T123000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Assuntos Musicais",
-        "date": "2026-05-10T12:30:00.000Z",
-        "end": "2026-05-10T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "date": "2026-03-28T12:30:00.000Z",
+        "end": "2026-03-28T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNjA1MTBUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNjAzMjhUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20260516T133000Z",
@@ -2914,18 +2900,18 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20260712T123000Z",
+        "id": "n1ch820acqv9uh6t34r1v84lea_20260523T123000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Assuntos Musicais",
-        "date": "2026-07-12T12:30:00.000Z",
-        "end": "2026-07-12T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "date": "2026-05-23T12:30:00.000Z",
+        "end": "2026-05-23T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNjA3MTJUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNjA1MjNUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20260718T133000Z",
@@ -2942,18 +2928,18 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20260913T123000Z",
+        "id": "n1ch820acqv9uh6t34r1v84lea_20260725T123000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
         "locale": "Nova Crixás - Central",
         "desc": "Reunião Assuntos Musicais",
-        "date": "2026-09-13T12:30:00.000Z",
-        "end": "2026-09-13T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
+        "date": "2026-07-25T12:30:00.000Z",
+        "end": "2026-07-25T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNjA5MTNUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNjA3MjVUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20260919T133000Z",
@@ -2970,6 +2956,20 @@
         "recurring": "tp586rhiv94qa71p8bf74iib2c_R20250118T133000"
       },
       {
+        "id": "n1ch820acqv9uh6t34r1v84lea_20260926T123000Z",
+        "list": "REGIONAL FAINA",
+        "title": "ASSUNTOS MUSICAIS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Assuntos Musicais",
+        "date": "2026-09-26T12:30:00.000Z",
+        "end": "2026-09-26T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNjA5MjZUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
+      },
+      {
         "id": "jcck7k58vucl8sgiolbjaksr7c_20261004T120000Z",
         "list": "REGIONAL FAINA",
         "title": "ASSUNTOS MUSICAIS",
@@ -2982,20 +2982,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Online%20-%20Br%C3%A1s",
         "htmlLink": "https://www.google.com/calendar/event?eid=amNjazdrNTh2dWNsOHNnaW9sYmpha3NyN2NfMjAyNjEwMDRUMTIwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "jcck7k58vucl8sgiolbjaksr7c"
-      },
-      {
-        "id": "fsaj8ourgrdlk3j5k0svt18qbs_20261108T123000Z",
-        "list": "REGIONAL FAINA",
-        "title": "ASSUNTOS MUSICAIS",
-        "locale": "Nova Crixás - Central",
-        "desc": "Reunião Assuntos Musicais",
-        "date": "2026-11-08T12:30:00.000Z",
-        "end": "2026-11-08T14:00:00.000Z",
-        "updated": "2024-12-03T15:05:28.016Z",
-        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNhajhvdXJncmRsazNqNWswc3Z0MThxYnNfMjAyNjExMDhUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
-        "recurring": "fsaj8ourgrdlk3j5k0svt18qbs_R20250112T123000"
       },
       {
         "id": "tp586rhiv94qa71p8bf74iib2c_20261121T133000Z",
@@ -3024,6 +3010,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NG9sNmxmMjBxMms0bXRnaGhtdjgwNzJka2dfMjAyNjExMjFUMTcwMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
         "recurring": "4ol6lf20q2k4mtghhmv8072dkg_R20251115T170000"
+      },
+      {
+        "id": "n1ch820acqv9uh6t34r1v84lea_20261128T123000Z",
+        "list": "REGIONAL FAINA",
+        "title": "ASSUNTOS MUSICAIS",
+        "locale": "Nova Crixás - Central",
+        "desc": "Reunião Assuntos Musicais",
+        "date": "2026-11-28T12:30:00.000Z",
+        "end": "2026-11-28T14:00:00.000Z",
+        "updated": "2025-04-20T13:18:15.026Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bjFjaDgyMGFjcXY5dWg2dDM0cjF2ODRsZWFfMjAyNjExMjhUMTIzMDAwWiA0N2NhZmMxOGYyNzkyYzU3MTA4MDlhYWU1NzMwNTJhZjk0MGVkMGI4ZDZhNjVkYzI1MjdmMmMwMDYzNDYwYzZhQGc",
+        "recurring": "n1ch820acqv9uh6t34r1v84lea"
       },
       {
         "id": "ov29hb353cfrf9icujk4q5uqu4_20250103T223000Z",
