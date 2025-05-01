@@ -730,17 +730,31 @@
         "recurring": ""
       },
       {
-        "id": "2edr06uci70kc8h3vdnnjpqstg",
-        "list": "",
+        "id": "8nrli1n4hrt2kkpdl2m9jd2qdc",
+        "list": "REGIONAL FAINA",
         "title": "Reunião de Conselhos para a Mocidade (RCM)",
-        "locale": "Jussara - Central",
+        "locale": "Nova Crixás - Central",
         "desc": "<br>",
         "date": "2025-08-31T17:00:00.000Z",
         "end": "2025-08-31T19:00:00.000Z",
-        "updated": "2025-05-01T17:15:36.122Z",
+        "updated": "2025-05-01T17:16:34.301Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmVkcjA2dWNpNzBrYzhoM3Zkbm5qcHFzdGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=OG5ybGkxbjRocnQya2twZGwybTlqZDJxZGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "8nrli1n4hrt2kkpdl2m9jd2qdc",
+        "list": "",
+        "title": "Reunião de Conselhos para a Mocidade (RCM)",
+        "locale": "Nova Crixás - Central",
+        "desc": "<br>",
+        "date": "2025-08-31T17:00:00.000Z",
+        "end": "2025-08-31T19:00:00.000Z",
+        "updated": "2025-05-01T17:16:34.301Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Nova%20Crix%C3%A1s%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=OG5ybGkxbjRocnQya2twZGwybTlqZDJxZGMgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
