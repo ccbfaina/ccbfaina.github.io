@@ -688,6 +688,34 @@
         "recurring": "d3lp0mmaq0mb27ulr45i95ef60_R20250823T090000"
       },
       {
+        "id": "ho4pna0msc0embsk31a166267s",
+        "list": "REGIONAL FAINA",
+        "title": "Reunião de Conselhos para a Mocidade (RCM)",
+        "locale": "Faina - Central",
+        "desc": "<br>",
+        "date": "2025-08-31T17:00:00.000Z",
+        "end": "2025-08-31T19:00:00.000Z",
+        "updated": "2025-05-01T17:13:09.029Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=aG80cG5hMG1zYzBlbWJzazMxYTE2NjI2N3MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "ho4pna0msc0embsk31a166267s",
+        "list": "",
+        "title": "Reunião de Conselhos para a Mocidade (RCM)",
+        "locale": "Faina - Central",
+        "desc": "<br>",
+        "date": "2025-08-31T17:00:00.000Z",
+        "end": "2025-08-31T19:00:00.000Z",
+        "updated": "2025-05-01T17:13:09.029Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=aG80cG5hMG1zYzBlbWJzazMxYTE2NjI2N3MgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
         "id": "5ulh9khspivf5dkn4nr0rt2sm8_20250920T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
