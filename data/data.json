@@ -716,17 +716,31 @@
         "recurring": ""
       },
       {
-        "id": "gf1aiooe16gnnblkhpvu1i74a0",
-        "list": "",
+        "id": "2edr06uci70kc8h3vdnnjpqstg",
+        "list": "REGIONAL FAINA",
         "title": "Reunião de Conselhos para a Mocidade (RCM)",
-        "locale": "Itaberaí - Central",
+        "locale": "Jussara - Central",
         "desc": "<br>",
         "date": "2025-08-31T17:00:00.000Z",
         "end": "2025-08-31T19:00:00.000Z",
-        "updated": "2025-05-01T17:14:45.227Z",
+        "updated": "2025-05-01T17:15:36.122Z",
         "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Itabera%C3%AD%20-%20Central",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Z2YxYWlvb2UxNmdubmJsa2hwdnUxaTc0YTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmVkcjA2dWNpNzBrYzhoM3Zkbm5qcHFzdGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "2edr06uci70kc8h3vdnnjpqstg",
+        "list": "",
+        "title": "Reunião de Conselhos para a Mocidade (RCM)",
+        "locale": "Jussara - Central",
+        "desc": "<br>",
+        "date": "2025-08-31T17:00:00.000Z",
+        "end": "2025-08-31T19:00:00.000Z",
+        "updated": "2025-05-01T17:15:36.122Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Jussara%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmVkcjA2dWNpNzBrYzhoM3Zkbm5qcHFzdGcgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
         "recurring": ""
       },
       {
