@@ -632,20 +632,6 @@
         "recurring": "5r5m96rserlj6g4o5br98pp05t"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250527T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-05-27T22:30:00.000Z",
-        "end": "2025-05-28T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA1MjdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20250531T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -674,6 +660,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250610T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2025-06-10T22:30:00.000Z",
+        "end": "2025-06-11T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA2MTBUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "32qts1dloi27mc5u4j11uvuibo_20250615T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -700,20 +700,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=bWdjdmpnOGN0MnRhY25uNWV2NzJiYXRhdXFfMjAyNTA2MjFUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "mgcvjg8ct2tacnn5ev72batauq"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250624T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-06-24T22:30:00.000Z",
-        "end": "2025-06-25T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA2MjRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "0i5atdn0ke5h1srm28grjjn0eg_20250628T090000Z",
@@ -758,6 +744,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250708T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2025-07-08T22:30:00.000Z",
+        "end": "2025-07-09T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA3MDhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "ic3om7jjukse6cicm19hg93ijs_20250719T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
@@ -786,20 +786,6 @@
         "recurring": "32qts1dloi27mc5u4j11uvuibo"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250722T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-07-22T22:30:00.000Z",
-        "end": "2025-07-23T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA3MjJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20250726T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -826,6 +812,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNTA4MDdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250812T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2025-08-12T22:30:00.000Z",
+        "end": "2025-08-13T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA4MTJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "ar75bt2cjbgphdeb4qt09froio_20250816T090000Z",
@@ -868,20 +868,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ZDNscDBtbWFxMG1iMjd1bHI0NWk5NWVmNjBfMjAyNTA4MjNUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "d3lp0mmaq0mb27ulr45i95ef60_R20250823T090000"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250826T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-08-26T22:30:00.000Z",
-        "end": "2025-08-27T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA4MjZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "lq6ucjbta14dqpdclf49don748_20250830T223000Z",
@@ -968,6 +954,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250909T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2025-09-09T22:30:00.000Z",
+        "end": "2025-09-10T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA5MDlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "5ulh9khspivf5dkn4nr0rt2sm8_20250920T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
@@ -1008,20 +1008,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MzJxdHMxZGxvaTI3bWM1dTRqMTF1dnVpYm9fMjAyNTA5MjFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "32qts1dloi27mc5u4j11uvuibo"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20250923T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-09-23T22:30:00.000Z",
-        "end": "2025-09-24T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTA5MjNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "k2th62avfl0rhkalqr285a88lc_20250927T090000Z",
@@ -1080,6 +1066,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20251014T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2025-10-14T22:30:00.000Z",
+        "end": "2025-10-15T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTEwMTRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "qpgjianc0k8g3pfc5hts9jgobp_20251018T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
@@ -1136,20 +1136,6 @@
         "recurring": "lq6ucjbta14dqpdclf49don748"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20251028T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-10-28T22:30:00.000Z",
-        "end": "2025-10-29T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTEwMjhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "j9b0a4pv4bmq0tue2flnhe4lmg_20251106T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1162,6 +1148,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNTExMDZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20251111T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2025-11-11T22:30:00.000Z",
+        "end": "2025-11-12T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTExMTFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "075c0v6ef3luo7cko6rbpsqs00_20251115T090000Z",
@@ -1206,20 +1206,6 @@
         "recurring": "q3oios8s2ki31smdqj525j7k6s"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20251125T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-11-25T22:30:00.000Z",
-        "end": "2025-11-26T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTExMjVUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20251129T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1246,6 +1232,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNTEyMDRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20251209T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2025-12-09T22:30:00.000Z",
+        "end": "2025-12-10T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTEyMDlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "a2ut63c9f3g93upt79m29n81uk_20251220T090000Z",
@@ -1276,20 +1276,6 @@
         "recurring": "32qts1dloi27mc5u4j11uvuibo"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20251223T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2025-12-23T22:30:00.000Z",
-        "end": "2025-12-24T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNTEyMjNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20251227T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1316,6 +1302,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNjAxMDFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260113T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-01-13T22:30:00.000Z",
+        "end": "2026-01-14T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjAxMTNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "jdttcoa093r2jplqfcvdq982f0_20260117T090000Z",
@@ -1360,20 +1360,6 @@
         "recurring": "0i5atdn0ke5h1srm28grjjn0eg"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260127T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-01-27T22:30:00.000Z",
-        "end": "2026-01-28T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjAxMjdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20260131T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1400,6 +1386,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNjAyMDVUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260210T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-02-10T22:30:00.000Z",
+        "end": "2026-02-11T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjAyMTBUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "32qts1dloi27mc5u4j11uvuibo_20260215T223000Z",
@@ -1430,20 +1430,6 @@
         "recurring": "r6p7nvf2rb1otqunsi4b77tl8m"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260224T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-02-24T22:30:00.000Z",
-        "end": "2026-02-25T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjAyMjRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20260228T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1472,6 +1458,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260310T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-03-10T22:30:00.000Z",
+        "end": "2026-03-11T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjAzMTBUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "32qts1dloi27mc5u4j11uvuibo_20260315T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1498,20 +1498,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=NXVsaDlraHNwaXZmNWRrbjRucjBydDJzbThfMjAyNjAzMjFUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "5ulh9khspivf5dkn4nr0rt2sm8_R20250315T090000"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260324T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-03-24T22:30:00.000Z",
-        "end": "2026-03-25T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjAzMjRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "d3lp0mmaq0mb27ulr45i95ef60_20260328T090000Z",
@@ -1554,6 +1540,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNjA0MDJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260414T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-04-14T22:30:00.000Z",
+        "end": "2026-04-15T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA0MTRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "u0aht8c5dejiu5431es3srvd9e_20260418T090000Z",
@@ -1626,20 +1626,6 @@
         "recurring": "lq6ucjbta14dqpdclf49don748"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260428T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-04-28T22:30:00.000Z",
-        "end": "2026-04-29T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA0MjhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "j9b0a4pv4bmq0tue2flnhe4lmg_20260507T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1652,6 +1638,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNjA1MDdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260512T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-05-12T22:30:00.000Z",
+        "end": "2026-05-13T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA1MTJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "51573njveul3dnqkgplr05gbqk_20260516T090000Z",
@@ -1696,20 +1696,6 @@
         "recurring": "0e1io5evt95o60cgao1ss5kmne"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260526T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-05-26T22:30:00.000Z",
-        "end": "2026-05-27T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA1MjZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20260530T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1738,6 +1724,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260609T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-06-09T22:30:00.000Z",
+        "end": "2026-06-10T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA2MDlUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "mgcvjg8ct2tacnn5ev72batauq_20260620T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
@@ -1764,20 +1764,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MzJxdHMxZGxvaTI3bWM1dTRqMTF1dnVpYm9fMjAyNjA2MjFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "32qts1dloi27mc5u4j11uvuibo"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260623T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-06-23T22:30:00.000Z",
-        "end": "2026-06-24T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA2MjNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "q3oios8s2ki31smdqj525j7k6s_20260627T090000Z",
@@ -1820,6 +1806,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNjA3MDJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260714T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-07-14T22:30:00.000Z",
+        "end": "2026-07-15T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA3MTRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "ic3om7jjukse6cicm19hg93ijs_20260718T090000Z",
@@ -1878,20 +1878,6 @@
         "recurring": "lq6ucjbta14dqpdclf49don748"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260728T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-07-28T22:30:00.000Z",
-        "end": "2026-07-29T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA3MjhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "j9b0a4pv4bmq0tue2flnhe4lmg_20260806T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1904,6 +1890,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNjA4MDZUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260811T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-08-11T22:30:00.000Z",
+        "end": "2026-08-12T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA4MTFUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "ar75bt2cjbgphdeb4qt09froio_20260815T090000Z",
@@ -1948,20 +1948,6 @@
         "recurring": "0i5atdn0ke5h1srm28grjjn0eg"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260825T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-08-25T22:30:00.000Z",
-        "end": "2026-08-26T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA4MjVUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20260829T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -1988,6 +1974,20 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=ajliMGE0cHY0Ym1xMHR1ZTJmbG5oZTRsbWdfMjAyNjA5MDNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
+      },
+      {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260908T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-09-08T22:30:00.000Z",
+        "end": "2026-09-09T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA5MDhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "5ulh9khspivf5dkn4nr0rt2sm8_20260919T090000Z",
@@ -2032,20 +2032,6 @@
         "recurring": "32qts1dloi27mc5u4j11uvuibo"
       },
       {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20260922T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-09-22T22:30:00.000Z",
-        "end": "2026-09-23T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjA5MjJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
-      },
-      {
         "id": "lq6ucjbta14dqpdclf49don748_20260926T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -2088,6 +2074,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20261013T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-10-13T22:30:00.000Z",
+        "end": "2026-10-14T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjEwMTNUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "qpgjianc0k8g3pfc5hts9jgobp_20261017T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
@@ -2114,20 +2114,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MzJxdHMxZGxvaTI3bWM1dTRqMTF1dnVpYm9fMjAyNjEwMThUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "32qts1dloi27mc5u4j11uvuibo"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20261027T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-10-27T22:30:00.000Z",
-        "end": "2026-10-28T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjEwMjdUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "lq6ucjbta14dqpdclf49don748_20261031T223000Z",
@@ -2158,6 +2144,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20261110T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-11-10T22:30:00.000Z",
+        "end": "2026-11-11T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjExMTBUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "32qts1dloi27mc5u4j11uvuibo_20261115T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
@@ -2184,20 +2184,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Faina%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MDc1YzB2NmVmM2x1bzdja282cmJwc3FzMDBfMjAyNjExMjFUMDkwMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "075c0v6ef3luo7cko6rbpsqs00_R20251115T090000"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20261124T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-11-24T22:30:00.000Z",
-        "end": "2026-11-25T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjExMjRUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "lq6ucjbta14dqpdclf49don748_20261128T223000Z",
@@ -2228,6 +2214,20 @@
         "recurring": "j9b0a4pv4bmq0tue2flnhe4lmg"
       },
       {
+        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20261208T223000Z",
+        "list": "LOCALIDADES",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Jardim Vale do Sol",
+        "desc": "",
+        "date": "2026-12-08T22:30:00.000Z",
+        "end": "2026-12-09T00:00:00.000Z",
+        "updated": "2025-05-13T16:07:10.991Z",
+        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjEyMDhUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
+        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
+      },
+      {
         "id": "a2ut63c9f3g93upt79m29n81uk_20261219T090000Z",
         "list": "LOCALIDADES",
         "title": "Cozinha Regional Faina",
@@ -2254,20 +2254,6 @@
         "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
         "htmlLink": "https://www.google.com/calendar/event?eid=MzJxdHMxZGxvaTI3bWM1dTRqMTF1dnVpYm9fMjAyNjEyMjBUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
         "recurring": "32qts1dloi27mc5u4j11uvuibo"
-      },
-      {
-        "id": "lnd3ds6q0qgfligr5f9i63qi7k_20261222T223000Z",
-        "list": "LOCALIDADES",
-        "title": "Rodizio Atendimento",
-        "locale": "Uruana - Jardim Vale do Sol",
-        "desc": "",
-        "date": "2026-12-22T22:30:00.000Z",
-        "end": "2026-12-23T00:00:00.000Z",
-        "updated": "2025-05-13T16:02:14.308Z",
-        "gid": "3e3188ab2f3260759a6d8c82b77bdd769824b3516f39a2078c0d66bb1f398425@group.calendar.google.com",
-        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Jardim%20Vale%20do%20Sol",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bG5kM2RzNnEwcWdmbGlncjVmOWk2M3FpN2tfMjAyNjEyMjJUMjIzMDAwWiAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGc",
-        "recurring": "lnd3ds6q0qgfligr5f9i63qi7k"
       },
       {
         "id": "ki5coa5ehfjn6c55mdan9dps28_20261226T090000Z",
