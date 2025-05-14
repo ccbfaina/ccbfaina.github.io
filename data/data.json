@@ -632,6 +632,34 @@
         "recurring": "5r5m96rserlj6g4o5br98pp05t"
       },
       {
+        "id": "deoa6i7pi0s5btv3avq9nn4c90",
+        "list": "REGIONAL FAINA",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Central",
+        "desc": "Itamar Ferreira da Menezes",
+        "date": "2025-05-29T22:30:00.000Z",
+        "end": "2025-05-30T00:00:00.000Z",
+        "updated": "2025-05-14T11:40:25.541Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZGVvYTZpN3BpMHM1YnR2M2F2cTlubjRjOTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
+        "id": "deoa6i7pi0s5btv3avq9nn4c90",
+        "list": "",
+        "title": "Rodizio Atendimento",
+        "locale": "Uruana - Central",
+        "desc": "Itamar Ferreira da Menezes",
+        "date": "2025-05-29T22:30:00.000Z",
+        "end": "2025-05-30T00:00:00.000Z",
+        "updated": "2025-05-14T11:40:25.541Z",
+        "gid": "47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
+        "maps": "https://www.google.com/maps/search/?api=1&query=CCB Congregação Uruana%20-%20Central",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZGVvYTZpN3BpMHM1YnR2M2F2cTlubjRjOTAgNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBn",
+        "recurring": ""
+      },
+      {
         "id": "lq6ucjbta14dqpdclf49don748_20250531T223000Z",
         "list": "LOCALIDADES",
         "title": "Rodizio Atendimento",
