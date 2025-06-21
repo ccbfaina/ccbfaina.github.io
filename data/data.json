@@ -1668,6 +1668,19 @@
       {
         "id": 0,
         "list": "REGIONAL FAINA",
+        "title": "AVISOS À IRMANDADE",
+        "locale": "Regional",
+        "desc": "31/08 Reunião de Conselhos para a Mocidade (RCM) \nnas centrais de Faina, Itaberaí, Jussara e Nova Crixás ",
+        "date": "2025-08-17T22:00:00.000Z",
+        "end": "2025-08-18T00:00:00.000Z",
+        "updated": "2025-06-21T14:01:28.852Z",
+        "gid": "81i2t8p3pig3q3atbg235of0s8",
+        "maps": "ODFpMnQ4cDNwaWczcTNhdGJnMjM1b2YwczggNDdjYWZjMThmMjc5MmM1NzEwODA5YWFlNTczMDUyYWY5NDBlZDBiOGQ2YTY1ZGMyNTI3ZjJjMDA2MzQ2MGM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "recurring": "false"
+      },
+      {
+        "id": 0,
+        "list": "REGIONAL FAINA",
         "title": "REUNIÕES PARA A MOCIDADE",
         "locale": "Itapuranga - Central",
         "desc": "<span style=\"letter-spacing: 0.1px;\">José Maria dos Santos</span>",
