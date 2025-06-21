@@ -13759,19 +13759,6 @@
         "id": 0,
         "list": "DARPE",
         "title": "LAR DE IDOSOS",
-        "locale": "Jussara - Lar Beneficiente Bom Jesus",
-        "desc": "Ir. Valter Junior Vieira da Silva",
-        "date": "2025-06-21T18:30:00.000Z",
-        "end": "2025-06-21T20:00:00.000Z",
-        "updated": "2024-10-21T16:09:53.962Z",
-        "gid": "0tv71284hi57adkao29mi7g4ee_R20241026T183000",
-        "maps": "MHR2NzEyODRoaTU3YWRrYW8yOW1pN2c0ZWVfUjIwMjQxMDI2VDE4MzAwMCBiZDczYjhmZGMwZjg5ZjMzMzkxODk4YzM5NmNjOTA1MDdhYzg3MGQyMmU1NmNiYWMxMTc3YmE3NzBkMDUyZTJmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "LAR DE IDOSOS",
         "locale": "ITAPIRAPUÃ - ABRIGO VEREADOR HELLENO RODRIGUES PAES",
         "desc": "IR. JONAS DOMINGUES VIEIRA\nIR. MARILZO HONÓRIO DA SILVA",
         "date": "2025-06-21T19:00:00.000Z",
@@ -16353,19 +16340,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "j3gbq7e2i7j1dsohhspu235i3e",
         "maps": "ajNnYnE3ZTJpN2oxZHNvaGhzcHUyMzVpM2UgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "DARPE",
-        "title": "CASA DE RECUPERAÇÃO",
-        "locale": "ITAPURANGA - Comunidade Terapêutica Bom Pastor",
-        "desc": "Ir. Hedyone Campos",
-        "date": "2025-06-21T18:00:00.000Z",
-        "end": "2025-06-21T20:00:00.000Z",
-        "updated": "2023-12-26T01:48:09.340Z",
-        "gid": "dkgs2c3v8aeamfso44ne4428h0",
-        "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
