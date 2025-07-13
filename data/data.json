@@ -7922,19 +7922,6 @@
         "id": 0,
         "list": "LOCALIDADES",
         "title": "ENSAIO LOCAL",
-        "locale": "GOIÁS - CENTRAL",
-        "desc": "RESP. ARTHOS MORAES VIEIRA",
-        "date": "2025-07-13T20:00:00.000Z",
-        "end": "2025-07-13T22:00:00.000Z",
-        "updated": "2024-02-25T03:02:00.890Z",
-        "gid": "5cr30kjik9h6jvbrlsh8enu6i4_R20240310T200000",
-        "maps": "NWNyMzBramlrOWg2anZicmxzaDhlbnU2aTRfUjIwMjQwMzEwVDIwMDAwMCAzZTMxODhhYjJmMzI2MDc1OWE2ZDhjODJiNzdiZGQ3Njk4MjRiMzUxNmYzOWEyMDc4YzBkNjZiYjFmMzk4NDI1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20=",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "LOCALIDADES",
-        "title": "ENSAIO LOCAL",
         "locale": "Mossâmedes - Central",
         "desc": "Enc. Énio José Ferreira",
         "date": "2025-08-03T22:00:00.000Z",
@@ -16015,19 +16002,6 @@
         "updated": "2023-12-26T01:48:09.340Z",
         "gid": "dkgs2c3v8aeamfso44ne4428h0",
         "maps": "ZGtnczJjM3Y4YWVhbWZzbzQ0bmU0NDI4aDAgYmQ3M2I4ZmRjMGY4OWYzMzM5MTg5OGMzOTZjYzkwNTA3YWM4NzBkMjJlNTZjYmFjMTE3N2JhNzcwZDA1MmUyZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-        "recurring": "true"
-      },
-      {
-        "id": 0,
-        "list": "Rodízios Faina",
-        "title": "PORTEIRO",
-        "locale": "GOIÁS - VILA LIONS",
-        "desc": "Sebastiao Amilto da Silva<br><b>Ensaio Local</b>",
-        "date": "2025-07-13T19:00:00.000Z",
-        "end": "2025-07-13T22:00:00.000Z",
-        "updated": "2024-08-12T03:04:43.454Z",
-        "gid": "5c0qib2gq3ovb0qh4l2omcuspg",
-        "maps": "NWMwcWliMmdxM292YjBxaDRsMm9tY3VzcGcgYTdmNzAzNTgxNjc1NjFlZWNhOTk0ZDdjNTk4ZDk2MzM3MTczZjU3NmU4NWRlOGZlNWNiODY0OTRhMWM1NzljNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
         "recurring": "true"
       },
       {
