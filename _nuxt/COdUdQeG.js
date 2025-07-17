@@ -1,1 +1,0 @@
-import{_ as o,c as t,a,o as s}from"./DTQuZARa.js";const r={class:"form-container"},c={__name:"manutencao",setup(n){return(_,e)=>(s(),t("div",r,e[0]||(e[0]=[a("iframe",{src:"https://docs.google.com/forms/d/e/1FAIpQLSfmMdSoLv7UqttMIloUgHs7_kMJZw_JIiXw6qlDbD7M_lVPdQ/viewform?embedded=true"},"Carregando…",-1)])))}},m=o(c,[["__scopeId","data-v-72c96b14"]]);export{m as default};
