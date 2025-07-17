@@ -9,14 +9,6 @@
       "icon": "la la-list"
     },
     {
-      "href": "/lista/calendar?start=2025-01-01&end=2025-12-31&calendars=REGIONAL+FAINA",
-      "title": "Calendário Faina 2025",
-      "description": "Calendário Regional Faina 2025",
-      "group": "Regional Faina",
-      "fixed": true,
-      "icon": "la la-calendar"
-    },
-    {
       "href": "/hinos",
       "title": "Hinos",
       "description": "Hinos de Louvores a Deus",
@@ -26,8 +18,8 @@
     },
     {
       "href": "/forms/manutencao",
-      "title": "Manutenção Preventiva: Solicitação",
-      "description": "Solicitação de Manutenção Preventiva",
+      "title": "Abertura de Chamado: Manutenção Predial",
+      "description": "Registro de solicitação para manutenção, reforma, reparo",
       "group": "Página",
       "icon": "la la-tools"
     },
@@ -54,8 +46,8 @@
     },
     {
       "href": "/forms/levantamento_preventiva",
-      "title": "Levantamento Preventiva: informar",
-      "description": "Dados iniciais para Levantamento Preventiva",
+      "title": "Avaliação Estrutural e de Manutenção",
+      "description": "Levantamento inicial das condições estruturais e de manutenção das igrejas",
       "group": "Página",
       "icon": "la la-info-circle"
     },
@@ -65,6 +57,14 @@
       "description": "Informações sobre",
       "group": "Página",
       "icon": "la la-info"
+    },
+    {
+      "href": "/lista/calendar?start=2025-01-01&end=2025-12-31&calendars=REGIONAL+FAINA",
+      "title": "Calendário Faina 2025",
+      "description": "Calendário Regional Faina 2025",
+      "group": "Regional Faina",
+      "fixed": true,
+      "icon": "la la-calendar"
     },
     {
       "href": "https://suporte.congregacao.org.br/chamado",
