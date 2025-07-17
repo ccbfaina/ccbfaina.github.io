@@ -48,7 +48,7 @@
     {
       "href": "/forms/contato",
       "title": "Contato",
-      "description": "Pagina de contato, ajuda ou suporte",
+      "description": "Pagina de contato, chamado, ajuda ou suporte",
       "group": "Portal",
       "icon": "la la-envelope"
     },
@@ -78,6 +78,13 @@
       "title": "DEPAC",
       "description": "DEPAC",
       "group": "Página"
+    },
+    {
+      "href": "https://congregacaocristanobrasil.org.br/circular/carta-apresentacao",
+      "title": "Carta de Apresentação",
+      "description": "Carta de Apresentação",
+      "group": "Portal",
+      "icon": "la la-file-alt"
     },
     {
       "href": "/eventos?calendar=47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
