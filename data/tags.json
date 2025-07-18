@@ -81,17 +81,18 @@
       "icon": "la la-file-alt"
     },
     {
-      "href": "/depac",
-      "title": "DEPAC",
-      "description": "DEPAC",
-      "group": "Página"
-    },
-    {
       "href": "/eventos?calendar=47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
       "title": "Editar Eventos Regional Faina",
       "description": "Editar Eventos do Calendário",
       "group": "Regional Faina",
       "icon": "la la-calendar"
+    },
+    {
+      "href": "/lista?search=DARPE|HOSPITAL|IDOSOS|RECUPERAÇÃO&calendars=DARPE,REGIONAL+FAINA",
+      "title": "DARPE",
+      "description": "Lista DARPE (Departamento da Assistência Religiosa para Evangelização)",
+      "group": "Detalhes",
+      "autoSave": true
     },
     {
       "href": "/lista?search=Departamento%20Acessibilidade%20GEL",
@@ -615,13 +616,6 @@
       "href": "/lista?search=Assuntos Musicais",
       "title": "Reunião Assuntos Musicais",
       "description": "Lista Reunião Assuntos Musicais",
-      "group": "Detalhes",
-      "autoSave": true
-    },
-    {
-      "href": "/lista?search=DARPE",
-      "title": "Reunião DARPE (Departamento da Assistência Religiosa para Evangelização)",
-      "description": "Lista Reunião DARPE (Departamento da Assistência Religiosa para Evangelização)",
       "group": "Detalhes",
       "autoSave": true
     },
