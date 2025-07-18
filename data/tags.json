@@ -74,17 +74,17 @@
       "icon": "la la-headset"
     },
     {
-      "href": "/depac",
-      "title": "DEPAC",
-      "description": "DEPAC",
-      "group": "Página"
-    },
-    {
       "href": "https://congregacaocristanobrasil.org.br/circular/carta-apresentacao",
       "title": "Carta de Apresentação",
       "description": "Carta de Apresentação",
       "group": "Portal",
       "icon": "la la-file-alt"
+    },
+    {
+      "href": "/depac",
+      "title": "DEPAC",
+      "description": "DEPAC",
+      "group": "Página"
     },
     {
       "href": "/eventos?calendar=47cafc18f2792c5710809aae573052af940ed0b8d6a65dc2527f2c0063460c6a@group.calendar.google.com",
@@ -104,6 +104,38 @@
       "href": "/lista?locale=GOIAS -",
       "title": "Cidade de Goiás",
       "description": "Lista Cid. Goiás",
+      "group": "Regional Faina",
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
+    },
+    {
+      "href": "/lista?locale=Faina -",
+      "title": "Faina",
+      "description": "Cidade Faina",
+      "group": "Regional Faina",
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
+    },
+    {
+      "href": "/lista?locale=Goiânia -",
+      "title": "Goiânia",
+      "description": "Cidade Goiânia",
+      "group": "Regional Faina",
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
+    },
+    {
+      "href": "/lista?locale=Itaberaí -",
+      "title": "Itaberaí",
+      "description": "Cidade Itaberaí",
+      "group": "Regional Faina",
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
+    },
+    {
+      "href": "/lista?locale=Jussara -",
+      "title": "Jussara",
+      "description": "Cidade Jussara",
       "group": "Regional Faina",
       "autoSave": true,
       "icon": "las la-map-marker-alt"
@@ -140,22 +172,6 @@
       "icon": "las la-map-marker-alt"
     },
     {
-      "href": "/lista?locale=Faina -",
-      "title": "Faina",
-      "description": "Cidade Faina",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Goiânia -",
-      "title": "Goiânia",
-      "description": "Cidade Goiânia",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
       "href": "/lista?locale=Guaraíta -",
       "title": "Guaraíta",
       "description": "Cidade Guaraíta",
@@ -172,14 +188,6 @@
       "icon": "las la-map-marker-alt"
     },
     {
-      "href": "/lista?locale=Itaberaí -",
-      "title": "Itaberaí",
-      "description": "Cidade Itaberaí",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
       "href": "/lista?locale=Itapirapuã -",
       "title": "Itapirapuã",
       "description": "Cidade Itapirapuã",
@@ -191,14 +199,6 @@
       "href": "/lista?locale=Itapuranga -",
       "title": "Itapuranga",
       "description": "Cidade Itapuranga",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Jussara -",
-      "title": "Jussara",
-      "description": "Cidade Jussara",
       "group": "Regional Faina",
       "autoSave": true,
       "icon": "las la-map-marker-alt"
