@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "Anciães",
+    "nome": "Neide da Silva Pereira",
+    "ordenacao": "11/05/1984",
+    "local": "Jussara - Setor Planalto"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Antônio Otaviano Vieira",
+    "ordenacao": "18/06/1995",
+    "local": "Itaberaí - Vila Leonor"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Itamar Ferreira de Menezes",
+    "ordenacao": "01/06/2002",
+    "local": "Aruanã - Setor Parque Aeroporto"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Fernando Ferreira de Menezes",
+    "ordenacao": "01/06/2002",
+    "local": "Aruanã - Setor Parque Aeroporto"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Adeilson José da Silva",
+    "ordenacao": "05/10/2002",
+    "local": "Faina - Vila Vieira"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Vagner Garcia dos Reis",
+    "ordenacao": "06/07/2003",
+    "local": "Faina - Vila Vieira"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Paulo Bento Ferreira Camelo",
+    "ordenacao": "29/05/2005",
+    "local": "Jussara - Setor Planalto"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Joildo Liberal Silva",
+    "ordenacao": "11/07/2009",
+    "local": "São Miguel do Araguaia - Bosque da Saúde"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Wilton da Silva Costa",
+    "ordenacao": "28/05/2016",
+    "local": "Nova Crixás - Setor Industrial"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Walter Borges Costa",
+    "ordenacao": "28/05/2016",
+    "local": "Nova Crixás - Setor Industrial"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Vicente Francisco de Paulo",
+    "ordenacao": "11/06/2016",
+    "local": "Jussara - Setor Planalto"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Emival Divino Fernandes",
+    "ordenacao": "24/06/2017",
+    "local": "Itaberaí - Vila Leonor"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Joel Mauro Euzébio da Silva",
+    "ordenacao": "04/06/2017",
+    "local": "Itaberaí - Vila Leonor"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Valdir Souto de Lima",
+    "ordenacao": "18/06/2017",
+    "local": "Faina - Vila Vieira"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Joce Albino da Silva",
+    "ordenacao": "02/07/2017",
+    "local": "São Miguel do Araguaia - Bosque da Saúde"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Ismael Alves Rangel Filho",
+    "ordenacao": "17/03/2019",
+    "local": "Britânia - Vila Goiás"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Eurimar Macedo Modesto",
+    "ordenacao": "13/07/2019",
+    "local": "Mundo Novo - Setor São Lourenço"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Raimundo Ferreira Pereira",
+    "ordenacao": "27/07/2019",
+    "local": "São Miguel do Araguaia - Bosque da Saúde"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Marco Antonio Queiroz",
+    "ordenacao": "28/11/2021",
+    "local": "Goiás - Centro"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Nazaré Antonio da Silva",
+    "ordenacao": "18/06/2023",
+    "local": "Uruana - Distrito Uruíta"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Erivaldo Rodrigues dos Santos",
+    "ordenacao": "08/06/2023",
+    "local": "Jussara - Goiás"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Adeilson José da Silva Junior",
+    "ordenacao": "10/06/2023",
+    "local": "Faina - Vila Vieira"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Salmo Silvestre Souza",
+    "ordenacao": "11/06/2023",
+    "local": "Itapuranga - Vila Renata"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Paulo Silvano Santos",
+    "ordenacao": "24/06/2023",
+    "local": "Aruanã - Setor Parque Aeroporto"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Eclesiastes Araújo de Sousa",
+    "ordenacao": "25/06/2023",
+    "local": "Matrinchã - Centro"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Arlindo Barbosa Gomes",
+    "ordenacao": "02/07/2023",
+    "local": "Goiás - Centro"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Avnner Augusto Fonseca de Rezende",
+    "ordenacao": "09/07/2023",
+    "local": "Itaberaí - Vila Leonor"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Flavio da Costa Matos",
+    "ordenacao": "09/07/2023",
+    "local": "Itaberaí - Vila Leonor"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Israel Barbosa Euzébio da Silva",
+    "ordenacao": "09/07/2023",
+    "local": "Itaberaí - Vila Leonor"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "José Pereira Gomes",
+    "ordenacao": "13/08/2023",
+    "local": "São Miguel do Araguaia - Vila Martins"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Maycon Marques Guerra",
+    "ordenacao": "05/09/2024",
+    "local": "Jussara - Setor Planalto"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Robson Luiz Batista Gonzaga",
+    "ordenacao": "05/09/2024",
+    "local": "Jussara - Setor Guanabara"
+  },
+  {
+    "tipo": "Anciães",
+    "nome": "Rubem de Pinho Belarmino",
+    "ordenacao": "08/09/2024",
+    "local": "Mozarlândia - Setor Central"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Edvaldo César da Silva",
+    "ordenacao": "10/08/2024",
+    "local": "Itapuranga - Vila Renata"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Marcio Prado de Menezes",
+    "ordenacao": "24/08/2024",
+    "local": "Aruanã - Setor Parque Aeroporto"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "João Onesmo Bueno Neto",
+    "ordenacao": "25/08/2024",
+    "local": "Matrinchã - Centro"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Nalberto Carlos Neris",
+    "ordenacao": "31/08/2024",
+    "local": "Americano do Brasil - Setor Central"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Demilson da Costa",
+    "ordenacao": "01/09/2024",
+    "local": "Britânia - Vila Goiás"
+  },
+  {
+    "tipo": "Diáconos",
+    "nome": "Thiago Santos de Lacerda",
+    "ordenacao": "08/09/2024",
+    "local": "Mozarlândia - Setor Central"
+  }
+]
