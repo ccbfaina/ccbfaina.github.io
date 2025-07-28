@@ -102,11 +102,12 @@
       "autoSave": true
     },
     {
-      "href": "/lista?search=Departamento%20Acessibilidade%20GEL",
+      "href": "/lista?search=DEPAC|GEL|LIBRAS",
       "title": "GEL",
       "description": "GEL, Grupo de Estudo Libras, DEPAC",
       "group": "Lista",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "la la-list"
     },
     {
       "href": "/lista?locale=GOIAS -",
@@ -161,7 +162,8 @@
       "title": "Aruanã",
       "description": "Cidade Aruanã",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Britânia -",
