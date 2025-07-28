@@ -1,1 +1,51 @@
-{"name":"Agenda","short_name":"Agenda","description":"Agenda, Congregação, Atendimentos, Eventos, Faina, Batismo","start_url":"/","display":"standalone","background_color":"#d4d9e2","theme_color":"#d4d9e2","lang":"pt-BR","scope":"/","icons":[{"src":"/icons/icon-512x512.png","sizes":"512x512","type":"image/png"},{"src":"/icons/icon-384x384.png","sizes":"384x384","type":"image/png"},{"src":"/icons/icon-256x256.png","sizes":"256x256","type":"image/png"},{"src":"icons/icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/icons/icon-128x128.png","sizes":"128x128","type":"image/png"}],"screenshots":[{"src":"/screenshots/desktop.png","sizes":"1280x720","type":"image/png","form_factor":"wide"},{"src":"/screenshots/mobile.png","sizes":"540x960","type":"image/png"}]}
+{
+  "name": "Agenda",
+  "short_name": "Agenda",
+  "description": "Agenda, Congregação, Atendimentos, Eventos, Faina, Batismo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#d4d9e2",
+  "theme_color": "#d4d9e2",
+  "lang": "pt-BR",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshots/mobile.png",
+      "sizes": "540x960",
+      "type": "image/png"
+    }
+  ]
+}
