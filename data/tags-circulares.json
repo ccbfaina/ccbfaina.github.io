@@ -1759,6 +1759,54 @@
       "group": "Circular",
       "fixed": false,
       "icon": "las la-file-signature"
+    },
+    {
+      "href": "https://congregacaocristanobrasil.org.br/circular?id=231&t=circular",
+      "title": "Circular Nº 231 Tópicos de Ensinamentos para Cooperadores de Jovens e Menores - CJM - 29/jun/25 - Port / Esp / Fran",
+      "description": "Ministério e Irmandade. Publicado em 29 de junho de 2025.",
+      "group": "Circular",
+      "fixed": false,
+      "icon": "las la-file-signature"
+    },
+    {
+      "href": "https://congregacaocristanobrasil.org.br/circular?id=222&t=circular",
+      "title": "Circular Nº 222 Tópicos RGE 2025 - Português / Español / Français",
+      "description": "Ministério e Irmandade. Publicado em 18 de abril de 2025.",
+      "group": "Circular",
+      "fixed": false,
+      "icon": "las la-file-signature"
+    },
+    {
+      "href": "https://congregacaocristanobrasil.org.br/circular?id=196&t=circular",
+      "title": "Circular Nº 196 Tópicos de Ensinamentos sobre o atendimento em aldeias indígenas",
+      "description": "Reuniões Gerais de Ensinamentos - RGE 2024. Publicado em 31 de março de 2024.",
+      "group": "Circular",
+      "fixed": false,
+      "icon": "las la-file-signature"
+    },
+    {
+      "href": "https://congregacaocristanobrasil.org.br/circular/topicos?p=2023-04-01&pais=Brasil",
+      "title": "Tópico de ensinamento de 2023 Reunião Geral Anual de Ensinamentos - 2023",
+      "description": "RGE 2023. Publicado em 01 de abril de 2023.",
+      "group": "Circular",
+      "fixed": false,
+      "icon": "las la-file-signature"
+    },
+    {
+      "href": "https://congregacaocristanobrasil.org.br/circular/topicos?p=2022-04-01&pais=Brasil",
+      "title": "Tópico de ensinamento de 2022 Reunião Geral Anual de Ensinamentos - 2022",
+      "description": "RGE 2022. Publicado em 01 de abril de 2022.",
+      "group": "Circular",
+      "fixed": false,
+      "icon": "las la-file-signature"
+    },
+    {
+      "href": "https://congregacaocristanobrasil.org.br/circular/topicos?p=2021-09-01&pais=Brasil",
+      "title": "Tópico de ensinamento de 2021 Reunião Geral Anual de Ensinamentos - 2021",
+      "description": "RGE 2021. Publicado em 01 de setembro de 2021.",
+      "group": "Circular",
+      "fixed": false,
+      "icon": "las la-file-signature"
     }
   ],
   "defaultTags": [],
