@@ -59,6 +59,13 @@
       "icon": "la la-info"
     },
     {
+      "href": "https://congregacaocristanobrasil.org.br/relatorio",
+      "title": "Relatório Digital",
+      "description": "Relatório Digital Igrejas e Ministério",
+      "group": "Portal",
+      "icon": "las la-globe-americas"
+    },
+    {
       "href": "/lista/calendar?start=2025-01-01&end=2025-12-31&calendars=REGIONAL+FAINA",
       "title": "Calendário Faina 2025",
       "description": "Calendário Regional Faina 2025",
