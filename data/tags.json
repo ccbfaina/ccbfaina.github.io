@@ -106,8 +106,7 @@
       "title": "GEL",
       "description": "GEL, Grupo de Estudo Libras, DEPAC",
       "group": "Lista",
-      "autoSave": true,
-      "icon": "la la-list"
+      "autoSave": true
     },
     {
       "href": "/lista?locale=GOIAS -",
@@ -148,6 +147,21 @@
       "group": "Regional Faina",
       "autoSave": true,
       "icon": "las la-map-marker-alt"
+    },
+    {
+      "href": "/lista?title=Cozinha Regional Faina&calendars=LOCALIDADES",
+      "title": "Cozinha Regional Faina",
+      "description": "",
+      "group": "Atendimento",
+      "autoSave": true,
+      "icon": "la la-list"
+    },
+    {
+      "href": "/lista?search=RRM",
+      "title": "RRM - (Reunião Regional Ministerial)",
+      "description": "Lista RRM - (Reunião Regional Ministerial)",
+      "group": "Detalhes",
+      "autoSave": true
     },
     {
       "href": "/lista?locale=Araguapaz -",
@@ -517,13 +531,6 @@
       "autoSave": true
     },
     {
-      "href": "/lista?title=Cozinha Regional Faina&calendars=LOCALIDADES",
-      "title": "Cozinha Regional Faina",
-      "description": "",
-      "group": "Atendimento",
-      "autoSave": true
-    },
-    {
       "href": "/lista?search=Emival Fernandes",
       "title": "Emival Divino Fernandes",
       "description": "Lista Emival Divino Fernandes",
@@ -681,13 +688,6 @@
       "href": "/lista?search=RRM Anciães Diáconos",
       "title": "RRM Anciães e Diáconos",
       "description": "Lista RRM Anciães e Diáconos",
-      "group": "Detalhes",
-      "autoSave": true
-    },
-    {
-      "href": "/lista?search=RRM",
-      "title": "RRM - (Reunião Regional Ministerial)",
-      "description": "Lista RRM - (Reunião Regional Ministerial)",
       "group": "Detalhes",
       "autoSave": true
     },
