@@ -17,17 +17,19 @@
       "icon": "la la-music"
     },
     {
-      "href": "/forms/manutencao",
+      "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSfmMdSoLv7UqttMIloUgHs7_kMJZw_JIiXw6qlDbD7M_lVPdQ/viewform?embedded=true",
       "title": "Abertura de Chamado: Manutenção Predial",
       "description": "Registro de solicitação para manutenção, reforma, reparo",
-      "group": "Página",
+      "group": "Formulário",
+      "autoSave": true,
       "icon": "la la-tools"
     },
     {
-      "href": "/forms/levantamento_preventiva",
+      "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSfdE9nWfC9bDZMVqldFfo_tz1ol4nWvXDtUgyrw8o_AV1HkXw/viewform?embedded=true",
       "title": "Avaliação Estrutural e de Manutenção",
       "description": "Levantamento inicial das condições estruturais e de manutenção das igrejas",
-      "group": "Página",
+      "group": "Formulário",
+      "autoSave": true,
       "icon": "la la-info-circle"
     },
     {
@@ -162,6 +164,14 @@
       "description": "Lista RRM - (Reunião Regional Ministerial)",
       "group": "Detalhes",
       "autoSave": true
+    },
+    {
+      "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSeVeYWIzdVzo0qnpd7TknVXGV6ChVSzqaN4WNQmKCf0UlLgGw/viewform?embedded=true",
+      "title": "Informar atendimento Santa Ceia ou Batismo",
+      "description": "Formulário para informar atendimento de Santa Ceia ou Batismo",
+      "group": "Formulário",
+      "autoSave": true,
+      "icon": "la la-file-alt"
     },
     {
       "href": "/lista?locale=Araguapaz -",
