@@ -102,7 +102,7 @@
       "autoSave": true
     },
     {
-      "href": "/lista?search=DEPAC|GEL|LIBRAS",
+      "href": "/lista?search=LIBRAS|ACESSIBILIDADE",
       "title": "GEL",
       "description": "GEL, Grupo de Estudo Libras, DEPAC",
       "group": "Lista",
