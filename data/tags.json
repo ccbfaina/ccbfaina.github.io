@@ -166,12 +166,28 @@
       "autoSave": true
     },
     {
+      "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSchMNlLYFNfZlrLhOML9HbAXv7NoSRjePt1G8-epxG5nKQsXA/viewform?embedded=true",
+      "title": "Solicitar agendamento de atendimentos",
+      "description": "Solicitar agendamento de atendimentos, reuniões, Santa Ceia, Batismo...",
+      "group": "Formulário",
+      "autoSave": true,
+      "icon": "las la-bullhorn"
+    },
+    {
       "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSeVeYWIzdVzo0qnpd7TknVXGV6ChVSzqaN4WNQmKCf0UlLgGw/viewform?embedded=true",
       "title": "Informar atendimento Santa Ceia ou Batismo",
       "description": "Formulário para informar atendimento de Santa Ceia ou Batismo",
       "group": "Formulário",
       "autoSave": true,
       "icon": "las la-chart-pie"
+    },
+    {
+      "href": "https://lookerstudio.google.com/s/jgGqnpm8IgM",
+      "title": "Relátorio de Santa Ceia e Batismo",
+      "description": "Relátorio de Santa Ceia e Batismo",
+      "group": "Relatório",
+      "autoSave": true,
+      "icon": "las la-chart-bar"
     },
     {
       "href": "/lista?locale=Araguapaz -",
