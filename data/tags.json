@@ -9,6 +9,14 @@
       "icon": "la la-list"
     },
     {
+      "href": "/agenda?calendars=REGIONAL FAINA",
+      "title": "Agenda Regional Faina",
+      "description": "Agenda de atendimentos",
+      "group": "Regional Faina",
+      "fixed": true,
+      "icon": "la la-calendar"
+    },
+    {
       "href": "/hinos",
       "title": "Hinos",
       "description": "Hinos de Louvores a Deus",
