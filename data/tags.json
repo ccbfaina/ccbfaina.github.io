@@ -1,20 +1,20 @@
 {
   "tags": [
     {
-      "href": "/lista?calendars=REGIONAL FAINA",
-      "title": "Lista Regional Faina",
-      "description": "Lista de Atendimento da regional Faina",
-      "group": "Regional Faina",
-      "fixed": true,
-      "icon": "la la-list"
-    },
-    {
       "href": "/agenda?calendars=REGIONAL FAINA",
       "title": "Agenda Regional Faina",
       "description": "Agenda de atendimentos",
       "group": "Regional Faina",
       "fixed": true,
       "icon": "la la-calendar"
+    },
+    {
+      "href": "/lista?calendars=REGIONAL FAINA",
+      "title": "Lista Regional Faina",
+      "description": "Lista de Atendimento da regional Faina",
+      "group": "Regional Faina",
+      "fixed": true,
+      "icon": "la la-list"
     },
     {
       "href": "/hinos",
