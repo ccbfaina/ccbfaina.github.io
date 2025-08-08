@@ -1,7 +1,7 @@
 {
   "tags": [
     {
-      "href": "/agenda?calendars=REGIONAL FAINA",
+      "href": "/agenda?calendars=REGIONAL+FAINA,RPC,LOCALIDADES,DARPE,Rodízios+Faina",
       "title": "Agenda Regional Faina",
       "description": "Agenda de atendimentos",
       "group": "Regional Faina",
@@ -15,6 +15,14 @@
       "group": "Regional Faina",
       "fixed": true,
       "icon": "la la-list"
+    },
+    {
+      "href": "/agenda?calendars=Regional+Goiânia",
+      "title": "Agenda Regional Goiânia",
+      "description": "Agenda de atendimentos",
+      "group": "Regional Goiânia",
+      "fixed": true,
+      "icon": "la la-calendar"
     },
     {
       "href": "/lista?calendars=Regional+Goiânia",
