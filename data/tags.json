@@ -2,31 +2,31 @@
   "tags": [
     {
       "href": "/agenda?calendars=REGIONAL+FAINA,RPC,LOCALIDADES,DARPE,Rodízios+Faina",
-      "title": "Agenda Regional Faina",
+      "title": "Faina: Agenda Regional",
       "description": "Agenda de atendimentos",
       "group": "Regional Faina",
       "fixed": true,
       "icon": "la la-calendar"
     },
     {
-      "href": "/lista?calendars=REGIONAL FAINA",
-      "title": "Lista Regional Faina",
-      "description": "Lista de Atendimento da regional Faina",
-      "group": "Regional Faina",
-      "fixed": true,
-      "icon": "la la-list"
-    },
-    {
       "href": "/agenda?calendars=Regional+Goiânia",
-      "title": "Agenda Regional Goiânia",
+      "title": "Goiânia: Agenda Regional",
       "description": "Agenda de atendimentos",
       "group": "Regional Goiânia",
       "fixed": true,
       "icon": "la la-calendar"
     },
     {
+      "href": "/lista?calendars=REGIONAL FAINA",
+      "title": "Faina: Lista Regional",
+      "description": "Lista de Atendimento da regional Faina",
+      "group": "Regional Faina",
+      "fixed": true,
+      "icon": "la la-list"
+    },
+    {
       "href": "/lista?calendars=Regional+Goiânia",
-      "title": "Lista Regional Goiânia",
+      "title": "Goiânia: Lista Regional",
       "description": "Lista de Atendimento da regional Goiânia",
       "group": "Regional Goiânia",
       "fixed": true,
