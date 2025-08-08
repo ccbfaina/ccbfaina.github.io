@@ -17,6 +17,14 @@
       "icon": "la la-list"
     },
     {
+      "href": "/lista?calendars=Regional+Goiânia",
+      "title": "Lista Regional Goiânia",
+      "description": "Lista de Atendimento da regional Goiânia",
+      "group": "Regional Goiânia",
+      "fixed": true,
+      "icon": "la la-list"
+    },
+    {
       "href": "/hinos",
       "title": "Hinos",
       "description": "Hinos de Louvores a Deus",
@@ -810,8 +818,8 @@
       "autoSave": true
     },
     {
-      "href": "https://listagoiania.ccbgo.org.br",
-      "title": "Lista Goiânia",
+      "href": "https://ccbgo-sec-atendimentos-diversos-app.fasusz.easypanel.host", 
+      "title": "Lista Goiânia 2",
       "description": "Lista Goiânia",
       "group": "Lista",
       "autoSave": true,
