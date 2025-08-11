@@ -30,6 +30,7 @@
       "description": "Lista de Atendimento da regional Goiânia",
       "group": "Regional Goiânia",
       "fixed": true,
+      "updated": "2025-08-01T00:00:00Z",
       "icon": "la la-list"
     },
     {
@@ -154,7 +155,7 @@
       "href": "/lista?locale=Goiânia -",
       "title": "Goiânia",
       "description": "Cidade Goiânia",
-      "group": "Regional Faina",
+      "group": "Regional Goiânia",
       "autoSave": true,
       "icon": "las la-map-marker-alt"
     },
@@ -214,185 +215,9 @@
       "icon": "las la-chart-bar"
     },
     {
-      "href": "/lista?locale=Araguapaz -",
-      "title": "Araguapaz",
-      "description": "Cidade Araguapaz",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Aruanã -",
-      "title": "Aruanã",
-      "description": "Cidade Aruanã",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Britânia -",
-      "title": "Britânia",
-      "description": "Cidade Britânia",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Carmo do Rio Verde -",
-      "title": "Carmo do Rio Verde",
-      "description": "Cidade Carmo do Rio Verde",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Guaraíta -",
-      "title": "Guaraíta",
-      "description": "Cidade Guaraíta",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Heitoraí -",
-      "title": "Heitoraí",
-      "description": "Cidade Heitoraí",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Itapirapuã -",
-      "title": "Itapirapuã",
-      "description": "Cidade Itapirapuã",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Itapuranga -",
-      "title": "Itapuranga",
-      "description": "Cidade Itapuranga",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Matrinchã -",
-      "title": "Matrinchã",
-      "description": "Cidade Matrinchã",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Morro Agudo de Goiás -",
-      "title": "Morro Agudo de Goiás",
-      "description": "Cidade Morro Agudo de Goiás",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Mossâmedes -",
-      "title": "Mossâmedes",
-      "description": "Cidade Mossâmedes",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Mozarlândia -",
-      "title": "Mozarlândia",
-      "description": "Cidade Mozarlândia",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Mundo Novo -",
-      "title": "Mundo Novo",
-      "description": "Cidade Mundo Novo",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
       "href": "/lista?locale=Nova Crixás -",
       "title": "Nova Crixás",
       "description": "Cidade Nova Crixás",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Novo Brasil -",
-      "title": "Novo Brasil",
-      "description": "Cidade Novo Brasil",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Santa Fé de Goiás -",
-      "title": "Santa Fé de Goiás",
-      "description": "Cidade Santa Fé de Goiás",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Santa Rita (Itaberaí) -",
-      "title": "Santa Rita (Itaberaí)",
-      "description": "Cidade Santa Rita (Itaberaí)",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=São José dos Bandeirantes -",
-      "title": "São José dos Bandeirantes",
-      "description": "Cidade São José dos Bandeirantes",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=São Miguel do Araguaia -",
-      "title": "São Miguel do Araguaia",
-      "description": "Cidade São Miguel do Araguaia",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=São Patrício -",
-      "title": "São Patrício",
-      "description": "Cidade São Patrício",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Uruana -",
-      "title": "Uruana",
-      "description": "Cidade Uruana",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Uruíta -",
-      "title": "Uruíta",
-      "description": "Cidade Uruíta",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
-    },
-    {
-      "href": "/lista?locale=Americano do Brasil -",
-      "title": "Americano do Brasil",
-      "description": "Cidade Americano do Brasil",
       "group": "Regional Faina",
       "autoSave": true,
       "icon": "las la-map-marker-alt"
@@ -839,6 +664,7 @@
       "description": "Inscrição Musicalização",
       "group": "Inscrição",
       "autoSave": true,
+      "updated": "2025-08-11T00:00:00Z",
       "icon": "la la-music"
     }
   ],
