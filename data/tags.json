@@ -651,7 +651,7 @@
       "autoSave": true
     },
     {
-      "href": "https://ccbgo-sec-atendimentos-diversos-app.fasusz.easypanel.host", 
+      "href": "https://ccbgo-sec-atendimentos-diversos-app.fasusz.easypanel.host",
       "title": "Lista Goiânia 2",
       "description": "Lista Goiânia",
       "group": "Lista",
@@ -659,13 +659,38 @@
       "icon": "la la-list"
     },
     {
-      "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSeWm04QUiOtWm9gBhcMU_HytIQfByBXlpRHAx1P1iC0jn49AA/viewform?embedded=true", 
+      "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSeWm04QUiOtWm9gBhcMU_HytIQfByBXlpRHAx1P1iC0jn49AA/viewform?embedded=true",
       "title": "Inscrição Musicalização",
       "description": "Inscrição Musicalização",
       "group": "Inscrição",
       "autoSave": true,
       "updated": "2025-08-11T00:00:00Z",
       "icon": "la la-music"
+    },
+    {
+      "href": "/servicos",
+      "title": "Serviços Sacros",
+      "description": "Batismos e Santa Ceia",
+      "group": "Orientações",
+      "autoSave": true,
+      "updated": "2025-08-11T00:00:00Z",
+      "icon": "la la-info"
+    },
+    {
+      "href": "/agenda?calendars=Regional+Uruaçu",
+      "title": "Uruaçu: Agenda Regional",
+      "description": "Agenda de atendimentos",
+      "group": "Regional Uruaçu",
+      "fixed": true,
+      "icon": "la la-calendar"
+    },
+    {
+      "href": "/lista?calendars=Regional+Uruaçu",
+      "title": "Uruaçu: Lista Regional",
+      "description": "Lista de Atendimento da regional Uruaçu",
+      "group": "Regional Uruaçu",
+      "fixed": true,
+      "icon": "la la-list"
     }
   ],
   "defaultTags": [],
