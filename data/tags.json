@@ -832,6 +832,14 @@
       "group": "Lista",
       "autoSave": true,
       "icon": "la la-list"
+    },
+    {
+      "href": "https://forms.gle/3wMBypCGhYf4ohvj8", 
+      "title": "Inscrição Musicalização",
+      "description": "Inscrição Musicalização",
+      "group": "Inscrição",
+      "autoSave": true,
+      "icon": "la la-music"
     }
   ],
   "defaultTags": [],
