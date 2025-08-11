@@ -690,6 +690,7 @@
       "description": "Lista de Atendimento da regional Uruaçu",
       "group": "Regional Uruaçu",
       "fixed": true,
+      "updated":"2025-08-09T03:00:00Z",
       "icon": "la la-list"
     }
   ],
