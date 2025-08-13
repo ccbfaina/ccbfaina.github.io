@@ -176,6 +176,14 @@
       "icon": "las la-map-marker-alt"
     },
     {
+      "href": "/lista?locale=Nova Crixás -",
+      "title": "Nova Crixás",
+      "description": "Cidade Nova Crixás",
+      "group": "Regional Faina",
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
+    },
+    {
       "href": "/lista?title=Cozinha Regional Faina&calendars=LOCALIDADES",
       "title": "Cozinha Regional Faina",
       "description": "",
@@ -213,14 +221,6 @@
       "group": "Relatório",
       "autoSave": true,
       "icon": "las la-chart-bar"
-    },
-    {
-      "href": "/lista?locale=Nova Crixás -",
-      "title": "Nova Crixás",
-      "description": "Cidade Nova Crixás",
-      "group": "Regional Faina",
-      "autoSave": true,
-      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?search=BATISMOS",
@@ -690,7 +690,25 @@
       "description": "Lista de Atendimento da regional Uruaçu",
       "group": "Regional Uruaçu",
       "fixed": true,
-      "updated":"2025-08-09T03:00:00Z",
+      "updated": "2025-08-09T03:00:00Z",
+      "icon": "la la-list"
+    },
+    {
+      "href": "/lista?calendars=Regional+Catalão",
+      "title": "Catalão: Lista Regional",
+      "description": "Lista de Atendimento da regional Catalão",
+      "group": "Regional Catalão",
+      "fixed": true,
+      "updated": "2025-06-23T03:00:00Z",
+      "icon": "la la-list"
+    },
+    {
+      "href": "/lista?calendars=Regional+Bom+Jesus",
+      "title": "Bom Jesus: Lista Regional",
+      "description": "Lista de Atendimento da regional Bom Jesus",
+      "group": "Regional Bom Jesus",
+      "fixed": true,
+      "updated": "2025-07-12T03:00:00Z",
       "icon": "la la-list"
     }
   ],
