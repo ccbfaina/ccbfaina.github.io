@@ -694,6 +694,22 @@
       "icon": "la la-list"
     },
     {
+      "href": "/agenda?calendars=Regional+Catalão",
+      "title": "Catalão: Agenda Regional",
+      "description": "Agenda de Atendimento da regional Catalão",
+      "group": "Regional Catalão",
+      "fixed": true,
+      "icon": "la la-calendar"
+    },
+    {
+      "href": "/agenda?calendars=Regional+Bom+Jesus",
+      "title": "Bom Jesus: Agenda Regional",
+      "description": "Agenda de Atendimento da regional Bom Jesus",
+      "group": "Regional Bom Jesus",
+      "fixed": true,
+      "icon": "la la-calendar"
+    },
+    {
       "href": "/lista?calendars=Regional+Catalão",
       "title": "Catalão: Lista Regional",
       "description": "Lista de Atendimento da regional Catalão",
