@@ -184,7 +184,7 @@
       "icon": "las la-map-marker-alt"
     },
     {
-      "href": "/lista?title=Cozinha Regional Faina&calendars=LOCALIDADES",
+      "href": "/agenda?title=Cozinha Regional&calendars=LOCALIDADES&groups=Rodízios",
       "title": "Cozinha Regional Faina",
       "description": "",
       "group": "Atendimento",
@@ -192,9 +192,9 @@
       "icon": "la la-list"
     },
     {
-      "href": "/lista?search=RRM",
-      "title": "RRM - (Reunião Regional Ministerial)",
-      "description": "Lista RRM - (Reunião Regional Ministerial)",
+      "href": "/agenda?search=RRM",
+      "title": "RRM",
+      "description": "RRM (Reunião Regional Ministerial)",
       "group": "Detalhes",
       "autoSave": true
     },
