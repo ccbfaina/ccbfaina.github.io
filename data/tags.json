@@ -1,7 +1,7 @@
 {
   "tags": [
     {
-      "href": "/agenda?calendars=Regional+Faina,RPC,LOCALIDADES,DARPE,Rodízios+Faina",
+      "href": "/agenda?calendars=Regional+Faina,EBI,Atendimentos+Regional+Faina,DARPE,Rodízios+Faina",
       "title": "Faina: Agenda Regional",
       "description": "Agenda de atendimentos",
       "group": "Regional Faina",
