@@ -224,6 +224,22 @@
       "icon": "las la-chart-bar"
     },
     {
+      "href": "https://lookerstudio.google.com/reporting/66f376cd-8e26-48f3-a66c-d5c7447cc938",
+      "title": "Relátorio SIGA Faina",
+      "description": "Relátorio Administração Regional Faina",
+      "group": "Relatório",
+      "autoSave": true,
+      "icon": "las la-chart-bar"
+    },
+    {
+      "href": "https://lookerstudio.google.com/s/srUcGPvYl-0",
+      "title": "Relátorio Preventiva Trimestral Faina",
+      "description": "Relátorio Preventiva Regional Faina",
+      "group": "Relatório",
+      "autoSave": true,
+      "icon": "las la-chart-bar"
+    },
+    {
       "href": "/lista?search=BATISMOS",
       "title": "BATISMOS",
       "description": "",
