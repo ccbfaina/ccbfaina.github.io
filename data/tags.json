@@ -102,6 +102,14 @@
       "icon": "la la-calendar"
     },
     {
+      "href": "/lista/calendar?start=2026-01-01&end=2026-12-31&calendars=Regional+Faina",
+      "title": "Calendário Faina 2026",
+      "description": "Calendário Regional Faina 2026",
+      "group": "Regional Faina",
+      "fixed": true,
+      "icon": "la la-calendar"
+    },
+    {
       "href": "https://suporte.congregacao.org.br/chamado",
       "title": "Chamado Brás",
       "description": "Chamado Brás",
