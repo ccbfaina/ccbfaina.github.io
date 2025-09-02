@@ -288,11 +288,13 @@ async function showTomorrowEventNotifications() {
     tomorrow.setDate(tomorrow.getDate() + 1);
     tomorrow.setHours(0, 0, 0, 0);
 
-    const tomorrowEvents = eventos.filter(event => {
-      const eventDate = new Date(event.date);
-      eventDate.setHours(0, 0, 0, 0);
-      return eventDate.getTime() === tomorrow.getTime();
-    });
+    const tomorrowEvents = eventos
+      .filter(e => ["Regional Faina", "Regional Goiânia", "Regional Uruaçu", "Regional Bom Jesus", "Regional Catalão"].includes(e.list))
+      .filter(event => {
+        const eventDate = new Date(event.date);
+        eventDate.setHours(0, 0, 0, 0);
+        return eventDate.getTime() === tomorrow.getTime();
+      });
 
     for (const event of tomorrowEvents) {
       const alreadyNotified = await isNotificationSent(event.id);
