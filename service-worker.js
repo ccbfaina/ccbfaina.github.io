@@ -25,66 +25,51 @@ if (workbox) {
  */
 // Define os detalhes do nome do cache
 workbox.core.setCacheNameDetails({
-  // Um prefixo dinâmico ajuda a invalidar caches durante o desenvolvimento
-  // ou quando você faz deploy de novas versões.
   prefix: "nuxt-app-cache",
 });
 
-// Força o Service Worker a ativar imediatamente
 self.skipWaiting();
-// Assume o controle de todas as abas abertas controladas por este Service Worker
 workbox.core.clientsClaim();
 
-// Estratégia para a Home Page (NetworkFirst): Sempre tenta a rede primeiro
 workbox.routing.setDefaultHandler(new workbox.strategies.NetworkFirst());
 
-// para garantir que a versão mais recente seja exibida.
 workbox.routing.registerRoute(
   /^\/$/,
   new workbox.strategies.NetworkFirst({
     cacheName: "home-page-cache",
     plugins: [
       new workbox.cacheableResponse.CacheableResponsePlugin({
-        statuses: [0, 200], // Cache respostas com status 0 (para CORS) e 200
+        statuses: [0, 200],
       }),
     ],
   })
 );
 
-// Estratégia para Ativos Estáticos (CacheFirst): Cacheia assets como JS, CSS, imagens.
-// Útil para performance e offline.
 workbox.routing.registerRoute(
   /\.(?:js|json|css|html|png|svg|ico|woff2|woff|ttf|otf|eot|jpg|jpeg|gif|bmp|webp|avif)$/,
   new workbox.strategies.CacheFirst({
     cacheName: "assets-cache",
     plugins: [
       new workbox.expiration.ExpirationPlugin({
-        maxEntries: 100, // Máximo de 100 entradas no cache
-        maxAgeSeconds: 30 * 24 * 60 * 60, // Expira após 30 dias
+        maxEntries: 100,
+        maxAgeSeconds: 30 * 24 * 60 * 60,
       }),
       new workbox.cacheableResponse.CacheableResponsePlugin({
-        statuses: [0, 200], // Cache respostas com status 0 (para CORS) e 200
+        statuses: [0, 200],
       }),
     ],
   })
 );
 
-// --- Ignorar URLs específicas (NetworkOnly) ---
-
-// **NÃO CACHEIA REQUISIÇÕES PARA GOOGLE TAG MANAGER**
-// Garante que o Google Tag Manager sempre seja buscado da rede.
 workbox.routing.registerRoute(
   /^https:\/\/www\.googletagmanager\.com\//,
   new workbox.strategies.NetworkOnly({
     plugins: [
       {
-        // Este plugin será chamado se a estratégia NetworkOnly falhar
         handlerDidError: async ({ request }) => {
           console.warn(
             `[Workbox] Failed to fetch GTM script from network: ${request.url}. This might be due to network issues or ad blockers.`
           );
-          // Retorna null para indicar que não há resposta, mas sem lançar um erro
-          // que o Workbox consideraria um "no-response" irrecuperável.
           return null;
         },
       },
@@ -92,15 +77,8 @@ workbox.routing.registerRoute(
   })
 );
 
-// **NÃO CACHEIA REQUISIÇÕES DE API**
-// Suas chamadas de API devem sempre ir para a rede para obter dados atualizados.
 workbox.routing.registerRoute(
   /.*\/api\/.*/,
-  new workbox.strategies.NetworkOnly()
-);
-
-workbox.routing.registerRoute(
-  /.*_nuxt.*/,
   new workbox.strategies.NetworkOnly()
 );
 
@@ -120,7 +98,6 @@ const firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 const messaging = firebase.messaging();
 
-// Este listener é acionado quando uma mensagem FCM é recebida
 messaging.onBackgroundMessage((payload) => {
   try {
     console.log(
@@ -128,7 +105,6 @@ messaging.onBackgroundMessage((payload) => {
       payload
     );
 
-    // Garante que notification e data existam
     const notification = payload.notification || {};
     const data = payload.data || {};
 
@@ -138,7 +114,6 @@ messaging.onBackgroundMessage((payload) => {
       icon: notification.icon || "/favicon.ico",
       data: data,
     };
-    // Exibe a notificação ao usuário
     self.registration.showNotification(notificationTitle, notificationOptions);
   } catch (error) {
     console.error(
@@ -148,32 +123,27 @@ messaging.onBackgroundMessage((payload) => {
   }
 });
 
-// --- Manipulação de Cliques na Notificação ---
 self.addEventListener("notificationclick", (event) => {
   console.log("[firebase-messaging-sw.js] Notificação clicada:", event);
-
   event.notification.close();
 
-  // Garante que data exista e obtenha a URL de redirecionamento
   const data = event.notification.data || {};
   const targetUrl = data.url || "/";
 
-  // Abre a URL em uma nova aba ou foca uma aba existente se já estiver aberta
   event.waitUntil(
     self.clients
       .matchAll({ type: "window", includeUncontrolled: true })
       .then((clientList) => {
+        const urlToOpen = new URL(targetUrl, self.location.origin).href;
         for (const client of clientList) {
-          // Usa startsWith para garantir que a URL base seja considerada
           if (
-            client.url.startsWith(self.location.origin + targetUrl) &&
+            client.url.startsWith(urlToOpen) &&
             "focus" in client
           ) {
-            return client.focus(); // Foca a aba existente
+            return client.focus();
           }
         }
-        // Se a aba não estiver aberta, abre uma nova
-        return self.clients.openWindow(targetUrl);
+        return self.clients.openWindow(urlToOpen);
       })
       .catch((err) => {
         console.error("[firebase-messaging-sw.js] Erro ao redirecionar:", err);
@@ -181,15 +151,254 @@ self.addEventListener("notificationclick", (event) => {
   );
 });
 
-// --- Eventos do Service Worker ---
-// Opcional: Listener para o evento 'install' do Service Worker
 self.addEventListener("install", () => {
   console.log("[firebase-messaging-sw.js] Service Worker instalado.");
   self.skipWaiting();
 });
 
-// Opcional: Listener para o evento 'activate' do Service Worker
 self.addEventListener("activate", (event) => {
   console.log("[firebase-messaging-sw.js] Service Worker ativado.");
   event.waitUntil(self.clients.claim());
+});
+
+/**
+ * Notificações e banco de dados
+ */
+const dbName = 'Agenda';
+const dbVersion = 1;
+const storeName = 'eventos';
+const sentNotificationsStoreName = 'notificacoesEnviadas';
+
+// Função para abrir ou criar o banco de dados IndexedDB
+function openDatabase() {
+  return new Promise((resolve, reject) => {
+    const request = indexedDB.open(dbName, dbVersion);
+
+    request.onerror = (event) => {
+      console.error('Erro ao abrir o banco de dados:', event.target.error);
+      reject('Erro ao abrir o banco de dados.');
+    };
+
+    request.onsuccess = (event) => {
+      const db = event.target.result;
+      resolve(db);
+    };
+
+    request.onupgradeneeded = (event) => {
+      const db = event.target.result;
+      if (!db.objectStoreNames.contains(storeName)) {
+        db.createObjectStore(storeName, { keyPath: 'id' });
+      }
+      if (!db.objectStoreNames.contains(sentNotificationsStoreName)) {
+        db.createObjectStore(sentNotificationsStoreName, { keyPath: 'id' });
+      }
+    };
+  });
+}
+
+function clearData() {
+  return openDatabase().then(db => {
+    return new Promise((resolve, reject) => {
+      const transaction = db.transaction([storeName], 'readwrite');
+      const store = transaction.objectStore(storeName);
+      const request = store.clear();
+
+      request.onsuccess = () => {
+        resolve('Banco de dados limpo com sucesso!');
+      };
+
+      request.onerror = (event) => {
+        console.error('Erro ao limpar o banco de dados:', event.target.error);
+        reject('Erro ao limpar o banco de dados.');
+      };
+    });
+  });
+}
+
+async function saveAllData(dataArray) {
+  const db = await openDatabase();
+  const transaction = db.transaction([storeName], 'readwrite');
+  const store = transaction.objectStore(storeName);
+
+  return new Promise((resolve, reject) => {
+    dataArray.forEach(item => {
+      store.put(item);
+    });
+
+    transaction.oncomplete = () => {
+      resolve('Dados salvos com sucesso!');
+    };
+
+    transaction.onerror = (event) => {
+      console.error('Erro ao salvar os dados:', event.target.error);
+      reject('Erro ao salvar os dados.');
+    };
+  });
+}
+
+async function isNotificationSent(eventId) {
+  const db = await openDatabase();
+  const transaction = db.transaction([sentNotificationsStoreName], 'readonly');
+  const store = transaction.objectStore(sentNotificationsStoreName);
+
+  return new Promise((resolve, reject) => {
+    const request = store.get(eventId);
+    request.onsuccess = () => {
+      resolve(!!request.result);
+    };
+    request.onerror = () => {
+      console.error('Erro ao verificar notificação enviada:', request.error);
+      reject(request.error);
+    };
+  });
+}
+
+async function logNotificationSent(eventId) {
+  const db = await openDatabase();
+  const transaction = db.transaction([sentNotificationsStoreName], 'readwrite');
+  const store = transaction.objectStore(sentNotificationsStoreName);
+
+  return new Promise((resolve, reject) => {
+    const request = store.put({ id: eventId, timestamp: new Date().toISOString() });
+    request.onsuccess = () => resolve();
+    request.onerror = () => {
+      console.error('Erro ao registrar notificação enviada:', request.error);
+      reject(request.error);
+    };
+  });
+}
+
+async function showTomorrowEventNotifications() {
+  try {
+    const db = await openDatabase();
+    const transaction = db.transaction([storeName], 'readonly');
+    const store = transaction.objectStore(storeName);
+    const eventos = await new Promise((resolve, reject) => {
+      const request = store.getAll();
+      request.onsuccess = () => resolve(request.result);
+      request.onerror = () => reject('Erro ao buscar dados do cache.');
+    });
+
+    if (!eventos || eventos.length === 0) {
+      console.log('Nenhum evento no cache para notificar.');
+      return;
+    }
+
+    const tomorrow = new Date();
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    tomorrow.setHours(0, 0, 0, 0);
+
+    const tomorrowEvents = eventos.filter(event => {
+      const eventDate = new Date(event.date);
+      eventDate.setHours(0, 0, 0, 0);
+      return eventDate.getTime() === tomorrow.getTime();
+    });
+
+    for (const event of tomorrowEvents) {
+      const alreadyNotified = await isNotificationSent(event.id);
+      if (alreadyNotified) {
+        console.log(`Notificação para o evento ${event.id} já foi enviada. Ignorando.`);
+        continue;
+      }
+
+      const url = `/agenda/?next=true&calendars=Regional+Faina,Regional+Goi%C3%A2nia,Regional+Urua%C3%A7u,Regional+Bom+Jesus,Regional+Catal%C3%A3o`;
+      const options = {
+        body: `${event.title} - ${event.locale}\n${event.desc}`,
+        icon: '/icons/icon-128x128.png',
+        tag: `evento-amanha-${event.id}`,
+        renotify: true,
+        data: { url: url }
+      };
+
+      await self.registration.showNotification(event.title, options);
+      await logNotificationSent(event.id);
+    }
+
+    if (tomorrowEvents.length > 0) {
+      console.log(`Notificações exibidas para ${tomorrowEvents.length} evento(s) de amanhã.`, tomorrowEvents);
+    } else {
+      console.log('Nenhum evento para amanhã. Nenhuma notificação exibida.');
+    }
+
+  } catch (error) {
+    console.error('Falha ao exibir notificações:', error);
+  }
+}
+
+// --- INTEGRAÇÃO COM SYNC E FETCH ---
+
+self.addEventListener('fetch', event => {
+  if (event.request.url.includes('/data/data.json')) {
+    event.respondWith(
+      (async () => {
+        const cachedPromise = new Promise(async (resolve) => {
+          try {
+            const db = await openDatabase();
+            const transaction = db.transaction([storeName], 'readonly');
+            const store = transaction.objectStore(storeName);
+            const request = store.getAll();
+
+            request.onsuccess = () => {
+              const cachedData = request.result;
+              if (cachedData && cachedData.length > 0) {
+                console.log('Retornando dados do cache imediatamente.');
+                resolve(new Response(JSON.stringify(cachedData), {
+                  headers: { 'Content-Type': 'application/json' }
+                }));
+              } else {
+                resolve(null);
+              }
+            };
+
+            request.onerror = () => {
+              console.warn('Erro ao ler do cache. Buscando da rede.');
+              resolve(null);
+            };
+          } catch (error) {
+            console.error('Erro no acesso ao IndexedDB:', error);
+            resolve(null);
+          }
+        });
+
+        updateCacheFromNetwork(event.request.clone());
+
+        const cachedResponse = await cachedPromise;
+        if (cachedResponse) {
+          return cachedResponse;
+        }
+
+        console.log('Cache vazio ou falhou. Retornando resposta da rede.');
+        return fetch(event.request);
+      })()
+    );
+  }
+});
+
+
+self.addEventListener('sync', (event) => {
+  if (event.tag === 'sync-eventos') {
+    console.log('Evento de sincronização recebido. Buscando dados da rede e notificando eventos de amanhã.');
+    event.waitUntil(
+      fetch('/data/data.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Falha na resposta da rede.');
+          }
+          return response.json();
+        })
+        .then(data => {
+          const eventos = data.eventos.items;
+          // Limpa e salva os dados na mesma sequência
+          return clearData().then(() => saveAllData(eventos));
+        })
+        .then(() => {
+          console.log('Sincronização completa! Cache atualizado.');
+          // CHAMA A FUNÇÃO DE NOTIFICAÇÃO APÓS A ATUALIZAÇÃO DO CACHE
+          return showTomorrowEventNotifications();
+        })
+        .catch(error => {
+          console.error('Falha na sincronização ou na notificação:', error);
+        })
+    );
+  }
 });
