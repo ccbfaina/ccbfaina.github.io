@@ -288,21 +288,32 @@ async function showTomorrowEventNotifications() {
     tomorrow.setDate(tomorrow.getDate() + 1);
     tomorrow.setHours(0, 0, 0, 0);
 
+    // 1. Filtra os eventos de amanhã de forma síncrona
     const tomorrowEvents = eventos
       .filter(e => ["Regional Faina", "Regional Goiânia", "Regional Uruaçu", "Regional Bom Jesus", "Regional Catalão"].includes(e.list))
       .filter(event => {
         const eventDate = new Date(event.date);
         eventDate.setHours(0, 0, 0, 0);
         return eventDate.getTime() === tomorrow.getTime();
-      })
-      .filter(async event => !(await isNotificationSent(event.id)));
+      });
 
-    if (tomorrowEvents.length > 0) {
-      const summary = tomorrowEvents.map(event =>
+    // 2. Cria um array de promises para verificar o status de notificação de cada evento
+    const eventsWithNotificationStatus = await Promise.all(
+      tomorrowEvents.map(async (event) => {
+        const isSent = await isNotificationSent(event.id);
+        return { ...event, isSent };
+      })
+    );
+
+    // 3. Filtra para obter apenas os eventos que ainda não foram notificados
+    const newTomorrowEvents = eventsWithNotificationStatus.filter(event => !event.isSent);
+
+    if (newTomorrowEvents.length > 0) {
+      const summary = newTomorrowEvents.map(event =>
         `${event.title} - ${event.locale}`
       ).join('\n');
 
-      const url = `/agenda/?next=true&regionais=true&data=${tomorrowEvents[0].date.replace(/T.*/g, "")}`;
+      const url = `/agenda/?next=true&regionais=true&data=${newTomorrowEvents[0].date.replace(/T.*/g, "")}`;
       const options = {
         body: summary,
         icon: '/icons/icon-128x128.png',
@@ -312,23 +323,22 @@ async function showTomorrowEventNotifications() {
       };
 
       await self.registration.showNotification(
-        `Eventos de amanhã (${tomorrowEvents.length})`,
+        `Eventos de amanhã (${newTomorrowEvents.length})`,
         options
       );
 
       console.log("Notificações> ", options);
 
-
-      // Marca todos como notificados
-      for (const event of tomorrowEvents) {
+      // 4. Marca os eventos notificados para que não sejam exibidos novamente
+      for (const event of newTomorrowEvents) {
         await logNotificationSent(event.id);
       }
     }
 
-    if (tomorrowEvents.length > 0) {
-      console.log(`Notificações exibidas para ${tomorrowEvents.length} evento(s) de amanhã.`, tomorrowEvents);
+    if (newTomorrowEvents.length > 0) {
+      console.log(`Notificações exibidas para ${newTomorrowEvents.length} evento(s) de amanhã.`, newTomorrowEvents);
     } else {
-      console.log('Nenhum evento para amanhã. Nenhuma notificação exibida.');
+      console.log('Nenhum novo evento para amanhã. Nenhuma notificação exibida.');
     }
 
   } catch (error) {
@@ -384,7 +394,6 @@ self.addEventListener('fetch', event => {
     );
   }
 });
-
 
 self.addEventListener('sync', (event) => {
   if (event.tag === 'sync-eventos') {
