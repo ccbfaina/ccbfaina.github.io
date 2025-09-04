@@ -165,7 +165,7 @@ self.addEventListener("activate", (event) => {
  * Notificações e banco de dados
  */
 const dbName = 'Agenda';
-const dbVersion = 1;
+const dbVersion = 2;
 const storeName = 'eventos';
 const sentNotificationsStoreName = 'notificacoesEnviadas';
 
@@ -294,26 +294,35 @@ async function showTomorrowEventNotifications() {
         const eventDate = new Date(event.date);
         eventDate.setHours(0, 0, 0, 0);
         return eventDate.getTime() === tomorrow.getTime();
-      });
+      })
+      .filter(async event => !(await isNotificationSent(event.id)));
 
-    for (const event of tomorrowEvents) {
-      const alreadyNotified = await isNotificationSent(event.id);
-      if (alreadyNotified) {
-        console.log(`Notificação para o evento ${event.id} já foi enviada. Ignorando.`);
-        continue;
-      }
+    if (tomorrowEvents.length > 0) {
+      const summary = tomorrowEvents.map(event =>
+        `${event.title} - ${event.locale}`
+      ).join('\n');
 
-      const url = `/agenda/?next=true&calendars=Regional+Faina,Regional+Goi%C3%A2nia,Regional+Urua%C3%A7u,Regional+Bom+Jesus,Regional+Catal%C3%A3o`;
+      const url = `/agenda/?next=true&regionais=true&data=${tomorrowEvents[0].date.replace(/T.*/g, "")}`;
       const options = {
-        body: `${event.title} - ${event.locale}\n${event.desc}`,
+        body: summary,
         icon: '/icons/icon-128x128.png',
-        tag: `evento-amanha-${event.id}`,
+        tag: `eventos-amanha-resumo`,
         renotify: true,
         data: { url: url }
       };
 
-      await self.registration.showNotification(event.title, options);
-      await logNotificationSent(event.id);
+      await self.registration.showNotification(
+        `Eventos de amanhã (${tomorrowEvents.length})`,
+        options
+      );
+
+      console.log("Notificações> ", options);
+
+
+      // Marca todos como notificados
+      for (const event of tomorrowEvents) {
+        await logNotificationSent(event.id);
+      }
     }
 
     if (tomorrowEvents.length > 0) {
