@@ -24,7 +24,6 @@ const FIREBASE_CONFIG = {
 const DB_NAME = 'Agenda';
 const DB_VERSION = 5;
 
-
 // ==========================================================
 // --- Seção 2: Lógica de Caching com Workbox ---
 // ==========================================================
@@ -132,6 +131,17 @@ function openDatabase() {
         db.createObjectStore('desc', { keyPath: 'text' });
       }
     };
+  });
+}
+
+async function getAllData(storeName) {
+  const db = await openDatabase();
+  const transaction = db.transaction([storeName], 'readonly');
+  const store = transaction.objectStore(storeName);
+  return new Promise((resolve, reject) => {
+    const request = store.getAll();
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = (event) => reject(`Erro ao buscar dados do store ${storeName}: ${event.target.error}`);
   });
 }
 
@@ -355,20 +365,44 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener('sync', (event) => {
   if (event.tag === 'sync-eventos') {
-    console.log('Evento de sincronização recebido. Buscando dados e notificando...');
+    console.log('Evento de sincronização recebido. Verificando dados...');
     event.waitUntil(
       fetch('/data/data.json')
         .then(response => {
           if (!response.ok) throw new Error('Falha na resposta da rede.');
           return response.json();
         })
-        .then(data => {
-          clearData('eventos').then(() => saveAllData('eventos', data.eventos.items.map(preprocessEvent)))
-          clearData('titles').then(() => saveAllData('titles', data.eventos.titles.map((text, id) => ({ text, id }))))
-          clearData('locales').then(() => saveAllData('locales', data.eventos.locales.map((text, id) => ({ text, id }))))
-          clearData('desc').then(() => saveAllData('desc', data.eventos.desc.map((text, id) => ({ text, id }))))
+        .then(async (newData) => {
+          const storedEvents = await getAllData('eventos');
+          const newEvents = newData.eventos.items.map(preprocessEvent);
+
+          // Função para comparar arrays de objetos
+          const areEventsEqual = (arr1, arr2) => {
+            if (arr1.length !== arr2.length) return false;
+            const set1 = new Set(arr1.map(e => JSON.stringify(e)));
+            const set2 = new Set(arr2.map(e => JSON.stringify(e)));
+            if (set1.size !== set2.size) return false;
+            for (const item of set1) {
+              if (!set2.has(item)) return false;
+            }
+            return true;
+          };
+
+          if (areEventsEqual(newEvents, storedEvents)) {
+            console.log('Dados no cache são os mesmos da API. Nenhuma atualização necessária.');
+          } else {
+            console.log('Dados da API diferentes do cache. Iniciando atualização...');
+            const updatePromises = [
+              clearData('eventos').then(() => saveAllData('eventos', newEvents)),
+              clearData('titles').then(() => saveAllData('titles', newData.eventos.titles.map((text, id) => ({ text, id })))),
+              clearData('locales').then(() => saveAllData('locales', newData.eventos.locales.map((text, id) => ({ text, id })))),
+              clearData('desc').then(() => saveAllData('desc', newData.eventos.desc.map((text, id) => ({ text, id})))),
+            ];
+            await Promise.all(updatePromises);
+            console.log('Dados do IndexedDB atualizados com sucesso.');
+          }
+          await showTomorrowEventNotifications();
         })
-        .then(() => showTomorrowEventNotifications())
         .catch(error => console.error('Falha na sincronização ou notificação:', error))
     );
   }
