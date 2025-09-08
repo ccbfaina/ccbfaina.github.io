@@ -119,6 +119,12 @@ function openDatabase() {
         eventosStore.createIndex('list', 'list', { unique: false });
         eventosStore.createIndex('title', 'title', { unique: false });
       }
+      if (!db.objectStoreNames.contains('tags')) {
+        const tagsStore = db.createObjectStore('tags', { keyPath: 'id' });
+        tagsStore.createIndex('title', 'title', { unique: false });
+        tagsStore.createIndex('description', 'description', { unique: false });
+        tagsStore.createIndex('group', 'group', { unique: false });
+      }
       if (!db.objectStoreNames.contains('notificacoesEnviadas')) {
         db.createObjectStore('notificacoesEnviadas', { keyPath: 'id' });
       }
@@ -130,13 +136,6 @@ function openDatabase() {
       }
       if (!db.objectStoreNames.contains('desc')) {
         db.createObjectStore('desc', { keyPath: 'text' });
-      }
-      if (!db.objectStoreNames.contains('tags')) {
-        const tagsStore = db.createObjectStore('tags', { keyPath: 'text' });
-        tagsStore.createIndex('title', 'title', { unique: false });
-        tagsStore.createIndex('description', 'description', { unique: false });
-        tagsStore.createIndex('group', 'group', { unique: false });
-
       }
     };
   });
@@ -373,8 +372,50 @@ self.addEventListener("activate", (event) => {
 
 async function performSync() {
   console.log('Iniciando sincronização de dados...');
+  /**
+   * Atualizando as tags
+   */
+
+  let index = 0;
   try {
-    const response = await fetch('/data/data.json');
+    const response = await fetch(`/data/tags.json?v=${new Date().toISOString().replace(/\D/g, '')}`);
+    if (!response.ok) throw new Error('Falha na resposta da rede.');
+    const tagsData = await response.json();
+    console.log("Dados de tags recebidos:", tagsData);
+
+    if (tagsData && Array.isArray(tagsData.tags)) {
+      await clearData('tags');
+      await saveAllData('tags', tagsData.tags.map(tag => ({ id: ++index, ...tag })));
+      index = tagsData.tags.length;
+      console.log('Tags atualizadas com sucesso no IndexedDB.');
+    } else {
+      console.warn('Dados de tags inválidos ou ausentes na resposta da API.');
+    }
+  } catch (error) {
+    console.error('Falha ao atualizar tags:', error);
+  }
+
+  try {
+    const response = await fetch(`/data/tags-circulares.json?v=${new Date().toISOString().replace(/\D/g, '')}`);
+    if (!response.ok) throw new Error('Falha na resposta da rede.');
+    const tagsData = await response.json();
+    if (tagsData && Array.isArray(tagsData.tags)) {
+      await saveAllData('tags', tagsData.tags.map(tag => ({ id: ++index, ...tag })));
+      console.log('Tags atualizadas com sucesso no IndexedDB.');
+    } else {
+      console.warn('Dados de tags inválidos ou ausentes na resposta da API.');
+    }
+  } catch (error) {
+    console.error('Falha ao atualizar tags:', error);
+  }
+
+
+  /**
+   * Atualizado os dados do IndexedDB apenas se houver mudanças
+   * em relação aos dados já armazenados.
+   */
+  try {
+    const response = await fetch(`/data/data.json?v=${new Date().toISOString().replace(/\D/g, '')}`);
     if (!response.ok) throw new Error('Falha na resposta da rede.');
     const newData = await response.json();
 
