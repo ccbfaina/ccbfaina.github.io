@@ -22,7 +22,7 @@ const FIREBASE_CONFIG = {
 
 // Constantes do IndexedDB
 const DB_NAME = 'Agenda';
-const DB_VERSION = 6;
+const DB_VERSION = 7;
 
 // ==========================================================
 // --- Seção 2: Lógica de Caching com Workbox ---
@@ -106,39 +106,50 @@ if (workbox) {
 // --- Seção 3: Funções Auxiliares (IndexedDB) ---
 // ==========================================================
 
-function openDatabase() {
+function promisifyRequest(request) {
   return new Promise((resolve, reject) => {
+    request.onsuccess = e => resolve(e.target.result);
+    request.onerror = e => reject(e.target.error);
+  });
+}
+
+async function openDatabase() {
+  try {
     const request = indexedDB.open(DB_NAME, DB_VERSION);
-    request.onerror = (event) => reject(`Erro ao abrir o banco de dados: ${event.target.error}`);
-    request.onsuccess = (event) => resolve(event.target.result);
-    request.onupgradeneeded = (event) => {
-      const db = event.target.result;
-      if (!db.objectStoreNames.contains('eventos')) {
-        const eventosStore = db.createObjectStore('eventos', { keyPath: 'id' });
-        eventosStore.createIndex('group', 'group', { unique: false });
-        eventosStore.createIndex('list', 'list', { unique: false });
-        eventosStore.createIndex('title', 'title', { unique: false });
-      }
-      if (!db.objectStoreNames.contains('tags')) {
-        const tagsStore = db.createObjectStore('tags', { keyPath: 'id' });
-        tagsStore.createIndex('title', 'title', { unique: false });
-        tagsStore.createIndex('description', 'description', { unique: false });
-        tagsStore.createIndex('group', 'group', { unique: false });
-      }
-      if (!db.objectStoreNames.contains('notificacoesEnviadas')) {
-        db.createObjectStore('notificacoesEnviadas', { keyPath: 'id' });
-      }
-      if (!db.objectStoreNames.contains('titles')) {
-        db.createObjectStore('titles', { keyPath: 'text' });
-      }
-      if (!db.objectStoreNames.contains('locales')) {
-        db.createObjectStore('locales', { keyPath: 'text' });
-      }
-      if (!db.objectStoreNames.contains('desc')) {
-        db.createObjectStore('desc', { keyPath: 'text' });
+
+    request.onupgradeneeded = e => {
+      const db = e.target.result;
+
+      const stores = {
+        eventos: {
+          options: { keyPath: 'id' },
+          indexes: [['group', false], ['list', false], ['title', false]]
+        },
+        tags: {
+          options: { keyPath: 'id' },
+          indexes: [['title', false], ['description', false], ['group', false]]
+        },
+        notificacoesEnviadas: { options: { keyPath: 'id' } },
+        titles: { options: { keyPath: 'text' } },
+        locales: { options: { keyPath: 'text' } },
+        desc: { options: { keyPath: 'text' } }
+      };
+
+      for (const [name, cfg] of Object.entries(stores)) {
+        if (!db.objectStoreNames.contains(name)) {
+          const store = db.createObjectStore(name, cfg.options);
+          (cfg.indexes || []).forEach(([field, unique]) =>
+            store.createIndex(field, field, { unique })
+          );
+        }
       }
     };
-  });
+
+    return await promisifyRequest(request);
+  } catch (err) {
+    console.error("Erro ao abrir IndexedDB:", err);
+    throw err;
+  }
 }
 
 async function getAllData(storeName) {
@@ -381,8 +392,6 @@ async function performSync() {
     const response = await fetch(`/data/tags.json?v=${new Date().toISOString().replace(/\D/g, '')}`);
     if (!response.ok) throw new Error('Falha na resposta da rede.');
     const tagsData = await response.json();
-    console.log("Dados de tags recebidos:", tagsData);
-
     if (tagsData && Array.isArray(tagsData.tags)) {
       await clearData('tags');
       await saveAllData('tags', tagsData.tags.map(tag => ({ id: ++index, ...tag })));
@@ -401,7 +410,7 @@ async function performSync() {
     const tagsData = await response.json();
     if (tagsData && Array.isArray(tagsData.tags)) {
       await saveAllData('tags', tagsData.tags.map(tag => ({ id: ++index, ...tag })));
-      console.log('Tags atualizadas com sucesso no IndexedDB.');
+      console.log('Tags circulares atualizadas com sucesso no IndexedDB.');
     } else {
       console.warn('Dados de tags inválidos ou ausentes na resposta da API.');
     }
