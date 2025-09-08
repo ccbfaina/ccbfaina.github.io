@@ -22,7 +22,7 @@ const FIREBASE_CONFIG = {
 
 // Constantes do IndexedDB
 const DB_NAME = 'Agenda';
-const DB_VERSION = 5;
+const DB_VERSION = 6;
 
 // ==========================================================
 // --- Seção 2: Lógica de Caching com Workbox ---
@@ -117,6 +117,7 @@ function openDatabase() {
         const eventosStore = db.createObjectStore('eventos', { keyPath: 'id' });
         eventosStore.createIndex('group', 'group', { unique: false });
         eventosStore.createIndex('list', 'list', { unique: false });
+        eventosStore.createIndex('title', 'title', { unique: false });
       }
       if (!db.objectStoreNames.contains('notificacoesEnviadas')) {
         db.createObjectStore('notificacoesEnviadas', { keyPath: 'id' });
@@ -129,6 +130,13 @@ function openDatabase() {
       }
       if (!db.objectStoreNames.contains('desc')) {
         db.createObjectStore('desc', { keyPath: 'text' });
+      }
+      if (!db.objectStoreNames.contains('tags')) {
+        const tagsStore = db.createObjectStore('tags', { keyPath: 'text' });
+        tagsStore.createIndex('title', 'title', { unique: false });
+        tagsStore.createIndex('description', 'description', { unique: false });
+        tagsStore.createIndex('group', 'group', { unique: false });
+
       }
     };
   });
@@ -363,53 +371,60 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(self.clients.claim());
 });
 
+async function performSync() {
+  console.log('Iniciando sincronização de dados...');
+  try {
+    const response = await fetch('/data/data.json');
+    if (!response.ok) throw new Error('Falha na resposta da rede.');
+    const newData = await response.json();
+
+    const storedEvents = await getAllData('eventos');
+    const newEvents = newData.eventos.items.map(preprocessEvent);
+
+    // Função para comparar arrays de objetos
+    const areEventsEqual = (arr1, arr2) => {
+      if (arr1.length !== arr2.length) return false;
+      const set1 = new Set(arr1.map(e => JSON.stringify(e)));
+      const set2 = new Set(arr2.map(e => JSON.stringify(e)));
+      if (set1.size !== set2.size) return false;
+      for (const item of set1) {
+        if (!set2.has(item)) return false;
+      }
+      return true;
+    };
+
+    if (areEventsEqual(newEvents, storedEvents)) {
+      console.log('Dados no cache são os mesmos da API. Nenhuma atualização necessária.');
+    } else {
+      console.log('Dados da API diferentes do cache. Iniciando atualização...');
+      const updatePromises = [
+        clearData('eventos').then(() => saveAllData('eventos', newEvents)),
+        clearData('titles').then(() => saveAllData('titles', newData.eventos.titles.map((text, id) => ({ text, id })))),
+        clearData('locales').then(() => saveAllData('locales', newData.eventos.locales.map((text, id) => ({ text, id })))),
+        clearData('desc').then(() => saveAllData('desc', newData.eventos.desc.map((text, id) => ({ text, id })))),
+      ];
+      await Promise.all(updatePromises);
+      console.log('Dados do IndexedDB atualizados com sucesso.');
+    }
+    await showTomorrowEventNotifications();
+  } catch (error) {
+    console.error('Falha na sincronização ou notificação:', error);
+  }
+}
+
 self.addEventListener('sync', (event) => {
   if (event.tag === 'sync-eventos') {
-    console.log('Evento de sincronização recebido. Verificando dados...');
-    event.waitUntil(
-      fetch('/data/data.json')
-        .then(response => {
-          if (!response.ok) throw new Error('Falha na resposta da rede.');
-          return response.json();
-        })
-        .then(async (newData) => {
-          const storedEvents = await getAllData('eventos');
-          const newEvents = newData.eventos.items.map(preprocessEvent);
-
-          // Função para comparar arrays de objetos
-          const areEventsEqual = (arr1, arr2) => {
-            if (arr1.length !== arr2.length) return false;
-            const set1 = new Set(arr1.map(e => JSON.stringify(e)));
-            const set2 = new Set(arr2.map(e => JSON.stringify(e)));
-            if (set1.size !== set2.size) return false;
-            for (const item of set1) {
-              if (!set2.has(item)) return false;
-            }
-            return true;
-          };
-
-          if (areEventsEqual(newEvents, storedEvents)) {
-            console.log('Dados no cache são os mesmos da API. Nenhuma atualização necessária.');
-          } else {
-            console.log('Dados da API diferentes do cache. Iniciando atualização...');
-            const updatePromises = [
-              clearData('eventos').then(() => saveAllData('eventos', newEvents)),
-              clearData('titles').then(() => saveAllData('titles', newData.eventos.titles.map((text, id) => ({ text, id })))),
-              clearData('locales').then(() => saveAllData('locales', newData.eventos.locales.map((text, id) => ({ text, id })))),
-              clearData('desc').then(() => saveAllData('desc', newData.eventos.desc.map((text, id) => ({ text, id})))),
-            ];
-            await Promise.all(updatePromises);
-            console.log('Dados do IndexedDB atualizados com sucesso.');
-          }
-          await showTomorrowEventNotifications();
-        })
-        .catch(error => console.error('Falha na sincronização ou notificação:', error))
-    );
+    console.log('Evento de sincronização recebido.');
+    event.waitUntil(performSync());
   }
 });
+
 
 self.addEventListener('message', (event) => {
   if (event.data?.type === 'GET_DB_VERSION') {
     event.ports[0].postMessage({ type: 'DB_VERSION', version: DB_VERSION });
+  } else if (event.data?.type === 'SYNC_NOW') {
+    console.log('Mensagem recebida para sincronização imediata.');
+    event.waitUntil(performSync());
   }
 });
