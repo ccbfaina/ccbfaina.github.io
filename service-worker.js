@@ -489,7 +489,7 @@ self.addEventListener('sync', (event) => {
 
 self.addEventListener('message', (event) => {
   if (event.data?.type === 'GET_DB_VERSION') {
-    event.ports[0].postMessage({ type: 'DB_VERSION', version: DB_VERSION });
+    event.ports[0].postMessage({ type: 'DB_VERSION', name: DB_NAME, version: DB_VERSION });
   } else if (event.data?.type === 'SYNC_NOW') {
     setTimeout(() => {
       console.log('Mensagem recebida para sincronização imediata.');
