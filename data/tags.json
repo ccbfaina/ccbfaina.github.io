@@ -35,6 +35,33 @@
       "icon": "la la-list"
     },
     {
+      "href": "/lista?calendars=Regional+Bom+Jesus",
+      "title": "Bom Jesus: Lista Regional",
+      "description": "Lista de Atendimento da regional Bom Jesus",
+      "group": "Regional Bom Jesus",
+      "fixed": true,
+      "updated": "2025-07-12T03:00:00Z",
+      "icon": "la la-list"
+    },
+    {
+      "href": "/lista?calendars=Regional+Catalão",
+      "title": "Catalão: Lista Regional",
+      "description": "Lista de Atendimento da regional Catalão",
+      "group": "Regional Catalão",
+      "fixed": true,
+      "updated": "2025-06-23T03:00:00Z",
+      "icon": "la la-list"
+    },
+    {
+      "href": "/lista?calendars=Regional+Uruaçu",
+      "title": "Uruaçu: Lista Regional",
+      "description": "Lista de Atendimento da regional Uruaçu",
+      "group": "Regional Uruaçu",
+      "fixed": true,
+      "updated": "2025-08-09T03:00:00Z",
+      "icon": "la la-list"
+    },
+    {
       "href": "/hinos",
       "title": "Hinos",
       "description": "Hinos de Louvores a Deus",
@@ -727,15 +754,6 @@
       "icon": "la la-calendar"
     },
     {
-      "href": "/lista?calendars=Regional+Uruaçu",
-      "title": "Uruaçu: Lista Regional",
-      "description": "Lista de Atendimento da regional Uruaçu",
-      "group": "Regional Uruaçu",
-      "fixed": true,
-      "updated": "2025-08-09T03:00:00Z",
-      "icon": "la la-list"
-    },
-    {
       "href": "/agenda?calendars=Regional+Catalão",
       "title": "Catalão: Agenda Regional",
       "description": "Agenda de Atendimento da regional Catalão",
@@ -750,24 +768,6 @@
       "group": "Regional Bom Jesus",
       "fixed": true,
       "icon": "la la-calendar"
-    },
-    {
-      "href": "/lista?calendars=Regional+Catalão",
-      "title": "Catalão: Lista Regional",
-      "description": "Lista de Atendimento da regional Catalão",
-      "group": "Regional Catalão",
-      "fixed": true,
-      "updated": "2025-06-23T03:00:00Z",
-      "icon": "la la-list"
-    },
-    {
-      "href": "/lista?calendars=Regional+Bom+Jesus",
-      "title": "Bom Jesus: Lista Regional",
-      "description": "Lista de Atendimento da regional Bom Jesus",
-      "group": "Regional Bom Jesus",
-      "fixed": true,
-      "updated": "2025-07-12T03:00:00Z",
-      "icon": "la la-list"
     }
   ],
   "defaultTags": [],
