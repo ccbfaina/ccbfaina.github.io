@@ -72,6 +72,22 @@ if (workbox) {
       })
     );
 
+    workbox.routing.registerRoute(
+      ({ url }) => url.hostname === "lh3.googleusercontent.com",
+      new workbox.strategies.CacheFirst({
+        cacheName: "googleusercontent-images",
+        plugins: [
+          new workbox.expiration.ExpirationPlugin({
+            maxEntries: 200, // quantas imagens no máximo guardar
+            maxAgeSeconds: 30 * 24 * 60 * 60, // 30 dias
+          }),
+          new workbox.cacheableResponse.CacheableResponsePlugin({
+            statuses: [0, 200], // só cacheia respostas válidas
+          }),
+        ],
+      })
+    );
+
     // Rota para o Google Tag Manager (sempre da rede, sem cache)
     workbox.routing.registerRoute(
       /^https:\/\/www\.googletagmanager\.com\//,
@@ -86,6 +102,7 @@ if (workbox) {
         ],
       })
     );
+
 
     // Rota para a API, sempre da rede (sem cache)
     workbox.routing.registerRoute(
@@ -474,7 +491,9 @@ self.addEventListener('message', (event) => {
   if (event.data?.type === 'GET_DB_VERSION') {
     event.ports[0].postMessage({ type: 'DB_VERSION', version: DB_VERSION });
   } else if (event.data?.type === 'SYNC_NOW') {
-    console.log('Mensagem recebida para sincronização imediata.');
-    event.waitUntil(performSync());
+    setTimeout(() => {
+      console.log('Mensagem recebida para sincronização imediata.');
+      event.waitUntil(performSync());
+    }, 1000);
   }
 });

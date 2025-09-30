@@ -51,6 +51,14 @@
       "icon": "la la-tools"
     },
     {
+      "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSchlS-q3CdWVGjdDwlmUelSrkWLP8SRNPLEpN9ek-Yybwmi8Q/viewform?embedded=true",
+      "title": "Solicitação de Compra (CNS)",
+      "description": "Solicite compra de materiais",
+      "group": "Formulário",
+      "autoSave": true,
+      "icon": "la la-tools"
+    },
+    {
       "href": "/forms/view?form=https://docs.google.com/forms/d/e/1FAIpQLSfdE9nWfC9bDZMVqldFfo_tz1ol4nWvXDtUgyrw8o_AV1HkXw/viewform?embedded=true",
       "title": "Avaliação Estrutural e de Manutenção",
       "description": "Levantamento inicial das condições estruturais e de manutenção das igrejas",
@@ -76,7 +84,7 @@
       "href": "/forms/contato",
       "title": "Contato",
       "description": "Pagina de contato, chamado, ajuda ou suporte",
-      "group": "Portal",
+      "group": "Página",
       "icon": "la la-envelope"
     },
     {
@@ -107,7 +115,16 @@
       "description": "Calendário Regional Faina 2026",
       "group": "Regional Faina",
       "fixed": true,
-      "icon": "la la-calendar"
+      "icon": "la la-calendar",
+      "updated": "2025-09-22T03:00:00Z"
+    },
+    {
+      "href": "/evento/solicitar",
+      "title": "Solictar Evento",
+      "description": "Gerencie seus eventos",
+      "group": "Página",
+      "fixed": true,
+      "icon": "las la-calendar-plus"
     },
     {
       "href": "https://suporte.congregacao.org.br/chamado",
