@@ -186,7 +186,6 @@ async function performSync() {
     const allTags = [...(tagsMain.tags || []), ...(tagsCircular.tags || [])];
     const newEvents = dataMain.eventos.items.map(preprocessEvent);
 
-    
     const mapText = (text, id) => ({ id: id + 1, text });
     const lookupData = {
       titles: dataMain.eventos.titles.map(mapText),
@@ -209,17 +208,24 @@ async function performSync() {
     console.error("[SW] Falha na busca de rede para sincronização.", error);
   }
 }
+let syncLock = null;
 self.addEventListener("sync", (event) => {
   if (event.tag === "full-data-sync") {
-    console.warn("[SW] Evento de sincronização em background recebido.");
-    event.waitUntil(performSync());
+    if (!syncLock) {
+      console.warn("[SW] Evento de sincronização em background recebido.");
+      event.waitUntil(performSync());
+      syncLock = true;
+    }
   }
 });
 
 self.addEventListener("message", (event) => {
   if (event.data?.type === "full-data-sync") {
-    console.warn("[SW] Mensagem recebida para sincronização imediata.");
-    // event.waitUntil(performSync());
+    if (!syncLock) {
+      console.warn("[SW] Mensagem recebida para sincronização imediata.");
+      event.waitUntil(performSync());
+      syncLock = true;
+    }
   }
 });
 
