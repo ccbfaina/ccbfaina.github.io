@@ -778,6 +778,14 @@
       "group": "Regional Bom Jesus",
       "fixed": true,
       "icon": "la la-calendar"
+    },
+    {
+      "href": "https://script.google.com/macros/s/AKfycbyr37jf4vV1SJYMGz6dMHuQfwA0F4lAY5gdx1oXKfRt-pBYKfg0DEqVymqKGLHxMlkE5w/exec",
+      "title": "DEMONSTRATIVO FINANCEIRO PARA RMA",
+      "description": "Formulário Demonstrativo Financeiro para RMA",
+      "group": "Regional Faina",
+      "fixed": true,
+      "icon": "la la-calculator"
     }
   ]
 }
