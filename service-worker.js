@@ -351,13 +351,7 @@ async function fetchRelatorioIfNeeded() {
       cachedVersion = null;
     }
 
-    if (remoteVersion && cachedVersion === remoteVersion) {
-      console.warn(
-        "[SW] relatorio.json com mesma versão. Nenhuma ação necessária.",
-        rel
-      );
-      return;
-    }
+    if (remoteVersion && cachedVersion === remoteVersion) return;
 
     const headers =
       [...rel.headers, "normalizedNomeCidade","normalizedNome" ] || [];
