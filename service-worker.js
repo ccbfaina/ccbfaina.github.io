@@ -193,9 +193,10 @@ async function performSync() {
       desc: dataMain.eventos.desc.map(mapText),
     };
 
-    const clients = await self.clients.matchAll({ type: "window" });
-    clients.forEach((client) => {
-      client.postMessage({
+    // Adicional: publica SYNC_DATA_READY via BroadcastChannel para garantir entrega em janelas não controladas
+    try {
+      const bc = new BroadcastChannel("agenda_channel");
+      bc.postMessage({
         type: "SYNC_DATA_READY",
         payload: {
           events: newEvents,
@@ -203,7 +204,19 @@ async function performSync() {
           lookup: lookupData,
         },
       });
-    });
+      bc.close();
+    } catch (bcErr) {
+      console.warn(
+        "[SW] BroadcastChannel indisponível ou falhou ao postar SYNC_DATA_READY:",
+        bcErr
+      );
+    }
+
+    setTimeout(() => {
+      fetchRelatorioIfNeeded().catch((err) =>
+        console.warn("[SW] Erro no fetchRelatorioIfNeeded:", err)
+      );
+    }, 1500);
   } catch (error) {
     console.error("[SW] Falha na busca de rede para sincronização.", error);
   }
@@ -225,6 +238,43 @@ self.addEventListener("message", (event) => {
       console.warn("[SW] Mensagem recebida para sincronização imediata.");
       event.waitUntil(performSync());
       syncLock = true;
+    }
+  }
+
+  // Recebe confirmação do cliente de que salvou o relatorio
+  if (event.data?.type === "RELATORIO_SAVE_COMPLETE") {
+    const version = event.data.payload?.version;
+    if (
+      version &&
+      pendingRelatorioVersion &&
+      version === pendingRelatorioVersion
+    ) {
+      event.waitUntil(
+        (async () => {
+          try {
+            const cache = await caches.open("relatorio-meta");
+            await cache.put(
+              "/relatorio-version",
+              new Response(String(version))
+            );
+            console.log(
+              "[SW] Recebida confirmação de salvamento do relatorio. Versão gravada no cache:",
+              version
+            );
+          } catch (e) {
+            console.error(
+              "[SW] Erro ao gravar versão do relatorio após confirmação:",
+              e
+            );
+          } finally {
+            pendingRelatorioVersion = null;
+            if (pendingRelatorioVersionTimeout) {
+              clearTimeout(pendingRelatorioVersionTimeout);
+              pendingRelatorioVersionTimeout = null;
+            }
+          }
+        })()
+      );
     }
   }
 });
@@ -273,3 +323,170 @@ function preprocessEvent(evento) {
   processedEvent.end = new Date(evento.end);
   return processedEvent;
 }
+
+// ----------------- Novas funções para relatorio -----------------
+
+// Estado global para chunks do relatorio
+let lastRelatorioChunks = null;
+let lastRelatorioMeta = null;
+
+async function fetchRelatorioIfNeeded() {
+  try {
+    const url = `/data/relatorio.json?v=${new Date().getTime()}`;
+    const resp = await fetch(url);
+    if (!resp.ok) {
+      console.warn("[SW] Falha ao buscar relatorio.json:", resp.status);
+      return;
+    }
+    const rel = await resp.json();
+    const remoteVersion = rel.version || null;
+    let cachedVersion = null;
+    try {
+      const cache = await caches.open("relatorio-meta");
+      const res = await cache.match("/relatorio-version");
+      if (!res) cachedVersion = null;
+      cachedVersion = await res.text();
+    } catch (e) {
+      console.warn("[SW] Falha ao ler versão do cache do relatorio:", e);
+      cachedVersion = null;
+    }
+
+    if (remoteVersion && cachedVersion === remoteVersion) {
+      console.warn(
+        "[SW] relatorio.json com mesma versão. Nenhuma ação necessária.",
+        rel
+      );
+      return;
+    }
+
+    const headers =
+      [...rel.headers, "normalizedNome", "normalizedNomeCidade"] || [];
+    const rawRows = rel.data || [];
+    const rows = rawRows.map((r) => [
+      ...r,
+      normalizeString(r[1] || ""),
+      normalizeString(r[2] || ""),
+    ]);
+    console.log("relatorioi Registros para salvar:::: ", rows);
+
+    const total = rows.length;
+    const chunkSize = 500;
+    const totalChunks = Math.max(1, Math.ceil(total / chunkSize));
+
+    const clientsList = await self.clients.matchAll({ type: "window" });
+    const postChunk = (chunkIndex, chunkRows) => {
+      const payload = {
+        headers,
+        rows: chunkRows,
+        chunkIndex,
+        totalChunks,
+        total,
+        version: remoteVersion,
+      };
+      clientsList.forEach((client) =>
+        client.postMessage({ type: "RELATORIO_RAW_DATA_CHUNK", payload })
+      );
+      try {
+        const bc = new BroadcastChannel("agenda_channel");
+        bc.postMessage({ type: "RELATORIO_RAW_DATA_CHUNK", payload });
+        bc.close();
+      } catch (bcErr) {
+        // não fatal
+      }
+    };
+
+    lastRelatorioChunks = [];
+
+    // envia os chunks sequencialmente, com pequena pausa para não travar a thread
+    for (let i = 0, idx = 1; i < total; i += chunkSize, idx++) {
+      const chunkRows = rows.slice(i, i + chunkSize);
+      const payload = {
+        headers,
+        rows: chunkRows,
+        chunkIndex: idx,
+        totalChunks,
+        total,
+        version: remoteVersion,
+      };
+      lastRelatorioChunks.push(payload);
+      postChunk(idx, chunkRows);
+      // pequena pausa (ajustável) para evitar bloquear
+      await new Promise((res) => setTimeout(res, 50));
+    }
+    lastRelatorioMeta = {
+      headers,
+      totalChunks,
+      total,
+      version: remoteVersion,
+    };
+
+    // sinaliza fim do envio
+    const endPayload = { headers, totalChunks, total, version: remoteVersion };
+    clientsList.forEach((client) =>
+      client.postMessage({
+        type: "RELATORIO_RAW_DATA_END",
+        payload: endPayload,
+      })
+    );
+    try {
+      const bc = new BroadcastChannel("agenda_channel");
+      bc.postMessage({ type: "RELATORIO_RAW_DATA_END", payload: endPayload });
+      bc.close();
+    } catch (bcErr) {
+      console.warn('[[SW]] Falha ao enviar mensagem para BroadcastChannel agenda_channel:', bcErr);
+    }
+
+    // Controle de versão pendente do relatorio (aguarda confirmação do cliente)
+    pendingRelatorioVersion = remoteVersion;
+    pendingRelatorioVersionTimeout = setTimeout(() => {
+      console.warn(
+        "[SW] Timeout aguardando confirmação de salvamento do relatorio. Versão pendente:",
+        pendingRelatorioVersion
+      );
+      pendingRelatorioVersion = null;
+    }, 60 * 1000); // 60 segundos
+
+    console.log("[SW] relatorio.json enviado para clientes (por chunks).", {
+      total,
+      totalChunks,
+    });
+  } catch (e) {
+    console.error("[SW] Erro ao processar relatorio.json em background:", e);
+  }
+}
+
+// Handler para reenvio de chunks faltantes
+self.addEventListener("message", (event) => {
+  if (event.data?.type === "REQUEST_RELATORIO_CHUNKS") {
+    const { version, missingChunks } = event.data.payload || {};
+    if (
+      lastRelatorioChunks &&
+      lastRelatorioMeta &&
+      lastRelatorioMeta.version === version &&
+      Array.isArray(missingChunks)
+    ) {
+      const clientsListPromise = self.clients.matchAll({ type: "window" });
+      clientsListPromise.then((clientsList) => {
+        missingChunks.forEach((chunkIdx) => {
+          const payload = lastRelatorioChunks[chunkIdx - 1];
+          if (payload) {
+            clientsList.forEach((client) =>
+              client.postMessage({
+                type: "RELATORIO_RAW_DATA_CHUNK",
+                payload,
+              })
+            );
+            try {
+              const bc = new BroadcastChannel("agenda_channel");
+              bc.postMessage({
+                type: "RELATORIO_RAW_DATA_CHUNK",
+                payload,
+              });
+              bc.close();
+            } catch (bcErr) {}
+          }
+        });
+      });
+    }
+  }
+});
