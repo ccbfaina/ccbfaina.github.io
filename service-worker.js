@@ -360,14 +360,14 @@ async function fetchRelatorioIfNeeded() {
     }
 
     const headers =
-      [...rel.headers, "normalizedNome", "normalizedNomeCidade"] || [];
+      [...rel.headers, "normalizedNomeCidade","normalizedNome" ] || [];
     const rawRows = rel.data || [];
     const rows = rawRows.map((r) => [
       ...r,
       normalizeString(r[1] || ""),
       normalizeString(r[2] || ""),
     ]);
-    console.log("relatorioi Registros para salvar:::: ", rows);
+    // console.log("relatorioi Registros para salvar:::: ", rows);
 
     const total = rows.length;
     const chunkSize = 500;
