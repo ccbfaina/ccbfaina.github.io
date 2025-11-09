@@ -329,30 +329,48 @@ function preprocessEvent(evento) {
 // Estado global para chunks do relatorio
 let lastRelatorioChunks = null;
 let lastRelatorioMeta = null;
+let pendingRelatorioVersion = null; // Adicionado para controle de timeout
+let pendingRelatorioVersionTimeout = null; // Adicionado para controle de timeout
 
 async function fetchRelatorioIfNeeded() {
   try {
-    const url = `/data/relatorio.json?v=${new Date().getTime()}`;
-    const resp = await fetch(url);
-    if (!resp.ok) {
-      console.warn("[SW] Falha ao buscar relatorio.json:", resp.status);
+    // Primeiro, busca o metadata.json para verificar a versão do relatorio
+    const metadataUrl = `/data/metadata.json?v=${new Date().getTime()}`;
+    const metadataResp = await fetch(metadataUrl);
+    if (!metadataResp.ok) {
+      console.warn("[SW] Falha ao buscar metadata.json:", metadataResp.status);
       return;
     }
-    const rel = await resp.json();
-    const remoteVersion = rel.version || null;
+    const metadata = await metadataResp.json();
+    const remoteVersion = metadata.relatorio?.version || null;
+
     let cachedVersion = null;
     try {
       const cache = await caches.open("relatorio-meta");
       const res = await cache.match("/relatorio-version");
-      if (!res) cachedVersion = null;
-      cachedVersion = await res.text();
+      if (res) {
+        cachedVersion = await res.text();
+      }
     } catch (e) {
       console.warn("[SW] Falha ao ler versão do cache do relatorio:", e);
       cachedVersion = null;
     }
 
-    if (remoteVersion && cachedVersion === remoteVersion) return;
+    if (remoteVersion && cachedVersion === remoteVersion) {
+      console.log("[SW] Versão do relatorio em cache é a mais recente. Nenhuma ação necessária.");
+      return; // Retorna se a versão em cache for a mesma da remota
+    }
 
+    console.log(`[SW] Nova versão do relatorio detectada (Remota: ${remoteVersion}, Cache: ${cachedVersion}). Baixando relatorio.json...`);
+
+    // Se as versões forem diferentes, busca o relatorio.json completo
+    const relatorioUrl = `/data/relatorio.json?v=${new Date().getTime()}`;
+    const resp = await fetch(relatorioUrl);
+    if (!resp.ok) {
+      console.warn("[SW] Falha ao buscar relatorio.json:", resp.status);
+      return;
+    }
+    const rel = await resp.json();
     const headers =
       [...rel.headers, "normalizedNomeCidade","normalizedNome" ] || [];
     const rawRows = rel.data || [];
