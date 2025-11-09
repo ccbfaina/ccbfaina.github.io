@@ -46,42 +46,25 @@ const WorkboxHandler = {
 
       if (isProduction) {
         workbox.core.setCacheNameDetails({ prefix: "nuxt-prod-cache" });
+
+        // Lista de URLs para pré-cachear (disponíveis offline imediatamente)
+        const precacheList = [
+          '/',
+          '/sobre',
+          '/forms/contato',
+          '/lista',
+          '/agenda',
+          '/hinos',
+          '/navegar'
+        ];
+
+        // Pré-cacheia as páginas essenciais
+        workbox.precaching.precacheAndRoute(precacheList.map(url => ({ url, revision: null })));
+
+        // Define um handler padrão para rotas não pré-cacheadas ou não explicitamente roteadas
         workbox.routing.setDefaultHandler(
           new workbox.strategies.StaleWhileRevalidate()
         );
-        workbox.routing.registerRoute(
-          /^\/$/,
-          new workbox.strategies.NetworkFirst({
-            cacheName: "home-page-cache",
-            plugins: [
-              new workbox.cacheableResponse.CacheableResponsePlugin({
-                statuses: [0, 200],
-              }),
-            ],
-          })
-        );
-        // Novas rotas para páginas específicas para cache offline
-        const appPages = [
-          /^\/sobre\/?$/,
-          /^\/forms\/contato\/?$/,
-          /^\/lista\/?$/,
-          /^\/agenda\/?$/,
-          /^\/hinos\/?$/,
-        ];
-
-        appPages.forEach((route) => {
-          workbox.routing.registerRoute(
-            route,
-            new workbox.strategies.NetworkFirst({
-              cacheName: "app-pages-cache",
-              plugins: [
-                new workbox.cacheableResponse.CacheableResponsePlugin({
-                  statuses: [0, 200],
-                }),
-              ],
-            })
-          );
-        });
 
         workbox.routing.registerRoute(
           /\.(?:js|json|css|html|png|svg|ico|woff2|woff|ttf|otf|eot|jpg|jpeg|gif|bmp|webp|avif)$/,
@@ -98,6 +81,7 @@ const WorkboxHandler = {
             ],
           })
         );
+
         workbox.routing.registerRoute(
           ({ url }) => url.hostname === "lh3.googleusercontent.com",
           new workbox.strategies.CacheFirst({
@@ -122,7 +106,8 @@ const WorkboxHandler = {
                   console.warn(
                     `[Workbox] Falha ao buscar script GTM: ${request.url}. Retornando resposta vazia para evitar erro no console.`
                   );
-                  return null;
+                  // Retorna uma resposta vazia e bem-sucedida para evitar o erro 'no-response'
+                  return new Response('', { status: 200, statusText: 'OK' });
                 },
               },
             ],
