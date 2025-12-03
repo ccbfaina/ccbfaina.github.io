@@ -82,12 +82,27 @@ const Client = {
    * @param {*} data
    */
   send: (type, message, data = null) => {
+    // Função auxiliar para serializar, evitando serialização dupla se já for string
+    const safeStringify = (value) => {
+      if (typeof value === "string") {
+        // Tenta parsear para verificar se já é JSON válido
+        try {
+          JSON.parse(value);
+          return value; // Já é um JSON string, retorna como está
+        } catch (e) {
+          // Não é um JSON string válido, stringifica como uma string literal
+          return JSON.stringify(value);
+        }
+      }
+      return JSON.stringify(value);
+    };
+
     self.clients.matchAll().then((clients) =>
       clients.forEach((c) =>
         c.postMessage({
           type,
-          message: JSON.stringify(message), // Serializa a mensagem
-          data: JSON.stringify(data), // Serializa os dados
+          message: safeStringify(message), // Usa a função auxiliar
+          data: safeStringify(data), // Usa a função auxiliar
         })
       )
     );
@@ -138,7 +153,7 @@ const Logger = {
   log: (...args) => console.log("[SW]", ...args),
   handleError: (context, err) => {
     console.error(`[SW] ${context}:`, err);
-    Client.send("status_update", `Erro ao executar ${context}: ${err.message}`);
+    Client.send("message", `Erro ao executar ${context}: ${err.message}`);
   },
 };
 
@@ -167,9 +182,12 @@ const Utils = {
   },
   setBrasiliaTime(date, hours, minutes, seconds, ms) {
     if (isNaN(date.getTime())) return;
+    // Define as horas em UTC, ajustando para o fuso horário de Brasília (UTC-3).
+    // Isso garante que as operações de data (e.g., para filtros) sejam consistentes.
     date.setUTCHours(hours + 3, minutes, seconds, ms);
   },
   // A propriedade 'delay' usará DataManager.CONFIG.dalay
+  // Pequeno atraso para ceder o controle ao event loop e permitir a propagação de mensagens de status.
   delay: (ms) => new Promise((res) => setTimeout(res, ms)),
   mapRow(headers, row) {
     let obj = {};
@@ -182,6 +200,7 @@ const Utils = {
 
 /**
  * Gerenciador de Dados e Atualizações da Aplicação
+ *
  */
 const DataManager = {
   // --- Configuração do Banco de Dados ---
@@ -192,14 +211,22 @@ const DataManager = {
     log: false,
     delay: 5,
   },
-
+  UPDATE_CONFIG: [
+    { type: "tags", metadataKey: "tags", versionKey: "tags_version" },
+    { type: "events", metadataKey: "lista", versionKey: "lista_version" },
+    {
+      type: "relatorio",
+      metadataKey: "relatorio",
+      versionKey: "relatorio_version",
+    },
+  ],
   // --- Instância do Banco de Dados Dexie ---
   db: null, // Será inicializado abaixo
 
   // --- Funções de Ação Principal ---
   clearDB: async () => {
     try {
-      Client.send("status_update", "Limpando banco de dados...");
+      Client.send("message", "Limpando banco de dados...");
       await DataManager.db.relatorio.clear();
       await DataManager.db.eventos.clear();
       await DataManager.db.tags.clear();
@@ -228,15 +255,14 @@ const DataManager = {
 
   // Atualiza as tags principais
   updateTagsMain: async () => {
-    Client.send("status_update", "Baixando tags principais...");
+    Client.send("message", "Baixando tags principais...");
     const tagsMain = await DataManager._fetchAndParseJson(
       "https://faina.ccbgo.org.br/data/tags.json",
       "tags principais"
     );
     Logger.log("Tags principais baixadas.");
 
-    Client.send("status_update", "Limpando e salvando tags principais...");
-    await DataManager.db.tags.clear();
+    Client.send("message", "Limpando e salvando tags principais...");
     let order = 0;
     const processedTagsMain = (tagsMain.tags || []).map((tag) => ({
       ...tag,
@@ -244,6 +270,7 @@ const DataManager = {
       normalizedTitle: Utils.normalizeString(tag.title),
       normalizedGroup: Utils.normalizeString(tag.group),
     }));
+    await DataManager.db.tags.clear();
     await DataManager.db.tags.bulkPut(processedTagsMain);
     Logger.log(
       `Tags principais salvas: ${processedTagsMain.length} registros.`
@@ -254,14 +281,14 @@ const DataManager = {
 
   // Atualiza as tags circulares
   updateTagsCircular: async (startTagId) => {
-    Client.send("status_update", "Baixando tags circulares e adicionando...");
+    Client.send("message", "Baixando tags circulares e adicionando...");
     const tagsCircular = await DataManager._fetchAndParseJson(
       "https://faina.ccbgo.org.br/data/tags-circulares.json",
       "tags circulares"
     );
     Logger.log("Tags circulares baixadas.");
 
-    Client.send("status_update", "Adicionando tags circulares...");
+    Client.send("message", "Adicionando tags circulares...");
     let order = startTagId; // Continua a partir do último ID das tags principais
     const processedTagsCircular = (tagsCircular.tags || []).map((tag) => ({
       ...tag,
@@ -278,7 +305,7 @@ const DataManager = {
 
   // Atualiza os metadados de eventos (titles, locales, desc)
   updateEventMetadata: async () => {
-    Client.send("status_update", "Baixando dados principais de eventos...");
+    Client.send("message", "Baixando dados principais de eventos...");
     const dataMain = await DataManager._fetchAndParseJson(
       "https://faina.ccbgo.org.br/data/data.json",
       "dados principais de eventos"
@@ -286,7 +313,7 @@ const DataManager = {
     Logger.log("Dados principais de eventos baixados.");
     Utils.delay(DataManager.CONFIG.delay);
 
-    Client.send("status_update", "Limpando e salvando metadados de eventos...");
+    Client.send("message", "Limpando e salvando metadados de eventos...");
     await DataManager.db.transaction(
       "rw",
       DataManager.db.desc,
@@ -317,12 +344,11 @@ const DataManager = {
   // Processa e salva os itens de eventos
   updateEventItems: async (eventItems) => {
     Client.send(
-      "status_update",
+      "message",
       `Processando ${eventItems.length.toLocaleString(
         "pt-BR"
       )} itens de eventos...`
     );
-    await DataManager.db.eventos.clear(); // Limpa a tabela de eventos antes de adicionar os novos
 
     const preprocessEvent = (evento) => {
       const d = evento.date ? new Date(evento.date) : null;
@@ -364,23 +390,65 @@ const DataManager = {
       .map(preprocessEvent)
       .filter((item) => item !== null);
 
-    for (let i = 0; i < newEvents.length; i += DataManager.CONFIG.chunk) {
-      const chunk = newEvents.slice(i, i + DataManager.CONFIG.chunk);
-      await DataManager.db.transaction(
-        "rw",
-        DataManager.db.eventos,
-        async () => {
-          await DataManager.db.eventos.bulkPut(chunk);
+    const db = DataManager.db;
+    const chunkSize = DataManager.CONFIG.chunk;
+
+    try {
+      // Inicia uma única transação para todas as operações
+      await db.transaction("rw", db.eventos, async () => {
+        // 1. Prepara dados para comparação
+        const existingEvents = await db.eventos.toArray();
+        const existingEventsMap = new Map(existingEvents.map((e) => [e.id, e]));
+
+        const eventsToPut = []; // Novos ou Atualizados
+        const idsToKeep = new Set(); // IDs da fonte
+
+        // 2. Calcula CRIAÇÕES e ATUALIZAÇÕES
+        for (const newEvent of newEvents) {
+          const existing = existingEventsMap.get(newEvent.id);
+          idsToKeep.add(newEvent.id);
+
+          // Conversão para timestamp para comparação (garante que só atualiza se for mais novo)
+          const newUpdated = new Date(newEvent.updated).getTime();
+
+          if (!existing) {
+            eventsToPut.push(newEvent); // Novo
+          } else {
+            const existingUpdated = new Date(existing.updated || 0).getTime();
+            if (newUpdated > existingUpdated) {
+              eventsToPut.push(newEvent); // Atualizado
+            }
+          }
         }
-      );
-      Utils.delay(DataManager.CONFIG.delay);
+
+        // 3. Calcula EXCLUSÕES
+        const idsToDelete = existingEvents
+          .filter((e) => !idsToKeep.has(e.id))
+          .map((e) => e.id);
+
+        // 4. Executa EXCLUSÃO (bulkDelete)
+        if (idsToDelete.length > 0) {
+          await db.eventos.bulkDelete(idsToDelete);
+        }
+
+        // 5. Executa CRIAÇÃO/ATUALIZAÇÃO (bulkPut), mantendo o chunking
+        if (eventsToPut.length > 0) {
+          for (let i = 0; i < eventsToPut.length; i += chunkSize) {
+            const chunk = eventsToPut.slice(i, i + chunkSize);
+            await db.eventos.bulkPut(chunk);
+          }
+        }
+      });
+      Logger.log("✅ Sincronização Delta concluída com sucesso.");
+    } catch (error) {
+      Logger.error("❌ Transação abortada devido a erro:", error);
     }
     Logger.log(`Itens de eventos salvos: ${newEvents.length} registros.`);
   },
 
   // Atualiza os dados do relatório
   updateRelatorio: async () => {
-    Client.send("status_update", "Iniciando download do relatório...");
+    Client.send("message", "Iniciando download do relatório...");
     const { headers, data } = await DataManager._fetchAndParseJson(
       "https://faina.ccbgo.org.br/data/relatorio.json",
       "relatório"
@@ -412,102 +480,65 @@ const DataManager = {
   },
 
   async updateProcess(payload = {}) {
+    Logger.log("Iniciando processo de verificação de atualizações...", payload);
+    const { updateType = "all" } = payload;
+    let updatesExecuted = 0;
+
     try {
-      Client.send("status_update", "Verificando atualizações...");
-
-      const { updateType = "all" } = payload; // 'all', 'events', 'relatorio'
-
+      // 1. Obter metadados do servidor
       const metadataRes = await DataManager._fetchAndParseJson(
-        "https://faina.ccbgo.org.br/data/metadata.json",
+        "/data/metadata.json",
         "metadados"
       );
-      const { lista, relatorio } = metadataRes;
-      const serverListaVersion = lista?.version;
-      const serverRelatorioVersion = relatorio?.version;
 
-      const [
-        { value: storedListaVersion } = {},
-        { value: storedRelatorioVersion } = {},
-      ] = await Promise.all([
-        DataManager.db.versions.get("lista_version"),
-        DataManager.db.versions.get("relatorio_version"),
-      ]);
+      // 2. Obter todas as versões armazenadas de uma vez
+      const storedVersionPromises = DataManager.UPDATE_CONFIG.map((cfg) =>
+        DataManager.db.versions.get(cfg.versionKey).then((res) => res?.value)
+      );
+      const storedVersions = await Promise.all(storedVersionPromises);
 
-      let needsEventsUpdate = false;
-      let needsRelatorioUpdate = false;
+      // 3. Iterar e processar cada recurso
+      for (let i = 0; i < DataManager.UPDATE_CONFIG.length; i++) {
+        const cfg = DataManager.UPDATE_CONFIG[i];
+        const serverVersion = metadataRes[cfg.metadataKey]?.version;
+        const storedVersion = storedVersions[i];
 
-      if (
-        (updateType === "all" || updateType === "events") &&
-        serverListaVersion &&
-        serverListaVersion !== storedListaVersion
-      ) {
-        Logger.log(
-          "Versão da lista diferente ou não encontrada. Necessita atualização de eventos."
-        );
-        needsEventsUpdate = true;
-      }
-      if (
-        (updateType === "all" || updateType === "relatorio") &&
-        serverRelatorioVersion &&
-        serverRelatorioVersion !== storedRelatorioVersion
-      ) {
-        Logger.log(
-          "Versão do relatório diferente ou não encontrada. Necessita atualização de relatório."
-        );
-        needsRelatorioUpdate = true;
-      }
+        const checkType = updateType === "all" || updateType === cfg.type;
+        const needsUpdate = serverVersion && serverVersion !== storedVersion;
 
-      if (needsEventsUpdate || needsRelatorioUpdate) {
-        Client.send(
-          "status_update",
-          "Novas atualizações disponíveis. Iniciando processo de atualização..."
-        );
-        Logger.log(
-          "######### /////// ------>>>>>>>>> Iniciando processo de atualização... <<<<<<<< "
-        );
+        if (checkType && needsUpdate) {
+          updatesExecuted++;
 
-        if (needsEventsUpdate) {
-          Logger.log("Iniciando atualização de eventos e tags.");
-          const lastTagId = await DataManager.updateTagsMain();
-          await DataManager.updateTagsCircular(lastTagId);
-          const eventItems = await DataManager.updateEventMetadata();
-          await DataManager.updateEventItems(eventItems);
           Client.send(
-            "status_update",
-            "Atualização de eventos e tags concluída."
+            "message",
+            `Novas atualizações disponíveis. Iniciando: ${cfg.type}...`
           );
-        } else {
-          Logger.log("Atualização de eventos e tags ignorada.");
-        }
+          
+          Logger.log(`Processando atualização de ${cfg.type}.`);
 
-        if (needsRelatorioUpdate) {
-          Logger.log("Iniciando atualização de relatório.");
-          Client.send("status_update", "Continuando atualização: Relatório...");
-          await DataManager.updateRelatorio();
-          Client.send("status_update", "Atualização do relatório concluída.");
-        } else {
-          Logger.log("Atualização de relatório ignorada.");
-        }
+          // Lógica de atualização específica:
+          if (cfg.type === "tags") {
+            const lastTagId = await DataManager.updateTagsMain();
+            await DataManager.updateTagsCircular(lastTagId);
+          } else if (cfg.type === "events") {
+            const eventItems = await DataManager.updateEventMetadata();
+            await DataManager.updateEventItems(eventItems);
+          } else if (cfg.type === "relatorio") {
+            await DataManager.updateRelatorio();
+          }
 
-        const versionsToUpdate = [];
-        if (needsEventsUpdate) {
-          versionsToUpdate.push({
-            key: "lista_version",
-            value: serverListaVersion,
+          // Salva a nova versão após o sucesso
+          await DataManager.db.versions.put({
+            key: cfg.versionKey,
+            value: serverVersion,
           });
+          Client.send("message", `Atualização de ${cfg.type} concluída.`);
         }
-        if (needsRelatorioUpdate) {
-          versionsToUpdate.push({
-            key: "relatorio_version",
-            value: serverRelatorioVersion,
-          });
-        }
-        await DataManager.db.versions.bulkPut(versionsToUpdate);
-
-        Client.send("status_update", "Atualização concluída com sucesso!");
+      }
+      // 4. Retorno final
+      if (updatesExecuted > 0) {
         return { message: "Dados atualizados com sucesso." };
       } else {
-        Client.send("status_update", "Dados já atualizados.");
         return { message: "Nenhuma atualização necessária." };
       }
     } catch (err) {
@@ -551,16 +582,45 @@ const CacheManager = {
       workbox.core.skipWaiting();
       workbox.core.clientsClaim();
       Client.send("activated", "Service ativado!");
-      workbox.precaching.precacheAndRoute([{"revision":"dd269b0fbb9c772a1c3d8a2e42f63b03","url":"_nuxt/agenda.Cxy7HutF.css"},{"revision":"90cae94549d29096acc237a0d42a35c8","url":"_nuxt/B2mNKc1N.js"},{"revision":"0f5cee2aacc780b85cd3b0ed53140526","url":"_nuxt/B7cr_GLp.js"},{"revision":"5af79e8966d2fd7202d26d9ec152eeba","url":"_nuxt/BD3kfZLA.js"},{"revision":"f26be8c4686360828c21c0b06088152e","url":"_nuxt/BkaJ0DXb.js"},{"revision":"d78563e5994a8dc10d10bad80ca9a445","url":"_nuxt/BPyFwVPR.js"},{"revision":"9c8700759de5ff8efef5d05dff9601e6","url":"_nuxt/BQIJfskR.js"},{"revision":"d363d272159b128e07635873269d5025","url":"_nuxt/BQmSfujb.js"},{"revision":"7ffaeafb1bf25aae2782a590e1d66a3c","url":"_nuxt/builds/latest.json"},{"revision":"3248e119ab20770f4d9475545a8b974f","url":"_nuxt/builds/meta/8512a1de-0f15-4555-afd0-354b4f25d31a.json"},{"revision":"72656fc08b7a185d726502a8e733fbdf","url":"_nuxt/Buo1mzZq.js"},{"revision":"0e7fc50171dc1dcd5d9364dcb463b2d8","url":"_nuxt/Bvc8oI_b.js"},{"revision":"78a53d0c01e2d8eca2436913eba514cc","url":"_nuxt/C4wnYRHc.js"},{"revision":"21f5abd204d35d444b97cebed68ee209","url":"_nuxt/C8Eta1VE.js"},{"revision":"3b30b83d5326dfc600daf12dfd58e806","url":"_nuxt/C9EMordB.js"},{"revision":"e909242e388ed7624f7e2c660dbd2604","url":"_nuxt/calendar.9oQBoDIV.css"},{"revision":"89ff7ea622574684f800628f5aa8b971","url":"_nuxt/cfK1Wpvm.js"},{"revision":"13998acb03a9d33546132f15b01693bd","url":"_nuxt/CfVVdfyE.js"},{"revision":"715dd0b70c5a0a9831ae57207a6d60f3","url":"_nuxt/CkPGhGjQ.js"},{"revision":"751ed9fb80217a0817902e039b525347","url":"_nuxt/CNKszBmN.js"},{"revision":"14e879ebc75efcda12e0066eee635c52","url":"_nuxt/contato.3ci9Le7x.css"},{"revision":"9454a8581ae8c957a3daba14fe6a5c57","url":"_nuxt/CS966vdy.js"},{"revision":"b9ac5e10516ba16e2388d8718fc972c9","url":"_nuxt/CWW1n6AE.js"},{"revision":"c09149e7b5e1be633c06680ee48995cf","url":"_nuxt/CXOs5zuY.js"},{"revision":"6e0098aca43b9d7c89cbe8fd3ee40c13","url":"_nuxt/D0Dr7phT.js"},{"revision":"46f084310af982e238f1b9dd1a756ad1","url":"_nuxt/D7rl8lNW.js"},{"revision":"7919a451de2e8bd9c63976a3046a65a0","url":"_nuxt/DaNAWMaO.js"},{"revision":"789490160bc462ebefe248bb5c224d93","url":"_nuxt/DbEtIfB4.js"},{"revision":"8613ab68b335b453cd8c564b8dcb5012","url":"_nuxt/Dd96c-IT.js"},{"revision":"f94ff436ea2dd7c47e082e713ca40d43","url":"_nuxt/ddIkDnxG.js"},{"revision":"1c916f445ba394452071f89bccc1053c","url":"_nuxt/DecyOXwM.js"},{"revision":"44ecf398c8451f4823357944ac745851","url":"_nuxt/default.BllfGIqY.css"},{"revision":"542b361a24681a04f7b5a0be44fd3f06","url":"_nuxt/DGM1GRPj.js"},{"revision":"712461be23b832d5298727ce2f09fc75","url":"_nuxt/DmkMO4cs.js"},{"revision":"1367d70f1c66ffeb5b025a60b3082b09","url":"_nuxt/Dmn0vmg5.js"},{"revision":"e8515421610af759bfc9f15497ab3f15","url":"_nuxt/entry.BO-rWFXR.css"},{"revision":"ec311ea5bf450f591480bc5de4b74515","url":"_nuxt/eventos.DC8w-Mze.css"},{"revision":"e1d580bc8c87679d55b0a1561835430f","url":"_nuxt/form.D8ztOVBm.css"},{"revision":"5dc79fd91297a1e6edee8f03357b63b0","url":"_nuxt/GdTu9iWa.js"},{"revision":"f5e241098d2cc623e21579a598a82277","url":"_nuxt/IEZT0LLa.js"},{"revision":"bd69e4f915e5d568b33063a030e5602a","url":"_nuxt/index.B3U2Ud4L.css"},{"revision":"026e0d7acf2202a5c7f8513a3e690acc","url":"_nuxt/index.C01wgp59.css"},{"revision":"5c4f7f672ac6bf0de18e9d746f64e0b1","url":"_nuxt/index.CA-Ono2w.css"},{"revision":"d3838d7d373de5ff91c0962fb4b0890c","url":"_nuxt/index.efd4-kTG.css"},{"revision":"70b1c8b576c234d52bdf3955a6c6296d","url":"_nuxt/landscape.BFEAchZd.css"},{"revision":"2996e58afd2099d18d1e0a222ca605a1","url":"_nuxt/levantamento_preventiva.D-3OeP-V.css"},{"revision":"265ed4d21f21ef41c522dbb746881052","url":"_nuxt/LoadingSpinner.B8lNEaQd.css"},{"revision":"59154c4971da99157c72bc6bee67f55e","url":"_nuxt/manutencao.DIm-6Bk8.css"},{"revision":"be00fce10a162e4469800634b006201d","url":"_nuxt/menu.0lHMkiB6.css"},{"revision":"824b1d7761a285e7b1cbaf771eae182f","url":"_nuxt/navegar.DXE9DLXy.css"},{"revision":"40c2a0c90612ca71f55611a290899a6b","url":"_nuxt/noscroll.DrWb4tOw.css"},{"revision":"6abf22d4f7c4fbb02a68d68f0bab3b35","url":"_nuxt/perfil.NIbQGJpK.css"},{"revision":"fcbcae30130990780ffa631e15a30fd9","url":"_nuxt/qe3v-g0_.js"},{"revision":"8456b4730f5a71d9d9d63b6a3f8dc488","url":"_nuxt/recentes.CtKQcL51.css"},{"revision":"e5400f28ac27375dc249adf4b972c4b6","url":"_nuxt/relatorio.BGMUo3JX.css"},{"revision":"4e5e7281c3f5c074fc82f9412add67df","url":"_nuxt/rk1RBbph.js"},{"revision":"a784c03c378790004948dbf2002e5f91","url":"_nuxt/servicos.DXKw4MpX.css"},{"revision":"e16fe871f60ebca36f1b2fd2b8bdfed6","url":"_nuxt/settings.D81KzNVB.css"},{"revision":"a8b5179d5b5806ec3883dc79a41b65f8","url":"_nuxt/sobre.c9vjT2Gh.css"},{"revision":"14afaca6e3bd7ee95072fe88d377566f","url":"_nuxt/solicitar.C0T4GfkF.css"},{"revision":"41a5687094cf45020aca17ff24f46dd3","url":"_nuxt/sZW4RbK6.js"},{"revision":"e63755708115972acfd3c882b6e9bcd6","url":"_nuxt/view.toBhRDQR.css"},{"revision":"92edaa5072e434315f346e6567494050","url":"_nuxt/vZGkS2hF.js"},{"revision":"9028950d6eba39390eef61be128a9989","url":"200.html"},{"revision":"a69209cbf4784d458b7daba2a9fbdb4b","url":"200/index.html"},{"revision":"9028950d6eba39390eef61be128a9989","url":"404.html"},{"revision":"602d25ffdeb299b151040305c5481c2a","url":"404/index.html"},{"revision":"602d25ffdeb299b151040305c5481c2a","url":"500/index.html"},{"revision":"346a99c74474c956769d6c2c7ca4acb4","url":"agenda/index.html"},{"revision":"65c630763c4cf2fd8de4a236928a1f01","url":"data/data.json"},{"revision":"480b5bf85c5b5f9d3f6de55ab5beaaf2","url":"data/metadata.json"},{"revision":"416ef7202529463a618e35c6f3d32152","url":"data/ministerio.json"},{"revision":"0c67f062d6c248fbad406549c816ea19","url":"data/relatorio.json"},{"revision":"50d93598b24e42211df0a4e3dfb7d751","url":"data/tags-circulares.json"},{"revision":"17e54cf3cfdcb040a2757f4f1d71434e","url":"data/tags.json"},{"revision":"9028950d6eba39390eef61be128a9989","url":"evento/index.html"},{"revision":"9028950d6eba39390eef61be128a9989","url":"evento/solicitar/index.html"},{"revision":"346a99c74474c956769d6c2c7ca4acb4","url":"eventos/index.html"},{"revision":"27b89616efd846aa579b3b5734343c8f","url":"favicon.ico"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.js"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.sync-conflict-20251009-114321-MQCW6GZ.js"},{"revision":"9028950d6eba39390eef61be128a9989","url":"forms/contato/index.html"},{"revision":"9028950d6eba39390eef61be128a9989","url":"forms/levantamento_preventiva/index.html"},{"revision":"9028950d6eba39390eef61be128a9989","url":"forms/manutencao/index.html"},{"revision":"d123a09ef3179ce1a2066cfe6878dab2","url":"forms/view/index.html"},{"revision":"d123a09ef3179ce1a2066cfe6878dab2","url":"hinos/index.html"},{"revision":"9867a3422e5addc595886168208cc592","url":"icons/apple-icon-120x120.png"},{"revision":"f7dd465713c1240865bb7b70370406c2","url":"icons/apple-icon-152x152.png"},{"revision":"01ffc5e4414a34c50f65e1bf6d7ca7a3","url":"icons/apple-icon-167x167.png"},{"revision":"cca2ffedcdeae214720aefe89e9fdcbe","url":"icons/apple-icon-180x180.png"},{"revision":"d79610b2ac314df70e3554b1dbc4fcee","url":"icons/apple-launch-1080x2340.png"},{"revision":"a650246dd488b11d81a130057b740a22","url":"icons/apple-launch-1125x2436.png"},{"revision":"92c201082d1000ec01e0af9fa2c1f002","url":"icons/apple-launch-1170x2532.png"},{"revision":"b2a5d799798b2e7f4b06d428069e3b35","url":"icons/apple-launch-1179x2556.png"},{"revision":"8f4e03c150d73b3d937be52937d4aad8","url":"icons/apple-launch-1242x2208.png"},{"revision":"b3bfd03718947f8eeca5fee0467d3a25","url":"icons/apple-launch-1242x2688.png"},{"revision":"21128a0bf6a4cfaf634d6ef8b5b142e1","url":"icons/apple-launch-1284x2778.png"},{"revision":"3051e3ead28e5bd48377b24b6fcecf2c","url":"icons/apple-launch-1290x2796.png"},{"revision":"3cae7d354552572d14cfd53a9393ded5","url":"icons/apple-launch-1536x2048.png"},{"revision":"7ff54e1750aebaa29beedf5abeeccad5","url":"icons/apple-launch-1620x2160.png"},{"revision":"e514179c99fd26b7de6e02382cfecda0","url":"icons/apple-launch-1668x2224.png"},{"revision":"5d87d86da198249158de50e52331d7de","url":"icons/apple-launch-1668x2388.png"},{"revision":"c092d59e226573b1742f0e3f44014521","url":"icons/apple-launch-2048x2732.png"},{"revision":"495d3004f238f1cb3c8cdf759e95d9d0","url":"icons/apple-launch-750x1334.png"},{"revision":"121f96f3c9e71537cfb3078a78b4978d","url":"icons/apple-launch-828x1792.png"},{"revision":"0411c0e5da61b3b3e590b1715898e5ca","url":"icons/Contents.json"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/favicon-128x128.png"},{"revision":"46e80c945a6991b54b573905e47c2c4a","url":"icons/favicon-16x16.png"},{"revision":"e5c43a798628015cc5709a04495734e3","url":"icons/favicon-32x32.png"},{"revision":"367f65061b9581fa2846a490a642b1f6","url":"icons/favicon-96x96.png"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/icon-128x128.png"},{"revision":"7ce4b17cca36b21129d6575124962c6e","url":"icons/icon-192x192.png"},{"revision":"afabfd81700092d07d6dd1a472313aaf","url":"icons/icon-256x256.png"},{"revision":"fe39b949477ecdc47cbd8eb4b84fb0ea","url":"icons/icon-384x384.png"},{"revision":"aab03ed9af399f7d146ff8a9c51ae96d","url":"icons/icon-512x512.png"},{"revision":"cc9cc708e9a0caacd09cd25f25c32ac3","url":"icons/ms-icon-144x144.png"},{"revision":"1280df887f0e62362507d1d2838eec71","url":"icons/safari-pinned-tab.svg"},{"revision":"e9e4b7922d30b56a6abe7a18d2f8af48","url":"icons/user.png"},{"revision":"d78f8eab7b18b38fba494719de4804db","url":"img/logo-ccb-light.png"},{"revision":"0577fae5a4b1dcb997f2e8baab702570","url":"index.html"},{"revision":"9028950d6eba39390eef61be128a9989","url":"lista/calendar/index.html"},{"revision":"d123a09ef3179ce1a2066cfe6878dab2","url":"lista/edit/index.html"},{"revision":"9028950d6eba39390eef61be128a9989","url":"lista/index.html"},{"revision":"46041b0767d24770a77cca3ada6b1311","url":"manifest.webmanifest"},{"revision":"346a99c74474c956769d6c2c7ca4acb4","url":"navegar/index.html"},{"revision":"346a99c74474c956769d6c2c7ca4acb4","url":"perfil/index.html"},{"revision":"d123a09ef3179ce1a2066cfe6878dab2","url":"recentes/index.html"},{"revision":"d123a09ef3179ce1a2066cfe6878dab2","url":"relatorio/index.html"},{"revision":"5dd1ef12b5306cb6eb2a34b21a34ce23","url":"screenshots/desktop.png"},{"revision":"22203dd79381b922a8453fd9003822a8","url":"screenshots/mobile.png"},{"revision":"d123a09ef3179ce1a2066cfe6878dab2","url":"servicos/index.html"},{"revision":"d123a09ef3179ce1a2066cfe6878dab2","url":"settings/index.html"},{"revision":"346a99c74474c956769d6c2c7ca4acb4","url":"sobre/index.html"}] || []);
+      workbox.precaching.precacheAndRoute([{"revision":"dd269b0fbb9c772a1c3d8a2e42f63b03","url":"_nuxt/agenda.Cxy7HutF.css"},{"revision":"90cae94549d29096acc237a0d42a35c8","url":"_nuxt/B2mNKc1N.js"},{"revision":"0f5cee2aacc780b85cd3b0ed53140526","url":"_nuxt/B7cr_GLp.js"},{"revision":"5af79e8966d2fd7202d26d9ec152eeba","url":"_nuxt/BD3kfZLA.js"},{"revision":"f26be8c4686360828c21c0b06088152e","url":"_nuxt/BkaJ0DXb.js"},{"revision":"d78563e5994a8dc10d10bad80ca9a445","url":"_nuxt/BPyFwVPR.js"},{"revision":"9c8700759de5ff8efef5d05dff9601e6","url":"_nuxt/BQIJfskR.js"},{"revision":"d363d272159b128e07635873269d5025","url":"_nuxt/BQmSfujb.js"},{"revision":"0dd00bc3161e4127c5f59a13d466cd4d","url":"_nuxt/builds/latest.json"},{"revision":"88b6b39efe54715808ac89673cf68beb","url":"_nuxt/builds/meta/b3bd07b2-f5e1-441e-951f-ad62b53f99f0.json"},{"revision":"72656fc08b7a185d726502a8e733fbdf","url":"_nuxt/Buo1mzZq.js"},{"revision":"0e7fc50171dc1dcd5d9364dcb463b2d8","url":"_nuxt/Bvc8oI_b.js"},{"revision":"78a53d0c01e2d8eca2436913eba514cc","url":"_nuxt/C4wnYRHc.js"},{"revision":"21f5abd204d35d444b97cebed68ee209","url":"_nuxt/C8Eta1VE.js"},{"revision":"3b30b83d5326dfc600daf12dfd58e806","url":"_nuxt/C9EMordB.js"},{"revision":"e909242e388ed7624f7e2c660dbd2604","url":"_nuxt/calendar.9oQBoDIV.css"},{"revision":"89ff7ea622574684f800628f5aa8b971","url":"_nuxt/cfK1Wpvm.js"},{"revision":"13998acb03a9d33546132f15b01693bd","url":"_nuxt/CfVVdfyE.js"},{"revision":"715dd0b70c5a0a9831ae57207a6d60f3","url":"_nuxt/CkPGhGjQ.js"},{"revision":"751ed9fb80217a0817902e039b525347","url":"_nuxt/CNKszBmN.js"},{"revision":"14e879ebc75efcda12e0066eee635c52","url":"_nuxt/contato.3ci9Le7x.css"},{"revision":"9454a8581ae8c957a3daba14fe6a5c57","url":"_nuxt/CS966vdy.js"},{"revision":"b9ac5e10516ba16e2388d8718fc972c9","url":"_nuxt/CWW1n6AE.js"},{"revision":"c09149e7b5e1be633c06680ee48995cf","url":"_nuxt/CXOs5zuY.js"},{"revision":"6e0098aca43b9d7c89cbe8fd3ee40c13","url":"_nuxt/D0Dr7phT.js"},{"revision":"46f084310af982e238f1b9dd1a756ad1","url":"_nuxt/D7rl8lNW.js"},{"revision":"7919a451de2e8bd9c63976a3046a65a0","url":"_nuxt/DaNAWMaO.js"},{"revision":"789490160bc462ebefe248bb5c224d93","url":"_nuxt/DbEtIfB4.js"},{"revision":"8613ab68b335b453cd8c564b8dcb5012","url":"_nuxt/Dd96c-IT.js"},{"revision":"f94ff436ea2dd7c47e082e713ca40d43","url":"_nuxt/ddIkDnxG.js"},{"revision":"1c916f445ba394452071f89bccc1053c","url":"_nuxt/DecyOXwM.js"},{"revision":"44ecf398c8451f4823357944ac745851","url":"_nuxt/default.BllfGIqY.css"},{"revision":"542b361a24681a04f7b5a0be44fd3f06","url":"_nuxt/DGM1GRPj.js"},{"revision":"712461be23b832d5298727ce2f09fc75","url":"_nuxt/DmkMO4cs.js"},{"revision":"1367d70f1c66ffeb5b025a60b3082b09","url":"_nuxt/Dmn0vmg5.js"},{"revision":"bfeaae004bb9585c43b4b91f77353244","url":"_nuxt/DZ7Cx6oq.js"},{"revision":"e8515421610af759bfc9f15497ab3f15","url":"_nuxt/entry.BO-rWFXR.css"},{"revision":"ec311ea5bf450f591480bc5de4b74515","url":"_nuxt/eventos.DC8w-Mze.css"},{"revision":"e1d580bc8c87679d55b0a1561835430f","url":"_nuxt/form.D8ztOVBm.css"},{"revision":"5dc79fd91297a1e6edee8f03357b63b0","url":"_nuxt/GdTu9iWa.js"},{"revision":"f5e241098d2cc623e21579a598a82277","url":"_nuxt/IEZT0LLa.js"},{"revision":"bd69e4f915e5d568b33063a030e5602a","url":"_nuxt/index.B3U2Ud4L.css"},{"revision":"026e0d7acf2202a5c7f8513a3e690acc","url":"_nuxt/index.C01wgp59.css"},{"revision":"5c4f7f672ac6bf0de18e9d746f64e0b1","url":"_nuxt/index.CA-Ono2w.css"},{"revision":"d3838d7d373de5ff91c0962fb4b0890c","url":"_nuxt/index.efd4-kTG.css"},{"revision":"70b1c8b576c234d52bdf3955a6c6296d","url":"_nuxt/landscape.BFEAchZd.css"},{"revision":"2996e58afd2099d18d1e0a222ca605a1","url":"_nuxt/levantamento_preventiva.D-3OeP-V.css"},{"revision":"265ed4d21f21ef41c522dbb746881052","url":"_nuxt/LoadingSpinner.B8lNEaQd.css"},{"revision":"59154c4971da99157c72bc6bee67f55e","url":"_nuxt/manutencao.DIm-6Bk8.css"},{"revision":"be00fce10a162e4469800634b006201d","url":"_nuxt/menu.0lHMkiB6.css"},{"revision":"824b1d7761a285e7b1cbaf771eae182f","url":"_nuxt/navegar.DXE9DLXy.css"},{"revision":"40c2a0c90612ca71f55611a290899a6b","url":"_nuxt/noscroll.DrWb4tOw.css"},{"revision":"6abf22d4f7c4fbb02a68d68f0bab3b35","url":"_nuxt/perfil.NIbQGJpK.css"},{"revision":"fcbcae30130990780ffa631e15a30fd9","url":"_nuxt/qe3v-g0_.js"},{"revision":"8456b4730f5a71d9d9d63b6a3f8dc488","url":"_nuxt/recentes.CtKQcL51.css"},{"revision":"e5400f28ac27375dc249adf4b972c4b6","url":"_nuxt/relatorio.BGMUo3JX.css"},{"revision":"a784c03c378790004948dbf2002e5f91","url":"_nuxt/servicos.DXKw4MpX.css"},{"revision":"e16fe871f60ebca36f1b2fd2b8bdfed6","url":"_nuxt/settings.D81KzNVB.css"},{"revision":"a8b5179d5b5806ec3883dc79a41b65f8","url":"_nuxt/sobre.c9vjT2Gh.css"},{"revision":"14afaca6e3bd7ee95072fe88d377566f","url":"_nuxt/solicitar.C0T4GfkF.css"},{"revision":"41a5687094cf45020aca17ff24f46dd3","url":"_nuxt/sZW4RbK6.js"},{"revision":"e63755708115972acfd3c882b6e9bcd6","url":"_nuxt/view.toBhRDQR.css"},{"revision":"92edaa5072e434315f346e6567494050","url":"_nuxt/vZGkS2hF.js"},{"revision":"5d6d24399d3f8a7703f2c53f239ad0d1","url":"200.html"},{"revision":"329328889508123a24adba1b7f10ef82","url":"200/index.html"},{"revision":"6335abcbe9c2e98a60c1584e6b000470","url":"404.html"},{"revision":"c7335fa572ae335b7037f97f1cf0e252","url":"404/index.html"},{"revision":"c7335fa572ae335b7037f97f1cf0e252","url":"500/index.html"},{"revision":"848d0d7b085a9c048493d0706418b4f3","url":"agenda/index.html"},{"revision":"f6dd097462e02677e84d421780cd7cab","url":"data/data.json"},{"revision":"ab950c66c6282c741cfcfa9205fb179a","url":"data/metadata.json"},{"revision":"416ef7202529463a618e35c6f3d32152","url":"data/ministerio.json"},{"revision":"0c67f062d6c248fbad406549c816ea19","url":"data/relatorio.json"},{"revision":"50d93598b24e42211df0a4e3dfb7d751","url":"data/tags-circulares.json"},{"revision":"17e54cf3cfdcb040a2757f4f1d71434e","url":"data/tags.json"},{"revision":"754e755875dd230c5f0e04d7e6b1c368","url":"evento/index.html"},{"revision":"754e755875dd230c5f0e04d7e6b1c368","url":"evento/solicitar/index.html"},{"revision":"adec710ef1f36961abaaaefe039c5872","url":"eventos/index.html"},{"revision":"27b89616efd846aa579b3b5734343c8f","url":"favicon.ico"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.js"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.sync-conflict-20251009-114321-MQCW6GZ.js"},{"revision":"754e755875dd230c5f0e04d7e6b1c368","url":"forms/contato/index.html"},{"revision":"8fd5246d74a6b963d665500702e8dacf","url":"forms/levantamento_preventiva/index.html"},{"revision":"8fd5246d74a6b963d665500702e8dacf","url":"forms/manutencao/index.html"},{"revision":"8def921a7da56cf41cdcffdf5cb0e790","url":"forms/view/index.html"},{"revision":"754e755875dd230c5f0e04d7e6b1c368","url":"hinos/index.html"},{"revision":"9867a3422e5addc595886168208cc592","url":"icons/apple-icon-120x120.png"},{"revision":"f7dd465713c1240865bb7b70370406c2","url":"icons/apple-icon-152x152.png"},{"revision":"01ffc5e4414a34c50f65e1bf6d7ca7a3","url":"icons/apple-icon-167x167.png"},{"revision":"cca2ffedcdeae214720aefe89e9fdcbe","url":"icons/apple-icon-180x180.png"},{"revision":"d79610b2ac314df70e3554b1dbc4fcee","url":"icons/apple-launch-1080x2340.png"},{"revision":"a650246dd488b11d81a130057b740a22","url":"icons/apple-launch-1125x2436.png"},{"revision":"92c201082d1000ec01e0af9fa2c1f002","url":"icons/apple-launch-1170x2532.png"},{"revision":"b2a5d799798b2e7f4b06d428069e3b35","url":"icons/apple-launch-1179x2556.png"},{"revision":"8f4e03c150d73b3d937be52937d4aad8","url":"icons/apple-launch-1242x2208.png"},{"revision":"b3bfd03718947f8eeca5fee0467d3a25","url":"icons/apple-launch-1242x2688.png"},{"revision":"21128a0bf6a4cfaf634d6ef8b5b142e1","url":"icons/apple-launch-1284x2778.png"},{"revision":"3051e3ead28e5bd48377b24b6fcecf2c","url":"icons/apple-launch-1290x2796.png"},{"revision":"3cae7d354552572d14cfd53a9393ded5","url":"icons/apple-launch-1536x2048.png"},{"revision":"7ff54e1750aebaa29beedf5abeeccad5","url":"icons/apple-launch-1620x2160.png"},{"revision":"e514179c99fd26b7de6e02382cfecda0","url":"icons/apple-launch-1668x2224.png"},{"revision":"5d87d86da198249158de50e52331d7de","url":"icons/apple-launch-1668x2388.png"},{"revision":"c092d59e226573b1742f0e3f44014521","url":"icons/apple-launch-2048x2732.png"},{"revision":"495d3004f238f1cb3c8cdf759e95d9d0","url":"icons/apple-launch-750x1334.png"},{"revision":"121f96f3c9e71537cfb3078a78b4978d","url":"icons/apple-launch-828x1792.png"},{"revision":"0411c0e5da61b3b3e590b1715898e5ca","url":"icons/Contents.json"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/favicon-128x128.png"},{"revision":"46e80c945a6991b54b573905e47c2c4a","url":"icons/favicon-16x16.png"},{"revision":"e5c43a798628015cc5709a04495734e3","url":"icons/favicon-32x32.png"},{"revision":"367f65061b9581fa2846a490a642b1f6","url":"icons/favicon-96x96.png"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/icon-128x128.png"},{"revision":"7ce4b17cca36b21129d6575124962c6e","url":"icons/icon-192x192.png"},{"revision":"afabfd81700092d07d6dd1a472313aaf","url":"icons/icon-256x256.png"},{"revision":"fe39b949477ecdc47cbd8eb4b84fb0ea","url":"icons/icon-384x384.png"},{"revision":"aab03ed9af399f7d146ff8a9c51ae96d","url":"icons/icon-512x512.png"},{"revision":"cc9cc708e9a0caacd09cd25f25c32ac3","url":"icons/ms-icon-144x144.png"},{"revision":"1280df887f0e62362507d1d2838eec71","url":"icons/safari-pinned-tab.svg"},{"revision":"e9e4b7922d30b56a6abe7a18d2f8af48","url":"icons/user.png"},{"revision":"d78f8eab7b18b38fba494719de4804db","url":"img/logo-ccb-light.png"},{"revision":"f97d6104235482f9d32f18e819462baa","url":"index.html"},{"revision":"754e755875dd230c5f0e04d7e6b1c368","url":"lista/calendar/index.html"},{"revision":"8def921a7da56cf41cdcffdf5cb0e790","url":"lista/edit/index.html"},{"revision":"754e755875dd230c5f0e04d7e6b1c368","url":"lista/index.html"},{"revision":"46041b0767d24770a77cca3ada6b1311","url":"manifest.webmanifest"},{"revision":"adec710ef1f36961abaaaefe039c5872","url":"navegar/index.html"},{"revision":"848d0d7b085a9c048493d0706418b4f3","url":"perfil/index.html"},{"revision":"adec710ef1f36961abaaaefe039c5872","url":"recentes/index.html"},{"revision":"8def921a7da56cf41cdcffdf5cb0e790","url":"relatorio/index.html"},{"revision":"5dd1ef12b5306cb6eb2a34b21a34ce23","url":"screenshots/desktop.png"},{"revision":"22203dd79381b922a8453fd9003822a8","url":"screenshots/mobile.png"},{"revision":"8def921a7da56cf41cdcffdf5cb0e790","url":"servicos/index.html"},{"revision":"8def921a7da56cf41cdcffdf5cb0e790","url":"settings/index.html"},{"revision":"848d0d7b085a9c048493d0706418b4f3","url":"sobre/index.html"}] || []);
       CacheManager._addRoutes();
       CacheManager._enableNavigationPreload();
-      Client.send("init", "Service inicializado!"); // Message when SW setup is complete
+      Client.send("init", "Service inicializado!"); 
     } else {
       console.warn("Workbox não pôde ser carregado.");
     }
   },
 
   _addRoutes: () => {
+    // Navegação (HTML) otimizada para Preload
+    workbox.routing.registerRoute(
+      ({ request }) => request.mode === "navigate",
+      new workbox.strategies.NetworkFirst({
+        cacheName: "html-navigation-cache",
+        plugins: [
+          (() => {
+            if (
+              workbox.navigationPreload &&
+              typeof workbox.navigationPreload.NavigationPreloadPlugin ===
+                "function"
+            ) {
+              return new workbox.navigationPreload.NavigationPreloadPlugin();
+            } else {
+              Logger.log(
+                "workbox.navigationPreload.NavigationPreloadPlugin not found or not a constructor. Skipping NavigationPreloadPlugin."
+              );
+              return null;
+            }
+          })(),
+
+          new workbox.cacheableResponse.CacheableResponsePlugin({
+            statuses: [200],
+          }),
+
+          // Opcional: Configurar um fallback de página offline, se necessário.
+        ].filter(Boolean), // Filter out any null plugins if the conditional failed
+      })
+    );
     // 2. Cache de runtime para dados dinâmicos de faina.ccbgo.org.br/data/
     // Esta estratégia tenta a rede primeiro, depois retorna para o cache.
     // Ela ignora o parâmetro de consulta 'v' para fins de cache, evitando múltiplas entradas.
@@ -663,7 +723,7 @@ const CacheManager = {
 CacheManager.init();
 
 // Register the message handlers using Client.receive
-Client.receive("clear", (payload) => DataManager.clearDB(payload));
+// Client.receive("clear", (payload) => DataManager.clearDB(payload));
 
 Client.receive("fetchTitles", async (payload) => {
   const result = await DataManager.db.titles.toArray();
@@ -930,19 +990,9 @@ Client.receive("fetchRelatorio", async (payload) => {
       if (cidade) {
         const exact = [];
         const others = [];
-        const getRowCityNormalized = (row) => {
-          if (row.normalizedNomeCidade) {
-            return String(row.normalizedNomeCidade || "")
-              .toLowerCase()
-              .trim();
-          }
-          if (row.normalizedCidade) {
-            return String(row.normalizedCidade || "")
-              .toLowerCase()
-              .trim();
-          }
-          return normalizeString(row.cidade || "");
-        };
+        // Simplificado: Assumindo que normalizedNomeCidade sempre existe após updateRelatorio
+        const getRowCityNormalized = (row) =>
+          Utils.normalizeString(row.NomeCidade);
 
         for (let i = 0; i < all.length; i++) {
           const row = all[i];
@@ -957,17 +1007,9 @@ Client.receive("fetchRelatorio", async (payload) => {
       } else if (nome) {
         const exact = [];
         const others = [];
-        const getRowNameNormalized = (row) => {
-          if (row.normalizedMinisterio)
-            return String(row.normalizedMinisterio || "")
-              .toLowerCase()
-              .trim();
-          if (row.normalizedName)
-            return String(row.normalizedName || "")
-              .toLowerCase()
-              .trim();
-          return normalizeString(row.nome || "");
-        };
+        // Simplificado: Assumindo que normalizedMinisterio sempre existe após updateRelatorio
+        const getRowNameNormalized = (row) =>
+          Utils.normalizeString(row.MinisterioConcatenados);
 
         for (let i = 0; i < all.length; i++) {
           const row = all[i];
@@ -992,7 +1034,6 @@ Client.receive("fetchRelatorio", async (payload) => {
   } catch (err) {
     Logger.handleError("Erro ao carregar dados existentes", err);
   }
-  return data;
 });
 
 Client.receive("update", (payload) => DataManager.updateProcess(payload));
@@ -1011,7 +1052,6 @@ Client.receive("fetchRecenteTags", async (payload) => {
     const recentTags = tagsWithUpdated
       .sort((a, b) => new Date(b.updated) - new Date(a.updated))
       .slice(0, limit);
-
     return recentTags;
   } catch (error) {
     Logger.handleError("Erro ao buscar tags recentes em Dexie", error); // Corrigido para usar handleError
