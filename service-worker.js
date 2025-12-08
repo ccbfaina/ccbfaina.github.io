@@ -305,7 +305,7 @@ const DataManager = {
 
   // Atualiza os metadados de eventos (titles, locales, desc)
   updateEventMetadata: async () => {
-    Client.send("message", "Baixando dados principais de eventos...");
+    // Client.send("message", "Baixando dados principais de eventos...");
     const dataMain = await DataManager._fetchAndParseJson(
       "https://faina.ccbgo.org.br/data/data.json",
       "dados principais de eventos"
@@ -313,7 +313,6 @@ const DataManager = {
     Logger.log("Dados principais de eventos baixados.");
     Utils.delay(DataManager.CONFIG.delay);
 
-    Client.send("message", "Limpando e salvando metadados de eventos...");
     await DataManager.db.transaction(
       "rw",
       DataManager.db.desc,
@@ -343,12 +342,7 @@ const DataManager = {
 
   // Processa e salva os itens de eventos
   updateEventItems: async (eventItems) => {
-    Client.send(
-      "message",
-      `Processando ${eventItems.length.toLocaleString(
-        "pt-BR"
-      )} itens de eventos...`
-    );
+    Client.send("message", `Recebendo atualização...`);
 
     const preprocessEvent = (evento) => {
       const d = evento.date ? new Date(evento.date) : null;
@@ -390,58 +384,17 @@ const DataManager = {
       .map(preprocessEvent)
       .filter((item) => item !== null);
 
-    const db = DataManager.db;
-    const chunkSize = DataManager.CONFIG.chunk;
-
-    try {
-      // Inicia uma única transação para todas as operações
-      await db.transaction("rw", db.eventos, async () => {
-        // 1. Prepara dados para comparação
-        const existingEvents = await db.eventos.toArray();
-        const existingEventsMap = new Map(existingEvents.map((e) => [e.id, e]));
-
-        const eventsToPut = []; // Novos ou Atualizados
-        const idsToKeep = new Set(); // IDs da fonte
-
-        // 2. Calcula CRIAÇÕES e ATUALIZAÇÕES
-        for (const newEvent of newEvents) {
-          const existing = existingEventsMap.get(newEvent.id);
-          idsToKeep.add(newEvent.id);
-
-          // Conversão para timestamp para comparação (garante que só atualiza se for mais novo)
-          const newUpdated = new Date(newEvent.updated).getTime();
-
-          if (!existing) {
-            eventsToPut.push(newEvent); // Novo
-          } else {
-            const existingUpdated = new Date(existing.updated || 0).getTime();
-            if (newUpdated > existingUpdated) {
-              eventsToPut.push(newEvent); // Atualizado
-            }
-          }
+    await DataManager.db.eventos.clear();
+    for (let i = 0; i < newEvents.length; i += DataManager.CONFIG.chunk) {
+      const chunk = newEvents.slice(i, i + DataManager.CONFIG.chunk);
+      await DataManager.db.transaction(
+        "rw",
+        DataManager.db.eventos,
+        async () => {
+          await DataManager.db.eventos.bulkPut(chunk);
         }
-
-        // 3. Calcula EXCLUSÕES
-        const idsToDelete = existingEvents
-          .filter((e) => !idsToKeep.has(e.id))
-          .map((e) => e.id);
-
-        // 4. Executa EXCLUSÃO (bulkDelete)
-        if (idsToDelete.length > 0) {
-          await db.eventos.bulkDelete(idsToDelete);
-        }
-
-        // 5. Executa CRIAÇÃO/ATUALIZAÇÃO (bulkPut), mantendo o chunking
-        if (eventsToPut.length > 0) {
-          for (let i = 0; i < eventsToPut.length; i += chunkSize) {
-            const chunk = eventsToPut.slice(i, i + chunkSize);
-            await db.eventos.bulkPut(chunk);
-          }
-        }
-      });
-      Logger.log("✅ Sincronização Delta concluída com sucesso.");
-    } catch (error) {
-      Logger.error("❌ Transação abortada devido a erro:", error);
+      );
+      Utils.delay(DataManager.CONFIG.delay);
     }
     Logger.log(`Itens de eventos salvos: ${newEvents.length} registros.`);
   },
@@ -509,11 +462,11 @@ const DataManager = {
         if (checkType && needsUpdate) {
           updatesExecuted++;
 
-          Client.send(
-            "message",
-            `Novas atualizações disponíveis. Iniciando: ${cfg.type}...`
-          );
-          
+          // Client.send(
+          //   "message",
+          //   `Novas atualizações disponíveis. Iniciando: ${cfg.type}...`
+          // );
+
           Logger.log(`Processando atualização de ${cfg.type}.`);
 
           // Lógica de atualização específica:
@@ -532,7 +485,7 @@ const DataManager = {
             key: cfg.versionKey,
             value: serverVersion,
           });
-          Client.send("message", `Atualização de ${cfg.type} concluída.`);
+          Logger.log(`Atualização de ${cfg.type} concluída.`);
         }
       }
       // 4. Retorno final
@@ -582,10 +535,10 @@ const CacheManager = {
       workbox.core.skipWaiting();
       workbox.core.clientsClaim();
       Client.send("activated", "Service ativado!");
-      workbox.precaching.precacheAndRoute([{"revision":"dd269b0fbb9c772a1c3d8a2e42f63b03","url":"_nuxt/agenda.Cxy7HutF.css"},{"revision":"b596c0fe01e197ef0743727f82f3c0a4","url":"_nuxt/ATDQSL0T.js"},{"revision":"90cae94549d29096acc237a0d42a35c8","url":"_nuxt/B2mNKc1N.js"},{"revision":"0f5cee2aacc780b85cd3b0ed53140526","url":"_nuxt/B7cr_GLp.js"},{"revision":"f26be8c4686360828c21c0b06088152e","url":"_nuxt/BkaJ0DXb.js"},{"revision":"d78563e5994a8dc10d10bad80ca9a445","url":"_nuxt/BPyFwVPR.js"},{"revision":"9c8700759de5ff8efef5d05dff9601e6","url":"_nuxt/BQIJfskR.js"},{"revision":"d363d272159b128e07635873269d5025","url":"_nuxt/BQmSfujb.js"},{"revision":"cffa80b7d3406b8e6b66134f19669d2b","url":"_nuxt/builds/latest.json"},{"revision":"c049fc2b72de7a76cdce814c71b2da34","url":"_nuxt/builds/meta/c5bc151b-4728-4f7c-a3a9-40152d5213d4.json"},{"revision":"72656fc08b7a185d726502a8e733fbdf","url":"_nuxt/Buo1mzZq.js"},{"revision":"0e7fc50171dc1dcd5d9364dcb463b2d8","url":"_nuxt/Bvc8oI_b.js"},{"revision":"78a53d0c01e2d8eca2436913eba514cc","url":"_nuxt/C4wnYRHc.js"},{"revision":"21f5abd204d35d444b97cebed68ee209","url":"_nuxt/C8Eta1VE.js"},{"revision":"3b30b83d5326dfc600daf12dfd58e806","url":"_nuxt/C9EMordB.js"},{"revision":"8ae3f435e2b81e4c79f75457d072645f","url":"_nuxt/calendar.CZsZ6tST.css"},{"revision":"89ff7ea622574684f800628f5aa8b971","url":"_nuxt/cfK1Wpvm.js"},{"revision":"13998acb03a9d33546132f15b01693bd","url":"_nuxt/CfVVdfyE.js"},{"revision":"715dd0b70c5a0a9831ae57207a6d60f3","url":"_nuxt/CkPGhGjQ.js"},{"revision":"751ed9fb80217a0817902e039b525347","url":"_nuxt/CNKszBmN.js"},{"revision":"14e879ebc75efcda12e0066eee635c52","url":"_nuxt/contato.3ci9Le7x.css"},{"revision":"9454a8581ae8c957a3daba14fe6a5c57","url":"_nuxt/CS966vdy.js"},{"revision":"b9ac5e10516ba16e2388d8718fc972c9","url":"_nuxt/CWW1n6AE.js"},{"revision":"c09149e7b5e1be633c06680ee48995cf","url":"_nuxt/CXOs5zuY.js"},{"revision":"66e39addc2d8b40215e29b7c586fea03","url":"_nuxt/CZaQGBYV.js"},{"revision":"6e0098aca43b9d7c89cbe8fd3ee40c13","url":"_nuxt/D0Dr7phT.js"},{"revision":"46f084310af982e238f1b9dd1a756ad1","url":"_nuxt/D7rl8lNW.js"},{"revision":"7919a451de2e8bd9c63976a3046a65a0","url":"_nuxt/DaNAWMaO.js"},{"revision":"789490160bc462ebefe248bb5c224d93","url":"_nuxt/DbEtIfB4.js"},{"revision":"8613ab68b335b453cd8c564b8dcb5012","url":"_nuxt/Dd96c-IT.js"},{"revision":"f94ff436ea2dd7c47e082e713ca40d43","url":"_nuxt/ddIkDnxG.js"},{"revision":"1c916f445ba394452071f89bccc1053c","url":"_nuxt/DecyOXwM.js"},{"revision":"44ecf398c8451f4823357944ac745851","url":"_nuxt/default.BllfGIqY.css"},{"revision":"542b361a24681a04f7b5a0be44fd3f06","url":"_nuxt/DGM1GRPj.js"},{"revision":"712461be23b832d5298727ce2f09fc75","url":"_nuxt/DmkMO4cs.js"},{"revision":"1367d70f1c66ffeb5b025a60b3082b09","url":"_nuxt/Dmn0vmg5.js"},{"revision":"e8515421610af759bfc9f15497ab3f15","url":"_nuxt/entry.BO-rWFXR.css"},{"revision":"ec311ea5bf450f591480bc5de4b74515","url":"_nuxt/eventos.DC8w-Mze.css"},{"revision":"e1d580bc8c87679d55b0a1561835430f","url":"_nuxt/form.D8ztOVBm.css"},{"revision":"5dc79fd91297a1e6edee8f03357b63b0","url":"_nuxt/GdTu9iWa.js"},{"revision":"f5e241098d2cc623e21579a598a82277","url":"_nuxt/IEZT0LLa.js"},{"revision":"bd69e4f915e5d568b33063a030e5602a","url":"_nuxt/index.B3U2Ud4L.css"},{"revision":"026e0d7acf2202a5c7f8513a3e690acc","url":"_nuxt/index.C01wgp59.css"},{"revision":"5c4f7f672ac6bf0de18e9d746f64e0b1","url":"_nuxt/index.CA-Ono2w.css"},{"revision":"d3838d7d373de5ff91c0962fb4b0890c","url":"_nuxt/index.efd4-kTG.css"},{"revision":"70b1c8b576c234d52bdf3955a6c6296d","url":"_nuxt/landscape.BFEAchZd.css"},{"revision":"2996e58afd2099d18d1e0a222ca605a1","url":"_nuxt/levantamento_preventiva.D-3OeP-V.css"},{"revision":"265ed4d21f21ef41c522dbb746881052","url":"_nuxt/LoadingSpinner.B8lNEaQd.css"},{"revision":"59154c4971da99157c72bc6bee67f55e","url":"_nuxt/manutencao.DIm-6Bk8.css"},{"revision":"be00fce10a162e4469800634b006201d","url":"_nuxt/menu.0lHMkiB6.css"},{"revision":"824b1d7761a285e7b1cbaf771eae182f","url":"_nuxt/navegar.DXE9DLXy.css"},{"revision":"40c2a0c90612ca71f55611a290899a6b","url":"_nuxt/noscroll.DrWb4tOw.css"},{"revision":"6abf22d4f7c4fbb02a68d68f0bab3b35","url":"_nuxt/perfil.NIbQGJpK.css"},{"revision":"fcbcae30130990780ffa631e15a30fd9","url":"_nuxt/qe3v-g0_.js"},{"revision":"8456b4730f5a71d9d9d63b6a3f8dc488","url":"_nuxt/recentes.CtKQcL51.css"},{"revision":"e5400f28ac27375dc249adf4b972c4b6","url":"_nuxt/relatorio.BGMUo3JX.css"},{"revision":"a784c03c378790004948dbf2002e5f91","url":"_nuxt/servicos.DXKw4MpX.css"},{"revision":"e16fe871f60ebca36f1b2fd2b8bdfed6","url":"_nuxt/settings.D81KzNVB.css"},{"revision":"a8b5179d5b5806ec3883dc79a41b65f8","url":"_nuxt/sobre.c9vjT2Gh.css"},{"revision":"14afaca6e3bd7ee95072fe88d377566f","url":"_nuxt/solicitar.C0T4GfkF.css"},{"revision":"41a5687094cf45020aca17ff24f46dd3","url":"_nuxt/sZW4RbK6.js"},{"revision":"e63755708115972acfd3c882b6e9bcd6","url":"_nuxt/view.toBhRDQR.css"},{"revision":"92edaa5072e434315f346e6567494050","url":"_nuxt/vZGkS2hF.js"},{"revision":"35edc81738ff472250af45feabf56666","url":"200.html"},{"revision":"1232b3efae310ab5230e8447b303f003","url":"200/index.html"},{"revision":"6ce19717c33fa8d617ba2d0cc7369d14","url":"404.html"},{"revision":"c955b71961039ebd56ca4796d5cb5fd2","url":"404/index.html"},{"revision":"c955b71961039ebd56ca4796d5cb5fd2","url":"500/index.html"},{"revision":"ef51d8e17cecfdbd0be47276acc94fac","url":"agenda/index.html"},{"revision":"f6dd097462e02677e84d421780cd7cab","url":"data/data.json"},{"revision":"ab950c66c6282c741cfcfa9205fb179a","url":"data/metadata.json"},{"revision":"416ef7202529463a618e35c6f3d32152","url":"data/ministerio.json"},{"revision":"0c67f062d6c248fbad406549c816ea19","url":"data/relatorio.json"},{"revision":"50d93598b24e42211df0a4e3dfb7d751","url":"data/tags-circulares.json"},{"revision":"17e54cf3cfdcb040a2757f4f1d71434e","url":"data/tags.json"},{"revision":"723d0cfafa7cd78d2d5a014b41922b00","url":"evento/index.html"},{"revision":"67cf36de2193bf6cdd88d12aca1a8b82","url":"evento/solicitar/index.html"},{"revision":"13dc2f3bb5ea5085602185334e732918","url":"eventos/index.html"},{"revision":"27b89616efd846aa579b3b5734343c8f","url":"favicon.ico"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.js"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.sync-conflict-20251009-114321-MQCW6GZ.js"},{"revision":"67cf36de2193bf6cdd88d12aca1a8b82","url":"forms/contato/index.html"},{"revision":"67cf36de2193bf6cdd88d12aca1a8b82","url":"forms/levantamento_preventiva/index.html"},{"revision":"67cf36de2193bf6cdd88d12aca1a8b82","url":"forms/manutencao/index.html"},{"revision":"723d0cfafa7cd78d2d5a014b41922b00","url":"forms/view/index.html"},{"revision":"723d0cfafa7cd78d2d5a014b41922b00","url":"hinos/index.html"},{"revision":"9867a3422e5addc595886168208cc592","url":"icons/apple-icon-120x120.png"},{"revision":"f7dd465713c1240865bb7b70370406c2","url":"icons/apple-icon-152x152.png"},{"revision":"01ffc5e4414a34c50f65e1bf6d7ca7a3","url":"icons/apple-icon-167x167.png"},{"revision":"cca2ffedcdeae214720aefe89e9fdcbe","url":"icons/apple-icon-180x180.png"},{"revision":"d79610b2ac314df70e3554b1dbc4fcee","url":"icons/apple-launch-1080x2340.png"},{"revision":"a650246dd488b11d81a130057b740a22","url":"icons/apple-launch-1125x2436.png"},{"revision":"92c201082d1000ec01e0af9fa2c1f002","url":"icons/apple-launch-1170x2532.png"},{"revision":"b2a5d799798b2e7f4b06d428069e3b35","url":"icons/apple-launch-1179x2556.png"},{"revision":"8f4e03c150d73b3d937be52937d4aad8","url":"icons/apple-launch-1242x2208.png"},{"revision":"b3bfd03718947f8eeca5fee0467d3a25","url":"icons/apple-launch-1242x2688.png"},{"revision":"21128a0bf6a4cfaf634d6ef8b5b142e1","url":"icons/apple-launch-1284x2778.png"},{"revision":"3051e3ead28e5bd48377b24b6fcecf2c","url":"icons/apple-launch-1290x2796.png"},{"revision":"3cae7d354552572d14cfd53a9393ded5","url":"icons/apple-launch-1536x2048.png"},{"revision":"7ff54e1750aebaa29beedf5abeeccad5","url":"icons/apple-launch-1620x2160.png"},{"revision":"e514179c99fd26b7de6e02382cfecda0","url":"icons/apple-launch-1668x2224.png"},{"revision":"5d87d86da198249158de50e52331d7de","url":"icons/apple-launch-1668x2388.png"},{"revision":"c092d59e226573b1742f0e3f44014521","url":"icons/apple-launch-2048x2732.png"},{"revision":"495d3004f238f1cb3c8cdf759e95d9d0","url":"icons/apple-launch-750x1334.png"},{"revision":"121f96f3c9e71537cfb3078a78b4978d","url":"icons/apple-launch-828x1792.png"},{"revision":"0411c0e5da61b3b3e590b1715898e5ca","url":"icons/Contents.json"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/favicon-128x128.png"},{"revision":"46e80c945a6991b54b573905e47c2c4a","url":"icons/favicon-16x16.png"},{"revision":"e5c43a798628015cc5709a04495734e3","url":"icons/favicon-32x32.png"},{"revision":"367f65061b9581fa2846a490a642b1f6","url":"icons/favicon-96x96.png"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/icon-128x128.png"},{"revision":"7ce4b17cca36b21129d6575124962c6e","url":"icons/icon-192x192.png"},{"revision":"afabfd81700092d07d6dd1a472313aaf","url":"icons/icon-256x256.png"},{"revision":"fe39b949477ecdc47cbd8eb4b84fb0ea","url":"icons/icon-384x384.png"},{"revision":"aab03ed9af399f7d146ff8a9c51ae96d","url":"icons/icon-512x512.png"},{"revision":"cc9cc708e9a0caacd09cd25f25c32ac3","url":"icons/ms-icon-144x144.png"},{"revision":"1280df887f0e62362507d1d2838eec71","url":"icons/safari-pinned-tab.svg"},{"revision":"e9e4b7922d30b56a6abe7a18d2f8af48","url":"icons/user.png"},{"revision":"d78f8eab7b18b38fba494719de4804db","url":"img/logo-ccb-light.png"},{"revision":"b31e425f365ef0cc886cd89977c9005b","url":"index.html"},{"revision":"67cf36de2193bf6cdd88d12aca1a8b82","url":"lista/calendar/index.html"},{"revision":"723d0cfafa7cd78d2d5a014b41922b00","url":"lista/edit/index.html"},{"revision":"723d0cfafa7cd78d2d5a014b41922b00","url":"lista/index.html"},{"revision":"46041b0767d24770a77cca3ada6b1311","url":"manifest.webmanifest"},{"revision":"13dc2f3bb5ea5085602185334e732918","url":"navegar/index.html"},{"revision":"13dc2f3bb5ea5085602185334e732918","url":"perfil/index.html"},{"revision":"eaefa69cd0d5f312d1fbe7ecedf0f29f","url":"recentes/index.html"},{"revision":"eaefa69cd0d5f312d1fbe7ecedf0f29f","url":"relatorio/index.html"},{"revision":"5dd1ef12b5306cb6eb2a34b21a34ce23","url":"screenshots/desktop.png"},{"revision":"22203dd79381b922a8453fd9003822a8","url":"screenshots/mobile.png"},{"revision":"eaefa69cd0d5f312d1fbe7ecedf0f29f","url":"servicos/index.html"},{"revision":"eaefa69cd0d5f312d1fbe7ecedf0f29f","url":"settings/index.html"},{"revision":"ef51d8e17cecfdbd0be47276acc94fac","url":"sobre/index.html"}] || []);
+      workbox.precaching.precacheAndRoute([{"revision":"5db61a800fb2f91137dcef12ec71e068","url":"_nuxt/1eZ_ph73.js"},{"revision":"b65d5aab85aaac5944e3e914150223a3","url":"_nuxt/2ngvJ4br.js"},{"revision":"4e02df5e780234b990168175f984d2e7","url":"_nuxt/4AIUMbs3.js"},{"revision":"ad65e380139b4c7ff5dd68a39e591461","url":"_nuxt/agenda.BxqxQMWe.css"},{"revision":"940407358c5c7cd3d77d0288da5c3ece","url":"_nuxt/AppTbwEB.js"},{"revision":"458dabfb722c947b7600d20c45e15395","url":"_nuxt/b_J3W3Be.js"},{"revision":"55c8b2e48fe10383c0bbb955c3598ac1","url":"_nuxt/B0RrwhfB.js"},{"revision":"3b0105c9bec0b413966a49641b5aff5a","url":"_nuxt/BAA_HpKq.js"},{"revision":"37afb71b95e66400b156eb360c9c7657","url":"_nuxt/BDAhcw-l.js"},{"revision":"81cad3d02a314a550621b85027394485","url":"_nuxt/Bfivv0_X.js"},{"revision":"8206a790cf8d52a501087325045375c8","url":"_nuxt/BfyQnkfm.js"},{"revision":"30f129cd1ac1266f3685d2b30c66b7ab","url":"_nuxt/BgkNeBzl.js"},{"revision":"d6fd9afe3628231acb8ce77ebe753126","url":"_nuxt/BIB85Pni.js"},{"revision":"1946084f5bf4a0a0f400714a69846221","url":"_nuxt/BTDLv8gn.js"},{"revision":"9da21ea7fd1a274078c3bb050b37c1af","url":"_nuxt/builds/latest.json"},{"revision":"6ae56e2d6793f6cb6a4ffa9d1631463b","url":"_nuxt/builds/meta/53324911-cb3a-4a81-a896-961a97fb2eac.json"},{"revision":"ff9a5e9d68959f15229802fffab5a3da","url":"_nuxt/BvqWflSK.js"},{"revision":"245ec0f1febace7346ab9f0a9ae08d74","url":"_nuxt/BXsdXK7J.js"},{"revision":"4fb881905d9ca757a3ae59905a921bd3","url":"_nuxt/BXz5TNVt.js"},{"revision":"a6012ff7f700d174462ad4d0d63be2c0","url":"_nuxt/calendar.Ck15Q88U.css"},{"revision":"8852e2d3b9a40f3bc439907814c7ba9e","url":"_nuxt/CDCZ-yoJ.js"},{"revision":"8997abfdf28fe351d589f54188d8748f","url":"_nuxt/CeUy0sR-.js"},{"revision":"517b124ff796c7a820a9f6bb4525ff0c","url":"_nuxt/Cj-7UFxL.js"},{"revision":"6f8ff1832c3188751e8aa2f1cb836ff3","url":"_nuxt/CjXtFXW0.js"},{"revision":"42caf6e6ef84c729decac1d2e7b11d09","url":"_nuxt/CLMSwu87.js"},{"revision":"14e879ebc75efcda12e0066eee635c52","url":"_nuxt/contato.3ci9Le7x.css"},{"revision":"d119bc9d493d945fbc2657b5f8a9cc5b","url":"_nuxt/CW0B8ZjN.js"},{"revision":"8aa9e39cc08aa42ee273539846b69bf7","url":"_nuxt/CWd1dUlA.js"},{"revision":"99efc9dab7127cfebf153dabd013234d","url":"_nuxt/CzTa9FRM.js"},{"revision":"a98823ec7bc58defbb3e5560f360592c","url":"_nuxt/D_xft5_q.js"},{"revision":"6e0098aca43b9d7c89cbe8fd3ee40c13","url":"_nuxt/D0Dr7phT.js"},{"revision":"1f8c9acc2052c5d8bbe7496f66f6067b","url":"_nuxt/D6fuS325.js"},{"revision":"8c922ca8b3932ffdcfea15e897ffd972","url":"_nuxt/DbDn1HeP.js"},{"revision":"b9dc8152cf3ed997570d6baa232e9727","url":"_nuxt/DECLKFt3.js"},{"revision":"44ecf398c8451f4823357944ac745851","url":"_nuxt/default.BllfGIqY.css"},{"revision":"f4a90ce77352ea809af59aa9b347d4c3","url":"_nuxt/DmHHrC4S.js"},{"revision":"aa9f8e4df97c2c6f373158a3f9509af4","url":"_nuxt/DPCTVgJJ.js"},{"revision":"9411b06ef849ed4942711abe5adf710a","url":"_nuxt/DrY55ZnE.js"},{"revision":"037fbd1bb4aa0e909b84a8bde543ad33","url":"_nuxt/DVjMqSvf.js"},{"revision":"320e7a66b4c9b0f4bfbdcf1e48e0240b","url":"_nuxt/DX6ERaxl.js"},{"revision":"cb9a34a831dcc04942e2c97e69fdc125","url":"_nuxt/entry.BSC3lSFO.css"},{"revision":"1cec47ab46b69aff51eb4d9fe8b481a9","url":"_nuxt/eventos.D0qi4T-e.css"},{"revision":"e1d580bc8c87679d55b0a1561835430f","url":"_nuxt/form.D8ztOVBm.css"},{"revision":"bd69e4f915e5d568b33063a030e5602a","url":"_nuxt/index.B3U2Ud4L.css"},{"revision":"5bfc4f03af2175efbfde5c245e9405f4","url":"_nuxt/index.BT7qESRD.css"},{"revision":"026e0d7acf2202a5c7f8513a3e690acc","url":"_nuxt/index.C01wgp59.css"},{"revision":"d3838d7d373de5ff91c0962fb4b0890c","url":"_nuxt/index.efd4-kTG.css"},{"revision":"70b1c8b576c234d52bdf3955a6c6296d","url":"_nuxt/landscape.BFEAchZd.css"},{"revision":"2996e58afd2099d18d1e0a222ca605a1","url":"_nuxt/levantamento_preventiva.D-3OeP-V.css"},{"revision":"6be7817aefe7edb7ca1fc940730a43cb","url":"_nuxt/LkmzMN5t.js"},{"revision":"265ed4d21f21ef41c522dbb746881052","url":"_nuxt/LoadingSpinner.B8lNEaQd.css"},{"revision":"59154c4971da99157c72bc6bee67f55e","url":"_nuxt/manutencao.DIm-6Bk8.css"},{"revision":"be00fce10a162e4469800634b006201d","url":"_nuxt/menu.0lHMkiB6.css"},{"revision":"824b1d7761a285e7b1cbaf771eae182f","url":"_nuxt/navegar.DXE9DLXy.css"},{"revision":"40c2a0c90612ca71f55611a290899a6b","url":"_nuxt/noscroll.DrWb4tOw.css"},{"revision":"069017b15d99939f06e910ab1cdd92eb","url":"_nuxt/perfil.BbtFWlj7.css"},{"revision":"8456b4730f5a71d9d9d63b6a3f8dc488","url":"_nuxt/recentes.CtKQcL51.css"},{"revision":"e5400f28ac27375dc249adf4b972c4b6","url":"_nuxt/relatorio.BGMUo3JX.css"},{"revision":"a784c03c378790004948dbf2002e5f91","url":"_nuxt/servicos.DXKw4MpX.css"},{"revision":"e16fe871f60ebca36f1b2fd2b8bdfed6","url":"_nuxt/settings.D81KzNVB.css"},{"revision":"a8b5179d5b5806ec3883dc79a41b65f8","url":"_nuxt/sobre.c9vjT2Gh.css"},{"revision":"14afaca6e3bd7ee95072fe88d377566f","url":"_nuxt/solicitar.C0T4GfkF.css"},{"revision":"e63755708115972acfd3c882b6e9bcd6","url":"_nuxt/view.toBhRDQR.css"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"200.html"},{"revision":"54b8f97279e5718e858119d23d0dbc09","url":"200/index.html"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"404.html"},{"revision":"73b9709dc28cd198cf32083064547ae0","url":"404/index.html"},{"revision":"73b9709dc28cd198cf32083064547ae0","url":"500/index.html"},{"revision":"0736b418e48be0d5e6a99430d773e6c1","url":"agenda/index.html"},{"revision":"813215db07c3886711ae1527f2b28109","url":"data/data.json"},{"revision":"0f3c833dc900efe1563c11ed630b0adb","url":"data/metadata.json"},{"revision":"416ef7202529463a618e35c6f3d32152","url":"data/ministerio.json"},{"revision":"0c67f062d6c248fbad406549c816ea19","url":"data/relatorio.json"},{"revision":"50d93598b24e42211df0a4e3dfb7d751","url":"data/tags-circulares.json"},{"revision":"115c0d6d6877ec2d916efc87dea93890","url":"data/tags.json"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"evento/index.html"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"evento/solicitar/index.html"},{"revision":"0736b418e48be0d5e6a99430d773e6c1","url":"eventos/index.html"},{"revision":"27b89616efd846aa579b3b5734343c8f","url":"favicon.ico"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.js"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.sync-conflict-20251009-114321-MQCW6GZ.js"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"forms/contato/index.html"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"forms/levantamento_preventiva/index.html"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"forms/manutencao/index.html"},{"revision":"e1d02a3d9fc8dc1d720e747d409f1830","url":"forms/view/index.html"},{"revision":"e1d02a3d9fc8dc1d720e747d409f1830","url":"hinos/index.html"},{"revision":"9867a3422e5addc595886168208cc592","url":"icons/apple-icon-120x120.png"},{"revision":"f7dd465713c1240865bb7b70370406c2","url":"icons/apple-icon-152x152.png"},{"revision":"01ffc5e4414a34c50f65e1bf6d7ca7a3","url":"icons/apple-icon-167x167.png"},{"revision":"cca2ffedcdeae214720aefe89e9fdcbe","url":"icons/apple-icon-180x180.png"},{"revision":"d79610b2ac314df70e3554b1dbc4fcee","url":"icons/apple-launch-1080x2340.png"},{"revision":"a650246dd488b11d81a130057b740a22","url":"icons/apple-launch-1125x2436.png"},{"revision":"92c201082d1000ec01e0af9fa2c1f002","url":"icons/apple-launch-1170x2532.png"},{"revision":"b2a5d799798b2e7f4b06d428069e3b35","url":"icons/apple-launch-1179x2556.png"},{"revision":"8f4e03c150d73b3d937be52937d4aad8","url":"icons/apple-launch-1242x2208.png"},{"revision":"b3bfd03718947f8eeca5fee0467d3a25","url":"icons/apple-launch-1242x2688.png"},{"revision":"21128a0bf6a4cfaf634d6ef8b5b142e1","url":"icons/apple-launch-1284x2778.png"},{"revision":"3051e3ead28e5bd48377b24b6fcecf2c","url":"icons/apple-launch-1290x2796.png"},{"revision":"3cae7d354552572d14cfd53a9393ded5","url":"icons/apple-launch-1536x2048.png"},{"revision":"7ff54e1750aebaa29beedf5abeeccad5","url":"icons/apple-launch-1620x2160.png"},{"revision":"e514179c99fd26b7de6e02382cfecda0","url":"icons/apple-launch-1668x2224.png"},{"revision":"5d87d86da198249158de50e52331d7de","url":"icons/apple-launch-1668x2388.png"},{"revision":"c092d59e226573b1742f0e3f44014521","url":"icons/apple-launch-2048x2732.png"},{"revision":"495d3004f238f1cb3c8cdf759e95d9d0","url":"icons/apple-launch-750x1334.png"},{"revision":"121f96f3c9e71537cfb3078a78b4978d","url":"icons/apple-launch-828x1792.png"},{"revision":"0411c0e5da61b3b3e590b1715898e5ca","url":"icons/Contents.json"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/favicon-128x128.png"},{"revision":"46e80c945a6991b54b573905e47c2c4a","url":"icons/favicon-16x16.png"},{"revision":"e5c43a798628015cc5709a04495734e3","url":"icons/favicon-32x32.png"},{"revision":"367f65061b9581fa2846a490a642b1f6","url":"icons/favicon-96x96.png"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/icon-128x128.png"},{"revision":"7ce4b17cca36b21129d6575124962c6e","url":"icons/icon-192x192.png"},{"revision":"afabfd81700092d07d6dd1a472313aaf","url":"icons/icon-256x256.png"},{"revision":"fe39b949477ecdc47cbd8eb4b84fb0ea","url":"icons/icon-384x384.png"},{"revision":"aab03ed9af399f7d146ff8a9c51ae96d","url":"icons/icon-512x512.png"},{"revision":"cc9cc708e9a0caacd09cd25f25c32ac3","url":"icons/ms-icon-144x144.png"},{"revision":"1280df887f0e62362507d1d2838eec71","url":"icons/safari-pinned-tab.svg"},{"revision":"e9e4b7922d30b56a6abe7a18d2f8af48","url":"icons/user.png"},{"revision":"d78f8eab7b18b38fba494719de4804db","url":"img/logo-ccb-light.png"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"index.html"},{"revision":"4f5cad7c60ba604f0bde81f61f7c5b3f","url":"lista/calendar/index.html"},{"revision":"e1d02a3d9fc8dc1d720e747d409f1830","url":"lista/edit/index.html"},{"revision":"e1d02a3d9fc8dc1d720e747d409f1830","url":"lista/index.html"},{"revision":"46041b0767d24770a77cca3ada6b1311","url":"manifest.webmanifest"},{"revision":"0736b418e48be0d5e6a99430d773e6c1","url":"navegar/index.html"},{"revision":"0736b418e48be0d5e6a99430d773e6c1","url":"perfil/index.html"},{"revision":"0736b418e48be0d5e6a99430d773e6c1","url":"recentes/index.html"},{"revision":"e1d02a3d9fc8dc1d720e747d409f1830","url":"relatorio/index.html"},{"revision":"5dd1ef12b5306cb6eb2a34b21a34ce23","url":"screenshots/desktop.png"},{"revision":"22203dd79381b922a8453fd9003822a8","url":"screenshots/mobile.png"},{"revision":"e1d02a3d9fc8dc1d720e747d409f1830","url":"servicos/index.html"},{"revision":"e1d02a3d9fc8dc1d720e747d409f1830","url":"settings/index.html"},{"revision":"73b9709dc28cd198cf32083064547ae0","url":"sobre/index.html"}] || []);
       CacheManager._addRoutes();
       CacheManager._enableNavigationPreload();
-      Client.send("init", "Service inicializado!"); 
+      Client.send("init", "Service inicializado!");
     } else {
       console.warn("Workbox não pôde ser carregado.");
     }
@@ -709,7 +662,6 @@ const CacheManager = {
     if (self.registration && self.registration.navigationPreload) {
       try {
         workbox.navigationPreload.enable();
-        Logger.log("Navigation Preload habilitado.");
       } catch (error) {
         Logger.handleError("Erro ao habilitar Navigation Preload", error);
       }
