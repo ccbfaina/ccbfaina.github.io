@@ -1,698 +1,34 @@
 // Import Workbox e Dexie
 importScripts(
-  "https://unpkg.com/dexie@3.2.3/dist/dexie.js",
-  "https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js",
-  "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-compat.js",
-  "https://storage.googleapis.com/workbox-cdn/releases/7.3.0/workbox-sw.js"
+  "/js/sw/workbox.js",
+  "/js/sw/logger.js",
+  "/js/sw/database.js",
+  "/js/sw/firebase.js",
+  "/js/sw/client-manager.js",
+  "/js/sw/utils.js"
 );
 
-/**
- * Firebase Cloud Messaging
- */
-const FirebaseManager = {
-  init: function () {
-    const Config = {
-      FIREBASE_CONFIG: {
-        apiKey: "AIzaSyDjh-kSamZSSOA1pEwMuCB1HZxiZBgCaVE",
-        authDomain: "agenda-408113.firebaseapp.com",
-        projectId: "agenda-408113",
-        storageBucket: "agenda-408113.appspot.com",
-        messagingSenderId: "865568496873",
-        appId: "1:865568496873:web:66e24b202af5ba7f1b6478",
-        measurementId: "G-KDP8RZ0Z19",
-      },
-    };
-    firebase.initializeApp(Config.FIREBASE_CONFIG);
-    const messaging = firebase.messaging();
+self.FirebaseManager.init();
+self.Client.init();
+self.CacheManager.init();
 
-    messaging.onBackgroundMessage(this.onBackgroundMessage);
-    self.addEventListener("notificationclick", this.onNotificationClick);
-  },
-
-  onBackgroundMessage: function (payload) {
-    try {
-      const notification = payload.notification || {};
-      const data = payload.data || {};
-      const notificationTitle = notification.title || "Nova Notificação";
-      const notificationOptions = {
-        body: notification.body || "Você tem uma nova mensagem.",
-        icon: notification.icon || "/favicon.ico",
-        data: data,
-      };
-      self.registration.showNotification(
-        notificationTitle,
-        notificationOptions
-      );
-    } catch (error) {
-      console.error(
-        "[firebase] Erro ao exibir notificação em segundo plano:",
-        error
-      );
-    }
-  },
-
-  onNotificationClick: function (event) {
-    event.notification.close();
-    const targetUrl = event.notification.data.url || "/";
-    event.waitUntil(
-      self.clients
-        .matchAll({ type: "window", includeUncontrolled: true })
-        .then((clientList) => {
-          const urlToOpen = new URL(targetUrl, self.location.origin).href;
-          const matchingClient = clientList.find((c) =>
-            c.url.startsWith(urlToOpen)
-          );
-          return matchingClient
-            ? matchingClient.focus()
-            : self.clients.openWindow(urlToOpen);
-        })
-        .catch((err) => console.error("[firebase] Erro ao redirecionar:", err))
-    );
-  },
-};
-FirebaseManager.init();
-
-const Client = {
-  _messageCallbacks: {},
-
-  /**
-   * Funções de Comunicação (Broadcast)
-   * @param {*} type
-   * @param {*} message
-   * @param {*} data
-   */
-  send: (type, message, data = null) => {
-    // Função auxiliar para serializar, evitando serialização dupla se já for string
-    const safeStringify = (value) => {
-      if (typeof value === "string") {
-        // Tenta parsear para verificar se já é JSON válido
-        try {
-          JSON.parse(value);
-          return value; // Já é um JSON string, retorna como está
-        } catch (e) {
-          // Não é um JSON string válido, stringifica como uma string literal
-          return JSON.stringify(value);
-        }
-      }
-      return JSON.stringify(value);
-    };
-
-    self.clients.matchAll().then((clients) =>
-      clients.forEach((c) =>
-        c.postMessage({
-          type,
-          message: safeStringify(message), // Usa a função auxiliar
-          data: safeStringify(data), // Usa a função auxiliar
-        })
-      )
-    );
-  },
-
-  /**
-   * Registra um callback para um tipo de mensagem específico.
-   * @param {string} type - O tipo da mensagem a ser ouvida.
-   * @param {Function} callback - A função a ser executada quando a mensagem for recebida.
-   *                              Callback will receive (payload, eventSource)
-   */
-  receive: function (type, callback) {
-    this._messageCallbacks[type] = callback;
-  },
-  init() {
-    self.addEventListener("message", async (e) => {
-      const { id, type, payload } = e.data;
-      let result;
-      try {
-        // Deserializa o payload recebido do cliente
-        const parsedPayload =
-          typeof payload === "string" ? JSON.parse(payload) : payload;
-        const callback = Client._messageCallbacks[type];
-        if (callback) {
-          // Pass e.source to the callback for direct response if needed
-          result = await callback(parsedPayload, e.source);
-        } else {
-          result = { error: `Tipo de comando desconhecido: ${type}` };
-        }
-      } catch (err) {
-        console.error(`[RelatorioSW] Erro ao processar comando ${type}:`, err);
-        result = { error: err.message || "Erro interno do Service Worker." };
-      }
-      if (e.source && id) {
-        // Only respond if there's an ID (request-response)
-        // Serializa o resultado antes de enviar de volta ao cliente
-        e.source.postMessage({ id, result: JSON.stringify(result) });
-      }
-    });
-  },
-};
-Client.init();
-
-/**
- * Objeto Logger para logs e tratamento de erros
- */
-const Logger = {
-  log: (...args) => console.log("[SW]", ...args),
-  handleError: (context, err) => {
-    console.error(`[SW] ${context}:`, err);
-    Client.send("error", `${context}: ${err.message}`);
-  },
-};
-
-/**
- * Funções Utilitárias
- */
-const Utils = {
-  ptBRFormatters: {
-    date: new Intl.DateTimeFormat("pt-BR", {
-      day: "2-digit",
-      month: "2-digit",
-    }),
-    time: new Intl.DateTimeFormat("pt-BR", {
-      hour: "2-digit",
-      minute: "2-digit",
-    }),
-    weekday: new Intl.DateTimeFormat("pt-BR", { weekday: "short" }),
-  },
-
-  normalizeString: function (str = "") {
-    return str
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")
-      .toLowerCase()
-      .trim();
-  },
-  setBrasiliaTime(date, hours, minutes, seconds, ms) {
-    if (isNaN(date.getTime())) return;
-    // Define as horas em UTC, ajustando para o fuso horário de Brasília (UTC-3).
-    // Isso garante que as operações de data (e.g., para filtros) sejam consistentes.
-    date.setUTCHours(hours + 3, minutes, seconds, ms);
-  },
-  // A propriedade 'delay' usará DataManager.CONFIG.dalay
-  // Pequeno atraso para ceder o controle ao event loop e permitir a propagação de mensagens de status.
-  delay: (ms) => new Promise((res) => setTimeout(res, ms)),
-  mapRow(headers, row) {
-    let obj = {};
-    headers.forEach((header, index) => {
-      obj[header] = row[index];
-    });
-    return obj;
-  },
-};
-
-/**
- * Gerenciador de Dados e Atualizações da Aplicação
- *
- */
-const DataManager = {
-  // --- Configuração do Banco de Dados ---
-  CONFIG: {
-    name: "CCB",
-    version: 2,
-    chunk: 500,
-    log: false,
-    delay: 5,
-  },
-  UPDATE_CONFIG: [
-    { type: "tags", metadataKey: "tags", versionKey: "tags_version" },
-    { type: "events", metadataKey: "lista", versionKey: "lista_version" },
-    {
-      type: "relatorio",
-      metadataKey: "relatorio",
-      versionKey: "relatorio_version",
-    },
-  ],
-  // --- Instância do Banco de Dados Dexie ---
-  db: null, // Será inicializado abaixo
-
-  // --- Funções de Ação Principal ---
-  clearDB: async () => {
-    try {
-      Client.send("message", "Limpando banco de dados...");
-      await DataManager.db.relatorio.clear();
-      await DataManager.db.eventos.clear();
-      await DataManager.db.tags.clear();
-      await DataManager.db.desc.clear();
-      await DataManager.db.titles.clear();
-      await DataManager.db.locales.clear();
-      await DataManager.db.notificacoesEnviadas.clear();
-      await DataManager.db.versions.clear();
-
-      Logger.log("Banco de dados limpo.");
-      return { message: "Banco de dados limpo com sucesso." };
-    } catch (err) {
-      Logger.handleError("Erro ao limpar DB", err);
-      throw err;
-    }
-  },
-
-  // Helper para centralizar a lógica de fetch e tratamento de erro para um endpoint JSON
-  _fetchAndParseJson: async (url, errorMessage) => {
-    const res = await fetch(`${url}?v=${new Date().getTime()}`);
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status} ao baixar ${errorMessage}`);
-    }
-    return res.json();
-  },
-
-  // Atualiza as tags principais
-  updateTagsMain: async () => {
-    Client.send("message", "Baixando tags principais...");
-    const tagsMain = await DataManager._fetchAndParseJson(
-      "https://faina.ccbgo.org.br/data/tags.json",
-      "tags principais"
-    );
-    Logger.log("Tags principais baixadas.");
-
-    Client.send("message", "Limpando e salvando tags principais...");
-    let order = 0;
-    const processedTagsMain = (tagsMain.tags || []).map((tag) => ({
-      ...tag,
-      order: ++order,
-      normalizedTitle: Utils.normalizeString(tag.title),
-      normalizedGroup: Utils.normalizeString(tag.group),
-    }));
-    await DataManager.db.tags.clear();
-    await DataManager.db.tags.bulkPut(processedTagsMain);
-    Logger.log(
-      `Tags principais salvas: ${processedTagsMain.length} registros.`
-    );
-    Utils.delay(DataManager.CONFIG.delay);
-    return order; // Retorna o último ID usado para continuar com as tags circulares
-  },
-
-  // Atualiza as tags circulares
-  updateTagsCircular: async (startTagId) => {
-    Client.send("message", "Baixando tags circulares e adicionando...");
-    const tagsCircular = await DataManager._fetchAndParseJson(
-      "https://faina.ccbgo.org.br/data/tags-circulares.json",
-      "tags circulares"
-    );
-    Logger.log("Tags circulares baixadas.");
-
-    Client.send("message", "Adicionando tags circulares...");
-    let order = startTagId; // Continua a partir do último ID das tags principais
-    const processedTagsCircular = (tagsCircular.tags || []).map((tag) => ({
-      ...tag,
-      order: ++order,
-      normalizedTitle: Utils.normalizeString(tag.title),
-      normalizedGroup: Utils.normalizeString(tag.group),
-    }));
-    await DataManager.db.tags.bulkAdd(processedTagsCircular);
-    Logger.log(
-      `Tags circulares adicionadas: ${processedTagsCircular.length} registros.`
-    );
-    Utils.delay(DataManager.CONFIG.delay);
-  },
-
-  // Atualiza os metadados de eventos (titles, locales, desc)
-  updateEventMetadata: async () => {
-    // Client.send("message", "Baixando dados principais de eventos...");
-    const dataMain = await DataManager._fetchAndParseJson(
-      "https://faina.ccbgo.org.br/data/data.json",
-      "dados principais de eventos"
-    );
-    Logger.log("Dados principais de eventos baixados.");
-    Utils.delay(DataManager.CONFIG.delay);
-
-    await DataManager.db.transaction(
-      "rw",
-      DataManager.db.desc,
-      DataManager.db.titles,
-      DataManager.db.locales,
-      async () => {
-        await DataManager.db.desc.clear();
-        await DataManager.db.titles.clear();
-        await DataManager.db.locales.clear();
-
-        const mapText = (text, id) => ({ id: id + 1, text });
-        await DataManager.db.titles.bulkPut(
-          dataMain.eventos.titles.map(mapText)
-        );
-        await DataManager.db.locales.bulkPut(
-          dataMain.eventos.locales.map(mapText)
-        );
-        await DataManager.db.desc.bulkPut(dataMain.eventos.desc.map(mapText));
-      }
-    );
-    Logger.log(
-      "Metadados de eventos (títulos, locais, descrições) atualizados."
-    );
-    Utils.delay(DataManager.CONFIG.delay);
-    return dataMain.eventos.items; // Retorna os itens para o próximo passo
-  },
-
-  // Processa e salva os itens de eventos
-  updateEventItems: async (eventItems) => {
-    Client.send("message", `Recebendo atualização...`);
-
-    const preprocessEvent = (evento) => {
-      const d = evento.date ? new Date(evento.date) : null;
-      const isSpecialTitle = evento.title === "AVISOS À IRMANDADE";
-      evento.noDate = evento.desc.includes("!nodate");
-      if (evento.noDate)
-        evento.desc = evento.desc.replace(/!nodate/gi, "").trim();
-      const hasValidDate = d && !isSpecialTitle && !evento.noDate;
-      const isMorningOrLater = d && d.getHours() >= 3;
-
-      const { title, locale, desc, list } = evento;
-      const processedEvent = { ...evento, onDate: d };
-
-      processedEvent.formatDate = hasValidDate
-        ? Utils.ptBRFormatters.date.format(d)
-        : "";
-      processedEvent.formatWeek = hasValidDate
-        ? Utils.ptBRFormatters.weekday.format(d).replace(".", "")
-        : "";
-      processedEvent.formatTime =
-        hasValidDate && isMorningOrLater
-          ? Utils.ptBRFormatters.time.format(d)
-          : "";
-
-      processedEvent.normalizedTitle = Utils.normalizeString(title);
-      processedEvent.normalizedLocale = Utils.normalizeString(locale);
-      processedEvent.normalizedDesc = Utils.normalizeString(desc);
-      processedEvent.normalizedList = Utils.normalizeString(list);
-      processedEvent.desc = (desc || "").replace(
-        /<(?!\/?(b|br)\b)[^>]*>/gi,
-        ""
-      );
-      processedEvent.date = d;
-      processedEvent.end = new Date(evento.end);
-      return processedEvent;
-    };
-
-    const newEvents = eventItems
-      .map(preprocessEvent)
-      .filter((item) => item !== null);
-
-    await DataManager.db.eventos.clear();
-    for (let i = 0; i < newEvents.length; i += DataManager.CONFIG.chunk) {
-      const chunk = newEvents.slice(i, i + DataManager.CONFIG.chunk);
-      await DataManager.db.transaction(
-        "rw",
-        DataManager.db.eventos,
-        async () => {
-          await DataManager.db.eventos.bulkPut(chunk);
-        }
-      );
-      Utils.delay(DataManager.CONFIG.delay);
-    }
-    Logger.log(`Itens de eventos salvos: ${newEvents.length} registros.`);
-  },
-
-  // Atualiza os dados do relatório
-  updateRelatorio: async () => {
-    Client.send("message", "Iniciando download do relatório...");
-    const { headers, data } = await DataManager._fetchAndParseJson(
-      "https://faina.ccbgo.org.br/data/relatorio.json",
-      "relatório"
-    );
-
-    await DataManager.db.relatorio.clear();
-    for (let i = 0; i < data.length; i += DataManager.CONFIG.chunk) {
-      const rawChunk = data
-        .slice(i, i + DataManager.CONFIG.chunk)
-        .map((r) => Utils.mapRow(headers, r));
-      const relatorioChunk = rawChunk.map((item) => ({
-        ...item,
-        normalizedMinisterio: Utils.normalizeString(
-          item.MinisterioConcatenados
-        ),
-        normalizedNomeCidade: Utils.normalizeString(item.NomeCidade),
-      }));
-
-      await DataManager.db.transaction(
-        "rw",
-        DataManager.db.relatorio,
-        async () => {
-          await DataManager.db.relatorio.bulkPut(relatorioChunk);
-        }
-      );
-      Utils.delay(DataManager.CONFIG.delay);
-    }
-    Client.send("status_update", "Atualização do relatório concluída.");
-  },
-
-  async updateProcess(payload = {}) {
-    Logger.log("Iniciando processo de verificação de atualizações...", payload);
-    const { updateType = "all" } = payload;
-    let updatesExecuted = 0;
-
-    try {
-      // 1. Obter metadados do servidor
-      const metadataRes = await DataManager._fetchAndParseJson(
-        "/data/metadata.json",
-        "metadados"
-      );
-
-      // 2. Obter todas as versões armazenadas de uma vez
-      const storedVersionPromises = DataManager.UPDATE_CONFIG.map((cfg) =>
-        DataManager.db.versions.get(cfg.versionKey).then((res) => res?.value)
-      );
-      const storedVersions = await Promise.all(storedVersionPromises);
-
-      // 3. Iterar e processar cada recurso
-      for (let i = 0; i < DataManager.UPDATE_CONFIG.length; i++) {
-        const cfg = DataManager.UPDATE_CONFIG[i];
-        const serverVersion = metadataRes[cfg.metadataKey]?.version;
-        const storedVersion = storedVersions[i];
-
-        const checkType = updateType === "all" || updateType === cfg.type;
-        const needsUpdate = serverVersion && serverVersion !== storedVersion;
-
-        if (checkType && needsUpdate) {
-          updatesExecuted++;
-
-          // Client.send(
-          //   "message",
-          //   `Novas atualizações disponíveis. Iniciando: ${cfg.type}...`
-          // );
-
-          Logger.log(`Processando atualização de ${cfg.type}.`);
-
-          // Lógica de atualização específica:
-          if (cfg.type === "tags") {
-            const lastTagId = await DataManager.updateTagsMain();
-            await DataManager.updateTagsCircular(lastTagId);
-          } else if (cfg.type === "events") {
-            const eventItems = await DataManager.updateEventMetadata();
-            await DataManager.updateEventItems(eventItems);
-          } else if (cfg.type === "relatorio") {
-            await DataManager.updateRelatorio();
-          }
-
-          // Salva a nova versão após o sucesso
-          await DataManager.db.versions.put({
-            key: cfg.versionKey,
-            value: serverVersion,
-          });
-          Logger.log(`Atualização de ${cfg.type} concluída.`);
-        }
-      }
-      // 4. Retorno final
-      if (updatesExecuted > 0) {
-        return { message: "Dados atualizados com sucesso." };
-      } else {
-        return { message: "Nenhuma atualização necessária." };
-      }
-    } catch (err) {
-      Logger.handleError("Erro ao verificar ou aplicar atualizações", err);
-      throw err;
-    }
-  },
-};
-DataManager.updateProcess();
-
-// --- Inicialização do Banco de Dados Dexie ---
-DataManager.db = new Dexie(DataManager.CONFIG.name);
-DataManager.db
-  .version(DataManager.CONFIG.version)
-  .stores({
-    eventos:
-      "id, group, date, normalizedList, normalizedTitle, normalizedLocale, normalizedDesc",
-    tags: "&href, normalizedGroup, normalizedTitle",
-    notificacoesEnviadas: "id",
-    desc: "&id, text",
-    titles: "&id, text",
-    locales: "&id, text",
-    relatorio: "&Codigo, normalizedMinisterio, normalizedNomeCidade",
-    versions: "&key, value",
-  })
-  .upgrade(async (tx) => {
-    // await Dexie.delete("Agenda2DB").catch(() => {});
-    await Dexie.delete("Agenda").catch(() => {});
-    await Dexie.delete("Listas").catch(() => {});
-    await Dexie.delete("CCB2").catch(() => {});
-  });
-
-/**
- * Gerencia o cache usando Workbox para melhorar o desempenho e a disponibilidade offline.
- * Inicializa o CacheManager após a configuração do DataManager
- */
-const CacheManager = {
-  init: () => {
-    if (workbox) {
-      workbox.setConfig({ debug: DataManager.CONFIG.log });
-      workbox.core.skipWaiting();
-      workbox.core.clientsClaim();
-      Client.send("activated", "Service ativado!");
-      workbox.precaching.precacheAndRoute([{"revision":"ad65e380139b4c7ff5dd68a39e591461","url":"_nuxt/agenda.BxqxQMWe.css"},{"revision":"93821b427d08ef1b35167787349313d1","url":"_nuxt/BjVFyGUa.js"},{"revision":"b045b432d5ab80808bb5f00db54ebbc2","url":"_nuxt/BlMkFG0q.js"},{"revision":"6437f2756ee69967992282cbcfd1d79b","url":"_nuxt/Bm9wJN9n.js"},{"revision":"5e38f019051a182c3fdc653db9fac630","url":"_nuxt/BMNQau1G.js"},{"revision":"c15833a16504b8d0e244002f74711a7b","url":"_nuxt/builds/latest.json"},{"revision":"ced212562357e49bca17d1ef630a5f88","url":"_nuxt/builds/meta/d6304c98-7630-4ff2-bcb1-e548c7a49e9a.json"},{"revision":"dcc94b8367d9aa7a82c2b07c8242541c","url":"_nuxt/Bw3FYRcm.js"},{"revision":"f3639e7347cf1a69ecda7ce0da1d8232","url":"_nuxt/Bww4p0t3.js"},{"revision":"78d3998023aff6da985185125d6be4e5","url":"_nuxt/C0oxVsHO.js"},{"revision":"d3447b9060d9753a254d2c9c1f7e7638","url":"_nuxt/C6BImScw.js"},{"revision":"97e4f3c142ab116e16018d8633237f7e","url":"_nuxt/C9zK1205.js"},{"revision":"03df25fc80c226f072d61733ad6275b3","url":"_nuxt/Ca5m0Gxz.js"},{"revision":"a6012ff7f700d174462ad4d0d63be2c0","url":"_nuxt/calendar.Ck15Q88U.css"},{"revision":"2cbb83b34a7131aa4ed78a097ef39d9d","url":"_nuxt/CcHuRhvR.js"},{"revision":"817d47c1d4113d207f86c88e61124745","url":"_nuxt/Cgzjmo2D.js"},{"revision":"287e03e7933bcd0f783df52b920e3c6b","url":"_nuxt/CmDiAl2l.js"},{"revision":"14e879ebc75efcda12e0066eee635c52","url":"_nuxt/contato.3ci9Le7x.css"},{"revision":"cee062fc3928b6f3d692d11358f57974","url":"_nuxt/CPqaVjbE.js"},{"revision":"171a0bae858c59c7cdfb6641bd68b38a","url":"_nuxt/CQXm4HJD.js"},{"revision":"8d51e1d16f90720a125b02d2cf096241","url":"_nuxt/CSaoYiI5.js"},{"revision":"8a0bd4f5630d3adb6baa282de3550662","url":"_nuxt/CU3lGLh8.js"},{"revision":"ba5639996e7381b0eaf70b0c49a2198a","url":"_nuxt/CVzBEsFi.js"},{"revision":"78366cf41d37d4a2960f3c6782560cc4","url":"_nuxt/cyzEbsBt.js"},{"revision":"6e0098aca43b9d7c89cbe8fd3ee40c13","url":"_nuxt/D0Dr7phT.js"},{"revision":"97c28fcf857cf5379b061c199c2d4a4b","url":"_nuxt/Dauuq-Lv.js"},{"revision":"58042246895aba7baa5cee06dc31be65","url":"_nuxt/Dd7dBZfq.js"},{"revision":"44ecf398c8451f4823357944ac745851","url":"_nuxt/default.BllfGIqY.css"},{"revision":"1978d981fe2731daf9c0ee5b2c0c39c1","url":"_nuxt/DhDE_Js0.js"},{"revision":"d592b647ac847708d689b9e48613d824","url":"_nuxt/DHTFi4T1.js"},{"revision":"0ec3f9ca8c97da9b150d2769756793e9","url":"_nuxt/DJdDGfC5.js"},{"revision":"ae7151bf6848e5bb9b4938cf9db49e54","url":"_nuxt/DL58ddGD.js"},{"revision":"baebbbc5af316510a64993b84aea9d68","url":"_nuxt/DoVEOdZT.js"},{"revision":"85e98a9efc99f3587ef8427cc03481bc","url":"_nuxt/DpmsQNHe.js"},{"revision":"e6da3363e6343934f2e67297c3d4dbb9","url":"_nuxt/DRuSbRwC.js"},{"revision":"aa4783daae860b672574d1b1ca815b32","url":"_nuxt/DszDGH65.js"},{"revision":"39d9ddb00efe5d10a894442295de072d","url":"_nuxt/Dt_U0tNU.js"},{"revision":"b5fa5c060c97c75ac45f0eaab06eeada","url":"_nuxt/DxOzsfFT.js"},{"revision":"1272d3a536134150fbe450358208b41f","url":"_nuxt/DzwYXDoS.js"},{"revision":"cb9a34a831dcc04942e2c97e69fdc125","url":"_nuxt/entry.BSC3lSFO.css"},{"revision":"1cec47ab46b69aff51eb4d9fe8b481a9","url":"_nuxt/eventos.D0qi4T-e.css"},{"revision":"e1d580bc8c87679d55b0a1561835430f","url":"_nuxt/form.D8ztOVBm.css"},{"revision":"bd69e4f915e5d568b33063a030e5602a","url":"_nuxt/index.B3U2Ud4L.css"},{"revision":"5bfc4f03af2175efbfde5c245e9405f4","url":"_nuxt/index.BT7qESRD.css"},{"revision":"026e0d7acf2202a5c7f8513a3e690acc","url":"_nuxt/index.C01wgp59.css"},{"revision":"d3838d7d373de5ff91c0962fb4b0890c","url":"_nuxt/index.efd4-kTG.css"},{"revision":"5dc43a82e6f57c703dcf092170445bc8","url":"_nuxt/IrAg5mLh.js"},{"revision":"70b1c8b576c234d52bdf3955a6c6296d","url":"_nuxt/landscape.BFEAchZd.css"},{"revision":"2996e58afd2099d18d1e0a222ca605a1","url":"_nuxt/levantamento_preventiva.D-3OeP-V.css"},{"revision":"265ed4d21f21ef41c522dbb746881052","url":"_nuxt/LoadingSpinner.B8lNEaQd.css"},{"revision":"59154c4971da99157c72bc6bee67f55e","url":"_nuxt/manutencao.DIm-6Bk8.css"},{"revision":"be00fce10a162e4469800634b006201d","url":"_nuxt/menu.0lHMkiB6.css"},{"revision":"824b1d7761a285e7b1cbaf771eae182f","url":"_nuxt/navegar.DXE9DLXy.css"},{"revision":"40c2a0c90612ca71f55611a290899a6b","url":"_nuxt/noscroll.DrWb4tOw.css"},{"revision":"069017b15d99939f06e910ab1cdd92eb","url":"_nuxt/perfil.BbtFWlj7.css"},{"revision":"8456b4730f5a71d9d9d63b6a3f8dc488","url":"_nuxt/recentes.CtKQcL51.css"},{"revision":"e5400f28ac27375dc249adf4b972c4b6","url":"_nuxt/relatorio.BGMUo3JX.css"},{"revision":"a784c03c378790004948dbf2002e5f91","url":"_nuxt/servicos.DXKw4MpX.css"},{"revision":"e16fe871f60ebca36f1b2fd2b8bdfed6","url":"_nuxt/settings.D81KzNVB.css"},{"revision":"a8b5179d5b5806ec3883dc79a41b65f8","url":"_nuxt/sobre.c9vjT2Gh.css"},{"revision":"14afaca6e3bd7ee95072fe88d377566f","url":"_nuxt/solicitar.C0T4GfkF.css"},{"revision":"52e215cffc37d63dcdbd83ca61793885","url":"_nuxt/vB1Us2eN.js"},{"revision":"e63755708115972acfd3c882b6e9bcd6","url":"_nuxt/view.toBhRDQR.css"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"200.html"},{"revision":"b6b9f267f0f313b4d0ac17f69657158b","url":"200/index.html"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"404.html"},{"revision":"696c7f1e51bad767ead09dab087a400d","url":"404/index.html"},{"revision":"696c7f1e51bad767ead09dab087a400d","url":"500/index.html"},{"revision":"dc5195e615a693006dfc23be1c5a3791","url":"agenda/index.html"},{"revision":"a6cfb35262e9cdbe41ba6710e306a152","url":"data/data.json"},{"revision":"b2ab7e86e5eec0f664524d9fdd029946","url":"data/metadata.json"},{"revision":"416ef7202529463a618e35c6f3d32152","url":"data/ministerio.json"},{"revision":"0c67f062d6c248fbad406549c816ea19","url":"data/relatorio.json"},{"revision":"50d93598b24e42211df0a4e3dfb7d751","url":"data/tags-circulares.json"},{"revision":"115c0d6d6877ec2d916efc87dea93890","url":"data/tags.json"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"evento/index.html"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"evento/solicitar/index.html"},{"revision":"dc5195e615a693006dfc23be1c5a3791","url":"eventos/index.html"},{"revision":"27b89616efd846aa579b3b5734343c8f","url":"favicon.ico"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.js"},{"revision":"fe3fb4ba1af11bd08db69b42559eb245","url":"firebase-messaging-sw.sync-conflict-20251009-114321-MQCW6GZ.js"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"forms/contato/index.html"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"forms/levantamento_preventiva/index.html"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"forms/manutencao/index.html"},{"revision":"917c57296b31ca2a382796896d725c2a","url":"forms/view/index.html"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"hinos/index.html"},{"revision":"9867a3422e5addc595886168208cc592","url":"icons/apple-icon-120x120.png"},{"revision":"f7dd465713c1240865bb7b70370406c2","url":"icons/apple-icon-152x152.png"},{"revision":"01ffc5e4414a34c50f65e1bf6d7ca7a3","url":"icons/apple-icon-167x167.png"},{"revision":"cca2ffedcdeae214720aefe89e9fdcbe","url":"icons/apple-icon-180x180.png"},{"revision":"d79610b2ac314df70e3554b1dbc4fcee","url":"icons/apple-launch-1080x2340.png"},{"revision":"a650246dd488b11d81a130057b740a22","url":"icons/apple-launch-1125x2436.png"},{"revision":"92c201082d1000ec01e0af9fa2c1f002","url":"icons/apple-launch-1170x2532.png"},{"revision":"b2a5d799798b2e7f4b06d428069e3b35","url":"icons/apple-launch-1179x2556.png"},{"revision":"8f4e03c150d73b3d937be52937d4aad8","url":"icons/apple-launch-1242x2208.png"},{"revision":"b3bfd03718947f8eeca5fee0467d3a25","url":"icons/apple-launch-1242x2688.png"},{"revision":"21128a0bf6a4cfaf634d6ef8b5b142e1","url":"icons/apple-launch-1284x2778.png"},{"revision":"3051e3ead28e5bd48377b24b6fcecf2c","url":"icons/apple-launch-1290x2796.png"},{"revision":"3cae7d354552572d14cfd53a9393ded5","url":"icons/apple-launch-1536x2048.png"},{"revision":"7ff54e1750aebaa29beedf5abeeccad5","url":"icons/apple-launch-1620x2160.png"},{"revision":"e514179c99fd26b7de6e02382cfecda0","url":"icons/apple-launch-1668x2224.png"},{"revision":"5d87d86da198249158de50e52331d7de","url":"icons/apple-launch-1668x2388.png"},{"revision":"c092d59e226573b1742f0e3f44014521","url":"icons/apple-launch-2048x2732.png"},{"revision":"495d3004f238f1cb3c8cdf759e95d9d0","url":"icons/apple-launch-750x1334.png"},{"revision":"121f96f3c9e71537cfb3078a78b4978d","url":"icons/apple-launch-828x1792.png"},{"revision":"0411c0e5da61b3b3e590b1715898e5ca","url":"icons/Contents.json"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/favicon-128x128.png"},{"revision":"46e80c945a6991b54b573905e47c2c4a","url":"icons/favicon-16x16.png"},{"revision":"e5c43a798628015cc5709a04495734e3","url":"icons/favicon-32x32.png"},{"revision":"367f65061b9581fa2846a490a642b1f6","url":"icons/favicon-96x96.png"},{"revision":"39aec49812573de3df34a815a3c78bd2","url":"icons/icon-128x128.png"},{"revision":"7ce4b17cca36b21129d6575124962c6e","url":"icons/icon-192x192.png"},{"revision":"afabfd81700092d07d6dd1a472313aaf","url":"icons/icon-256x256.png"},{"revision":"fe39b949477ecdc47cbd8eb4b84fb0ea","url":"icons/icon-384x384.png"},{"revision":"aab03ed9af399f7d146ff8a9c51ae96d","url":"icons/icon-512x512.png"},{"revision":"cc9cc708e9a0caacd09cd25f25c32ac3","url":"icons/ms-icon-144x144.png"},{"revision":"1280df887f0e62362507d1d2838eec71","url":"icons/safari-pinned-tab.svg"},{"revision":"e9e4b7922d30b56a6abe7a18d2f8af48","url":"icons/user.png"},{"revision":"d78f8eab7b18b38fba494719de4804db","url":"img/logo-ccb-light.png"},{"revision":"36c466cf17b51c2949f8a0c08c95f904","url":"index.html"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"lista/calendar/index.html"},{"revision":"917c57296b31ca2a382796896d725c2a","url":"lista/edit/index.html"},{"revision":"4719e862f7d1b2e55b1b05df4b10d58d","url":"lista/index.html"},{"revision":"46041b0767d24770a77cca3ada6b1311","url":"manifest.webmanifest"},{"revision":"dc5195e615a693006dfc23be1c5a3791","url":"navegar/index.html"},{"revision":"dc5195e615a693006dfc23be1c5a3791","url":"perfil/index.html"},{"revision":"917c57296b31ca2a382796896d725c2a","url":"recentes/index.html"},{"revision":"917c57296b31ca2a382796896d725c2a","url":"relatorio/index.html"},{"revision":"5dd1ef12b5306cb6eb2a34b21a34ce23","url":"screenshots/desktop.png"},{"revision":"22203dd79381b922a8453fd9003822a8","url":"screenshots/mobile.png"},{"revision":"917c57296b31ca2a382796896d725c2a","url":"servicos/index.html"},{"revision":"917c57296b31ca2a382796896d725c2a","url":"settings/index.html"},{"revision":"dc5195e615a693006dfc23be1c5a3791","url":"sobre/index.html"}] || []);
-      CacheManager._addRoutes();
-      CacheManager._enableNavigationPreload();
-      Client.send("init", "Service inicializado!");
-    } else {
-      console.warn("Workbox não pôde ser carregado.");
-    }
-  },
-
-  _addRoutes: () => {
-    // Navegação (HTML) otimizada para Preload
-    workbox.routing.registerRoute(
-      ({ request }) => request.mode === "navigate",
-      new workbox.strategies.NetworkFirst({
-        cacheName: "html-navigation-cache",
-        plugins: [
-          (() => {
-            if (
-              workbox.navigationPreload &&
-              typeof workbox.navigationPreload.NavigationPreloadPlugin ===
-                "function"
-            ) {
-              return new workbox.navigationPreload.NavigationPreloadPlugin();
-            } else {
-              Logger.log(
-                "workbox.navigationPreload.NavigationPreloadPlugin not found or not a constructor. Skipping NavigationPreloadPlugin."
-              );
-              return null;
-            }
-          })(),
-
-          new workbox.cacheableResponse.CacheableResponsePlugin({
-            statuses: [200],
-          }),
-
-          // Opcional: Configurar um fallback de página offline, se necessário.
-        ].filter(Boolean), // Filter out any null plugins if the conditional failed
-      })
-    );
-    // 2. Cache de runtime para dados dinâmicos de faina.ccbgo.org.br/data/
-    // Esta estratégia tenta a rede primeiro, depois retorna para o cache.
-    // Ela ignora o parâmetro de consulta 'v' para fins de cache, evitando múltiplas entradas.
-    workbox.routing.registerRoute(
-      ({ url }) =>
-        url.origin === "https://faina.ccbgo.org.br" &&
-        url.pathname.startsWith("/data/"),
-      new workbox.strategies.NetworkFirst({
-        cacheName: "app-data-cache",
-        plugins: [
-          new workbox.expiration.ExpirationPlugin({
-            maxEntries: 50, // Armazena em cache até 50 arquivos de dados
-            maxAgeSeconds: 30 * 24 * 60 * 60, // Mantém os dados por 30 dias
-          }),
-          new workbox.cacheableResponse.CacheableResponsePlugin({
-            statuses: [0, 200], // Armazena em cache respostas bem-sucedidas e opacas
-          }),
-        ],
-        // Ignora o parâmetro de consulta 'v' ao corresponder solicitações a entradas de cache.
-        // Isso garante que 'data.json?v=123' e 'data.json?v=456' sejam tratados como o mesmo recurso no cache.
-        matchOptions: {
-          ignoreSearch: true,
-        },
-      })
-    );
-
-    // 3. Cache de runtime para outros assets estáticos (ex: imagens, fontes, scripts e estilos não precacheados)
-    // Esta estratégia serve do cache primeiro, enquanto revalida em segundo plano.
-    // É ideal para assets que não mudam com frequência, mas não fazem parte do manifesto de precache.
-    workbox.routing.registerRoute(
-      ({ request }) =>
-        request.destination === "image" ||
-        request.destination === "font" ||
-        request.destination === "script" ||
-        request.destination === "style" ||
-        request.destination === "manifest",
-      new workbox.strategies.StaleWhileRevalidate({
-        cacheName: "static-assets-cache",
-        plugins: [
-          new workbox.expiration.ExpirationPlugin({
-            maxEntries: 200,
-            maxAgeSeconds: 30 * 24 * 60 * 60, // 30 Dias
-          }),
-        ],
-      })
-    );
-
-    // Cache para imagens do Google User Content
-    workbox.routing.registerRoute(
-      ({ url }) => url.hostname === "lh3.googleusercontent.com",
-      new workbox.strategies.CacheFirst({
-        cacheName: "googleusercontent-images",
-        plugins: [
-          new workbox.expiration.ExpirationPlugin({
-            maxEntries: 200,
-            maxAgeSeconds: 30 * 24 * 60 * 60,
-          }),
-          new workbox.cacheableResponse.CacheableResponsePlugin({
-            statuses: [0, 200],
-          }),
-        ],
-      })
-    );
-
-    // Estratégia NetworkOnly para Google Tag Manager com tratamento de erro
-    workbox.routing.registerRoute(
-      /^https:\/\/www\.googletagmanager\.com\//,
-      new workbox.strategies.NetworkOnly({
-        plugins: [
-          {
-            handlerDidError: async ({ request }) => {
-              console.warn(
-                `[Workbox] Falha ao buscar script GTM: ${request.url}. Retornando resposta vazia para evitar erro no console.`
-              );
-              // Retorna uma resposta vazia e bem-sucedida para evitar o erro 'no-response'
-              return new Response("", { status: 200, statusText: "OK" });
-            },
-          },
-        ],
-      })
-    );
-  },
-
-  _enableNavigationPreload: () => {
-    // Opcional: Habilitar precarregamento de navegação para requisições de navegação mais rápidas.
-    if (self.registration && self.registration.navigationPreload) {
-      try {
-        workbox.navigationPreload.enable();
-      } catch (error) {
-        Logger.handleError("Erro ao habilitar Navigation Preload", error);
-      }
-    } else {
-      Logger.log(
-        "Navigation Preload não suportado ou não disponível neste navegador."
-      );
-    }
-  },
-};
-CacheManager.init();
-
-// Register the message handlers using Client.receive
-// Client.receive("clear", (payload) => DataManager.clearDB(payload));
-
-Client.receive("fetchTitles", async (payload) => {
-  const result = await DataManager.db.titles.toArray();
+self.Client.receive("clear", (payload) => self.DataManager.clearDB(payload));
+self.Client.receive("fetchTitles", async (payload) => {
+  const result = await self.DataManager.db.titles.toArray();
   return result.sort((a, b) => a.id - b.id).map((e) => e.text);
 });
 
-Client.receive("fetchLocales", async (payload) => {
-  const result = await DataManager.db.locales.toArray();
+self.Client.receive("fetchLocales", async (payload) => {
+  const result = await self.DataManager.db.locales.toArray();
   return result.sort((a, b) => a.id - b.id).map((e) => e.text);
 });
 
-Client.receive("fetchDesc", async (payload) => {
-  const result = await DataManager.db.desc.toArray();
+self.Client.receive("fetchDesc", async (payload) => {
+  const result = await self.DataManager.db.desc.toArray();
   return result.sort((a, b) => a.id - b.id).map((e) => e.text);
 });
 
-Client.receive("fetchTags", async (payload) => {
+self.Client.receive("fetchTags", async (payload) => {
   const filters = {
     search: "",
     href: "",
@@ -700,11 +36,11 @@ Client.receive("fetchTags", async (payload) => {
     group: "",
     ...payload,
   };
-  const title = Utils.normalizeString(filters.title);
-  const group = Utils.normalizeString(filters.group);
-  const search = Utils.normalizeString(filters.search);
+  const title = self.Utils.normalizeString(filters.title);
+  const group = self.Utils.normalizeString(filters.group);
+  const search = self.Utils.normalizeString(filters.search);
   try {
-    let query = DataManager.db.tags;
+    let query = self.DataManager.db.tags;
     if (filters.href || title || group || search) {
       query = query.filter((tag) => {
         let match = true;
@@ -720,7 +56,7 @@ Client.receive("fetchTags", async (payload) => {
         if (match && search) {
           const target = `${tag.normalizedTitle} ${
             tag.normalizedGroup
-          } ${Utils.normalizeString(tag.description || "")}`;
+          } ${self.Utils.normalizeString(tag.description || "")}`;
           if (!target.includes(search)) {
             match = false;
           }
@@ -733,12 +69,12 @@ Client.receive("fetchTags", async (payload) => {
     );
     return filteredTags;
   } catch (error) {
-    Logger.handleError("Erro ao buscar tags com filtro em Dexie", error); // Corrigido para usar handleError
+    self.Logger.handleError("Erro ao buscar tags com filtro em Dexie", error); // Corrigido para usar handleError
     return [];
   }
 });
 
-Client.receive("fetchEventos", async (payload) => {
+self.Client.receive("fetchEventos", async (payload) => {
   try {
     const data = {
       data: {
@@ -762,21 +98,21 @@ Client.receive("fetchEventos", async (payload) => {
       ...payload,
     };
 
-    const calendarSet = new Set(filters.calendars.map(Utils.normalizeString));
+    const calendarSet = new Set(filters.calendars.map(self.Utils.normalizeString));
 
     const startDate = new Date(filters.start);
     const endDate = new Date(filters.end);
 
-    Utils.setBrasiliaTime(startDate, 0, 0, 0, 0);
-    Utils.setBrasiliaTime(endDate, 23, 59, 59, 999);
+    self.Utils.setBrasiliaTime(startDate, 0, 0, 0, 0);
+    self.Utils.setBrasiliaTime(endDate, 23, 59, 59, 999);
 
-    const regexTitle = new RegExp(Utils.normalizeString(filters.title), "i");
+    const regexTitle = new RegExp(self.Utils.normalizeString(filters.title), "i");
     const regexLocale = new RegExp(
-      `^${Utils.normalizeString(filters.locale)}`,
+      `^${self.Utils.normalizeString(filters.locale)}`,
       "i"
     );
 
-    const terms = Utils.normalizeString(filters.search)
+    const terms = self.Utils.normalizeString(filters.search)
       .replace(/\bou\b/gi, ",")
       .split(/,|\s+/)
       .map((t) => t.trim())
@@ -810,11 +146,11 @@ Client.receive("fetchEventos", async (payload) => {
         !isNaN(startDate.getTime()) &&
         !isNaN(endDate.getTime())
       ) {
-        collection = DataManager.db.eventos
+        collection = self.DataManager.db.eventos
           .where("date")
           .between(startDate, endDate, true, true);
       } else {
-        collection = DataManager.db.eventos.toCollection();
+        collection = self.DataManager.db.eventos.toCollection();
       }
 
       const filteredEvents = await collection
@@ -887,17 +223,17 @@ Client.receive("fetchEventos", async (payload) => {
         desc: Array.from(desc),
       };
     } catch (error) {
-      Logger.handleError("Erro na busca de eventos com Dexie", error); // Corrigido para usar handleError
+      self.Logger.handleError("Erro na busca de eventos com Dexie", error); // Corrigido para usar handleError
       data.error = error;
     }
     return data;
   } catch (err) {
-    Logger.handleError("Erro ao carregar dados existentes", err);
+    self.Logger.handleError("Erro ao carregar dados existentes", err);
     throw err;
   }
 });
 
-Client.receive("fetchRelatorio", async (payload) => {
+self.Client.receive("fetchRelatorio", async (payload) => {
   const filters = {
     nome: "",
     cidade: "",
@@ -915,8 +251,8 @@ Client.receive("fetchRelatorio", async (payload) => {
   };
 
   try {
-    const nome = Utils.normalizeString(filters.nome || "");
-    const cidade = Utils.normalizeString(filters.cidade || "");
+    const nome = self.Utils.normalizeString(filters.nome || "");
+    const cidade = self.Utils.normalizeString(filters.cidade || "");
     const includeRegexesNome = nome
       .split(/,|\s+/)
       .map((t) => new RegExp(`\\b${t}`, "i"));
@@ -925,7 +261,7 @@ Client.receive("fetchRelatorio", async (payload) => {
       .map((t) => new RegExp(`\\b${t}`, "i"));
 
     try {
-      const all = await DataManager.db.relatorio
+      const all = await self.DataManager.db.relatorio
         .toCollection()
         .filter((row) => {
           if (!nome && !cidade) return true;
@@ -944,7 +280,7 @@ Client.receive("fetchRelatorio", async (payload) => {
         const others = [];
         // Simplificado: Assumindo que normalizedNomeCidade sempre existe após updateRelatorio
         const getRowCityNormalized = (row) =>
-          Utils.normalizeString(row.NomeCidade);
+          self.Utils.normalizeString(row.NomeCidade);
 
         for (let i = 0; i < all.length; i++) {
           const row = all[i];
@@ -961,7 +297,7 @@ Client.receive("fetchRelatorio", async (payload) => {
         const others = [];
         // Simplificado: Assumindo que normalizedMinisterio sempre existe após updateRelatorio
         const getRowNameNormalized = (row) =>
-          Utils.normalizeString(row.MinisterioConcatenados);
+          self.Utils.normalizeString(row.MinisterioConcatenados);
 
         for (let i = 0; i < all.length; i++) {
           const row = all[i];
@@ -982,19 +318,19 @@ Client.receive("fetchRelatorio", async (payload) => {
       );
       return data;
     } catch (error) {
-      Logger.handleError("[[DEXIE]] Erro na busca do relatorio:", error);
+      self.Logger.handleError("[[DEXIE]] Erro na busca do relatorio:", error);
     }
   } catch (err) {
-    Logger.handleError("Erro ao carregar dados existentes", err);
+    self.Logger.handleError("Erro ao carregar dados existentes", err);
   }
 });
 
-Client.receive("update", (payload) => DataManager.updateProcess(payload));
+self.Client.receive("update", (payload) => self.DataManager.updateProcess(payload));
 
-Client.receive("fetchRecenteTags", async (payload) => {
+self.Client.receive("fetchRecenteTags", async (payload) => {
   try {
     const limit = payload.limit || 10;
-    const tagsWithUpdated = await DataManager.db.tags
+    const tagsWithUpdated = await self.DataManager.db.tags
       .filter(
         (tag) =>
           tag.updated !== undefined &&
@@ -1007,13 +343,13 @@ Client.receive("fetchRecenteTags", async (payload) => {
       .slice(0, limit);
     return recentTags;
   } catch (error) {
-    Logger.handleError("Erro ao buscar tags recentes em Dexie", error); // Corrigido para usar handleError
+    self.Logger.handleError("Erro ao buscar tags recentes em Dexie", error); // Corrigido para usar handleError
     return [];
   }
 });
 
-Client.receive("client_ping", (payload, eventSource) => {
-  Logger.log(
+self.Client.receive("client_ping", (payload, eventSource) => {
+  self.Logger.log(
     "SW: Received client_ping from:",
     eventSource.url,
     "payload:",

@@ -1,0 +1,1 @@
+import{c as a,o,a as t}from"./D4msPRtv.js";const c={class:"text-center p"},_={__name:"ReloadPage",setup(r){const e=()=>{window.location.reload()};return(n,s)=>(o(),a("div",c,[t("button",{class:"btn",onClick:e},"Clique para recarregar a página")]))}};export{_};
