@@ -10,6 +10,11 @@ importScripts(
 
 self.FirebaseManager.init();
 self.Client.init();
+
+// Assume as páginas abertas ao ativar, para o primeiro acesso já ser controlado pelo SW.
+self.addEventListener("activate", (event) => {
+  event.waitUntil(self.clients.claim());
+});
 self.CacheManager.init();
 
 self.Client.receive("clear", (payload) => self.DataManager.clearDB(payload));
