@@ -1,0 +1,1 @@
+import{_ as c}from"./CsVeHQh1.js";import{_ as e,o as _,c as a,b as o,ai as s}from"./um7_Y5DW.js";const r={},m={class:"content"};function i(p,d){const t=c,n=s;return _(),a("div",m,[o(t),o(n)])}const x=e(r,[["render",i]]);export{x as default};
