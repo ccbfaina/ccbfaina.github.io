@@ -1,4 +1,4 @@
-importScripts("https://unpkg.com/dexie@3.2.3/dist/dexie.js");
+importScripts("/js/sw/vendor/dexie.js");
 
 /**
  * Gerenciador de Dados e Atualizações da Aplicação

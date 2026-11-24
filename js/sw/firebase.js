@@ -1,6 +1,6 @@
 importScripts(
-  "https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js",
-  "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-compat.js"
+  "/js/sw/vendor/firebase/firebase-app-compat.js",
+  "/js/sw/vendor/firebase/firebase-messaging-compat.js"
 );
 
 /**
