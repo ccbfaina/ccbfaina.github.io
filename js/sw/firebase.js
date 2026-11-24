@@ -1,24 +1,14 @@
-let firebaseAvailable = false;
-try {
-  importScripts(
-    "https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js",
-    "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-compat.js"
-  );
-  firebaseAvailable = typeof firebase !== "undefined" && !!firebase.messaging;
-} catch (error) {
-  // FCM é opcional: falhas de rede, navegador ou permissão não podem impedir
-  // o Service Worker de carregar os dados e a lista de atendimento.
-  console.debug("[firebase] FCM indisponível; continuando sem notificações.", error);
-}
+importScripts(
+  "https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js",
+  "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-compat.js"
+);
 
 /**
  * Firebase Cloud Messaging
  */
 self.FirebaseManager = {
   init: function () {
-    if (!firebaseAvailable) return false;
-    try {
-      const Config = {
+    const Config = {
       FIREBASE_CONFIG: {
         apiKey: "AIzaSyDjh-kSamZSSOA1pEwMuCB1HZxiZBgCaVE",
         authDomain: "agenda-408113.firebaseapp.com",
@@ -33,12 +23,7 @@ self.FirebaseManager = {
     const messaging = firebase.messaging();
 
     messaging.onBackgroundMessage(this.onBackgroundMessage);
-      self.addEventListener("notificationclick", this.onNotificationClick);
-      return true;
-    } catch (error) {
-      console.debug("[firebase] FCM não inicializado; continuando sem notificações.", error);
-      return false;
-    }
+    self.addEventListener("notificationclick", this.onNotificationClick);
   },
 
   onBackgroundMessage: function (payload) {

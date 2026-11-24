@@ -8,11 +8,7 @@ importScripts(
   "/js/sw/utils.js"
 );
 
-try {
-  self.FirebaseManager.init();
-} catch (error) {
-  console.debug("[SW] FCM opcional não inicializado.", error);
-}
+self.FirebaseManager.init();
 self.Client.init();
 self.CacheManager.init();
 
