@@ -17,7 +17,7 @@
       "icon": "la la-calendar"
     },
     {
-      "href": "/lista",
+      "href": "/lista?calendars=Regional Faina",
       "title": "Faina: Lista Regional",
       "description": "Lista de Atendimento da regional Faina",
       "group": "Regional Faina",
