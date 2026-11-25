@@ -146,14 +146,36 @@ self.DataManager = {
     );
   },
 
-  // Atualiza os metadados de eventos (titles, locales, desc)
-  updateEventMetadata: async () => {
-    const dataMain = await self.DataManager._fetchAndParseJson(
-      "/data/data.json",
-      "dados principais de eventos"
-    );
+  // Baixa o data.json só se o conteúdo mudou: envia If-None-Match com o ETag da última gravação.
+  // O servidor responde 304 (sem corpo) quando é o mesmo conteúdo; então não há nada a regravar.
+  // Retorna true se gravou dados novos, false se já estava igual.
+  updateEvents: async () => {
+    const db = self.DataManager.db;
+    const etagGravado = (await db.versions.get("lista_etag"))?.value;
+    const temEventos = (await db.eventos.count()) > 0;
+    const headers = etagGravado && temEventos ? { "If-None-Match": etagGravado } : {};
+
+    const res = await fetch(`/data/data.json?v=${new Date().getTime()}`, { headers });
+    if (res.status === 304) {
+      self.Logger.log("Eventos sem alteração (304): nada a regravar.");
+      return false;
+    }
+    if (!res.ok) throw new Error(`HTTP ${res.status} ao baixar dados principais de eventos`);
+    const etag = res.headers.get("ETag");
+    const dataMain = await res.json();
     self.Logger.log("Dados principais de eventos baixados.");
 
+    // Apaga o ETag antes de gravar. Se a gravação parar no meio, a próxima verificação
+    // não pedirá 304 e baixa tudo de novo, em vez de confiar num banco incompleto.
+    await db.versions.delete("lista_etag");
+    await self.DataManager.updateEventMetadata(dataMain);
+    await self.DataManager.updateEventItems(dataMain.eventos.items);
+    if (etag) await db.versions.put({ key: "lista_etag", value: etag });
+    return true;
+  },
+
+  // Atualiza os metadados de eventos (titles, locales, desc) a partir do data.json já baixado
+  updateEventMetadata: async (dataMain) => {
     await self.DataManager.db.transaction(
       "rw",
       self.DataManager.db.desc,
@@ -179,7 +201,6 @@ self.DataManager = {
     self.Logger.log(
       "Metadados de eventos (títulos, locais, descrições) atualizados."
     );
-    return dataMain.eventos.items;
   },
 
   // Processa e salva os itens de eventos
@@ -274,7 +295,20 @@ self.DataManager = {
     self.Client.send("status_update", "Atualização do relatório concluída.");
   },
 
-  async updateProcess(payload = {}) {
+  // Uma atualização por vez: abas abertas ao mesmo tempo compartilham a mesma execução,
+  // em vez de baixar e regravar os eventos em paralelo.
+  updateProcess(payload = {}) {
+    if (!self.DataManager._atualizacaoEmAndamento) {
+      self.DataManager._atualizacaoEmAndamento = self.DataManager
+        ._atualizarAgora(payload)
+        .finally(() => {
+          self.DataManager._atualizacaoEmAndamento = null;
+        });
+    }
+    return self.DataManager._atualizacaoEmAndamento;
+  },
+
+  async _atualizarAgora(payload = {}) {
     self.Logger.log(
       "Iniciando processo de verificação de atualizações...",
       payload
@@ -307,19 +341,18 @@ self.DataManager = {
         const needsUpdate = serverVersion && serverVersion !== storedVersion;
 
         if (checkType && needsUpdate) {
-          updatesExecuted++;
-
           self.Logger.log(`Processando atualização de ${cfg.type}.`);
 
-          // Lógica de atualização específica:
+          // Lógica de atualização específica. `mudou` é false quando o conteúdo já era o do servidor.
+          let mudou = true;
           if (cfg.type === "tags") {
             await self.DataManager.updateTags();
           } else if (cfg.type === "events") {
-            const eventItems = await self.DataManager.updateEventMetadata();
-            await self.DataManager.updateEventItems(eventItems);
+            mudou = await self.DataManager.updateEvents();
           } else if (cfg.type === "relatorio") {
             await self.DataManager.updateRelatorio();
           }
+          if (mudou) updatesExecuted++;
 
           // Salva a nova versão após o sucesso
           await self.DataManager.db.versions.put({
