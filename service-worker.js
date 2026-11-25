@@ -368,4 +368,3 @@ self.Client.receive("client_ping", (payload, eventSource) => {
     eventSource,
   };
 });
-// build 20261124T165852Z 21e39b18f185

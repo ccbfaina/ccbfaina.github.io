@@ -1,1 +1,0 @@
-import{_ as c}from"./DZA4ExGP.js";import{_ as e,o as _,c as a,b as o,aa as s}from"./DY8wsJOg.js";const r={},m={class:"content"};function p(d,i){const t=c,n=s;return _(),a("div",m,[o(t),o(n)])}const x=e(r,[["render",p]]);export{x as default};

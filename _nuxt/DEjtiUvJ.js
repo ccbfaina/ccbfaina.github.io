@@ -1,1 +1,0 @@
-import{o as a,c as o,a as t}from"./BBChMtSN.js";const c={class:"text-center p"},_={__name:"ReloadPage",setup(r){const e=()=>{window.location.reload()};return(n,s)=>(a(),o("div",c,[t("button",{class:"btn",onClick:e},"Clique para recarregar a página")]))}};export{_};
