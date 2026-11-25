@@ -1,0 +1,663 @@
+{
+  "gerado_em": "2026-11-25T03:57:57.522Z",
+  "regional": "Faina - Go",
+  "pessoas": [
+    {
+      "nome": "Arlindo Barbosa Gomes",
+      "cargo": "Ancião",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Eclesiastes Araújo de Sousa",
+      "cargo": "Ancião",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Emival Divino Fernandes",
+      "cargo": "Ancião",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Flavio da Costa Matos",
+      "cargo": "Ancião",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Ismael Alves Rangel Filho",
+      "cargo": "Ancião",
+      "igreja": "Vila Goiás"
+    },
+    {
+      "nome": "Israel Barbosa Euzébio da Silva",
+      "cargo": "Ancião",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Itamar Ferreira de Menezes",
+      "cargo": "Ancião",
+      "igreja": "Setor Parque Aeroporto"
+    },
+    {
+      "nome": "Joildo Liberal Silva",
+      "cargo": "Ancião",
+      "igreja": "Bosque da Saúde"
+    },
+    {
+      "nome": "José Pereira Gomes",
+      "cargo": "Ancião",
+      "igreja": "Vila Martins"
+    },
+    {
+      "nome": "Marco Antonio Queiroz",
+      "cargo": "Ancião",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Maycon Marques Guerra",
+      "cargo": "Ancião",
+      "igreja": "Setor Planalto"
+    },
+    {
+      "nome": "Nazaré Antonio da Silva",
+      "cargo": "Ancião",
+      "igreja": "Distrito Uruita"
+    },
+    {
+      "nome": "Neide da Silva Pereira",
+      "cargo": "Ancião",
+      "igreja": "Setor Planalto"
+    },
+    {
+      "nome": "Paulo Silvano Santos",
+      "cargo": "Ancião",
+      "igreja": "Setor Parque Aeroporto"
+    },
+    {
+      "nome": "Robson Luiz Batista Gonzaga",
+      "cargo": "Ancião",
+      "igreja": "Setor Guanabara"
+    },
+    {
+      "nome": "Rubem de Pinho Belarmino",
+      "cargo": "Ancião",
+      "igreja": "Setor Central"
+    },
+    {
+      "nome": "Vagner Garcia dos Reis",
+      "cargo": "Ancião",
+      "igreja": "Vila Vieira"
+    },
+    {
+      "nome": "Walter Borges Costa",
+      "cargo": "Ancião",
+      "igreja": "Setor Industrial"
+    },
+    {
+      "nome": "Adeilson José da Silva",
+      "cargo": "Diácono",
+      "igreja": "Vila Vieira"
+    },
+    {
+      "nome": "Adeilson José da Silva Junior",
+      "cargo": "Diácono",
+      "igreja": "Vila Vieira"
+    },
+    {
+      "nome": "Antônio Otaviano Vieira",
+      "cargo": "Diácono",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Avnner Augusto Fonseca de Rezende",
+      "cargo": "Diácono",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Demilson da Costa",
+      "cargo": "Diácono",
+      "igreja": "Vila Goiás"
+    },
+    {
+      "nome": "Edvaldo César da Silva",
+      "cargo": "Diácono",
+      "igreja": "Vila Renata"
+    },
+    {
+      "nome": "Erivaldo Rodrigues dos Santos",
+      "cargo": "Diácono",
+      "igreja": "Goiás"
+    },
+    {
+      "nome": "Eurimar Macedo Modesto",
+      "cargo": "Diácono",
+      "igreja": "Setor São Lourenço"
+    },
+    {
+      "nome": "Fernando Ferreira de Menezes",
+      "cargo": "Diácono",
+      "igreja": "Setor Parque Aeroporto"
+    },
+    {
+      "nome": "João Onesmo Bueno Neto",
+      "cargo": "Diácono",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Joce Albino da Silva",
+      "cargo": "Diácono",
+      "igreja": "Bosque da Saúde"
+    },
+    {
+      "nome": "Joel Mauro Euzébio da Silva",
+      "cargo": "Diácono",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Marcio Prado de Menezes",
+      "cargo": "Diácono",
+      "igreja": "Setor Parque Aeroporto"
+    },
+    {
+      "nome": "Nalberto Carlos Neris",
+      "cargo": "Diácono",
+      "igreja": "Setor Central"
+    },
+    {
+      "nome": "Paulo Bento Ferreira Camelo",
+      "cargo": "Diácono",
+      "igreja": "Setor Planalto"
+    },
+    {
+      "nome": "Raimundo Ferreira Pereira",
+      "cargo": "Diácono",
+      "igreja": "Bosque da Saúde"
+    },
+    {
+      "nome": "Salmo Silvestre Souza",
+      "cargo": "Diácono",
+      "igreja": "Vila Renata"
+    },
+    {
+      "nome": "Thiago Santos de Lacerda",
+      "cargo": "Diácono",
+      "igreja": "Setor Central"
+    },
+    {
+      "nome": "Valdir Souto de Lima",
+      "cargo": "Diácono",
+      "igreja": "Vila Vieira"
+    },
+    {
+      "nome": "Vicente Francisco de Paulo",
+      "cargo": "Diácono",
+      "igreja": "Setor Planalto"
+    },
+    {
+      "nome": "Wilton da Silva Costa",
+      "cargo": "Diácono",
+      "igreja": "Setor Industrial"
+    },
+    {
+      "nome": "Allan de Oliveira Silva",
+      "cargo": "Cooperador",
+      "igreja": "Setor Raimundo Martins da Silva"
+    },
+    {
+      "nome": "Antenor José Ferreira",
+      "cargo": "Cooperador",
+      "igreja": "Vila Damiana da Cunha"
+    },
+    {
+      "nome": "Antônio Modesto de Souza",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Santa Rita"
+    },
+    {
+      "nome": "Arão Boa Vista da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Setor Morada do Sol"
+    },
+    {
+      "nome": "Carlos Antônio de Sousa",
+      "cargo": "Cooperador",
+      "igreja": "Distrito Lua Nova"
+    },
+    {
+      "nome": "Carlos Antonio Pereira da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Setor Parque Aeroporto"
+    },
+    {
+      "nome": "Clebes Diones de Souza",
+      "cargo": "Cooperador",
+      "igreja": "Setor Planalto"
+    },
+    {
+      "nome": "Cleiton Soares Fernandes",
+      "cargo": "Cooperador",
+      "igreja": "Setor Central"
+    },
+    {
+      "nome": "Davi dos Santos",
+      "cargo": "Cooperador",
+      "igreja": "Vila Comunitária"
+    },
+    {
+      "nome": "Dinailton José dos Santos",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Colônia de Uvá"
+    },
+    {
+      "nome": "Divino Bento de Oliveira",
+      "cargo": "Cooperador",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Divino Silva Rosa",
+      "cargo": "Cooperador",
+      "igreja": "Distrito Uruita"
+    },
+    {
+      "nome": "Douglas Vieira",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Edgar Alves Filho",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Edson Vander Ribeiro",
+      "cargo": "Cooperador",
+      "igreja": "São José dos Bandeirantes - Setor Aeroporto"
+    },
+    {
+      "nome": "Elias Marcos Dias",
+      "cargo": "Cooperador",
+      "igreja": "Setor Central"
+    },
+    {
+      "nome": "Elias Vieira",
+      "cargo": "Cooperador",
+      "igreja": "Setor Industrial"
+    },
+    {
+      "nome": "Everson Gomes de Lima",
+      "cargo": "Cooperador",
+      "igreja": "Povoado de Areias"
+    },
+    {
+      "nome": "Gaspar Soares de Oliveira",
+      "cargo": "Cooperador",
+      "igreja": "Setor Oeste"
+    },
+    {
+      "nome": "Hedyone Campos da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Sandra Vilela"
+    },
+    {
+      "nome": "Irom Alves da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Setor Nova Jussara"
+    },
+    {
+      "nome": "Izaque Alves Pereira",
+      "cargo": "Cooperador",
+      "igreja": "Vila Renata"
+    },
+    {
+      "nome": "Jairo José da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Jeroaquara - Santa Rita"
+    },
+    {
+      "nome": "João de Oliveira Rocha",
+      "cargo": "Cooperador",
+      "igreja": "Setor Guanabara"
+    },
+    {
+      "nome": "João Tavares Bento",
+      "cargo": "Cooperador",
+      "igreja": "Setor Sol Nascente"
+    },
+    {
+      "nome": "Jonas Domingues Vieira",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Jorge Fernando da Rocha",
+      "cargo": "Cooperador",
+      "igreja": "Setor São Lourenço"
+    },
+    {
+      "nome": "José de Paula Fernandes",
+      "cargo": "Cooperador",
+      "igreja": "Vila Progresso"
+    },
+    {
+      "nome": "José Martins de Almeida",
+      "cargo": "Cooperador",
+      "igreja": "Vila Lions"
+    },
+    {
+      "nome": "José Raimundo dos Santos",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "José Valdison da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Jardim Vale do Sol"
+    },
+    {
+      "nome": "Lázaro Alves Camargo",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Perilândia"
+    },
+    {
+      "nome": "Lázaro Marcelino de Souza",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Olho D'água de São Benedito"
+    },
+    {
+      "nome": "Lucas Pereira Braga",
+      "cargo": "Cooperador",
+      "igreja": "Jardim Cristina"
+    },
+    {
+      "nome": "Luís César Paula Silva",
+      "cargo": "Cooperador",
+      "igreja": "Setor Água Branca"
+    },
+    {
+      "nome": "Luiz Antônio Garcia dos Reis",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Tiririca"
+    },
+    {
+      "nome": "Maciel Antônio de Oliveira",
+      "cargo": "Cooperador",
+      "igreja": "Vila Vieira"
+    },
+    {
+      "nome": "Macionil Rodrigues da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Fazenda Sobradinho"
+    },
+    {
+      "nome": "Mauricio Paulo Dias",
+      "cargo": "Cooperador",
+      "igreja": "Bosque da Saúde"
+    },
+    {
+      "nome": "Mauro Bispo Damaceno",
+      "cargo": "Cooperador",
+      "igreja": "Goiás"
+    },
+    {
+      "nome": "Milton Benjamin Machado",
+      "cargo": "Cooperador",
+      "igreja": "Setor Xixazão"
+    },
+    {
+      "nome": "Nickson Costa e Silva",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Osmar Bispo Damasceno",
+      "cargo": "Cooperador",
+      "igreja": "Setor Serrinha"
+    },
+    {
+      "nome": "Reis José dos Santos",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Ricardo Alexandre Dias dos Santos",
+      "cargo": "Cooperador",
+      "igreja": "Vila Martins"
+    },
+    {
+      "nome": "Riele Garcia dos Santos",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Roberto Matos da Costa",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Calcilândia"
+    },
+    {
+      "nome": "Rogério de Oliveira Marques",
+      "cargo": "Cooperador",
+      "igreja": "Fazenda Mato Dentro"
+    },
+    {
+      "nome": "Ronaldo Martins Correa Moraes",
+      "cargo": "Cooperador",
+      "igreja": "Povoado Olho D'água de São Benedito"
+    },
+    {
+      "nome": "Ronaldo Ruas Soares",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Sebastião Coutinho Dias da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Fazenda Alto da Serra"
+    },
+    {
+      "nome": "Vagner Garcia dos Reis Filho",
+      "cargo": "Cooperador",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Valdomiro Vieira da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Vila Goiás"
+    },
+    {
+      "nome": "Valtinho Inácio Caetano",
+      "cargo": "Cooperador",
+      "igreja": "Assentamento Santa Marta"
+    },
+    {
+      "nome": "Virmon José da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Distrto Caiçara"
+    },
+    {
+      "nome": "Waldino Ferreira Tavares",
+      "cargo": "Cooperador",
+      "igreja": "Povoado de Mirandópolis"
+    },
+    {
+      "nome": "Washington Avelino Leite",
+      "cargo": "Cooperador",
+      "igreja": "Distrito de Novo Goiás"
+    },
+    {
+      "nome": "Wellington Mateus da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Assentamento Florestan Fernandes"
+    },
+    {
+      "nome": "Welton Marques da Silva",
+      "cargo": "Cooperador",
+      "igreja": "Setor Nova Morzalândia"
+    },
+    {
+      "nome": "Wueriston Oliveira Cabral Santana",
+      "cargo": "Cooperador",
+      "igreja": "Assentamento Escarlete"
+    },
+    {
+      "nome": "Allan Alves Vieira Rocha",
+      "cargo": "Cooperador jovem",
+      "igreja": "Bosque da Saúde"
+    },
+    {
+      "nome": "Daniel Saulo Silva Alves",
+      "cargo": "Cooperador jovem",
+      "igreja": "Vila Comunitária"
+    },
+    {
+      "nome": "Danubio Ribeiro da Silva",
+      "cargo": "Cooperador jovem",
+      "igreja": "Jardim Cristina"
+    },
+    {
+      "nome": "Divino Rodrigues da Silva",
+      "cargo": "Cooperador jovem",
+      "igreja": "Vila Renata"
+    },
+    {
+      "nome": "Fabio Junior Neres Jardim",
+      "cargo": "Cooperador jovem",
+      "igreja": "Povoado Jeroaquara - Santa Rita"
+    },
+    {
+      "nome": "Fernando do Carmo Godinho",
+      "cargo": "Cooperador jovem",
+      "igreja": "São José dos Bandeirantes - Setor Aeroporto"
+    },
+    {
+      "nome": "Hélio Machado dos Santos",
+      "cargo": "Cooperador jovem",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Hellyel Modesto de Souza",
+      "cargo": "Cooperador jovem",
+      "igreja": "Vila Leonor"
+    },
+    {
+      "nome": "Ivan José da Silva",
+      "cargo": "Cooperador jovem",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "João Bispo Damasceno Filho",
+      "cargo": "Cooperador jovem",
+      "igreja": "Setor Serrinha"
+    },
+    {
+      "nome": "José Mario dos Santos Oliveira",
+      "cargo": "Cooperador jovem",
+      "igreja": "Vila Progresso"
+    },
+    {
+      "nome": "José Modesto de Souza",
+      "cargo": "Cooperador jovem",
+      "igreja": "Povoado Santa Rita"
+    },
+    {
+      "nome": "Luiz Augusto Rabelo Silva",
+      "cargo": "Cooperador jovem",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Micael Telles de Sousa",
+      "cargo": "Cooperador jovem",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Nelson Pereira Dourado",
+      "cargo": "Cooperador jovem",
+      "igreja": "Vila Goiás"
+    },
+    {
+      "nome": "Orival Garcia dos Santos Filho",
+      "cargo": "Cooperador jovem",
+      "igreja": "Vila Damiana da Cunha"
+    },
+    {
+      "nome": "Oseias Ferreira Gomes",
+      "cargo": "Cooperador jovem",
+      "igreja": "Distrito Uruita"
+    },
+    {
+      "nome": "Osmar dos Reis Alves da Silva",
+      "cargo": "Cooperador jovem",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Thiago Moreira Santos",
+      "cargo": "Cooperador jovem",
+      "igreja": "Setor Parque Aeroporto"
+    },
+    {
+      "nome": "Valdisney Aparecido Pires de Souza",
+      "cargo": "Cooperador jovem",
+      "igreja": "Vila Vieira"
+    },
+    {
+      "nome": "Valter Dutra Neves",
+      "cargo": "Cooperador jovem",
+      "igreja": "Centro"
+    },
+    {
+      "nome": "Wylber Cedro de Oliveira",
+      "cargo": "Cooperador jovem",
+      "igreja": "Setor Central"
+    }
+  ],
+  "locais": [
+    "Assentamento Escarlete",
+    "Assentamento Florestan Fernandes",
+    "Assentamento Santa Marta",
+    "Bosque da Saúde",
+    "Centro",
+    "Distrito de Novo Goiás",
+    "Distrito Lua Nova",
+    "Distrito Uruita",
+    "Distrto Caiçara",
+    "Fazenda Alto da Serra",
+    "Fazenda Mato Dentro",
+    "Fazenda Sobradinho",
+    "Goiás",
+    "Jardim Cristina",
+    "Jardim Vale do Sol",
+    "Povoado Calcilândia",
+    "Povoado Colônia de Uvá",
+    "Povoado de Areias",
+    "Povoado de Mirandópolis",
+    "Povoado Jeroaquara - Santa Rita",
+    "Povoado Olho D'água de São Benedito",
+    "Povoado Perilândia",
+    "Povoado Santa Rita",
+    "Povoado Tiririca",
+    "Sandra Vilela",
+    "São José dos Bandeirantes - Setor Aeroporto",
+    "Setor Água Branca",
+    "Setor Central",
+    "Setor Guanabara",
+    "Setor Industrial",
+    "Setor Morada do Sol",
+    "Setor Nova Jussara",
+    "Setor Nova Morzalândia",
+    "Setor Oeste",
+    "Setor Parque Aeroporto",
+    "Setor Planalto",
+    "Setor Raimundo Martins da Silva",
+    "Setor São Lourenço",
+    "Setor Serrinha",
+    "Setor Sol Nascente",
+    "Setor Xixazão",
+    "Vila Comunitária",
+    "Vila Damiana da Cunha",
+    "Vila Goiás",
+    "Vila Leonor",
+    "Vila Lions",
+    "Vila Martins",
+    "Vila Progresso",
+    "Vila Renata",
+    "Vila Vieira"
+  ]
+}
